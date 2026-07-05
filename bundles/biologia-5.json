@@ -1,0 +1,117 @@
+{
+  "id": "biologia-5",
+  "title": "Biologia - klasa 5",
+  "version": 1,
+  "contentHash": "067c7b0db92ab490d0bee9df4f03267474a9acfaac528313d199170c90b49762",
+  "bookConfig": {
+    "id": "biologia-5",
+    "title": "Biologia - klasa 5",
+    "icon": "🧬",
+    "subtitle": "Ćwiczenia do nauki biologii",
+    "pageTitle": "Biologia - klasa 5"
+  },
+  "chapters": [
+    {
+      "id": "R01",
+      "number": 1,
+      "title": "Biologia jako nauka (paczka testowa)",
+      "icon": "🔬",
+      "sectionOrder": [
+        "Czym jest biologia"
+      ],
+      "sectionIcons": {
+        "Czym jest biologia": "🔬"
+      },
+      "exercises": [
+        {
+          "id": "B5_R01_BIO_01",
+          "section": "Czym jest biologia",
+          "type": "single_choice",
+          "prompt": "Czym zajmuje się biologia?",
+          "options": [
+            "Badaniem organizmów żywych",
+            "Badaniem skał",
+            "Badaniem gwiazd",
+            "Badaniem liczb"
+          ],
+          "answer": 0,
+          "explanation": "Biologia to nauka o organizmach żywych.",
+          "image": "b5_test_lupa.png"
+        },
+        {
+          "id": "B5_R01_BIO_02",
+          "section": "Czym jest biologia",
+          "type": "true_false",
+          "prompt": "Mikroskop służy do oglądania obiektów niewidocznych gołym okiem.",
+          "options": null,
+          "answer": true,
+          "explanation": "Mikroskop powiększa obraz bardzo małych obiektów."
+        },
+        {
+          "id": "B5_R01_BIO_03",
+          "section": "Czym jest biologia",
+          "type": "fill_in",
+          "prompt": "Podstawową jednostką budowy organizmów jest __________.",
+          "options": null,
+          "answer": [
+            "komórka"
+          ],
+          "explanation": "Wszystkie organizmy zbudowane są z komórek."
+        },
+        {
+          "id": "B5_R01_BIO_04",
+          "section": "Czym jest biologia",
+          "type": "odd_one_out",
+          "prompt": "Wskaż wyraz, który nie pasuje: pies, kot, kamień, dąb.",
+          "options": null,
+          "answer": "kamień",
+          "explanation": "Kamień nie jest organizmem żywym."
+        },
+        {
+          "id": "B5_R01_BIO_05",
+          "section": "Czym jest biologia",
+          "type": "multi_select",
+          "prompt": "Zaznacz czynności życiowe organizmów.",
+          "options": [
+            "Oddychanie",
+            "Odżywianie",
+            "Topnienie",
+            "Rozmnażanie"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
+          "explanation": "Topnienie to zjawisko fizyczne, nie czynność życiowa."
+        },
+        {
+          "id": "B5_R01_BIO_06",
+          "section": "Czym jest biologia",
+          "type": "sequence",
+          "prompt": "Ułóż etapy obserwacji mikroskopowej we właściwej kolejności.",
+          "options": null,
+          "items": [
+            "Ustawienie ostrości",
+            "Przygotowanie preparatu",
+            "Obserwacja obrazu",
+            "Umieszczenie preparatu na stoliku"
+          ],
+          "answer": [
+            "Przygotowanie preparatu",
+            "Umieszczenie preparatu na stoliku",
+            "Ustawienie ostrości",
+            "Obserwacja obrazu"
+          ],
+          "explanation": "Najpierw preparat, potem stolik, ostrość i obserwacja."
+        }
+      ],
+      "kidPrompts": {
+        "B5_R01_BIO_01": "Rozejrzyj się: co żywego widzisz w pokoju?"
+      }
+    }
+  ],
+  "images": [
+    "b5_test_lupa.png"
+  ]
+}

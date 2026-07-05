@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "levels": [
+    {
+      "id": "sp5",
+      "label": "Klasa 5",
+      "stage": "sp",
+      "grade": 5
+    },
+    {
+      "id": "sp6",
+      "label": "Klasa 6",
+      "stage": "sp",
+      "grade": 6
+    },
+    {
+      "id": "sp7",
+      "label": "Klasa 7",
+      "stage": "sp",
+      "grade": 7
+    },
+    {
+      "id": "sp8",
+      "label": "Klasa 8",
+      "stage": "sp",
+      "grade": 8
+    },
+    {
+      "id": "lo1",
+      "label": "Klasa 1",
+      "stage": "lo",
+      "grade": 1
+    },
+    {
+      "id": "lo2",
+      "label": "Klasa 2",
+      "stage": "lo",
+      "grade": 2
+    },
+    {
+      "id": "lo3",
+      "label": "Klasa 3",
+      "stage": "lo",
+      "grade": 3
+    },
+    {
+      "id": "lo4",
+      "label": "Klasa 4",
+      "stage": "lo",
+      "grade": 4
+    }
+  ],
+  "subjects": [
+    {
+      "id": "historia",
+      "label": "Historia",
+      "icon": "📜"
+    },
+    {
+      "id": "biologia",
+      "label": "Biologia",
+      "icon": "🧬"
+    },
+    {
+      "id": "repetytorium",
+      "label": "Repetytorium",
+      "icon": "🎯",
+      "special": true
+    }
+  ],
+  "companions": [
+    {
+      "id": "historia-5",
+      "levelId": "sp5",
+      "subjectId": "historia",
+      "title": "Historia - klasa 5",
+      "publisher": "Przykładowe Wydawnictwo",
+      "cover": "img/historia-5/cover.png",
+      "chapterCount": 8,
+      "bundleUrl": "bundles/historia-5.json",
+      "bundleVersion": 3,
+      "bundleHash": "d4918f8a06e4526484c010d07d8af0f4f928d9e38e480eeda72db2495f37da99",
+      "entitlementId": "companion_historia_5",
+      "offeringId": "companion_historia_5",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "biologia-5",
+      "levelId": "sp5",
+      "subjectId": "biologia",
+      "title": "Biologia - klasa 5",
+      "publisher": "Przykładowe Wydawnictwo",
+      "cover": "img/biologia-5/cover.png",
+      "chapterCount": 1,
+      "bundleUrl": "bundles/biologia-5.json",
+      "bundleVersion": 1,
+      "bundleHash": "067c7b0db92ab490d0bee9df4f03267474a9acfaac528313d199170c90b49762",
+      "entitlementId": "companion_biologia_5",
+      "offeringId": "companion_biologia_5",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "repetytorium-historia-8",
+      "levelId": "sp8",
+      "subjectId": "repetytorium",
+      "title": "Repetytorium ósmoklasisty - historia",
+      "publisher": "Przykładowe Wydawnictwo",
+      "cover": "img/repetytorium-historia-8/cover.png",
+      "chapterCount": 12,
+      "bundleUrl": "bundles/repetytorium-historia-8.json",
+      "bundleVersion": 1,
+      "bundleHash": "",
+      "entitlementId": "companion_repetytorium_historia_8",
+      "offeringId": "companion_repetytorium_historia_8",
+      "freeFirstChapter": false
+    }
+  ]
+}
