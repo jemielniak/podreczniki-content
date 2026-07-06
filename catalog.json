@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "levels": [
     {
       "id": "sp5",
@@ -108,10 +108,10 @@
       "title": "Biologia bez tajemnic 5 klasa",
       "publisher": "",
       "cover": "img/biologia-bez-tajemnic-5-klasa/cover.png",
-      "chapterCount": 4,
+      "chapterCount": 5,
       "bundleUrl": "bundles/biologia-bez-tajemnic-5-klasa.json",
-      "bundleVersion": 1,
-      "bundleHash": "7c89d29a2a08d29e888a42813566a76d5ac8ff8c29950397d1062d5889307180",
+      "bundleVersion": 2,
+      "bundleHash": "2d868f7bac7cc8e22c93262ad5a1f32a332cba75359300dce7981f08a4d37388",
       "entitlementId": "companion_biologia_bez_tajemnic_5_klasa",
       "offeringId": "companion_biologia_bez_tajemnic_5_klasa",
       "freeFirstChapter": true,
