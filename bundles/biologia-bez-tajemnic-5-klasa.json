@@ -1,0 +1,4870 @@
+{
+  "id": "biologia-bez-tajemnic-5-klasa",
+  "title": "Biologia bez tajemnic 5 klasa",
+  "version": 1,
+  "contentHash": "7c89d29a2a08d29e888a42813566a76d5ac8ff8c29950397d1062d5889307180",
+  "bookConfig": {
+    "id": "biologia-bez-tajemnic-5-klasa",
+    "title": "Biologia bez tajemnic 5 klasa",
+    "icon": "🧬",
+    "subtitle": "Ćwiczenia i powtórki",
+    "pageTitle": "Biologia bez tajemnic 5 klasa"
+  },
+  "chapters": [
+    {
+      "id": "bbt_r01",
+      "number": 1,
+      "title": "Poznajemy biologię",
+      "icon": "🔬",
+      "sectionOrder": [
+        "Czy biologia jest nauką?",
+        "Na czym polega metoda naukowa?",
+        "Co można zaobserwować pod mikroskopem?"
+      ],
+      "sectionIcons": {
+        "Czy biologia jest nauką?": "🌿",
+        "Na czym polega metoda naukowa?": "🧪",
+        "Co można zaobserwować pod mikroskopem?": "🔍"
+      },
+      "exercises": [
+        {
+          "id": "BBT_R01_CN_01",
+          "section": "Czy biologia jest nauką?",
+          "type": "single_choice",
+          "prompt": "Czym zajmuje się biologia?",
+          "options": [
+            "Życiem organizmów",
+            "Tylko pogodą",
+            "Tylko liczbami",
+            "Tylko planetami"
+          ],
+          "answer": 0,
+          "explanation": "Biologia to nauka o życiu i organizmach."
+        },
+        {
+          "id": "BBT_R01_CN_02",
+          "section": "Czy biologia jest nauką?",
+          "type": "true_false",
+          "prompt": "Biologia należy do nauk przyrodniczych.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. W rozdziale biologia jest wymieniona jako jedna z nauk przyrodniczych."
+        },
+        {
+          "id": "BBT_R01_CN_03",
+          "section": "Czy biologia jest nauką?",
+          "type": "multi_select",
+          "prompt": "Zaznacz tylko nauki przyrodnicze pokazane w rozdziale.",
+          "options": [
+            "Biologia",
+            "Geografia",
+            "Historia",
+            "Astronomia",
+            "Chemia",
+            "Fizyka"
+          ],
+          "answer": [
+            0,
+            1,
+            3,
+            4,
+            5
+          ],
+          "explanation": "Do nauk przyrodniczych w rozdziale należą biologia, geografia, astronomia, chemia i fizyka. Historia do nich nie należy.",
+          "image": "bbt_r01_dzialy_biologii.jpg"
+        },
+        {
+          "id": "BBT_R01_CN_04",
+          "section": "Czy biologia jest nauką?",
+          "type": "single_choice",
+          "prompt": "Który dział biologii bada zwierzęta?",
+          "options": [
+            "Botanika",
+            "Zoologia",
+            "Mykologia",
+            "Ekologia"
+          ],
+          "answer": 1,
+          "explanation": "Zoologia to nauka o zwierzętach."
+        },
+        {
+          "id": "BBT_R01_CN_05",
+          "section": "Czy biologia jest nauką?",
+          "type": "single_choice",
+          "prompt": "Który dział biologii bada grzyby?",
+          "options": [
+            "Mykologia",
+            "Genetyka",
+            "Anatomia",
+            "Fizjologia"
+          ],
+          "answer": 0,
+          "explanation": "Mykologia zajmuje się grzybami."
+        },
+        {
+          "id": "BBT_R01_CN_06",
+          "section": "Czy biologia jest nauką?",
+          "type": "single_choice",
+          "prompt": "Który dział biologii bada zależności między organizmami a środowiskiem?",
+          "options": [
+            "Ekologia",
+            "Systematyka",
+            "Biochemia",
+            "Zoologia"
+          ],
+          "answer": 0,
+          "explanation": "Ekologia bada zależności między organizmami i środowiskiem."
+        },
+        {
+          "id": "BBT_R01_CN_07",
+          "section": "Czy biologia jest nauką?",
+          "type": "match",
+          "prompt": "Połącz dział biologii z tym, co bada.",
+          "options": null,
+          "left": [
+            "botanika",
+            "mikrobiologia",
+            "anatomia"
+          ],
+          "right": [
+            "rośliny",
+            "mikroorganizmy",
+            "budowę wewnętrzną organizmów"
+          ],
+          "answer": {
+            "botanika": "rośliny",
+            "mikrobiologia": "mikroorganizmy",
+            "anatomia": "budowę wewnętrzną organizmów"
+          },
+          "explanation": "Botanika bada rośliny, mikrobiologia mikroorganizmy, a anatomia budowę wewnętrzną organizmów."
+        },
+        {
+          "id": "BBT_R01_CN_08",
+          "section": "Czy biologia jest nauką?",
+          "type": "multi_select",
+          "prompt": "Jak według rozdziału poznajemy świat?",
+          "options": [
+            "Za pomocą zmysłów",
+            "Dzięki rozmowie i czytaniu",
+            "Przez zgadywanie",
+            "Przez wymianę informacji z innymi"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
+          "explanation": "Rozdział podaje dwa główne sposoby: zmysły oraz wymianę informacji z innymi ludźmi, na przykład przez rozmowę lub czytanie.",
+          "image": "bbt_r01_sposoby_poznawania_swiata.jpg"
+        },
+        {
+          "id": "BBT_R01_CN_09",
+          "section": "Czy biologia jest nauką?",
+          "type": "match",
+          "prompt": "Połącz zmysł z odpowiednim przykładem.",
+          "options": null,
+          "left": [
+            "wzrok",
+            "słuch",
+            "węch"
+          ],
+          "right": [
+            "widzenie liścia",
+            "usłyszenie śpiewu ptaka",
+            "wyczucie zapachu kwiatu"
+          ],
+          "answer": {
+            "wzrok": "widzenie liścia",
+            "słuch": "usłyszenie śpiewu ptaka",
+            "węch": "wyczucie zapachu kwiatu"
+          },
+          "explanation": "Zmysły pomagają zbierać informacje o świecie."
+        },
+        {
+          "id": "BBT_R01_CN_10",
+          "section": "Czy biologia jest nauką?",
+          "type": "single_choice",
+          "prompt": "Dlaczego wiedza naukowa jest zwykle pewniejsza od potocznej?",
+          "options": [
+            "Bo opiera się na metodzie naukowej i zasadach badań",
+            "Bo jest zawsze starsza",
+            "Bo powstaje tylko w internecie",
+            "Bo nie używa przyrządów"
+          ],
+          "answer": 0,
+          "explanation": "Wiedza naukowa korzysta z metody naukowej, obserwacji, doświadczeń i przyrządów badawczych.",
+          "image": "bbt_r01_wiedza_potoczna_i_naukowa.jpg"
+        },
+        {
+          "id": "BBT_R01_CN_11",
+          "section": "Czy biologia jest nauką?",
+          "type": "true_false",
+          "prompt": "Zmysły czasem mogą nas mylić.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Rozdział podaje przykład złudzeń optycznych."
+        },
+        {
+          "id": "BBT_R01_CN_12",
+          "section": "Czy biologia jest nauką?",
+          "type": "single_choice",
+          "prompt": "Co najlepiej zrobić, gdy dwa źródła podają różne informacje o tym samym zjawisku?",
+          "options": [
+            "Porównać kilka źródeł i sprawdzić fakty oraz argumenty",
+            "Wybrać pierwsze lepsze źródło",
+            "Uwierzć tylko najstarszej książce",
+            "Zrezygnować z szukania odpowiedzi"
+          ],
+          "answer": 0,
+          "explanation": "W rozdziale podano, że najlepiej korzystać z kilku źródeł wiedzy i porównywać fakty oraz argumenty."
+        },
+        {
+          "id": "BBT_R01_CN_13",
+          "section": "Czy biologia jest nauką?",
+          "type": "single_choice",
+          "prompt": "Dlaczego w nowszych źródłach mogą pojawiać się inne ustalenia niż w starszych?",
+          "options": [
+            "Bo nauka stale się rozwija",
+            "Bo młodsze książki są krótsze",
+            "Bo autorzy zgadują",
+            "Bo przyroda się nie zmienia"
+          ],
+          "answer": 0,
+          "explanation": "Nowe obserwacje, doświadczenia i lepsze przyrządy pozwalają odkrywać nowe fakty."
+        },
+        {
+          "id": "BBT_R01_CN_14",
+          "section": "Czy biologia jest nauką?",
+          "type": "single_choice",
+          "prompt": "Który przyrząd pozwala zobaczyć obiekty niewidoczne gołym okiem?",
+          "options": [
+            "Lupa",
+            "Mikroskop",
+            "Lornetka",
+            "Taśma miernicza"
+          ],
+          "answer": 1,
+          "explanation": "Mikroskop pozwala oglądać bardzo małe obiekty niewidoczne gołym okiem.",
+          "image": "bbt_r01_przyrzady_podstawowe.jpg"
+        },
+        {
+          "id": "BBT_R01_CN_15",
+          "section": "Czy biologia jest nauką?",
+          "type": "single_choice",
+          "prompt": "Którego przyrządu użyjesz, żeby obserwować zwierzę z daleka?",
+          "options": [
+            "Lornetki",
+            "Pipety",
+            "Zakraplacza",
+            "Szkiełka nakrywkowego"
+          ],
+          "answer": 0,
+          "explanation": "Lornetka ułatwia obserwację z daleka."
+        },
+        {
+          "id": "BBT_R01_CN_16",
+          "section": "Czy biologia jest nauką?",
+          "type": "single_choice",
+          "prompt": "Co robi fotopułapka?",
+          "options": [
+            "Wykrywa ruch i robi zdjęcia dzikich zwierząt",
+            "Mierzy długość liścia",
+            "Miesza próbki wody",
+            "Liczy gwiazdy"
+          ],
+          "answer": 0,
+          "explanation": "Fotopułapka wykrywa ruch i automatycznie robi zdjęcia dzikich zwierząt.",
+          "image": "bbt_r01_przyrzady_specjalistyczne.jpg"
+        },
+        {
+          "id": "BBT_R01_CN_17",
+          "section": "Czy biologia jest nauką?",
+          "type": "true_false",
+          "prompt": "Siatka entomologiczna służy do łapania owadów bez wyrządzania im krzywdy.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Tak opisano ją w rozdziale."
+        },
+        {
+          "id": "BBT_R01_MN_01",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "single_choice",
+          "prompt": "Czym jest obserwacja?",
+          "options": [
+            "Uważnym przyglądaniem się bez zmieniania warunków",
+            "Specjalnym rodzajem siatki",
+            "Tylko zapisywaniem wyników",
+            "Mieszaniem różnych substancji"
+          ],
+          "answer": 0,
+          "explanation": "Obserwacja polega na przyglądaniu się organizmom albo procesom bez zmieniania warunków.",
+          "image": "bbt_r01_obserwacja_i_doswiadczenie.jpg"
+        },
+        {
+          "id": "BBT_R01_MN_02",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "true_false",
+          "prompt": "Podczas doświadczenia celowo zmieniamy jeden czynnik.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Tak właśnie odróżnia się doświadczenie od obserwacji."
+        },
+        {
+          "id": "BBT_R01_MN_03",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "multi_select",
+          "prompt": "Co według rozdziału można obserwować?",
+          "options": [
+            "Zwierzęta",
+            "Rośliny",
+            "Kiełkowanie nasion",
+            "Rozwój roślin",
+            "Tylko liczby"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Obserwować można organizmy i procesy, na przykład zwierzęta, rośliny, kiełkowanie nasion czy rozwój roślin."
+        },
+        {
+          "id": "BBT_R01_MN_04",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "single_choice",
+          "prompt": "W jakim miejscu według przykładu można obserwować ssaki lub ptaki?",
+          "options": [
+            "W parku albo w lesie",
+            "Tylko w klasie",
+            "Tylko w laboratorium",
+            "Tylko w muzeum"
+          ],
+          "answer": 0,
+          "explanation": "W przykładzie obserwację ssaków lub ptaków można przeprowadzić w dużym miejskim parku albo w lesie."
+        },
+        {
+          "id": "BBT_R01_MN_05",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "single_choice",
+          "prompt": "Czym jest problem badawczy?",
+          "options": [
+            "Pytaniem, na które chcemy znaleźć odpowiedź",
+            "Gotowym wynikiem doświadczenia",
+            "Nazwą przyrządu",
+            "Rysunkiem z obserwacji"
+          ],
+          "answer": 0,
+          "explanation": "Problem badawczy to pytanie, na które badacz chce znaleźć odpowiedź."
+        },
+        {
+          "id": "BBT_R01_MN_06",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "single_choice",
+          "prompt": "Czym jest hipoteza?",
+          "options": [
+            "Przewidywaną odpowiedzią na problem badawczy",
+            "Nazwą tabeli",
+            "Próbą kontrolną",
+            "Szkiełkiem nakrywkowym"
+          ],
+          "answer": 0,
+          "explanation": "Hipoteza to przypuszczalna odpowiedź na pytanie badawcze."
+        },
+        {
+          "id": "BBT_R01_MN_07",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "single_choice",
+          "prompt": "W którym zestawie zmieniamy jeden czynnik?",
+          "options": [
+            "W próbie badawczej",
+            "W próbie kontrolnej",
+            "W obu tak samo",
+            "W żadnym"
+          ],
+          "answer": 0,
+          "explanation": "W próbie badawczej zmienia się jeden czynnik, który chcemy sprawdzić.",
+          "image": "bbt_r01_proba_badawcza_i_kontrolna.jpg"
+        },
+        {
+          "id": "BBT_R01_MN_08",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "single_choice",
+          "prompt": "Do czego służy próba kontrolna?",
+          "options": [
+            "Do porównania wyników",
+            "Do ozdabiania notatek",
+            "Do mierzenia temperatury",
+            "Do łapania owadów"
+          ],
+          "answer": 0,
+          "explanation": "Próba kontrolna służy do porównania wyników z próbą badawczą."
+        },
+        {
+          "id": "BBT_R01_MN_09",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "true_false",
+          "prompt": "Próba badawcza i kontrolna powinny różnić się tylko jednym czynnikiem.",
+          "options": null,
+          "answer": true,
+          "explanation": "Tak. Dzięki temu wiadomo, co naprawdę wpłynęło na wynik."
+        },
+        {
+          "id": "BBT_R01_MN_10",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "single_choice",
+          "prompt": "Ile razy co najmniej należy powtórzyć doświadczenie, aby wyniki były wiarygodne?",
+          "options": [
+            "1 raz",
+            "2 razy",
+            "3 razy",
+            "10 razy"
+          ],
+          "answer": 2,
+          "explanation": "W rozdziale podano, że doświadczenie należy wykonać minimum trzy razy."
+        },
+        {
+          "id": "BBT_R01_MN_11",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "sequence",
+          "prompt": "Ułóż główne etapy metody naukowej w dobrej kolejności.",
+          "options": null,
+          "items": [
+            "wniosek",
+            "problem badawczy",
+            "obserwacja",
+            "hipoteza",
+            "doświadczenie",
+            "wynik"
+          ],
+          "answer": [
+            "obserwacja",
+            "problem badawczy",
+            "hipoteza",
+            "doświadczenie",
+            "wynik",
+            "wniosek"
+          ],
+          "explanation": "Najpierw coś obserwujemy, potem stawiamy pytanie, hipotezę, robimy doświadczenie, zapisujemy wynik i wyciągamy wniosek.",
+          "image": "bbt_r01_etapy_metody_naukowej.jpg"
+        },
+        {
+          "id": "BBT_R01_MN_12",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "scenario",
+          "prompt": "W doświadczeniu z dżdżownicami do jednego pojemnika dodano dżdżownice, a do drugiego nie. Który pojemnik był próbą kontrolną?",
+          "options": [
+            "Ten bez dżdżownic",
+            "Ten z dżdżownicami",
+            "Oba były badawcze",
+            "Nie da się powiedzieć"
+          ],
+          "answer": 0,
+          "explanation": "Próba kontrolna to zestaw, w którym nie zmieniono badanego czynnika. Tu nie dodano do niej dżdżownic."
+        },
+        {
+          "id": "BBT_R01_MN_13",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "scenario",
+          "prompt": "W doświadczeniu z cebulą okazało się, że jasny kolor liści powodował brak światła. Co było sprawdzanym czynnikiem?",
+          "options": [
+            "Dostęp do światła",
+            "Kolor cebuli",
+            "Wielkość doniczki",
+            "Rodzaj zeszytu"
+          ],
+          "answer": 0,
+          "explanation": "W drugim doświadczeniu porównano cebulę rosnącą w ciemności i przy świetle, więc sprawdzano wpływ światła."
+        },
+        {
+          "id": "BBT_R01_MN_14",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "true_false",
+          "prompt": "Gdy hipoteza nie potwierdzi się, można postawić nową i zaplanować kolejne doświadczenie.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Taki właśnie jest dalszy krok w metodzie naukowej."
+        },
+        {
+          "id": "BBT_R01_MN_15",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "multi_select",
+          "prompt": "W jaki sposób można dokumentować obserwacje i doświadczenia?",
+          "options": [
+            "Notatką",
+            "Zdjęciem",
+            "Rysunkiem",
+            "Tabelą",
+            "Wykresem",
+            "Plotką"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "explanation": "Rozdział wymienia notatki, zdjęcia, rysunki, tabele i wykresy. Plotka nie jest dokumentacją badań.",
+          "image": "bbt_r01_dokumentowanie_badan.jpg"
+        },
+        {
+          "id": "BBT_R01_MN_16",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "single_choice",
+          "prompt": "Po co zapisujemy wyniki badań?",
+          "options": [
+            "Żeby niczego nie pomylić i móc porównać wyniki",
+            "Tylko po to, żeby ładnie wyglądało",
+            "Żeby skrócić doświadczenie",
+            "Nie trzeba ich zapisywać"
+          ],
+          "answer": 0,
+          "explanation": "Notatki i inne zapisy pomagają pamiętać wyniki i je porównywać."
+        },
+        {
+          "id": "BBT_R01_MN_17",
+          "section": "Na czym polega metoda naukowa?",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: notatka, tabela, wykres, poduszka.",
+          "options": null,
+          "answer": "poduszka",
+          "explanation": "Notatka, tabela i wykres to sposoby dokumentowania wyników badań. Poduszka do tego nie służy.",
+          "image": "bbt_r01_dokumentowanie_badan.jpg"
+        },
+        {
+          "id": "BBT_R01_MM_01",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "single_choice",
+          "prompt": "Do czego służy mikroskop optyczny?",
+          "options": [
+            "Do obserwowania bardzo małych obiektów",
+            "Do mierzenia czasu",
+            "Do łapania owadów",
+            "Do słuchania dźwięków"
+          ],
+          "answer": 0,
+          "explanation": "Mikroskop optyczny służy do obserwacji bardzo małych obiektów niewidocznych gołym okiem."
+        },
+        {
+          "id": "BBT_R01_MM_02",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "match",
+          "prompt": "Połącz część mikroskopu z jej zadaniem.",
+          "options": null,
+          "left": [
+            "okular",
+            "rewolwer",
+            "stolik"
+          ],
+          "right": [
+            "powiększa obraz wytworzony przez obiektyw",
+            "zmienia obiektyw i powiększenie",
+            "jest miejscem na preparat"
+          ],
+          "answer": {
+            "okular": "powiększa obraz wytworzony przez obiektyw",
+            "rewolwer": "zmienia obiektyw i powiększenie",
+            "stolik": "jest miejscem na preparat"
+          },
+          "explanation": "Każda część mikroskopu ma własne zadanie.",
+          "image": "bbt_r01_budowa_mikroskopu.jpg"
+        },
+        {
+          "id": "BBT_R01_MM_03",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "single_choice",
+          "prompt": "Która śruba służy do precyzyjnego ustawiania ostrości?",
+          "options": [
+            "Makrometryczna",
+            "Mikrometryczna",
+            "Rewolwer",
+            "Tubus"
+          ],
+          "answer": 1,
+          "explanation": "Śruba mikrometryczna służy do dokładnego ustawiania ostrości obrazu.",
+          "image": "bbt_r01_budowa_mikroskopu.jpg"
+        },
+        {
+          "id": "BBT_R01_MM_04",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "single_choice",
+          "prompt": "Która część mikroskopu oświetla preparat?",
+          "options": [
+            "Źródło światła",
+            "Tubus",
+            "Statyw",
+            "Okular"
+          ],
+          "answer": 0,
+          "explanation": "Źródło światła umożliwia oświetlenie preparatu."
+        },
+        {
+          "id": "BBT_R01_MM_05",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "single_choice",
+          "prompt": "Od jakiego powiększenia zaczynamy obserwację pod mikroskopem?",
+          "options": [
+            "Od największego",
+            "Od najmniejszego",
+            "Zawsze od średniego",
+            "Nie ma to znaczenia"
+          ],
+          "answer": 1,
+          "explanation": "Na początku ustawia się najmniejsze powiększenie, a dopiero potem można je zwiększać."
+        },
+        {
+          "id": "BBT_R01_MM_06",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "true_false",
+          "prompt": "Po ustawieniu ostrości można zmienić obiektyw, żeby zwiększyć powiększenie.",
+          "options": null,
+          "answer": true,
+          "explanation": "Tak. Rozdział mówi, że po obejrzeniu preparatu można zwiększyć powiększenie."
+        },
+        {
+          "id": "BBT_R01_MM_07",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: obiekty obserwowane pod mikroskopem kładziemy na __________, a potem przykrywamy __________.",
+          "options": null,
+          "answer": [
+            "szkiełku podstawowym",
+            "szkiełkiem nakrywkowym"
+          ],
+          "altAnswers": [
+            [
+              "szkiełku podstawowym",
+              "szkiełko podstawowe",
+              "szkiełku",
+              "szkiełko"
+            ],
+            [
+              "szkiełkiem nakrywkowym",
+              "szkiełko nakrywkowe",
+              "szkiełkiem",
+              "nakrywką"
+            ]
+          ],
+          "explanation": "Preparat robi się na szkiełku podstawowym, a potem przykrywa szkiełkiem nakrywkowym."
+        },
+        {
+          "id": "BBT_R01_MM_08",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "sequence",
+          "prompt": "Ułóż kroki przygotowania preparatu ze skórki cebuli.",
+          "options": null,
+          "items": [
+            "przykryj skórkę szkiełkiem nakrywkowym",
+            "umieść kroplę wody na szkiełku",
+            "połóż skórkę cebuli w kropli wody",
+            "ściągnij cienką skórkę z liścia cebuli"
+          ],
+          "answer": [
+            "umieść kroplę wody na szkiełku",
+            "ściągnij cienką skórkę z liścia cebuli",
+            "połóż skórkę cebuli w kropli wody",
+            "przykryj skórkę szkiełkiem nakrywkowym"
+          ],
+          "explanation": "Najpierw daje się kroplę wody, potem pobiera skórkę, umieszcza ją w kropli i przykrywa szkiełkiem.",
+          "image": "bbt_r01_preparat_cebuli_kroki.jpg"
+        },
+        {
+          "id": "BBT_R01_MM_09",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "single_choice",
+          "prompt": "Co najpierw nanosimy na czyste szkiełko podstawowe podczas robienia preparatu z cebuli?",
+          "options": [
+            "Kroplę wody",
+            "Kredę",
+            "Piasek",
+            "Liść w całości"
+          ],
+          "answer": 0,
+          "explanation": "Przy wykonywaniu preparatu najpierw umieszcza się kroplę wody na szkiełku."
+        },
+        {
+          "id": "BBT_R01_MM_10",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "single_choice",
+          "prompt": "Po co do kropli wody z organizmami dodaje się mały kłaczek waty?",
+          "options": [
+            "Żeby zmniejszyć ruchliwość organizmów",
+            "Żeby zwiększyć temperaturę",
+            "Żeby zabarwić wodę",
+            "Żeby wysuszyć preparat"
+          ],
+          "answer": 0,
+          "explanation": "Wata pomaga spowolnić ruch organizmów, dzięki czemu łatwiej je obserwować."
+        },
+        {
+          "id": "BBT_R01_MM_11",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "single_choice",
+          "prompt": "Co widać w preparacie ze skórki liścia cebuli?",
+          "options": [
+            "Komórki",
+            "Kości",
+            "Pióra",
+            "Nasiona"
+          ],
+          "answer": 0,
+          "explanation": "Pod mikroskopem w preparacie ze skórki cebuli obserwuje się komórki.",
+          "image": "bbt_r01_komorki_skorki_cebuli.jpg"
+        },
+        {
+          "id": "BBT_R01_MM_12",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "single_choice",
+          "prompt": "Jakie organizmy można zobaczyć w kropli wody ze stawu lub jeziora?",
+          "options": [
+            "Drobne organizmy, na przykład pantofelki",
+            "Tylko drzewa",
+            "Tylko kamienie",
+            "Tylko chmury"
+          ],
+          "answer": 0,
+          "explanation": "W kropli wody można znaleźć i obserwować drobne organizmy, na przykład pantofelki.",
+          "image": "bbt_r01_organizmy_w_kropli_wody.jpg"
+        },
+        {
+          "id": "BBT_R01_MM_13",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "single_choice",
+          "prompt": "Co robimy z pozostałą wodą po obserwacji organizmów z kropli wody?",
+          "options": [
+            "Wylewamy ją do zbiornika, z którego pochodziła",
+            "Wyrzucamy do kosza",
+            "Wlewamy do szuflady",
+            "Zostawiamy na podłodze"
+          ],
+          "answer": 0,
+          "explanation": "W rozdziale zalecono wylać pozostałą wodę do zbiornika, z którego została pobrana."
+        },
+        {
+          "id": "BBT_R01_MM_14",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "single_choice",
+          "prompt": "Jak nazywa się uczony, który ulepszył mikroskop i uzyskał powiększenie 270 razy?",
+          "options": [
+            "Jean Baptiste Lamarck",
+            "Antoni van Leeuwenhoek",
+            "Mikołaj Kopernik",
+            "Karol Darwin"
+          ],
+          "answer": 1,
+          "explanation": "Takim uczonym był Antoni van Leeuwenhoek."
+        },
+        {
+          "id": "BBT_R01_MM_15",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "true_false",
+          "prompt": "Pierwsze mikroskopy w postaci soczewek wynaleziono w Holandii.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Taka informacja znajduje się w rozdziale."
+        },
+        {
+          "id": "BBT_R01_MM_16",
+          "section": "Co można zaobserwować pod mikroskopem?",
+          "type": "single_choice",
+          "prompt": "Kto po raz pierwszy użył terminu „biologia”?",
+          "options": [
+            "Antoni van Leeuwenhoek",
+            "Jean Baptiste Lamarck",
+            "Arystoteles",
+            "Mendel"
+          ],
+          "answer": 1,
+          "explanation": "W rozdziale podano, że terminu „biologia” po raz pierwszy użył Jean Baptiste Lamarck w 1802 roku."
+        },
+        {
+          "id": "BBT_R01_ST_01",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Które zdanie najlepiej opisuje wiedzę potoczną?",
+          "options": [
+            "Może prowadzić do błędnych wniosków",
+            "Nigdy się nie myli",
+            "Powstaje tylko w laboratorium",
+            "Nie korzysta ze zmysłów"
+          ],
+          "answer": 0,
+          "explanation": "Wiedza potoczna bywa przydatna, ale może też prowadzić do błędnych wniosków."
+        },
+        {
+          "id": "BBT_R01_ST_02",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: biologia to nauka o __________, a jej nazwa pochodzi od słów bios - __________ i logos - __________.",
+          "options": null,
+          "answer": [
+            "życiu",
+            "życie",
+            "słowo"
+          ],
+          "altAnswers": [
+            [
+              "życiu",
+              "życie"
+            ],
+            [
+              "życie",
+              "życiu"
+            ],
+            [
+              "słowo",
+              "słowie"
+            ]
+          ],
+          "explanation": "Biologia to nauka o życiu. Jej nazwa pochodzi od greckich słów bios - życie i logos - słowo."
+        },
+        {
+          "id": "BBT_R01_ST_03",
+          "section": "Super trudne",
+          "type": "sort",
+          "prompt": "Posegreguj nazwy na nauki przyrodnicze i działy biologii.",
+          "options": null,
+          "items": [
+            "geografia",
+            "zoologia",
+            "ekologia",
+            "chemia",
+            "fizyka",
+            "mikrobiologia"
+          ],
+          "categories": [
+            "nauki przyrodnicze",
+            "działy biologii"
+          ],
+          "answer": {
+            "nauki przyrodnicze": [
+              "geografia",
+              "chemia",
+              "fizyka"
+            ],
+            "działy biologii": [
+              "zoologia",
+              "ekologia",
+              "mikrobiologia"
+            ]
+          },
+          "explanation": "Geografia, chemia i fizyka to nauki przyrodnicze. Zoologia, ekologia i mikrobiologia to działy biologii."
+        },
+        {
+          "id": "BBT_R01_ST_04",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Ktoś mówi: „Kaczki chętnie jedzą chleb, więc chleb jest dla nich dobry”. Jaki błąd pokazuje ten przykład?",
+          "options": [
+            "To może być pochopny wniosek z wiedzy potocznej",
+            "To pewny wynik doświadczenia",
+            "To definicja hipotezy",
+            "To przykład próby kontrolnej"
+          ],
+          "answer": 0,
+          "explanation": "Rozdział podaje, że takie codzienne obserwacje mogą prowadzić do błędnych wniosków."
+        },
+        {
+          "id": "BBT_R01_ST_05",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz przyrząd z tym, do czego służy.",
+          "options": null,
+          "left": [
+            "fotopułapka",
+            "mikroskop elektronowy",
+            "siatka entomologiczna"
+          ],
+          "right": [
+            "robi zdjęcia dzikich zwierząt",
+            "daje bardzo szczegółowy obraz małych obiektów",
+            "służy do łapania owadów bez krzywdzenia ich"
+          ],
+          "answer": {
+            "fotopułapka": "robi zdjęcia dzikich zwierząt",
+            "mikroskop elektronowy": "daje bardzo szczegółowy obraz małych obiektów",
+            "siatka entomologiczna": "służy do łapania owadów bez krzywdzenia ich"
+          },
+          "explanation": "Każdy z tych przyrządów ma inne zastosowanie w badaniach przyrodniczych.",
+          "image": "bbt_r01_przyrzady_specjalistyczne.jpg"
+        },
+        {
+          "id": "BBT_R01_ST_06",
+          "section": "Super trudne",
+          "type": "sequence",
+          "prompt": "Ułóż etapy badania od pytania do odpowiedzi.",
+          "options": null,
+          "items": [
+            "wynik",
+            "problem badawczy",
+            "wniosek",
+            "hipoteza",
+            "doświadczenie"
+          ],
+          "answer": [
+            "problem badawczy",
+            "hipoteza",
+            "doświadczenie",
+            "wynik",
+            "wniosek"
+          ],
+          "explanation": "Najpierw jest pytanie, potem hipoteza, doświadczenie, wynik i wniosek.",
+          "image": "bbt_r01_etapy_metody_naukowej.jpg"
+        },
+        {
+          "id": "BBT_R01_ST_07",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Które zdanie jest problemem badawczym?",
+          "options": [
+            "Czy brak światła wpływa na kolor liści cebuli?",
+            "Brak światła powoduje jasne liście.",
+            "Liście były jasne w obu próbach.",
+            "Zrobiłem zdjęcie cebuli."
+          ],
+          "answer": 0,
+          "explanation": "Problem badawczy ma formę pytania."
+        },
+        {
+          "id": "BBT_R01_ST_08",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: zestaw ze zmienionym czynnikiem to próba __________, a zestaw do porównania wyników to próba __________.",
+          "options": null,
+          "answer": [
+            "badawcza",
+            "kontrolna"
+          ],
+          "altAnswers": [
+            [
+              "badawcza",
+              "badawczej"
+            ],
+            [
+              "kontrolna",
+              "kontrolnej"
+            ]
+          ],
+          "explanation": "W doświadczeniu porównuje się próbę badawczą z kontrolną.",
+          "image": "bbt_r01_proba_badawcza_i_kontrolna.jpg"
+        },
+        {
+          "id": "BBT_R01_ST_09",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "W doświadczeniu z dżdżownicami liście rozkładały się szybciej tam, gdzie dodano dżdżownice. Jaki jest wniosek?",
+          "options": [
+            "Dżdżownice przyspieszają rozkład liści",
+            "Liście same zniknęły bez powodu",
+            "Trzeba wyrzucić notatki",
+            "Nie da się nic powiedzieć"
+          ],
+          "answer": 0,
+          "explanation": "Jeśli w próbie z dżdżownicami rozkład jest szybszy, to taki właśnie jest wniosek."
+        },
+        {
+          "id": "BBT_R01_ST_10",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "Powtarzanie doświadczenia co najmniej trzy razy zwiększa wiarygodność wyników.",
+          "options": null,
+          "answer": true,
+          "explanation": "Tak. Rozdział mówi, że minimalnie trzy powtórzenia czynią wynik bardziej wiarygodnym."
+        },
+        {
+          "id": "BBT_R01_ST_11",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz sposób dokumentowania z tym, co robi najlepiej.",
+          "options": null,
+          "left": [
+            "tabela",
+            "wykres",
+            "fotografia"
+          ],
+          "right": [
+            "porządkuje dane",
+            "ułatwia szybkie porównanie",
+            "zachowuje wygląd obiektu"
+          ],
+          "answer": {
+            "tabela": "porządkuje dane",
+            "wykres": "ułatwia szybkie porównanie",
+            "fotografia": "zachowuje wygląd obiektu"
+          },
+          "explanation": "Każdy sposób dokumentowania ma swoją mocną stronę.",
+          "image": "bbt_r01_dokumentowanie_badan.jpg"
+        },
+        {
+          "id": "BBT_R01_ST_12",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "W lodówce i w ciemnym pudełku cebula wypuściła jasne liście. Co z tego wynika o hipotezie, że winna jest niska temperatura?",
+          "options": [
+            "Ta hipoteza nie potwierdziła się",
+            "Ta hipoteza została potwierdzona",
+            "Nie było żadnej hipotezy",
+            "To był wynik próby kontrolnej"
+          ],
+          "answer": 0,
+          "explanation": "Skoro liście były jasne także poza lodówką, przyczyna nie leżała w samej niskiej temperaturze."
+        },
+        {
+          "id": "BBT_R01_ST_13",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Po doświadczeniu z cebulą wiadomo, że o barwie liści zdecydował przede wszystkim:",
+          "options": [
+            "brak światła",
+            "kolor doniczki",
+            "rodzaj zeszytu badacza",
+            "smak cebuli"
+          ],
+          "answer": 0,
+          "explanation": "Drugie doświadczenie wykazało, że jasny kolor liści powodował brak światła."
+        },
+        {
+          "id": "BBT_R01_ST_14",
+          "section": "Super trudne",
+          "type": "sequence",
+          "prompt": "Ułóż kroki obserwacji gotowego preparatu pod mikroskopem.",
+          "options": null,
+          "items": [
+            "ustaw ostrość obrazu",
+            "włącz światło lub ustaw lusterko",
+            "obejrzyj preparat i ewentualnie zwiększ powiększenie",
+            "umieść preparat na stoliku",
+            "ustaw najmniejsze powiększenie"
+          ],
+          "answer": [
+            "włącz światło lub ustaw lusterko",
+            "umieść preparat na stoliku",
+            "ustaw najmniejsze powiększenie",
+            "ustaw ostrość obrazu",
+            "obejrzyj preparat i ewentualnie zwiększ powiększenie"
+          ],
+          "explanation": "Tak wygląda poprawna kolejność pracy z gotowym preparatem.",
+          "image": "bbt_r01_budowa_mikroskopu.jpg"
+        },
+        {
+          "id": "BBT_R01_ST_15",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Zaznacz materiały potrzebne do wykonania preparatu ze skórki cebuli.",
+          "options": [
+            "cebula",
+            "szkiełko podstawowe",
+            "szkiełko nakrywkowe",
+            "pęseta",
+            "igła preparacyjna",
+            "lornetka"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "explanation": "Do preparatu z cebuli potrzebne są cebula, oba szkiełka, pęseta i igła preparacyjna. Lornetka nie jest do tego potrzebna.",
+          "image": "bbt_r01_materialy_do_preparatu.jpg"
+        },
+        {
+          "id": "BBT_R01_ST_16",
+          "section": "Super trudne",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: okular, rewolwer, stolik, lornetka.",
+          "options": null,
+          "answer": "lornetka",
+          "explanation": "Okular, rewolwer i stolik to części mikroskopu. Lornetka jest osobnym przyrządem."
+        },
+        {
+          "id": "BBT_R01_ST_17",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Który zestaw informacji jest poprawny?",
+          "options": [
+            "1590 - pierwsze mikroskopy w postaci soczewek, 1625 - pojawia się słowo „mikroskop”",
+            "1625 - Lamarck używa słowa „biologia”, 1590 - van Leeuwenhoek ulepsza mikroskop",
+            "1802 - powstają pierwsze soczewki mikroskopowe",
+            "1590 - wymyślono fotopułapkę"
+          ],
+          "answer": 0,
+          "explanation": "Takie daty podano w rozdziale o historii mikroskopu."
+        },
+        {
+          "id": "BBT_R01_ST_18",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Dwa artykuły o tym samym zjawisku różnią się wnioskami. Co zgodnie z rozdziałem warto zrobić?",
+          "options": [
+            "Sięgnąć do kilku źródeł i porównać fakty oraz argumenty",
+            "Wybrać ten z ładniejszym obrazkiem",
+            "Nigdy więcej nie czytać",
+            "Uznać, że nauka nic nie wie"
+          ],
+          "answer": 0,
+          "explanation": "Rozdział zachęca do korzystania z kilku źródeł i porównywania faktów oraz argumentów."
+        },
+        {
+          "id": "BBT_R01_ST_19",
+          "section": "Super trudne",
+          "type": "riddle",
+          "prompt": "Jestem pytaniem, na które badacz chce znaleźć odpowiedź. Jak się nazywam?",
+          "options": null,
+          "answer": "problem badawczy",
+          "altAnswers": [
+            "problem badawczy",
+            "problemu badawczego",
+            "pytanie badawcze",
+            "pytaniem badawczym"
+          ],
+          "explanation": "Tak nazywa się pytanie stawiane na początku badania."
+        },
+        {
+          "id": "BBT_R01_ST_20",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Która para części mikroskopu najlepiej odpowiada za ustawianie wyraźnego obrazu?",
+          "options": [
+            "śruba makrometryczna i śruba mikrometryczna",
+            "okular i statyw",
+            "stolik i tubus",
+            "rewolwer i źródło światła"
+          ],
+          "answer": 0,
+          "explanation": "Ostrość ustawia się śrubą makrometryczną, a dokładnie dopracowuje mikrometryczną.",
+          "image": "bbt_r01_budowa_mikroskopu.jpg"
+        }
+      ],
+      "kidPrompts": {
+        "BBT_R01_CN_10": "Dlaczego wiedza naukowa jest pewniejsza?",
+        "BBT_R01_MN_11": "Jak po kolei działa metoda naukowa?",
+        "BBT_R01_MM_08": "Jak zrobić preparat z cebuli?",
+        "BBT_R01_ST_08": "Która próba jest badawcza, a która kontrolna?",
+        "BBT_R01_ST_14": "Co po kolei robi się z gotowym preparatem pod mikroskopem?"
+      },
+      "visuals": [
+        {
+          "file": "bbt_r01/01_biologia.jpg",
+          "title": "Biologia",
+          "kind": "mapa"
+        },
+        {
+          "file": "bbt_r01/02_komorka.jpg",
+          "title": "Komórka",
+          "kind": "mapa"
+        },
+        {
+          "file": "bbt_r01/03_mikroskop.jpg",
+          "title": "Mikroskop",
+          "kind": "mapa"
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "number": 2,
+      "title": "Organizacja i chemizm życia",
+      "icon": "🧫",
+      "sectionOrder": [
+        "Jakie są cechy organizmów?",
+        "Z czego są zbudowane organizmy?",
+        "Jak są zbudowane komórki?",
+        "Na czym polega fotosynteza?"
+      ],
+      "sectionIcons": {
+        "Jakie są cechy organizmów?": "🐌",
+        "Z czego są zbudowane organizmy?": "⚛️",
+        "Jak są zbudowane komórki?": "🔬",
+        "Na czym polega fotosynteza?": "🌿"
+      },
+      "exercises": [
+        {
+          "id": "R02_CECHY_01",
+          "section": "Jakie są cechy organizmów?",
+          "type": "single_choice",
+          "prompt": "Co oznacza, że organizm ma hierarchiczną budowę?",
+          "options": [
+            "Składa się z samych tkanek",
+            "Składa się z coraz większych i bardziej złożonych części",
+            "Zawsze ma tylko jedną komórkę",
+            "Nie ma żadnych narządów"
+          ],
+          "answer": 1,
+          "explanation": "Hierarchiczna budowa oznacza, że organizm składa się z mniejszych elementów o prostej budowie, które tworzą większe i bardziej złożone struktury."
+        },
+        {
+          "id": "R02_CECHY_02",
+          "section": "Jakie są cechy organizmów?",
+          "type": "sequence",
+          "prompt": "Ułóż poziomy organizacji organizmu od najmniejszego do największego.",
+          "options": null,
+          "items": [
+            "układy narządów",
+            "tkanki",
+            "organizm",
+            "komórki",
+            "narządy"
+          ],
+          "answer": [
+            "komórki",
+            "tkanki",
+            "narządy",
+            "układy narządów",
+            "organizm"
+          ],
+          "image": "bbt_r02_hierarchiczna_budowa.jpg",
+          "explanation": "Najpierw są komórki. Z komórek powstają tkanki, z tkanek narządy, z narządów układy narządów, a razem tworzą one cały organizm."
+        },
+        {
+          "id": "R02_CECHY_03",
+          "section": "Jakie są cechy organizmów?",
+          "type": "single_choice",
+          "prompt": "Najmniejszą samodzielną jednostką budującą wszystkie organizmy jest:",
+          "options": [
+            "narząd",
+            "tkanka",
+            "komórka",
+            "układ narządów"
+          ],
+          "answer": 2,
+          "explanation": "Komórka to najmniejsza samodzielna jednostka budująca wszystkie organizmy."
+        },
+        {
+          "id": "R02_CECHY_04",
+          "section": "Jakie są cechy organizmów?",
+          "type": "sort",
+          "prompt": "Przyporządkuj organizmy do odpowiedniej grupy.",
+          "options": null,
+          "items": [
+            "ameba",
+            "ważka"
+          ],
+          "categories": [
+            "jednokomórkowe",
+            "wielokomórkowe"
+          ],
+          "answer": {
+            "jednokomórkowe": [
+              "ameba"
+            ],
+            "wielokomórkowe": [
+              "ważka"
+            ]
+          },
+          "image": "bbt_r02_ameba_wazka.jpg",
+          "explanation": "Ameba jest organizmem jednokomórkowym, a ważka wielokomórkowym."
+        },
+        {
+          "id": "R02_CECHY_05",
+          "section": "Jakie są cechy organizmów?",
+          "type": "true_false",
+          "prompt": "Organizm jednokomórkowy wykonuje wszystkie czynności życiowe dzięki jednej komórce.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. U organizmów jednokomórkowych jedna komórka wykonuje wszystkie czynności życiowe."
+        },
+        {
+          "id": "R02_CECHY_06",
+          "section": "Jakie są cechy organizmów?",
+          "type": "multi_select",
+          "prompt": "Zaznacz czynności życiowe organizmów.",
+          "options": [
+            "odżywianie się",
+            "oddychanie",
+            "rysowanie map",
+            "wydalanie",
+            "ruch",
+            "rozmnażanie się"
+          ],
+          "answer": [
+            0,
+            1,
+            3,
+            4,
+            5
+          ],
+          "explanation": "Do czynności życiowych należą między innymi odżywianie się, oddychanie, wydalanie, ruch i rozmnażanie się. Rysowanie map nie jest czynnością życiową."
+        },
+        {
+          "id": "R02_CECHY_07",
+          "section": "Jakie są cechy organizmów?",
+          "type": "single_choice",
+          "prompt": "Co pokazuje ilustracja ze słonecznikami?",
+          "options": [
+            "wydalanie",
+            "ruch rośliny w stronę światła",
+            "rozmnażanie się",
+            "budowę tkanki"
+          ],
+          "answer": 1,
+          "image": "bbt_r02_slonecznik_ruch.jpg",
+          "explanation": "Słonecznik kieruje kwiaty w stronę słońca. To przykład ruchu rośliny."
+        },
+        {
+          "id": "R02_CECHY_08",
+          "section": "Jakie są cechy organizmów?",
+          "type": "scenario",
+          "prompt": "Kuba wyszedł z ciemnego pokoju na bardzo jasne słońce i odruchowo zmrużył oczy. Jaką czynność życiową pokazuje ten przykład?",
+          "options": [
+            "wrażliwość na bodźce",
+            "rozmnażanie się",
+            "odżywianie się",
+            "wzrost i rozwój"
+          ],
+          "answer": 0,
+          "explanation": "Zmrużenie oczu po silnym świetle to reakcja na bodziec. Pokazuje wrażliwość na bodźce."
+        },
+        {
+          "id": "R02_CECHY_09",
+          "section": "Jakie są cechy organizmów?",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: Z komórek powstają __________, a z tkanek powstają __________.",
+          "options": null,
+          "answer": [
+            "tkanki",
+            "narządy"
+          ],
+          "altAnswers": [
+            [
+              "tkanki",
+              "tkanka",
+              "tkanek"
+            ],
+            [
+              "narządy",
+              "narzad",
+              "narządy",
+              "narząd"
+            ]
+          ],
+          "explanation": "W hierarchicznej budowie organizmu komórki tworzą tkanki, a tkanki tworzą narządy."
+        },
+        {
+          "id": "R02_CECHY_10",
+          "section": "Jakie są cechy organizmów?",
+          "type": "match",
+          "prompt": "Połącz czynność życiową z przykładem.",
+          "options": null,
+          "left": [
+            "odżywianie się",
+            "ruch",
+            "rozmnażanie się",
+            "wydalanie"
+          ],
+          "right": [
+            "pies biegnie",
+            "ptak zjada owoce",
+            "powstają osobniki potomne",
+            "organizm usuwa zbędne substancje"
+          ],
+          "answer": {
+            "odżywianie się": "ptak zjada owoce",
+            "ruch": "pies biegnie",
+            "rozmnażanie się": "powstają osobniki potomne",
+            "wydalanie": "organizm usuwa zbędne substancje"
+          },
+          "explanation": "Każdy przykład pokazuje inną czynność życiową: zdobywanie pokarmu, poruszanie się, powstawanie potomstwa lub usuwanie zbędnych substancji."
+        },
+        {
+          "id": "R02_CECHY_11",
+          "section": "Jakie są cechy organizmów?",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: oddychanie, ruch, chlorofil, wydalanie.",
+          "options": null,
+          "answer": "chlorofil",
+          "explanation": "Chlorofil to zielony barwnik roślin, a pozostałe wyrazy to czynności życiowe organizmów."
+        },
+        {
+          "id": "R02_CECHY_12",
+          "section": "Jakie są cechy organizmów?",
+          "type": "scenario",
+          "prompt": "Na ilustracji widać ptaka, który zjada owoce. Jaką czynność życiową widzisz przede wszystkim?",
+          "options": [
+            "odżywianie się",
+            "wydalanie",
+            "wzrost i rozwój",
+            "wrażliwość na bodźce"
+          ],
+          "answer": 0,
+          "image": "bbt_r02_jemioluszka_odzywianie.jpg",
+          "explanation": "Ptak pobiera pokarm z otoczenia. To przykład odżywiania się."
+        },
+        {
+          "id": "R02_ZWIAZKI_01",
+          "section": "Z czego są zbudowane organizmy?",
+          "type": "single_choice",
+          "prompt": "Czym są pierwiastki chemiczne?",
+          "options": [
+            "proste substancje budujące przyrodę",
+            "gotowe pokarmy dla roślin",
+            "tylko gazy w powietrzu",
+            "same witaminy"
+          ],
+          "answer": 0,
+          "explanation": "Pierwiastki chemiczne to proste substancje, z których zbudowana jest przyroda ożywiona i nieożywiona."
+        },
+        {
+          "id": "R02_ZWIAZKI_02",
+          "section": "Z czego są zbudowane organizmy?",
+          "type": "multi_select",
+          "prompt": "Zaznacz najważniejsze pierwiastki budujące organizmy.",
+          "options": [
+            "węgiel",
+            "wodór",
+            "azot",
+            "tlen",
+            "fosfor",
+            "siarka"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "image": "bbt_r02_pierwiastki_chonps.jpg",
+          "explanation": "Najważniejsze pierwiastki budujące organizmy to węgiel, wodór, azot, tlen, fosfor i siarka."
+        },
+        {
+          "id": "R02_ZWIAZKI_03",
+          "section": "Z czego są zbudowane organizmy?",
+          "type": "true_false",
+          "prompt": "W organizmie człowieka najwięcej jest tlenu.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Tlen stanowi największą część masy organizmu człowieka."
+        },
+        {
+          "id": "R02_ZWIAZKI_04",
+          "section": "Z czego są zbudowane organizmy?",
+          "type": "match",
+          "prompt": "Połącz związek chemiczny z jego główną rolą.",
+          "options": null,
+          "left": [
+            "woda",
+            "białka",
+            "tłuszcze",
+            "kwasy nukleinowe"
+          ],
+          "right": [
+            "zawierają informację genetyczną",
+            "są rozpuszczalnikiem wielu związków",
+            "budują struktury komórki i regulują procesy",
+            "są źródłem energii i materiałem zapasowym"
+          ],
+          "answer": {
+            "woda": "są rozpuszczalnikiem wielu związków",
+            "białka": "budują struktury komórki i regulują procesy",
+            "tłuszcze": "są źródłem energii i materiałem zapasowym",
+            "kwasy nukleinowe": "zawierają informację genetyczną"
+          },
+          "explanation": "Woda jest rozpuszczalnikiem, białka budują i regulują, tłuszcze dają energię i są zapasem, a kwasy nukleinowe przechowują informację genetyczną."
+        },
+        {
+          "id": "R02_ZWIAZKI_05",
+          "section": "Z czego są zbudowane organizmy?",
+          "type": "sort",
+          "prompt": "Przyporządkuj elementy do właściwej grupy.",
+          "options": null,
+          "items": [
+            "węgiel",
+            "woda",
+            "azot",
+            "białka",
+            "tlen",
+            "cukry"
+          ],
+          "categories": [
+            "pierwiastki",
+            "związki chemiczne"
+          ],
+          "answer": {
+            "pierwiastki": [
+              "węgiel",
+              "azot",
+              "tlen"
+            ],
+            "związki chemiczne": [
+              "woda",
+              "białka",
+              "cukry"
+            ]
+          },
+          "explanation": "Węgiel, azot i tlen to pierwiastki. Woda, białka i cukry to związki chemiczne."
+        },
+        {
+          "id": "R02_ZWIAZKI_06",
+          "section": "Z czego są zbudowane organizmy?",
+          "type": "single_choice",
+          "prompt": "Głównym składnikiem organizmów jest:",
+          "options": [
+            "woda",
+            "żelazo",
+            "powietrze",
+            "piasek"
+          ],
+          "answer": 0,
+          "explanation": "Głównym składnikiem organizmów jest woda."
+        },
+        {
+          "id": "R02_ZWIAZKI_07",
+          "section": "Z czego są zbudowane organizmy?",
+          "type": "fill_in",
+          "prompt": "Uzupełnij symbole: wodór to __________, a tlen to __________.",
+          "options": null,
+          "answer": [
+            "H",
+            "O"
+          ],
+          "altAnswers": [
+            [
+              "H",
+              "h"
+            ],
+            [
+              "O",
+              "o"
+            ]
+          ],
+          "explanation": "Międzynarodowy symbol wodoru to H, a tlenu - O."
+        },
+        {
+          "id": "R02_ZWIAZKI_08",
+          "section": "Z czego są zbudowane organizmy?",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: woda, białka, tłuszcze, liść.",
+          "options": null,
+          "answer": "liść",
+          "explanation": "Liść jest częścią rośliny, a woda, białka i tłuszcze to związki chemiczne budujące organizmy."
+        },
+        {
+          "id": "R02_ZWIAZKI_09",
+          "section": "Z czego są zbudowane organizmy?",
+          "type": "single_choice",
+          "prompt": "Co najlepiej pokazuje ilustracja z talerzami jedzenia?",
+          "options": [
+            "zróżnicowaną dietę",
+            "budowę komórki",
+            "wydalanie",
+            "oddychanie"
+          ],
+          "answer": 0,
+          "image": "bbt_r02_zroznicowana_dieta.jpg",
+          "explanation": "Ilustracja pokazuje różne produkty spożywcze. To przykład zróżnicowanej diety."
+        },
+        {
+          "id": "R02_ZWIAZKI_10",
+          "section": "Z czego są zbudowane organizmy?",
+          "type": "scenario",
+          "prompt": "Maja je codziennie tylko jeden rodzaj przekąski. Dlaczego to zły pomysł według rozdziału?",
+          "options": [
+            "Bo organizm potrzebuje zróżnicowanej diety, która dostarcza różnych związków chemicznych",
+            "Bo wtedy rośliny nie rosną",
+            "Bo białka zamieniają się w wodę",
+            "Bo wszystkie pierwiastki znikają z organizmu"
+          ],
+          "answer": 0,
+          "explanation": "Organizmy potrzebują wielu różnych związków chemicznych. Najłatwiej dostarczyć je dzięki zróżnicowanej diecie."
+        },
+        {
+          "id": "R02_ZWIAZKI_11",
+          "section": "Z czego są zbudowane organizmy?",
+          "type": "true_false",
+          "prompt": "Kwasy nukleinowe zawierają informację genetyczną.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Kwasy nukleinowe uczestniczą w dziedziczeniu cech i przechowują informację genetyczną."
+        },
+        {
+          "id": "R02_ZWIAZKI_12",
+          "section": "Z czego są zbudowane organizmy?",
+          "type": "sequence",
+          "prompt": "Ułóż pierwiastki od największego udziału w organizmie człowieka do najmniejszego spośród podanych.",
+          "options": null,
+          "items": [
+            "azot",
+            "wodór",
+            "tlen",
+            "węgiel"
+          ],
+          "answer": [
+            "tlen",
+            "węgiel",
+            "wodór",
+            "azot"
+          ],
+          "explanation": "W organizmie człowieka spośród tych czterech najwięcej jest tlenu, potem węgla, następnie wodoru, a najmniej azotu."
+        },
+        {
+          "id": "R02_KOMORKI_01",
+          "section": "Jak są zbudowane komórki?",
+          "type": "single_choice",
+          "prompt": "Komórka to:",
+          "options": [
+            "największa część organizmu",
+            "najmniejsza samodzielna jednostka budująca organizmy",
+            "rodzaj tkanki",
+            "to samo co narząd"
+          ],
+          "answer": 1,
+          "explanation": "Komórka jest najmniejszą samodzielną jednostką budującą wszystkie organizmy."
+        },
+        {
+          "id": "R02_KOMORKI_02",
+          "section": "Jak są zbudowane komórki?",
+          "type": "sort",
+          "prompt": "Przyporządkuj komórki do właściwej grupy.",
+          "options": null,
+          "items": [
+            "komórka bakterii",
+            "komórka zwierzęca",
+            "komórka roślinna"
+          ],
+          "categories": [
+            "bezjądrowe",
+            "jądrowe"
+          ],
+          "answer": {
+            "bezjądrowe": [
+              "komórka bakterii"
+            ],
+            "jądrowe": [
+              "komórka zwierzęca",
+              "komórka roślinna"
+            ]
+          },
+          "image": "bbt_r02_jadrowe_bezjadrowe.jpg",
+          "explanation": "Komórki bakterii są bezjądrowe, a komórki zwierzęce i roślinne mają jądro komórkowe, więc są jądrowe."
+        },
+        {
+          "id": "R02_KOMORKI_03",
+          "section": "Jak są zbudowane komórki?",
+          "type": "multi_select",
+          "prompt": "Zaznacz elementy, które może zawierać komórka bakterii według rozdziału.",
+          "options": [
+            "błona komórkowa",
+            "ściana komórkowa",
+            "cytozol",
+            "nić DNA",
+            "jądro komórkowe",
+            "rzęska"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "image": "bbt_r02_komorka_bakterii.jpg",
+          "explanation": "Komórka bakterii ma błonę komórkową, ścianę komórkową, cytozol i nić DNA. U niektórych bakterii występuje też rzęska. Bakterie nie mają jądra komórkowego."
+        },
+        {
+          "id": "R02_KOMORKI_04",
+          "section": "Jak są zbudowane komórki?",
+          "type": "true_false",
+          "prompt": "Komórki bakterii mają jądro komórkowe.",
+          "options": null,
+          "answer": false,
+          "explanation": "To fałsz. Komórki bakterii są bezjądrowe, więc nie mają jądra komórkowego."
+        },
+        {
+          "id": "R02_KOMORKI_05",
+          "section": "Jak są zbudowane komórki?",
+          "type": "single_choice",
+          "prompt": "Jaka jest główna rola błony komórkowej?",
+          "options": [
+            "oddychanie tlenowe",
+            "oddziela wnętrze komórki od środowiska zewnętrznego",
+            "wytwarza chlorofil",
+            "magazynuje DNA"
+          ],
+          "answer": 1,
+          "explanation": "Błona komórkowa oddziela wnętrze komórki od środowiska zewnętrznego i umożliwia wymianę niektórych substancji."
+        },
+        {
+          "id": "R02_KOMORKI_06",
+          "section": "Jak są zbudowane komórki?",
+          "type": "match",
+          "prompt": "Połącz typ komórki z elementem szczególnie dla niego charakterystycznym.",
+          "options": null,
+          "left": [
+            "komórka bakterii",
+            "komórka zwierzęca",
+            "komórka roślinna"
+          ],
+          "right": [
+            "chloroplasty",
+            "nić DNA leżąca w cytozolu",
+            "brak ściany komórkowej i chloroplastów"
+          ],
+          "answer": {
+            "komórka bakterii": "nić DNA leżąca w cytozolu",
+            "komórka zwierzęca": "brak ściany komórkowej i chloroplastów",
+            "komórka roślinna": "chloroplasty"
+          },
+          "explanation": "Komórka bakterii nie ma jądra, więc nić DNA leży w cytozolu. Komórka zwierzęca nie ma ściany komórkowej ani chloroplastów. Komórka roślinna ma chloroplasty."
+        },
+        {
+          "id": "R02_KOMORKI_07",
+          "section": "Jak są zbudowane komórki?",
+          "type": "sort",
+          "prompt": "Przyporządkuj elementy do odpowiedniego typu komórki.",
+          "options": null,
+          "items": [
+            "chloroplasty",
+            "wakuola",
+            "jądro komórkowe",
+            "ściana komórkowa",
+            "mitochondrium",
+            "nić DNA"
+          ],
+          "categories": [
+            "komórka roślinna",
+            "komórka zwierzęca",
+            "komórka bakterii"
+          ],
+          "answer": {
+            "komórka roślinna": [
+              "chloroplasty",
+              "wakuola",
+              "ściana komórkowa"
+            ],
+            "komórka zwierzęca": [
+              "jądro komórkowe",
+              "mitochondrium"
+            ],
+            "komórka bakterii": [
+              "nić DNA"
+            ]
+          },
+          "explanation": "Chloroplasty, wakuola i ściana komórkowa są typowe dla komórki roślinnej. Jądro i mitochondrium występują w komórce zwierzęcej. U bakterii materiał genetyczny ma postać nici DNA."
+        },
+        {
+          "id": "R02_KOMORKI_08",
+          "section": "Jak są zbudowane komórki?",
+          "type": "single_choice",
+          "prompt": "W jakim elemencie komórki roślinnej zachodzi fotosynteza?",
+          "options": [
+            "w jądrze komórkowym",
+            "w chloroplaście",
+            "w błonie komórkowej",
+            "w wodniczce"
+          ],
+          "answer": 1,
+          "explanation": "Fotosynteza zachodzi w chloroplastach."
+        },
+        {
+          "id": "R02_KOMORKI_09",
+          "section": "Jak są zbudowane komórki?",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: chloroplast, wakuola, ściana komórkowa, ważka.",
+          "options": null,
+          "answer": "ważka",
+          "explanation": "Ważka jest organizmem, a pozostałe nazwy oznaczają elementy typowe dla komórki roślinnej."
+        },
+        {
+          "id": "R02_KOMORKI_10",
+          "section": "Jak są zbudowane komórki?",
+          "type": "scenario",
+          "prompt": "Ola porównuje dwie ilustracje komórek. Jedna ma ścianę komórkową i chloroplasty, druga nie. Która to komórka roślinna?",
+          "options": [
+            "ta bez chloroplastów",
+            "ta ze ścianą komórkową i chloroplastami",
+            "obie są zwierzęce",
+            "obie są bakteryjne"
+          ],
+          "answer": 1,
+          "image": "bbt_r02_komorka_roslinna.jpg",
+          "explanation": "Komórkę roślinną rozpoznajemy po obecności ściany komórkowej i chloroplastów."
+        },
+        {
+          "id": "R02_KOMORKI_11",
+          "section": "Jak są zbudowane komórki?",
+          "type": "match",
+          "prompt": "Połącz wyspecjalizowaną komórkę z jej zadaniem.",
+          "options": null,
+          "left": [
+            "włośnik",
+            "komórka nerwowa",
+            "plemnik",
+            "komórka mięśniowa"
+          ],
+          "right": [
+            "przekazuje materiał genetyczny potomstwu",
+            "przekazuje informacje",
+            "kurczy się i umożliwia ruch",
+            "pobiera z gleby wodę i sole mineralne"
+          ],
+          "answer": {
+            "włośnik": "pobiera z gleby wodę i sole mineralne",
+            "komórka nerwowa": "przekazuje informacje",
+            "plemnik": "przekazuje materiał genetyczny potomstwu",
+            "komórka mięśniowa": "kurczy się i umożliwia ruch"
+          },
+          "image": "bbt_r02_wyspecjalizowane_komorki.jpg",
+          "explanation": "Wyspecjalizowane komórki mają budowę dopasowaną do swoich zadań: włośnik pobiera, komórka nerwowa przekazuje informacje, plemnik bierze udział w rozmnażaniu, a komórka mięśniowa umożliwia ruch."
+        },
+        {
+          "id": "R02_KOMORKI_12",
+          "section": "Jak są zbudowane komórki?",
+          "type": "single_choice",
+          "prompt": "Po co roślinie są włośniki?",
+          "options": [
+            "żeby oddychała przez liście",
+            "żeby pobierała z gleby wodę i sole mineralne",
+            "żeby się rozmnażała",
+            "żeby miała chlorofil"
+          ],
+          "answer": 1,
+          "image": "bbt_r02_wlosnik_korzenia.jpg",
+          "explanation": "Włośniki zwiększają powierzchnię korzenia i pomagają pobierać z gleby wodę oraz sole mineralne."
+        },
+        {
+          "id": "R02_KOMORKI_13",
+          "section": "Jak są zbudowane komórki?",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: W komórce roślinnej znajduje się jedna duża __________, a na zewnątrz błony leży __________ komórkowa.",
+          "options": null,
+          "answer": [
+            "wakuola",
+            "ściana"
+          ],
+          "altAnswers": [
+            [
+              "wakuola",
+              "wodniczka",
+              "wodniczka komórkowa"
+            ],
+            [
+              "ściana",
+              "ściana komórkowa"
+            ]
+          ],
+          "explanation": "Komórka roślinna ma jedną dużą wakuolę. Na zewnątrz błony komórkowej znajduje się ściana komórkowa."
+        },
+        {
+          "id": "R02_FOTO_01",
+          "section": "Na czym polega fotosynteza?",
+          "type": "single_choice",
+          "prompt": "Fotosynteza to proces:",
+          "options": [
+            "oddawania wody przez korzeń",
+            "wytwarzania związków chemicznych dzięki energii światła",
+            "rozmnażania się roślin",
+            "budowy mięśni u zwierząt"
+          ],
+          "answer": 1,
+          "explanation": "Fotosynteza to proces wytwarzania związków chemicznych dzięki wykorzystaniu energii światła słonecznego."
+        },
+        {
+          "id": "R02_FOTO_02",
+          "section": "Na czym polega fotosynteza?",
+          "type": "fill_in",
+          "prompt": "Uzupełnij schemat: dwutlenek węgla + __________ -> cukier (glukoza) + __________.",
+          "options": null,
+          "answer": [
+            "woda",
+            "tlen"
+          ],
+          "altAnswers": [
+            [
+              "woda",
+              "wodę",
+              "wodzie"
+            ],
+            [
+              "tlen",
+              "tlenu"
+            ]
+          ],
+          "image": "bbt_r02_fotosynteza_rownanie.jpg",
+          "explanation": "W fotosyntezie z dwutlenku węgla i wody powstają cukier (glukoza) oraz tlen."
+        },
+        {
+          "id": "R02_FOTO_03",
+          "section": "Na czym polega fotosynteza?",
+          "type": "single_choice",
+          "prompt": "Gdzie zachodzi fotosynteza?",
+          "options": [
+            "w chloroplastach",
+            "w mitochondriach",
+            "w jądrze komórkowym",
+            "w kościach"
+          ],
+          "answer": 0,
+          "explanation": "Fotosynteza zachodzi w chloroplastach."
+        },
+        {
+          "id": "R02_FOTO_04",
+          "section": "Na czym polega fotosynteza?",
+          "type": "true_false",
+          "prompt": "Chlorofil pochłania energię światła słonecznego.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Chlorofil to zielony barwnik, który pochłania energię światła potrzebną do fotosyntezy."
+        },
+        {
+          "id": "R02_FOTO_05",
+          "section": "Na czym polega fotosynteza?",
+          "type": "multi_select",
+          "prompt": "Zaznacz czynniki, od których zależy fotosynteza.",
+          "options": [
+            "światło",
+            "dwutlenek węgla",
+            "woda",
+            "temperatura",
+            "sole mineralne",
+            "piasek"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "image": "bbt_r02_czynniki_fotosyntezy.jpg",
+          "explanation": "Na fotosyntezę wpływają światło, dwutlenek węgla, woda, temperatura i sole mineralne. Piasek nie jest wymieniony jako taki czynnik."
+        },
+        {
+          "id": "R02_FOTO_06",
+          "section": "Na czym polega fotosynteza?",
+          "type": "match",
+          "prompt": "Połącz element z jego rolą w fotosyntezie.",
+          "options": null,
+          "left": [
+            "woda",
+            "dwutlenek węgla",
+            "światło słoneczne",
+            "chlorofil"
+          ],
+          "right": [
+            "jest pobierany głównie przez liście",
+            "jest zielonym barwnikiem",
+            "jest pobierana z gleby",
+            "dostarcza energii"
+          ],
+          "answer": {
+            "woda": "jest pobierana z gleby",
+            "dwutlenek węgla": "jest pobierany głównie przez liście",
+            "światło słoneczne": "dostarcza energii",
+            "chlorofil": "jest zielonym barwnikiem"
+          },
+          "explanation": "Woda trafia do rośliny z gleby, dwutlenek węgla z powietrza przez liście, światło dostarcza energii, a chlorofil ją pochłania."
+        },
+        {
+          "id": "R02_FOTO_07",
+          "section": "Na czym polega fotosynteza?",
+          "type": "scenario",
+          "prompt": "W szklarni zwiększono ilość dwutlenku węgla. Po co robi się to w uprawach szklarniowych?",
+          "options": [
+            "żeby roślina miała więcej chlorofilu od razu",
+            "żeby przy dobrych warunkach uzyskać wyższe plony",
+            "żeby zamienić liście w korzenie",
+            "żeby zatrzymać wydalanie"
+          ],
+          "answer": 1,
+          "image": "bbt_r02_szklarnia_pomidory.jpg",
+          "explanation": "Rośliny mogą wykorzystywać większą ilość dwutlenku węgla w fotosyntezie. Gdy mają też dość światła, wody i soli mineralnych, można uzyskać wyższe plony."
+        },
+        {
+          "id": "R02_FOTO_08",
+          "section": "Na czym polega fotosynteza?",
+          "type": "single_choice",
+          "prompt": "Jak roślina może wykorzystać cukry powstałe w fotosyntezie?",
+          "options": [
+            "tylko jako ozdobę liści",
+            "jako źródło energii, materiał budulcowy i materiał zapasowy",
+            "tylko do oddychania ryb",
+            "nie może ich wykorzystać"
+          ],
+          "answer": 1,
+          "explanation": "Cukry powstałe w fotosyntezie mogą dawać energię, służyć do budowy ciała rośliny i być magazynowane jako zapas."
+        },
+        {
+          "id": "R02_FOTO_09",
+          "section": "Na czym polega fotosynteza?",
+          "type": "sort",
+          "prompt": "Przyporządkuj związki do odpowiedniej grupy.",
+          "options": null,
+          "items": [
+            "dwutlenek węgla",
+            "woda",
+            "cukier (glukoza)",
+            "tlen"
+          ],
+          "categories": [
+            "substancje potrzebne do fotosyntezy",
+            "produkty fotosyntezy"
+          ],
+          "answer": {
+            "substancje potrzebne do fotosyntezy": [
+              "dwutlenek węgla",
+              "woda"
+            ],
+            "produkty fotosyntezy": [
+              "cukier (glukoza)",
+              "tlen"
+            ]
+          },
+          "explanation": "Do przeprowadzenia fotosyntezy potrzebne są dwutlenek węgla i woda. Produktami są cukier i tlen."
+        },
+        {
+          "id": "R02_FOTO_10",
+          "section": "Na czym polega fotosynteza?",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: światło, woda, dwutlenek węgla, kredka.",
+          "options": null,
+          "answer": "kredka",
+          "explanation": "Światło, woda i dwutlenek węgla są związane z fotosyntezą. Kredka nie."
+        },
+        {
+          "id": "R02_FOTO_11",
+          "section": "Na czym polega fotosynteza?",
+          "type": "scenario",
+          "prompt": "Dlaczego duże obszary leśne są ważne dla życia na Ziemi?",
+          "options": [
+            "bo produkują tlen potrzebny większości organizmów",
+            "bo zamieniają wszystkie zwierzęta w rośliny",
+            "bo nie potrzebują światła",
+            "bo wytwarzają tylko wodę"
+          ],
+          "answer": 0,
+          "image": "bbt_r02_znaczenie_fotosyntezy_las.jpg",
+          "explanation": "Lasy są bardzo ważne, bo rośliny podczas fotosyntezy wytwarzają tlen niezbędny dla większości organizmów."
+        },
+        {
+          "id": "R02_FOTO_12",
+          "section": "Na czym polega fotosynteza?",
+          "type": "true_false",
+          "prompt": "Rośliny iglaste mogą prowadzić fotosyntezę przy temperaturze poniżej 0°C.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. W rozdziale podano, że rośliny iglaste mogą prowadzić fotosyntezę przy temperaturze poniżej 0°C."
+        },
+        {
+          "id": "R02_FOTO_13",
+          "section": "Na czym polega fotosynteza?",
+          "type": "single_choice",
+          "prompt": "Jaki zielony barwnik znajduje się w chloroplastach?",
+          "options": [
+            "chlorofil",
+            "glukoza",
+            "celuloza",
+            "skrobia"
+          ],
+          "answer": 0,
+          "explanation": "W chloroplastach znajduje się chlorofil - zielony barwnik potrzebny do fotosyntezy."
+        },
+        {
+          "id": "R02_SUPER_01",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Zaznacz elementy typowe dla komórki roślinnej, a niewystępujące w komórce zwierzęcej.",
+          "options": [
+            "chloroplasty",
+            "ściana komórkowa",
+            "jedna duża wakuola",
+            "jądro komórkowe",
+            "mitochondrium"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "image": "bbt_r02_komorka_roslinna.jpg",
+          "explanation": "Komórka roślinna ma chloroplasty, ścianę komórkową i zwykle jedną dużą wakuolę. Jądro i mitochondria występują także w komórkach zwierzęcych."
+        },
+        {
+          "id": "R02_SUPER_02",
+          "section": "Super trudne",
+          "type": "sort",
+          "prompt": "Przyporządkuj związki chemiczne do ich głównej roli.",
+          "options": null,
+          "items": [
+            "woda",
+            "białka",
+            "tłuszcze",
+            "cukry",
+            "sole mineralne",
+            "kwasy nukleinowe"
+          ],
+          "categories": [
+            "budulec",
+            "źródło lub zapas energii",
+            "informacja i kierowanie procesami",
+            "udział w wielu procesach komórkowych"
+          ],
+          "answer": {
+            "budulec": [
+              "białka"
+            ],
+            "źródło lub zapas energii": [
+              "tłuszcze",
+              "cukry"
+            ],
+            "informacja i kierowanie procesami": [
+              "kwasy nukleinowe"
+            ],
+            "udział w wielu procesach komórkowych": [
+              "woda",
+              "sole mineralne"
+            ]
+          },
+          "explanation": "Białka przede wszystkim budują struktury. Tłuszcze i cukry dostarczają energii lub są zapasem. Kwasy nukleinowe przechowują informację genetyczną i sterują procesami życiowymi. Woda i sole mineralne biorą udział w wielu procesach komórkowych."
+        },
+        {
+          "id": "R02_SUPER_03",
+          "section": "Super trudne",
+          "type": "sequence",
+          "prompt": "Ułóż etapy przebiegu fotosyntezy w logicznej kolejności od pobrania składników do powstania produktu.",
+          "options": null,
+          "items": [
+            "w liściach powstaje cukier",
+            "korzeń pobiera wodę z solami mineralnymi",
+            "chlorofil pochłania energię światła",
+            "do liścia dociera dwutlenek węgla"
+          ],
+          "answer": [
+            "korzeń pobiera wodę z solami mineralnymi",
+            "do liścia dociera dwutlenek węgla",
+            "chlorofil pochłania energię światła",
+            "w liściach powstaje cukier"
+          ],
+          "image": "bbt_r02_przebieg_fotosyntezy_roslina.jpg",
+          "explanation": "Roślina najpierw pobiera wodę, następnie korzysta z dwutlenku węgla z powietrza. Chlorofil pochłania energię światła, dzięki czemu może powstać cukier."
+        },
+        {
+          "id": "R02_SUPER_04",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Roślina ma dużo światła, wody i soli mineralnych, ale stoi w miejscu z bardzo małą ilością dwutlenku węgla. Co najpewniej stanie się z fotosyntezą?",
+          "options": [
+            "będzie przebiegała z małą intensywnością",
+            "natychmiast się zatrzyma na zawsze",
+            "zamieni się w oddychanie",
+            "w ogóle nie zależy od dwutlenku węgla"
+          ],
+          "answer": 0,
+          "explanation": "Dwutlenek węgla jest niezbędny do fotosyntezy. Gdy jest go mało, fotosynteza przebiega z małą intensywnością."
+        },
+        {
+          "id": "R02_SUPER_05",
+          "section": "Super trudne",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: włośnik, komórka nerwowa, plemnik, skrobia.",
+          "options": null,
+          "answer": "skrobia",
+          "explanation": "Włośnik, komórka nerwowa i plemnik to komórki wyspecjalizowane. Skrobia nie jest komórką, tylko substancją zapasową roślin."
+        },
+        {
+          "id": "R02_SUPER_06",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Uzupełnij zdanie z rozdziału: cytoplazma = __________ + znajdujące się w nim elementy.",
+          "options": null,
+          "answer": [
+            "cytozol"
+          ],
+          "altAnswers": [
+            [
+              "cytozol",
+              "cytozolu"
+            ]
+          ],
+          "explanation": "W rozdziale wyjaśniono, że cytoplazma to cytozol oraz znajdujące się w nim elementy."
+        },
+        {
+          "id": "R02_SUPER_07",
+          "section": "Super trudne",
+          "type": "sort",
+          "prompt": "Przyporządkuj cechy do odpowiedniego typu komórki.",
+          "options": null,
+          "items": [
+            "jądro komórkowe",
+            "chloroplasty",
+            "ściana komórkowa",
+            "nić DNA w cytozolu",
+            "mitochondria",
+            "otoczka śluzowa"
+          ],
+          "categories": [
+            "komórka bakterii",
+            "komórka roślinna",
+            "komórka zwierzęca"
+          ],
+          "answer": {
+            "komórka bakterii": [
+              "nić DNA w cytozolu",
+              "otoczka śluzowa"
+            ],
+            "komórka roślinna": [
+              "chloroplasty",
+              "ściana komórkowa"
+            ],
+            "komórka zwierzęca": [
+              "jądro komórkowe",
+              "mitochondria"
+            ]
+          },
+          "image": "bbt_r02_jadrowe_bezjadrowe.jpg",
+          "explanation": "Bakterie mają nić DNA w cytozolu i mogą mieć otoczkę śluzową. Rośliny mają chloroplasty i ścianę komórkową. Komórka zwierzęca ma jądro i mitochondria, ale nie ma ściany komórkowej ani chloroplastów."
+        },
+        {
+          "id": "R02_SUPER_08",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "Każda komórka, która zawiera DNA, ma też chloroplasty.",
+          "options": null,
+          "answer": false,
+          "explanation": "To fałsz. DNA występuje w wielu komórkach, na przykład zwierzęcych i bakteryjnych, ale chloroplasty są typowe dla komórek roślin."
+        },
+        {
+          "id": "R02_SUPER_09",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz przykład z odpowiednią czynnością życiową.",
+          "options": null,
+          "left": [
+            "zamknięcie oczu na silnym świetle",
+            "powstawanie osobników potomnych",
+            "wykorzystanie energii ze związków chemicznych",
+            "usuwanie zbędnych substancji"
+          ],
+          "right": [
+            "rozmnażanie się",
+            "wydalanie",
+            "oddychanie",
+            "wrażliwość na bodźce"
+          ],
+          "answer": {
+            "zamknięcie oczu na silnym świetle": "wrażliwość na bodźce",
+            "powstawanie osobników potomnych": "rozmnażanie się",
+            "wykorzystanie energii ze związków chemicznych": "oddychanie",
+            "usuwanie zbędnych substancji": "wydalanie"
+          },
+          "explanation": "Każdy opis odnosi się do innej czynności życiowej: reakcji na bodziec, rozmnażania, oddychania albo wydalania."
+        },
+        {
+          "id": "R02_SUPER_10",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "W szklarni zwiększono ilość dwutlenku węgla, ale roślinom brakuje światła. Czy sam dodatkowy CO₂ wystarczy, by bardzo zwiększyć plony?",
+          "options": [
+            "tak, zawsze wystarczy",
+            "nie, bo fotosynteza zależy też od światła",
+            "tak, bo światło nie ma znaczenia",
+            "nie, bo rośliny nie potrzebują dwutlenku węgla"
+          ],
+          "answer": 1,
+          "image": "bbt_r02_szklarnia_pomidory.jpg",
+          "explanation": "Dodatkowy dwutlenek węgla pomaga tylko wtedy, gdy roślina ma też odpowiednią ilość światła, wody, soli mineralnych i właściwą temperaturę."
+        },
+        {
+          "id": "R02_SUPER_11",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Co najlepiej odróżnia prostą kolonię organizmów jednokomórkowych od organizmu wielokomórkowego?",
+          "options": [
+            "W kolonii komórki nie zaczęły się specjalizować, a w organizmie wielokomórkowym są wyspecjalizowane",
+            "W kolonii nie ma żadnych komórek",
+            "Organizm wielokomórkowy ma zawsze tylko jedną tkankę",
+            "Kolonia nie może żyć w wodzie"
+          ],
+          "answer": 0,
+          "explanation": "W rozdziale wyjaśniono, że organizmy wielokomórkowe powstały, gdy komórki zaczęły się specjalizować w pełnieniu określonych funkcji."
+        },
+        {
+          "id": "R02_SUPER_12",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: Trzy pierwiastki z grupy CHONPS to __________, __________ i __________.",
+          "options": null,
+          "answer": [
+            "węgiel",
+            "wodór",
+            "azot"
+          ],
+          "altAnswers": [
+            [
+              "węgiel",
+              "wegiel"
+            ],
+            [
+              "wodór",
+              "wodor"
+            ],
+            [
+              "azot"
+            ]
+          ],
+          "explanation": "Do grupy najważniejszych pierwiastków budujących organizmy należą między innymi węgiel, wodór i azot. W tej grupie są też tlen, fosfor i siarka."
+        },
+        {
+          "id": "R02_SUPER_13",
+          "section": "Super trudne",
+          "type": "sequence",
+          "prompt": "Ułóż poziomy organizacji od prostszych składników do całego organizmu.",
+          "options": null,
+          "items": [
+            "tkanki",
+            "organizm",
+            "pierwiastki chemiczne",
+            "komórki",
+            "związki chemiczne"
+          ],
+          "answer": [
+            "pierwiastki chemiczne",
+            "związki chemiczne",
+            "komórki",
+            "tkanki",
+            "organizm"
+          ],
+          "explanation": "Najprostsze są pierwiastki chemiczne, z nich powstają związki chemiczne, dalej komórki, tkanki i cały organizm."
+        },
+        {
+          "id": "R02_SUPER_14",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Zaznacz prawdziwe zdania o znaczeniu fotosyntezy.",
+          "options": [
+            "Podczas fotosyntezy do otoczenia uwalnia się tlen",
+            "Rośliny wytwarzają tylko tyle tlenu, ile same zużywają",
+            "Dzięki fotosyntezie na Ziemi mogły rozwinąć się organizmy wykorzystujące tlen do oddychania",
+            "Duże obszary leśne są ważne, bo produkują tlen",
+            "Fotosynteza zachodzi tylko w szklarniach"
+          ],
+          "answer": [
+            0,
+            2,
+            3
+          ],
+          "explanation": "Rośliny uwalniają do otoczenia tlen, a duże obszary leśne są bardzo ważne dla większości organizmów. Dzięki tlenowi wytwarzanemu przez pierwsze organizmy prowadzące fotosyntezę mogły rozwinąć się organizmy oddychające tlenem."
+        },
+        {
+          "id": "R02_SUPER_15",
+          "section": "Super trudne",
+          "type": "riddle",
+          "prompt": "Jestem zielonym barwnikiem w chloroplastach. Pochłaniam energię światła potrzebną do fotosyntezy. Kim jestem?",
+          "options": null,
+          "answer": "chlorofil",
+          "altAnswers": [
+            "chlorofil",
+            "chlorofilu",
+            "chlorofilem"
+          ],
+          "explanation": "Chlorofil to zielony barwnik obecny w chloroplastach. Dzięki niemu roślina może wykorzystywać energię światła."
+        },
+        {
+          "id": "R02_SUPER_16",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Na ilustracji widzisz komórkę z grubą ścianą zewnętrzną, chloroplastami i dużą wakuolą. Jaki to typ komórki?",
+          "options": [
+            "bakteryjna",
+            "zwierzęca",
+            "roślinna",
+            "mięśniowa"
+          ],
+          "answer": 2,
+          "explanation": "Komórkę roślinną rozpoznajemy po ścianie komórkowej, chloroplastach i dużej wakuoli."
+        },
+        {
+          "id": "R02_SUPER_17",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz symbol pierwiastka z jego nazwą.",
+          "options": null,
+          "left": [
+            "H",
+            "C",
+            "O",
+            "N"
+          ],
+          "right": [
+            "węgiel",
+            "wodór",
+            "tlen",
+            "azot"
+          ],
+          "answer": {
+            "H": "wodór",
+            "C": "węgiel",
+            "O": "tlen",
+            "N": "azot"
+          },
+          "image": "bbt_r02_symbole_pierwiastkow.jpg",
+          "explanation": "Międzynarodowe symbole tych pierwiastków to: H - wodór, C - węgiel, O - tlen, N - azot."
+        },
+        {
+          "id": "R02_SUPER_18",
+          "section": "Super trudne",
+          "type": "sort",
+          "prompt": "Przyporządkuj sposoby wykorzystania cukrów do odpowiedniej kategorii.",
+          "options": null,
+          "items": [
+            "oddychanie komórkowe",
+            "budowa ciała rośliny",
+            "magazynowanie na później"
+          ],
+          "categories": [
+            "źródło energii",
+            "materiał budulcowy",
+            "materiał zapasowy"
+          ],
+          "answer": {
+            "źródło energii": [
+              "oddychanie komórkowe"
+            ],
+            "materiał budulcowy": [
+              "budowa ciała rośliny"
+            ],
+            "materiał zapasowy": [
+              "magazynowanie na później"
+            ]
+          },
+          "image": "bbt_r02_produkty_fotosyntezy_cukry.jpg",
+          "explanation": "Cukry mogą być źródłem energii, materiałem budulcowym i materiałem zapasowym."
+        },
+        {
+          "id": "R02_SUPER_19",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Co stanie się z fotosyntezą, gdy temperatura będzie zbyt niska?",
+          "options": [
+            "będzie szybsza niż zwykle",
+            "nie będzie zachodzić",
+            "zamieni się w rozmnażanie",
+            "będzie zależała tylko od wody"
+          ],
+          "answer": 1,
+          "explanation": "W rozdziale napisano, że w zbyt niskiej temperaturze fotosynteza nie zachodzi."
+        },
+        {
+          "id": "R02_SUPER_20",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Uzupełnij na podstawie ilustracji: zielone komórki liścia zawierają __________, a w nich znajduje się zielony barwnik potrzebny do fotosyntezy.",
+          "options": null,
+          "answer": [
+            "chloroplasty"
+          ],
+          "altAnswers": [
+            [
+              "chloroplasty",
+              "chloroplast",
+              "chloroplastach"
+            ]
+          ],
+          "image": "bbt_r02_lisc_chloroplasty.jpg",
+          "explanation": "W zielonych komórkach liścia znajdują się chloroplasty. To w nich jest chlorofil potrzebny do fotosyntezy."
+        }
+      ],
+      "kidPrompts": {
+        "R02_CECHY_08": "Co pokazuje zmrużenie oczu na mocnym świetle?",
+        "R02_ZWIAZKI_10": "Po co potrzebna jest zróżnicowana dieta?",
+        "R02_KOMORKI_10": "Która komórka jest roślinna?",
+        "R02_FOTO_07": "Po co w szklarni dodaje się więcej CO₂?",
+        "R02_SUPER_10": "Czy samo CO₂ wystarczy, gdy brakuje światła?"
+      }
+    },
+    {
+      "id": "r03",
+      "number": 3,
+      "title": "Klasyfikacja i systematyka. Wirusy, bakterie, protisty, grzyby",
+      "icon": "🦠",
+      "sectionOrder": [
+        "Kto jest kim w świecie organizmów?",
+        "Dlaczego wirusy nie są zaliczane do świata organizmów?",
+        "Co dziś wiemy o bakteriach?",
+        "Jak są zbudowane i jak funkcjonują protisty?",
+        "Czym charakteryzuje się królestwo grzybów?"
+      ],
+      "sectionIcons": {
+        "Kto jest kim w świecie organizmów?": "🗂️",
+        "Dlaczego wirusy nie są zaliczane do świata organizmów?": "🦠",
+        "Co dziś wiemy o bakteriach?": "🔬",
+        "Jak są zbudowane i jak funkcjonują protisty?": "💧",
+        "Czym charakteryzuje się królestwo grzybów?": "🍄"
+      },
+      "exercises": [
+        {
+          "id": "R03_KLASYF_01",
+          "section": "Kto jest kim w świecie organizmów?",
+          "type": "single_choice",
+          "prompt": "Co to jest gatunek?",
+          "options": [
+            "grupa różnych królestw",
+            "grupa podobnych osobników, które mogą wydać płodne potomstwo",
+            "najwyższa jednostka systematyczna",
+            "nazwisko badacza"
+          ],
+          "answer": 1,
+          "explanation": "Gatunek to grupa podobnych osobników, które mogą się ze sobą krzyżować i wydawać płodne potomstwo."
+        },
+        {
+          "id": "R03_KLASYF_02",
+          "section": "Kto jest kim w świecie organizmów?",
+          "type": "single_choice",
+          "prompt": "W jakim języku zapisuje się naukowe nazwy organizmów?",
+          "options": [
+            "po polsku",
+            "po łacinie",
+            "po angielsku",
+            "po grecku"
+          ],
+          "answer": 1,
+          "image": "bbt_r03_nazwa_gatunkowa.jpg",
+          "explanation": "Naukowe nazwy organizmów zapisuje się w języku łacińskim, dzięki czemu są zrozumiałe dla biologów na całym świecie."
+        },
+        {
+          "id": "R03_KLASYF_03",
+          "section": "Kto jest kim w świecie organizmów?",
+          "type": "true_false",
+          "prompt": "Nazwa gatunkowa jest dwuczłonowa.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Naukowa nazwa gatunku składa się z dwóch części: nazwy rodzajowej i epitetu gatunkowego."
+        },
+        {
+          "id": "R03_KLASYF_04",
+          "section": "Kto jest kim w świecie organizmów?",
+          "type": "riddle",
+          "prompt": "Jestem podstawową jednostką w systematyce. Kim jestem?",
+          "options": null,
+          "answer": "gatunek",
+          "altAnswers": [
+            "gatunek",
+            "gatunkiem",
+            "gatunku"
+          ],
+          "explanation": "Podstawową jednostką w systematyce jest gatunek."
+        },
+        {
+          "id": "R03_KLASYF_05",
+          "section": "Kto jest kim w świecie organizmów?",
+          "type": "single_choice",
+          "prompt": "Jaka jest najwyższa jednostka systematyczna?",
+          "options": [
+            "rodzina",
+            "rodzaj",
+            "królestwo",
+            "gatunek"
+          ],
+          "answer": 2,
+          "explanation": "Najwyższą jednostką systematyczną jest królestwo."
+        },
+        {
+          "id": "R03_KLASYF_06",
+          "section": "Kto jest kim w świecie organizmów?",
+          "type": "sequence",
+          "prompt": "Ułóż jednostki systematyczne zwierząt od najmniejszej do największej.",
+          "options": null,
+          "items": [
+            "rodzina",
+            "królestwo",
+            "gatunek",
+            "rząd",
+            "rodzaj",
+            "typ",
+            "gromada"
+          ],
+          "answer": [
+            "gatunek",
+            "rodzaj",
+            "rodzina",
+            "rząd",
+            "gromada",
+            "typ",
+            "królestwo"
+          ],
+          "explanation": "W królestwie zwierząt kolejność od najmniejszej jednostki do największej to: gatunek, rodzaj, rodzina, rząd, gromada, typ, królestwo."
+        },
+        {
+          "id": "R03_KLASYF_07",
+          "section": "Kto jest kim w świecie organizmów?",
+          "type": "scenario",
+          "prompt": "Spójrz na ilustrację z liśćmi. Widzisz liść z wyraźnymi wcięciami. Do którego drzewa należy?",
+          "options": [
+            "do brzozy",
+            "do dębu",
+            "do jodły",
+            "do sosny"
+          ],
+          "answer": 1,
+          "image": "bbt_r03_klucz_lisci_drzewa.jpg",
+          "explanation": "Liść z wyraźnymi wcięciami to liść dębu."
+        },
+        {
+          "id": "R03_KLASYF_08",
+          "section": "Kto jest kim w świecie organizmów?",
+          "type": "sort",
+          "prompt": "Przyporządkuj drzewa do właściwej grupy liści.",
+          "options": null,
+          "items": [
+            "świerk",
+            "jodła",
+            "brzoza",
+            "dąb"
+          ],
+          "categories": [
+            "wąskie liście w kształcie igieł",
+            "szerokie liście"
+          ],
+          "answer": {
+            "wąskie liście w kształcie igieł": [
+              "świerk",
+              "jodła"
+            ],
+            "szerokie liście": [
+              "brzoza",
+              "dąb"
+            ]
+          },
+          "explanation": "Świerk i jodła mają igły, a brzoza i dąb mają szerokie liście."
+        },
+        {
+          "id": "R03_KLASYF_09",
+          "section": "Kto jest kim w świecie organizmów?",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: Jednostką niższą niż gatunek jest u zwierząt __________, a u roślin __________.",
+          "options": null,
+          "answer": [
+            "rasa",
+            "odmiana"
+          ],
+          "altAnswers": [
+            [
+              "rasa",
+              "rasa zwierząt",
+              "rasą"
+            ],
+            [
+              "odmiana",
+              "odmianą",
+              "odmiany"
+            ]
+          ],
+          "explanation": "Niżej niż gatunek znajduje się rasa u zwierząt i odmiana u roślin."
+        },
+        {
+          "id": "R03_KLASYF_10",
+          "section": "Kto jest kim w świecie organizmów?",
+          "type": "multi_select",
+          "prompt": "Zaznacz wszystkie królestwa organizmów opisane w rozdziale.",
+          "options": [
+            "bakterie",
+            "protisty",
+            "grzyby",
+            "rośliny",
+            "zwierzęta",
+            "wirusy"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "image": "bbt_r03_krolestwa_organizmy.jpg",
+          "explanation": "W rozdziale wymieniono pięć królestw organizmów: bakterie, protisty, grzyby, rośliny i zwierzęta. Wirusy nie są zaliczane do świata organizmów."
+        },
+        {
+          "id": "R03_WIRUSY_01",
+          "section": "Dlaczego wirusy nie są zaliczane do świata organizmów?",
+          "type": "single_choice",
+          "prompt": "Z czego zbudowany jest wirus?",
+          "options": [
+            "z komórki z jądrem",
+            "z otoczki białkowej i materiału genetycznego",
+            "z cytoplazmy i chloroplastów",
+            "ze ściany komórkowej i wakuoli"
+          ],
+          "answer": 1,
+          "explanation": "Wirus składa się z otoczki białkowej oraz materiału genetycznego - DNA lub RNA."
+        },
+        {
+          "id": "R03_WIRUSY_02",
+          "section": "Dlaczego wirusy nie są zaliczane do świata organizmów?",
+          "type": "true_false",
+          "prompt": "Wirus ma budowę komórkową.",
+          "options": null,
+          "answer": false,
+          "image": "bbt_r03_budowa_wirusa.jpg",
+          "explanation": "To fałsz. Wirusy nie mają budowy komórkowej."
+        },
+        {
+          "id": "R03_WIRUSY_03",
+          "section": "Dlaczego wirusy nie są zaliczane do świata organizmów?",
+          "type": "single_choice",
+          "prompt": "Dlaczego wirusy nie są zaliczane do organizmów?",
+          "options": [
+            "bo są zbyt duże",
+            "bo nie mają budowy komórkowej i nie wykonują czynności życiowych",
+            "bo żyją tylko w wodzie",
+            "bo mają chloroplasty"
+          ],
+          "answer": 1,
+          "explanation": "Wirusy nie mają budowy komórkowej i nie wykonują samodzielnie czynności życiowych, dlatego nie są zaliczane do organizmów."
+        },
+        {
+          "id": "R03_WIRUSY_04",
+          "section": "Dlaczego wirusy nie są zaliczane do świata organizmów?",
+          "type": "riddle",
+          "prompt": "Składam się z białkowej otoczki i materiału genetycznego, ale nie jestem organizmem. Kim jestem?",
+          "options": null,
+          "answer": "wirus",
+          "altAnswers": [
+            "wirus",
+            "wirusem",
+            "wirusa"
+          ],
+          "explanation": "Tak opisujemy wirusa."
+        },
+        {
+          "id": "R03_WIRUSY_05",
+          "section": "Dlaczego wirusy nie są zaliczane do świata organizmów?",
+          "type": "scenario",
+          "prompt": "Chora osoba kaszle obok ciebie i wyrzuca z ust drobne krople z wirusem. Jak nazywa się ta droga zakażenia?",
+          "options": [
+            "droga kropelkowa",
+            "krew",
+            "ciąża i poród",
+            "drogi moczowo-płciowe"
+          ],
+          "answer": 0,
+          "image": "bbt_r03_drogi_wirusy.jpg",
+          "explanation": "Kaszel i kichanie rozprzestrzeniają wirusy drogą kropelkową."
+        },
+        {
+          "id": "R03_WIRUSY_06",
+          "section": "Dlaczego wirusy nie są zaliczane do świata organizmów?",
+          "type": "multi_select",
+          "prompt": "Zaznacz działania, które pomagają zapobiegać chorobom wirusowym.",
+          "options": [
+            "szczepienia profilaktyczne",
+            "częste mycie rąk",
+            "dotykanie oczu i nosa brudnymi rękami",
+            "wietrzenie pokoju",
+            "zachowywanie odstępu od osoby kichającej"
+          ],
+          "answer": [
+            0,
+            1,
+            3,
+            4
+          ],
+          "explanation": "Profilaktyka obejmuje między innymi szczepienia, mycie rąk, wietrzenie pokoju i unikanie bliskiego kontaktu z osobą chorą."
+        },
+        {
+          "id": "R03_WIRUSY_07",
+          "section": "Dlaczego wirusy nie są zaliczane do świata organizmów?",
+          "type": "true_false",
+          "prompt": "Pandemia to epidemia o bardzo dużych rozmiarach, obejmująca nawet kontynenty.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Pandemia obejmuje bardzo duży obszar, nawet kilka kontynentów."
+        },
+        {
+          "id": "R03_WIRUSY_08",
+          "section": "Dlaczego wirusy nie są zaliczane do świata organizmów?",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: W wirusie znajdują się __________ oraz materiał genetyczny DNA lub RNA.",
+          "options": null,
+          "answer": [
+            "otoczka białkowa"
+          ],
+          "altAnswers": [
+            [
+              "otoczka białkowa",
+              "otoczki białkowe",
+              "otoczka",
+              "białkowa otoczka"
+            ]
+          ],
+          "explanation": "Wirus składa się z otoczki białkowej i materiału genetycznego."
+        },
+        {
+          "id": "R03_WIRUSY_09",
+          "section": "Dlaczego wirusy nie są zaliczane do świata organizmów?",
+          "type": "sequence",
+          "prompt": "Ułóż etapy namnażania się wirusa w dobrej kolejności.",
+          "options": null,
+          "items": [
+            "wirusy opuszczają komórkę",
+            "wirus wnika do komórki",
+            "powstaje wiele nowych wirusów"
+          ],
+          "answer": [
+            "wirus wnika do komórki",
+            "powstaje wiele nowych wirusów",
+            "wirusy opuszczają komórkę"
+          ],
+          "image": "bbt_r03_cykl_wirusa.jpg",
+          "explanation": "Najpierw wirus wnika do komórki, potem się w niej namnaża, a na końcu nowe wirusy ją opuszczają."
+        },
+        {
+          "id": "R03_WIRUSY_10",
+          "section": "Dlaczego wirusy nie są zaliczane do świata organizmów?",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: droga kropelkowa, krew, ciąża i poród, fotosynteza.",
+          "options": null,
+          "answer": "fotosynteza",
+          "explanation": "Trzy pierwsze odpowiedzi to drogi rozprzestrzeniania się wirusów. Fotosynteza nie ma z tym związku."
+        },
+        {
+          "id": "R03_BAKT_01",
+          "section": "Co dziś wiemy o bakteriach?",
+          "type": "single_choice",
+          "prompt": "Jak najłatwiej zobaczyć bakterie?",
+          "options": [
+            "gołym okiem",
+            "przez lornetkę",
+            "pod mikroskopem",
+            "w teleskopie"
+          ],
+          "answer": 2,
+          "explanation": "Bakterie są bardzo małe, dlatego można je dostrzec dopiero pod mikroskopem."
+        },
+        {
+          "id": "R03_BAKT_02",
+          "section": "Co dziś wiemy o bakteriach?",
+          "type": "match",
+          "prompt": "Połącz formę bakterii z przykładem.",
+          "options": null,
+          "left": [
+            "wydłużone",
+            "kuliste",
+            "skręcone"
+          ],
+          "right": [
+            "np. pałeczki i laseczki",
+            "np. dwoinki i gronkowce",
+            "np. krętki i śrubowce"
+          ],
+          "answer": {
+            "wydłużone": "np. pałeczki i laseczki",
+            "kuliste": "np. dwoinki i gronkowce",
+            "skręcone": "np. krętki i śrubowce"
+          },
+          "image": "bbt_r03_formy_bakterii.jpg",
+          "explanation": "Bakterie mogą mieć różne kształty: wydłużony, kulisty lub skręcony."
+        },
+        {
+          "id": "R03_BAKT_03",
+          "section": "Co dziś wiemy o bakteriach?",
+          "type": "true_false",
+          "prompt": "Bakterie mogą mieć formy kuliste, wydłużone albo skręcone.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. W rozdziale pokazano trzy podstawowe formy bakterii."
+        },
+        {
+          "id": "R03_BAKT_04",
+          "section": "Co dziś wiemy o bakteriach?",
+          "type": "sequence",
+          "prompt": "Ułóż etapy podziału komórki bakterii.",
+          "options": null,
+          "items": [
+            "powstają dwie komórki potomne",
+            "komórka macierzysta",
+            "komórka w trakcie podziału"
+          ],
+          "answer": [
+            "komórka macierzysta",
+            "komórka w trakcie podziału",
+            "powstają dwie komórki potomne"
+          ],
+          "image": "bbt_r03_podzial_bakterii.jpg",
+          "explanation": "Najpierw jest komórka macierzysta, potem dzieli się, a na końcu powstają dwie komórki potomne."
+        },
+        {
+          "id": "R03_BAKT_05",
+          "section": "Co dziś wiemy o bakteriach?",
+          "type": "single_choice",
+          "prompt": "Co może powstać, gdy komórki potomne po podziale nie rozdzielą się całkowicie?",
+          "options": [
+            "liść",
+            "kolonia bakterii",
+            "chloroplast",
+            "owocnik"
+          ],
+          "answer": 1,
+          "explanation": "Jeżeli komórki pozostaną połączone, może powstać kolonia bakterii."
+        },
+        {
+          "id": "R03_BAKT_06",
+          "section": "Co dziś wiemy o bakteriach?",
+          "type": "multi_select",
+          "prompt": "Skąd bakterie cudzożywne mogą pobierać pokarm?",
+          "options": [
+            "z martwych szczątków organizmów",
+            "ze współpracy z innymi organizmami",
+            "z innych organizmów",
+            "tylko ze światła słonecznego"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Bakterie cudzożywne pobierają gotowe związki organiczne - z martwych szczątków, od innych organizmów albo dzięki współpracy z nimi."
+        },
+        {
+          "id": "R03_BAKT_07",
+          "section": "Co dziś wiemy o bakteriach?",
+          "type": "scenario",
+          "prompt": "Na ilustracji widać różne źródła pokarmu bakterii. Które bakterie współpracują z organizmem i wymieniają z nim korzyści?",
+          "options": [
+            "bakterie jelitowe",
+            "bakterie z martwych szczątków",
+            "bakterie chorobotwórcze",
+            "żadne bakterie"
+          ],
+          "answer": 0,
+          "image": "bbt_r03_zrodla_pokarmu_bakterii.jpg",
+          "explanation": "Bakterie jelitowe są przykładem bakterii, które współpracują z innym organizmem."
+        },
+        {
+          "id": "R03_BAKT_08",
+          "section": "Co dziś wiemy o bakteriach?",
+          "type": "single_choice",
+          "prompt": "Jak nazywają się bakterie, które oddychają z udziałem tlenu?",
+          "options": [
+            "beztlenowe",
+            "tlenowe",
+            "wielokomórkowe",
+            "pasożytnicze"
+          ],
+          "answer": 1,
+          "explanation": "Bakterie wykorzystujące tlen w oddychaniu nazywamy bakteriami tlenowymi."
+        },
+        {
+          "id": "R03_BAKT_09",
+          "section": "Co dziś wiemy o bakteriach?",
+          "type": "true_false",
+          "prompt": "Niektóre bakterie mogą uzyskiwać energię bez udziału tlenu, na przykład w procesie fermentacji.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Tak działają bakterie beztlenowe."
+        },
+        {
+          "id": "R03_BAKT_10",
+          "section": "Co dziś wiemy o bakteriach?",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: Bakterie rozmnażają się przez __________ komórki.",
+          "options": null,
+          "answer": [
+            "podział"
+          ],
+          "altAnswers": [
+            [
+              "podział",
+              "podzial",
+              "dzielenie",
+              "podział komórki",
+              "dzielenie komórki"
+            ]
+          ],
+          "explanation": "Bakterie rozmnażają się przez podział komórki."
+        },
+        {
+          "id": "R03_PROT_01",
+          "section": "Jak są zbudowane i jak funkcjonują protisty?",
+          "type": "single_choice",
+          "prompt": "Co jest wspólną cechą wszystkich protistów?",
+          "options": [
+            "brak jądra komórkowego",
+            "obecność jądra komórkowego",
+            "zawsze brak ściany komórkowej",
+            "zawsze wielokomórkowa budowa"
+          ],
+          "answer": 1,
+          "explanation": "Wspólną cechą wszystkich protistów jest obecność jądra komórkowego."
+        },
+        {
+          "id": "R03_PROT_02",
+          "section": "Jak są zbudowane i jak funkcjonują protisty?",
+          "type": "true_false",
+          "prompt": "Wśród protistów są organizmy jednokomórkowe i wielokomórkowe.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. W królestwie protistów są zarówno formy jedno-, jak i wielokomórkowe."
+        },
+        {
+          "id": "R03_PROT_03",
+          "section": "Jak są zbudowane i jak funkcjonują protisty?",
+          "type": "sort",
+          "prompt": "Przyporządkuj przykłady do odpowiednich grup protistów.",
+          "options": null,
+          "items": [
+            "pantofelek",
+            "euglena zielona",
+            "wykwit piankowaty"
+          ],
+          "categories": [
+            "protisty zwierzęce",
+            "protisty roślinopodobne",
+            "protisty grzybopodobne"
+          ],
+          "answer": {
+            "protisty zwierzęce": [
+              "pantofelek"
+            ],
+            "protisty roślinopodobne": [
+              "euglena zielona"
+            ],
+            "protisty grzybopodobne": [
+              "wykwit piankowaty"
+            ]
+          },
+          "image": "bbt_r03_grupy_protistow.jpg",
+          "explanation": "Pantofelek to protist zwierzęcy, euglena zielona jest protistem roślinopodobnym, a wykwit piankowaty należy do protistów grzybopodobnych."
+        },
+        {
+          "id": "R03_PROT_04",
+          "section": "Jak są zbudowane i jak funkcjonują protisty?",
+          "type": "single_choice",
+          "prompt": "Jak potocznie nazywa się protisty zwierzęce?",
+          "options": [
+            "porosty",
+            "pierwotniaki",
+            "strzępki",
+            "zarodnie"
+          ],
+          "answer": 1,
+          "explanation": "Protisty zwierzęce potocznie nazywa się pierwotniakami."
+        },
+        {
+          "id": "R03_PROT_05",
+          "section": "Jak są zbudowane i jak funkcjonują protisty?",
+          "type": "multi_select",
+          "prompt": "Zaznacz cechy protistów roślinopodobnych.",
+          "options": [
+            "mają chloroplasty",
+            "mogą być jedno- lub wielokomórkowe",
+            "nie mają ściany komórkowej",
+            "są potocznie nazywane glonami"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
+          "explanation": "Protisty roślinopodobne mają chloroplasty, mogą być jedno- lub wielokomórkowe i często nazywa się je glonami."
+        },
+        {
+          "id": "R03_PROT_06",
+          "section": "Jak są zbudowane i jak funkcjonują protisty?",
+          "type": "scenario",
+          "prompt": "Pantofelek poluje na drobne organizmy w wodzie. Jak nazywamy taki sposób odżywiania?",
+          "options": [
+            "cudzożywność",
+            "samożywność",
+            "fotosynteza",
+            "kiełkowanie"
+          ],
+          "answer": 0,
+          "image": "bbt_r03_pantofelek_budowa.jpg",
+          "explanation": "Pantofelek jest protistem cudzożywnym - pobiera gotowy pokarm ze środowiska."
+        },
+        {
+          "id": "R03_PROT_07",
+          "section": "Jak są zbudowane i jak funkcjonują protisty?",
+          "type": "single_choice",
+          "prompt": "Która część eugleny pomaga jej poruszać się w wodzie?",
+          "options": [
+            "plamka czerwona",
+            "jądro",
+            "wić",
+            "ściana komórkowa"
+          ],
+          "answer": 2,
+          "explanation": "Euglena porusza się dzięki wici."
+        },
+        {
+          "id": "R03_PROT_08",
+          "section": "Jak są zbudowane i jak funkcjonują protisty?",
+          "type": "match",
+          "prompt": "Połącz element budowy eugleny z jego funkcją.",
+          "options": null,
+          "left": [
+            "wić",
+            "plamka czerwona",
+            "chloroplasty"
+          ],
+          "right": [
+            "umożliwia ruch",
+            "wykrywa światło",
+            "przeprowadzają fotosyntezę"
+          ],
+          "answer": {
+            "wić": "umożliwia ruch",
+            "plamka czerwona": "wykrywa światło",
+            "chloroplasty": "przeprowadzają fotosyntezę"
+          },
+          "image": "bbt_r03_euglena_budowa.jpg",
+          "explanation": "Wić pomaga się poruszać, plamka czerwona reaguje na światło, a chloroplasty przeprowadzają fotosyntezę."
+        },
+        {
+          "id": "R03_PROT_09",
+          "section": "Jak są zbudowane i jak funkcjonują protisty?",
+          "type": "single_choice",
+          "prompt": "Jak rozmnażają się bezpłciowo protisty jednokomórkowe, na przykład pantofelek?",
+          "options": [
+            "przez podział komórki",
+            "przez pączkowanie",
+            "przez tworzenie owocników",
+            "przez wytwarzanie nasion"
+          ],
+          "answer": 0,
+          "explanation": "Protisty jednokomórkowe rozmnażają się bezpłciowo przez podział komórki."
+        },
+        {
+          "id": "R03_PROT_10",
+          "section": "Jak są zbudowane i jak funkcjonują protisty?",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: Euglena zielona jest protistem __________, bo przy świetle może fotosyntetyzować, a w ciemności pobiera pokarm ze środowiska.",
+          "options": null,
+          "answer": [
+            "zmiennożywnym"
+          ],
+          "altAnswers": [
+            [
+              "zmiennożywnym",
+              "zmiennożywna",
+              "zmiennożywna",
+              "zmiennożywny"
+            ]
+          ],
+          "explanation": "Euglena potrafi odżywiać się na dwa sposoby, dlatego jest protistem zmiennożywnym."
+        },
+        {
+          "id": "R03_GRZY_01",
+          "section": "Czym charakteryzuje się królestwo grzybów?",
+          "type": "single_choice",
+          "prompt": "Z czego zbudowana jest ściana komórkowa grzybów?",
+          "options": [
+            "z celulozy",
+            "z chityny",
+            "z chlorofilu",
+            "z tłuszczu"
+          ],
+          "answer": 1,
+          "explanation": "Ściana komórkowa grzybów jest zbudowana z chityny."
+        },
+        {
+          "id": "R03_GRZY_02",
+          "section": "Czym charakteryzuje się królestwo grzybów?",
+          "type": "multi_select",
+          "prompt": "Zaznacz cechy grzybów.",
+          "options": [
+            "mają jądro komórkowe",
+            "mają chloroplasty",
+            "są cudzożywne",
+            "mogą być jedno- lub wielokomórkowe"
+          ],
+          "answer": [
+            0,
+            2,
+            3
+          ],
+          "explanation": "Grzyby mają jądro komórkowe, są cudzożywne i mogą być jedno- lub wielokomórkowe. Nie mają chloroplastów."
+        },
+        {
+          "id": "R03_GRZY_03",
+          "section": "Czym charakteryzuje się królestwo grzybów?",
+          "type": "single_choice",
+          "prompt": "Jak nazywa się ciało grzyba, które często ma postać długich nitek?",
+          "options": [
+            "owocnik",
+            "grzybnia",
+            "kolonia",
+            "wodniczka"
+          ],
+          "answer": 1,
+          "image": "bbt_r03_cechy_grzybow.jpg",
+          "explanation": "Ciało grzybów to grzybnia. Często ma postać długich nitek, czyli strzępek."
+        },
+        {
+          "id": "R03_GRZY_04",
+          "section": "Czym charakteryzuje się królestwo grzybów?",
+          "type": "true_false",
+          "prompt": "Grzyby mają chloroplasty.",
+          "options": null,
+          "answer": false,
+          "explanation": "To fałsz. Grzyby nie mają chloroplastów."
+        },
+        {
+          "id": "R03_GRZY_05",
+          "section": "Czym charakteryzuje się królestwo grzybów?",
+          "type": "scenario",
+          "prompt": "Na chlebie pojawił się biały nalot, a potem ciemne kropki. Jaki grzyb tam rośnie?",
+          "options": [
+            "drożdże",
+            "pleśniak",
+            "porost",
+            "borowik"
+          ],
+          "answer": 1,
+          "image": "bbt_r03_drozdze_plesniak.jpg",
+          "explanation": "Pleśniak rośnie na produktach spożywczych i powoduje ich pleśnienie."
+        },
+        {
+          "id": "R03_GRZY_06",
+          "section": "Czym charakteryzuje się królestwo grzybów?",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: Drożdże rozmnażają się przez __________.",
+          "options": null,
+          "answer": [
+            "pączkowanie"
+          ],
+          "altAnswers": [
+            [
+              "pączkowanie",
+              "paczkowanie",
+              "pączkowanie się"
+            ]
+          ],
+          "explanation": "Drożdże rozmnażają się przez pączkowanie."
+        },
+        {
+          "id": "R03_GRZY_07",
+          "section": "Czym charakteryzuje się królestwo grzybów?",
+          "type": "single_choice",
+          "prompt": "Jak nazywają się długie nitki budujące ciało wielu grzybów?",
+          "options": [
+            "rzęski",
+            "strzępki",
+            "igły",
+            "wici"
+          ],
+          "answer": 1,
+          "explanation": "Długie nitki budujące grzybnię to strzępki."
+        },
+        {
+          "id": "R03_GRZY_08",
+          "section": "Czym charakteryzuje się królestwo grzybów?",
+          "type": "single_choice",
+          "prompt": "Co widać na ilustracji pod ziemią pod grzybem kapeluszowym?",
+          "options": [
+            "nasiona",
+            "grzybnię",
+            "korzenie zwierzęcia",
+            "zarodki wirusa"
+          ],
+          "answer": 1,
+          "image": "bbt_r03_grzyb_kapeluszowy.jpg",
+          "explanation": "Pod ziemią znajduje się grzybnia - sieć luźno ułożonych strzępek."
+        },
+        {
+          "id": "R03_GRZY_09",
+          "section": "Czym charakteryzuje się królestwo grzybów?",
+          "type": "match",
+          "prompt": "Połącz partnera porostu z jego zadaniem.",
+          "options": null,
+          "left": [
+            "glon",
+            "grzyb"
+          ],
+          "right": [
+            "wytwarza cukier",
+            "dostarcza wodę i sole mineralne"
+          ],
+          "answer": {
+            "glon": "wytwarza cukier",
+            "grzyb": "dostarcza wodę i sole mineralne"
+          },
+          "explanation": "W poroście glon prowadzi fotosyntezę i daje cukier, a grzyb dostarcza wodę i sole mineralne."
+        },
+        {
+          "id": "R03_GRZY_10",
+          "section": "Czym charakteryzuje się królestwo grzybów?",
+          "type": "true_false",
+          "prompt": "Niektóre grzyby mogą oddychać beztlenowo.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Przykładem grzybów mogących oddychać beztlenowo są drożdże."
+        },
+        {
+          "id": "R03_SUPER_01",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "W nazwie naukowej Canis familiaris który wyraz oznacza nazwę rodzajową?",
+          "options": [
+            "Canis",
+            "familiaris",
+            "oba wyrazy razem oznaczają rodzaj",
+            "żaden"
+          ],
+          "answer": 0,
+          "image": "bbt_r03_nazwa_gatunkowa.jpg",
+          "explanation": "W nazwie Canis familiaris wyraz Canis jest nazwą rodzajową, a familiaris to epitet gatunkowy."
+        },
+        {
+          "id": "R03_SUPER_02",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Masz przed sobą liście w kształcie igieł. Wyrastają pojedynczo z gałązki i są tępo zakończone. Jakie to drzewo?",
+          "options": [
+            "świerk",
+            "jodła",
+            "sosna",
+            "modrzew"
+          ],
+          "answer": 1,
+          "image": "bbt_r03_klucz_lisci_drzewa.jpg",
+          "explanation": "Igły wyrastające pojedynczo i tępo zakończone są cechą jodły."
+        },
+        {
+          "id": "R03_SUPER_03",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Która jednostka systematyczna występuje u zwierząt, ale nie w podanym zestawie roślin?",
+          "options": [
+            "rodzina",
+            "rodzaj",
+            "typ",
+            "gatunek"
+          ],
+          "answer": 2,
+          "explanation": "W zestawie zwierząt pojawia się typ, a u roślin zamiast niego używa się gromady."
+        },
+        {
+          "id": "R03_SUPER_04",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: U zwierząt niżej niż gatunek znajduje się __________, a u roślin __________.",
+          "options": null,
+          "answer": [
+            "rasa",
+            "odmiana"
+          ],
+          "altAnswers": [
+            [
+              "rasa",
+              "rasa zwierząt",
+              "rasą"
+            ],
+            [
+              "odmiana",
+              "odmianą",
+              "odmiany"
+            ]
+          ],
+          "explanation": "Pod gatunkiem znajduje się rasa u zwierząt i odmiana u roślin."
+        },
+        {
+          "id": "R03_SUPER_05",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Czym pandemia różni się od epidemii?",
+          "options": [
+            "dotyczy tylko zwierząt",
+            "obejmuje bardzo duży obszar, nawet kontynenty",
+            "trwa krócej",
+            "powodują ją tylko bakterie"
+          ],
+          "answer": 1,
+          "explanation": "Pandemia to epidemia o bardzo dużym zasięgu - może obejmować nawet kontynenty."
+        },
+        {
+          "id": "R03_SUPER_06",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Zaznacz wszystkie argumenty z rozdziału, które pokazują, że wirusy nie są organizmami.",
+          "options": [
+            "nie mają budowy komórkowej",
+            "nie wykonują samodzielnie czynności życiowych",
+            "mają DNA lub RNA",
+            "rozmnażają się tylko w komórce gospodarza"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
+          "image": "bbt_r03_budowa_wirusa.jpg",
+          "explanation": "To, że wirusy mają DNA lub RNA, upodabnia je do organizmów. Nie zalicza się ich jednak do organizmów, bo nie mają budowy komórkowej, nie wykonują czynności życiowych i namnażają się tylko w komórkach gospodarza."
+        },
+        {
+          "id": "R03_SUPER_07",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Który opis najlepiej pasuje do wirusa?",
+          "options": [
+            "komórka z jądrem i chloroplastami",
+            "otoczka białkowa oraz DNA lub RNA",
+            "ściana komórkowa i cytoplazma",
+            "strzępki i zarodnie"
+          ],
+          "answer": 1,
+          "explanation": "Wirus składa się z otoczki białkowej i materiału genetycznego - DNA lub RNA."
+        },
+        {
+          "id": "R03_SUPER_08",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Udzielasz pierwszej pomocy osobie, która krwawi. Jaką zasadę profilaktyki z rozdziału trzeba zastosować?",
+          "options": [
+            "umyć owoce",
+            "założyć jednorazowe rękawiczki",
+            "otworzyć okno",
+            "zjeść witaminy"
+          ],
+          "answer": 1,
+          "image": "bbt_r03_drogi_wirusy.jpg",
+          "explanation": "Przy kontakcie z krwią należy używać jednorazowych rękawiczek."
+        },
+        {
+          "id": "R03_SUPER_09",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Jeśli jedna bakteria dzieli się co 20 minut i wszystkie komórki przeżywają, to ile komórek będzie po 120 minutach?",
+          "options": [
+            "16",
+            "32",
+            "64",
+            "128"
+          ],
+          "answer": 2,
+          "image": "bbt_r03_podzial_bakterii.jpg",
+          "explanation": "Liczba komórek podwaja się co 20 minut: 1, 2, 4, 8, 16, 32, 64. Po 120 minutach będzie 64 komórek."
+        },
+        {
+          "id": "R03_SUPER_10",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "A ile komórek bakterii będzie po 200 minutach, jeśli podział zachodzi co 20 minut i startujemy od 1 komórki?",
+          "options": [
+            "256",
+            "512",
+            "1024",
+            "2048"
+          ],
+          "answer": 2,
+          "explanation": "Po 200 minutach mamy 10 podwojeń: 1 → 2 → 4 → 8 → 16 → 32 → 64 → 128 → 256 → 512 → 1024."
+        },
+        {
+          "id": "R03_SUPER_11",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "Większość bakterii jest samożywna.",
+          "options": null,
+          "answer": false,
+          "explanation": "To fałsz. Większość bakterii jest cudzożywna."
+        },
+        {
+          "id": "R03_SUPER_12",
+          "section": "Super trudne",
+          "type": "sort",
+          "prompt": "Przyporządkuj przykłady do odpowiedniego typu oddychania bakterii.",
+          "options": null,
+          "items": [
+            "wykorzystują tlen",
+            "fermentacja",
+            "żyją bez udziału tlenu",
+            "oddychanie tlenowe"
+          ],
+          "categories": [
+            "bakterie tlenowe",
+            "bakterie beztlenowe"
+          ],
+          "answer": {
+            "bakterie tlenowe": [
+              "wykorzystują tlen",
+              "oddychanie tlenowe"
+            ],
+            "bakterie beztlenowe": [
+              "fermentacja",
+              "żyją bez udziału tlenu"
+            ]
+          },
+          "explanation": "Bakterie tlenowe wykorzystują tlen, a bakterie beztlenowe żyją i uzyskują energię bez udziału tlenu, na przykład dzięki fermentacji."
+        },
+        {
+          "id": "R03_SUPER_13",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Która grupa protistów ma komórki podobne do komórek grzybów - ze ścianą komórkową i bez chloroplastów?",
+          "options": [
+            "protisty zwierzęce",
+            "protisty roślinopodobne",
+            "protisty grzybopodobne",
+            "żadna"
+          ],
+          "answer": 2,
+          "explanation": "Takie cechy mają protisty grzybopodobne."
+        },
+        {
+          "id": "R03_SUPER_14",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Euglena znalazła się w ciemnym miejscu, gdzie brakuje światła. Jak będzie zdobywać pokarm?",
+          "options": [
+            "przez fotosyntezę jak zwykle",
+            "stanie się cudzożywna i pobierze pokarm ze środowiska",
+            "przestanie oddychać",
+            "zamieni się w grzyb"
+          ],
+          "answer": 1,
+          "image": "bbt_r03_euglena_budowa.jpg",
+          "explanation": "Euglena jest zmiennożywna. W świetle fotosyntetyzuje, a w ciemności pobiera pokarm ze środowiska."
+        },
+        {
+          "id": "R03_SUPER_15",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "Pantofelek jest protistem cudzożywnym i drapieżnikiem.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. W rozdziale pantofelek został podany jako protist cudzożywny i drapieżnik."
+        },
+        {
+          "id": "R03_SUPER_16",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz typ protista z bezpłciowym sposobem rozmnażania.",
+          "options": null,
+          "left": [
+            "protist jednokomórkowy",
+            "protist wielokomórkowy"
+          ],
+          "right": [
+            "podział komórki",
+            "fragmentacja ciała"
+          ],
+          "answer": {
+            "protist jednokomórkowy": "podział komórki",
+            "protist wielokomórkowy": "fragmentacja ciała"
+          },
+          "explanation": "Protisty jednokomórkowe rozmnażają się przez podział komórki, a wielokomórkowe mogą rozmnażać się przez fragmentację ciała."
+        },
+        {
+          "id": "R03_SUPER_17",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Dlaczego królestwo protistów nazwano w rozdziale sztuczną jednostką systematyczną?",
+          "options": [
+            "bo żyją tylko w laboratorium",
+            "bo zalicza się do niego organizmy, których nie można włączyć do pozostałych królestw",
+            "bo wszystkie protisty są identyczne",
+            "bo protisty nie mają jądra"
+          ],
+          "answer": 1,
+          "explanation": "Królestwo protistów jest bardzo zróżnicowane i obejmuje organizmy, których nie można zaliczyć do bakterii, grzybów, roślin ani zwierząt."
+        },
+        {
+          "id": "R03_SUPER_18",
+          "section": "Super trudne",
+          "type": "sort",
+          "prompt": "Przyporządkuj korzyść do właściwego partnera w poroście.",
+          "options": null,
+          "items": [
+            "cukier",
+            "woda i sole mineralne",
+            "ochrona przed wyschnięciem"
+          ],
+          "categories": [
+            "daje glon",
+            "daje grzyb"
+          ],
+          "answer": {
+            "daje glon": [
+              "cukier"
+            ],
+            "daje grzyb": [
+              "woda i sole mineralne",
+              "ochrona przed wyschnięciem"
+            ]
+          },
+          "image": "bbt_r03_porost_wspolpraca.jpg",
+          "explanation": "Glon w poroście wytwarza cukier, a grzyb dostarcza wodę, sole mineralne i chroni przed wyschnięciem."
+        },
+        {
+          "id": "R03_SUPER_19",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Która grupa grzybów jest jednokomórkowa i rozmnaża się przez pączkowanie?",
+          "options": [
+            "porosty",
+            "grzyby kapeluszowe",
+            "drożdże",
+            "pleśniaki"
+          ],
+          "answer": 2,
+          "explanation": "Drożdże są grzybami jednokomórkowymi i rozmnażają się przez pączkowanie."
+        },
+        {
+          "id": "R03_SUPER_20",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Jak duże mogły być niektóre grzyby zasiedlające ląd w okresie syluru?",
+          "options": [
+            "około 10 centymetrów",
+            "około 1 metra",
+            "nawet 10 metrów",
+            "ponad 100 metrów"
+          ],
+          "answer": 2,
+          "explanation": "W ciekawostce podano, że niektóre dawne grzyby lądowe osiągały nawet 10 metrów wysokości."
+        }
+      ],
+      "kidPrompts": {
+        "R03_KLASYF_07": "Który liść należy do dębu?",
+        "R03_WIRUSY_05": "Jak nazywa się zakażenie przez kaszel i kichanie?",
+        "R03_BAKT_04": "W jakiej kolejności dzieli się bakteria?",
+        "R03_PROT_08": "Co robi wić, a co robi plamka czerwona eugleny?",
+        "R03_GRZY_09": "Co daje glon, a co daje grzyb w poroście?"
+      },
+      "visuals": [
+        {
+          "file": "r03/01_bakterie_formy_i_czynnosci_zyciowe.jpg",
+          "title": "Bakterie formy i czynności życiowe",
+          "kind": "infografika"
+        },
+        {
+          "file": "r03/02_protisty_trzy_grupy_i_ich_cechy.jpg",
+          "title": "Protisty trzy grupy i ich cechy",
+          "kind": "infografika"
+        },
+        {
+          "file": "r03/03_grzyby_budowa_i_zrodla_pokarmu.jpg",
+          "title": "Grzyby budowa i źródła pokarmu",
+          "kind": "infografika"
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "number": 4,
+      "title": "Tkanki i organy roślinne",
+      "icon": "🌿",
+      "sectionOrder": [
+        "Czym są tkanki roślinne?",
+        "Jak budowa tkanek pomaga roślinie?",
+        "Korzeń, łodyga i liść - co robią?",
+        "Korzeń i jego modyfikacje",
+        "Łodyga, liść i ich modyfikacje"
+      ],
+      "sectionIcons": {
+        "Czym są tkanki roślinne?": "🧩",
+        "Jak budowa tkanek pomaga roślinie?": "🔬",
+        "Korzeń, łodyga i liść - co robią?": "🌱",
+        "Korzeń i jego modyfikacje": "🟤",
+        "Łodyga, liść i ich modyfikacje": "🍃"
+      },
+      "exercises": [
+        {
+          "id": "R04_TKANKI_01",
+          "section": "Czym są tkanki roślinne?",
+          "type": "single_choice",
+          "prompt": "Co to jest tkanka?",
+          "options": [
+            "zespół podobnych komórek pełniących tę samą funkcję",
+            "pojedyncza komórka liścia",
+            "cała roślina",
+            "tylko część korzenia"
+          ],
+          "answer": 0,
+          "explanation": "Tkanka to zespół komórek o podobnej budowie, które wykonują tę samą funkcję."
+        },
+        {
+          "id": "R04_TKANKI_02",
+          "section": "Czym są tkanki roślinne?",
+          "type": "true_false",
+          "prompt": "Mchy nie mają wszystkich typowych tkanek roślinnych.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. W rozdziale podano, że mchy są wyjątkiem i nie mają wszystkich typowych tkanek roślinnych."
+        },
+        {
+          "id": "R04_TKANKI_03",
+          "section": "Czym są tkanki roślinne?",
+          "type": "sequence",
+          "prompt": "Ułóż poziomy budowy rośliny od najmniejszego do największego.",
+          "options": null,
+          "items": [
+            "organ",
+            "organizm",
+            "komórka",
+            "tkanka"
+          ],
+          "answer": [
+            "komórka",
+            "tkanka",
+            "organ",
+            "organizm"
+          ],
+          "image": "bbt_r04_hierarchiczna_budowa_rosliny.jpg",
+          "explanation": "Najpierw jest komórka. Z komórek powstaje tkanka, z tkanek organ, a z organów cały organizm."
+        },
+        {
+          "id": "R04_TKANKI_04",
+          "section": "Czym są tkanki roślinne?",
+          "type": "multi_select",
+          "prompt": "Zaznacz organy rośliny wymienione w rozdziale.",
+          "options": [
+            "korzeń",
+            "łodyga",
+            "liść",
+            "jądro",
+            "kwiat",
+            "owoc"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4,
+            5
+          ],
+          "explanation": "Do organów roślin należą korzeń, łodyga, liść, kwiat i owoc. Jądro nie jest organem rośliny."
+        },
+        {
+          "id": "R04_TKANKI_05",
+          "section": "Czym są tkanki roślinne?",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: Tkanka to zespół __________ o podobnej budowie, które pełnią tę samą __________.",
+          "options": null,
+          "answer": [
+            "komórek",
+            "funkcję"
+          ],
+          "altAnswers": [
+            [
+              "komórek",
+              "komórki",
+              "komórka"
+            ],
+            [
+              "funkcję",
+              "funkcja",
+              "funkcje"
+            ]
+          ],
+          "explanation": "Tkanka składa się z komórek i wykonuje określoną funkcję w organizmie."
+        },
+        {
+          "id": "R04_TKANKI_06",
+          "section": "Czym są tkanki roślinne?",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: korzeń, łodyga, liść, tkanka.",
+          "options": null,
+          "answer": "tkanka",
+          "explanation": "Korzeń, łodyga i liść to organy. Tkanka jest poziomem budowy niższym niż organ."
+        },
+        {
+          "id": "R04_TKANKI_07",
+          "section": "Czym są tkanki roślinne?",
+          "type": "single_choice",
+          "prompt": "Po co roślinom lądowym potrzebne są tkanki?",
+          "options": [
+            "pomagają transportować substancje i chronią przed warunkami otoczenia",
+            "sprawiają, że roślina może świecić w ciemności",
+            "zamieniają roślinę w zwierzę",
+            "służą tylko do ozdoby"
+          ],
+          "answer": 0,
+          "explanation": "Tkanki pomagają roślinom żyć na lądzie - przewodzą substancje i chronią przed trudnymi warunkami."
+        },
+        {
+          "id": "R04_TKANKI_08",
+          "section": "Czym są tkanki roślinne?",
+          "type": "scenario",
+          "prompt": "Ola patrzy na ilustrację poziomów budowy rośliny. Widzi element znajdujący się między komórką a organem. Co to jest?",
+          "options": [
+            "tkanka",
+            "owoc",
+            "kwiat",
+            "kora"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_hierarchiczna_budowa_rosliny.jpg",
+          "explanation": "Między komórką a organem znajduje się tkanka."
+        },
+        {
+          "id": "R04_TKANKI_09",
+          "section": "Czym są tkanki roślinne?",
+          "type": "match",
+          "prompt": "Połącz poziom budowy z przykładem.",
+          "options": null,
+          "left": [
+            "komórka",
+            "tkanka",
+            "organ",
+            "organizm"
+          ],
+          "right": [
+            "pojedyncza komórka liścia",
+            "grupa podobnych komórek",
+            "np. liść",
+            "cała roślina"
+          ],
+          "answer": {
+            "komórka": "pojedyncza komórka liścia",
+            "tkanka": "grupa podobnych komórek",
+            "organ": "np. liść",
+            "organizm": "cała roślina"
+          },
+          "explanation": "Poziomy budowy rośliny układają się od komórki do całego organizmu."
+        },
+        {
+          "id": "R04_TKANKI_10",
+          "section": "Czym są tkanki roślinne?",
+          "type": "single_choice",
+          "prompt": "Jak nazywa się część rośliny wyspecjalizowana w pełnieniu określonej funkcji, zbudowana z różnych tkanek?",
+          "options": [
+            "organ",
+            "chloroplast",
+            "włośnik",
+            "gatunek"
+          ],
+          "answer": 0,
+          "explanation": "Zespoły tkanek tworzą organy, które pełnią określone funkcje."
+        },
+        {
+          "id": "R04_BUDOWA_01",
+          "section": "Jak budowa tkanek pomaga roślinie?",
+          "type": "single_choice",
+          "prompt": "Które tkanki umożliwiają roślinie wzrost?",
+          "options": [
+            "tkanki twórcze",
+            "tkanki okrywające",
+            "tkanki wzmacniające",
+            "tkanki miękiszowe"
+          ],
+          "answer": 0,
+          "explanation": "Tkanki twórcze mają komórki, które intensywnie się dzielą, dlatego roślina rośnie."
+        },
+        {
+          "id": "R04_BUDOWA_02",
+          "section": "Jak budowa tkanek pomaga roślinie?",
+          "type": "scenario",
+          "prompt": "Na ilustracji zaznaczono miejsca, w których roślina rośnie na długość i na grubość. Jakie tkanki tam działają?",
+          "options": [
+            "tkanki twórcze",
+            "tkanki wzmacniające",
+            "tkanki okrywające",
+            "tkanki miękiszowe"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_tkanka_tworcza_wzrost.jpg",
+          "explanation": "Wzrost rośliny umożliwiają tkanki twórcze."
+        },
+        {
+          "id": "R04_BUDOWA_03",
+          "section": "Jak budowa tkanek pomaga roślinie?",
+          "type": "single_choice",
+          "prompt": "Która tkanka znajduje się na powierzchni łodyg, korzeni i liści?",
+          "options": [
+            "okrywająca",
+            "przewodząca",
+            "miękiszowa",
+            "twórcza"
+          ],
+          "answer": 0,
+          "explanation": "Tkanka okrywająca leży na powierzchni organów i chroni roślinę."
+        },
+        {
+          "id": "R04_BUDOWA_04",
+          "section": "Jak budowa tkanek pomaga roślinie?",
+          "type": "true_false",
+          "prompt": "Kutykula na skórce ogranicza parowanie wody.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Kutykula jest warstwą, która ogranicza utratę wody."
+        },
+        {
+          "id": "R04_BUDOWA_05",
+          "section": "Jak budowa tkanek pomaga roślinie?",
+          "type": "single_choice",
+          "prompt": "Co w skórce liścia umożliwia wymianę tlenu i dwutlenku węgla?",
+          "options": [
+            "aparaty szparkowe",
+            "włośniki",
+            "bulwy",
+            "stożek wzrostu"
+          ],
+          "answer": 0,
+          "explanation": "Wymiana gazowa odbywa się przez aparaty szparkowe."
+        },
+        {
+          "id": "R04_BUDOWA_06",
+          "section": "Jak budowa tkanek pomaga roślinie?",
+          "type": "single_choice",
+          "prompt": "Która struktura zwiększa powierzchnię, przez którą korzeń pobiera wodę?",
+          "options": [
+            "włośniki",
+            "korek",
+            "ciernie",
+            "kłącze"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_skorka_korek_wlosniki.jpg",
+          "explanation": "Włośniki zwiększają powierzchnię chłonną korzenia."
+        },
+        {
+          "id": "R04_BUDOWA_07",
+          "section": "Jak budowa tkanek pomaga roślinie?",
+          "type": "single_choice",
+          "prompt": "W której tkance zachodzi fotosynteza?",
+          "options": [
+            "w miękiszu asymilacyjnym",
+            "w korku",
+            "w drewnie",
+            "w tkance wzmacniającej"
+          ],
+          "answer": 0,
+          "explanation": "Miękisz asymilacyjny zawiera chloroplasty, dlatego zachodzi w nim fotosynteza."
+        },
+        {
+          "id": "R04_BUDOWA_08",
+          "section": "Jak budowa tkanek pomaga roślinie?",
+          "type": "single_choice",
+          "prompt": "Która tkanka gromadzi substancje zapasowe?",
+          "options": [
+            "miękisz spichrzowy",
+            "drewno",
+            "korek",
+            "łyko"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_tkanki_miekiszowe.jpg",
+          "explanation": "Miękisz spichrzowy magazynuje substancje zapasowe, na przykład skrobię."
+        },
+        {
+          "id": "R04_BUDOWA_09",
+          "section": "Jak budowa tkanek pomaga roślinie?",
+          "type": "match",
+          "prompt": "Połącz tkankę przewodzącą z tym, co transportuje.",
+          "options": null,
+          "left": [
+            "łyko",
+            "drewno"
+          ],
+          "right": [
+            "substancje pokarmowe",
+            "woda i sole mineralne"
+          ],
+          "answer": {
+            "łyko": "substancje pokarmowe",
+            "drewno": "woda i sole mineralne"
+          },
+          "image": "bbt_r04_tkanki_przewodzace_lyko_drewno.jpg",
+          "explanation": "Łyko przewodzi substancje pokarmowe, a drewno wodę z solami mineralnymi."
+        },
+        {
+          "id": "R04_BUDOWA_10",
+          "section": "Jak budowa tkanek pomaga roślinie?",
+          "type": "single_choice",
+          "prompt": "Która tkanka pomaga liściowi utrzymać kształt i chroni roślinę przed uszkodzeniami?",
+          "options": [
+            "wzmacniająca",
+            "okrywająca",
+            "miękiszowa",
+            "twórcza"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_tkanki_wzmacniajace_lisc.jpg",
+          "explanation": "Tkanka wzmacniająca usztywnia organy rośliny i chroni je przed uszkodzeniami."
+        },
+        {
+          "id": "R04_ORGANY_01",
+          "section": "Korzeń, łodyga i liść - co robią?",
+          "type": "single_choice",
+          "prompt": "Które organy nazywamy wegetatywnymi?",
+          "options": [
+            "korzeń, łodyga i liść",
+            "kwiat i owoc",
+            "nasiono i zarodek",
+            "tylko liść"
+          ],
+          "answer": 0,
+          "explanation": "Organami wegetatywnymi są korzeń, łodyga i liść."
+        },
+        {
+          "id": "R04_ORGANY_02",
+          "section": "Korzeń, łodyga i liść - co robią?",
+          "type": "single_choice",
+          "prompt": "Który organ najczęściej przeprowadza fotosyntezę?",
+          "options": [
+            "liść",
+            "korzeń",
+            "nasiono",
+            "korek"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_funkcje_organow_rosliny.jpg",
+          "explanation": "Głównym miejscem fotosyntezy jest liść."
+        },
+        {
+          "id": "R04_ORGANY_03",
+          "section": "Korzeń, łodyga i liść - co robią?",
+          "type": "multi_select",
+          "prompt": "Zaznacz funkcje liścia.",
+          "options": [
+            "fotosynteza",
+            "wymiana gazowa",
+            "parowanie wody",
+            "utrzymywanie rośliny w podłożu"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Liść przeprowadza fotosyntezę, wymianę gazową i parowanie wody. Utrzymywanie rośliny w podłożu to zadanie korzenia."
+        },
+        {
+          "id": "R04_ORGANY_04",
+          "section": "Korzeń, łodyga i liść - co robią?",
+          "type": "single_choice",
+          "prompt": "Który organ transportuje wodę z korzenia do innych części rośliny?",
+          "options": [
+            "łodyga",
+            "liść",
+            "owoc",
+            "nasiono"
+          ],
+          "answer": 0,
+          "explanation": "Łodyga pośredniczy w transporcie wody i soli mineralnych z korzenia."
+        },
+        {
+          "id": "R04_ORGANY_05",
+          "section": "Korzeń, łodyga i liść - co robią?",
+          "type": "single_choice",
+          "prompt": "Który organ utrzymuje roślinę w podłożu?",
+          "options": [
+            "korzeń",
+            "łodyga",
+            "liść",
+            "kwiat"
+          ],
+          "answer": 0,
+          "explanation": "Korzeń utrzymuje roślinę w glebie."
+        },
+        {
+          "id": "R04_ORGANY_06",
+          "section": "Korzeń, łodyga i liść - co robią?",
+          "type": "sort",
+          "prompt": "Przyporządkuj funkcje do właściwego organu rośliny.",
+          "options": null,
+          "items": [
+            "fotosynteza",
+            "utrzymywanie w podłożu",
+            "transport wody",
+            "parowanie wody",
+            "pobieranie wody i soli mineralnych",
+            "utrzymanie kształtu rośliny"
+          ],
+          "categories": [
+            "korzeń",
+            "łodyga",
+            "liść"
+          ],
+          "answer": {
+            "korzeń": [
+              "utrzymywanie w podłożu",
+              "pobieranie wody i soli mineralnych"
+            ],
+            "łodyga": [
+              "transport wody",
+              "utrzymanie kształtu rośliny"
+            ],
+            "liść": [
+              "fotosynteza",
+              "parowanie wody"
+            ]
+          },
+          "explanation": "Korzeń pobiera i utrzymuje, łodyga transportuje i podtrzymuje, a liść prowadzi fotosyntezę i paruje wodę."
+        },
+        {
+          "id": "R04_ORGANY_07",
+          "section": "Korzeń, łodyga i liść - co robią?",
+          "type": "true_false",
+          "prompt": "Łodyga może brać udział w rozmnażaniu wegetatywnym.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. W rozdziale podano, że łodyga może uczestniczyć w rozmnażaniu wegetatywnym."
+        },
+        {
+          "id": "R04_ORGANY_08",
+          "section": "Korzeń, łodyga i liść - co robią?",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: Korzeń pobiera z gleby __________ i __________.",
+          "options": null,
+          "answer": [
+            "wodę",
+            "sole mineralne"
+          ],
+          "altAnswers": [
+            [
+              "wodę",
+              "woda"
+            ],
+            [
+              "sole mineralne",
+              "soli mineralne",
+              "sole",
+              "sole mineralne z gleby"
+            ]
+          ],
+          "explanation": "Korzeń pobiera z gleby wodę i sole mineralne."
+        },
+        {
+          "id": "R04_ORGANY_09",
+          "section": "Korzeń, łodyga i liść - co robią?",
+          "type": "scenario",
+          "prompt": "Na ilustracji widać trzy główne organy rośliny. Który z nich najczęściej gromadzi substancje zapasowe?",
+          "options": [
+            "korzeń",
+            "kwiat",
+            "aparat szparkowy",
+            "kutykula"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_funkcje_organow_rosliny.jpg",
+          "explanation": "Jedną z funkcji korzenia jest gromadzenie substancji zapasowych."
+        },
+        {
+          "id": "R04_ORGANY_10",
+          "section": "Korzeń, łodyga i liść - co robią?",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: korzeń, łodyga, liść, kutykula.",
+          "options": null,
+          "answer": "kutykula",
+          "explanation": "Korzeń, łodyga i liść to organy. Kutykula jest warstwą na skórce."
+        },
+        {
+          "id": "R04_KORZEN_01",
+          "section": "Korzeń i jego modyfikacje",
+          "type": "single_choice",
+          "prompt": "W którym systemie korzeniowym jest jeden gruby korzeń główny?",
+          "options": [
+            "w palowym",
+            "w wiązkowym",
+            "w żadnym",
+            "w obu tak samo"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_systemy_korzeniowe.jpg",
+          "explanation": "System palowy ma korzeń główny oraz cieńsze korzenie boczne."
+        },
+        {
+          "id": "R04_KORZEN_02",
+          "section": "Korzeń i jego modyfikacje",
+          "type": "single_choice",
+          "prompt": "Który system korzeniowy występuje na przykład u traw?",
+          "options": [
+            "wiązkowy",
+            "palowy",
+            "powietrzny",
+            "spichrzowy"
+          ],
+          "answer": 0,
+          "explanation": "W rozdziale podano, że system wiązkowy występuje na przykład u traw."
+        },
+        {
+          "id": "R04_KORZEN_03",
+          "section": "Korzeń i jego modyfikacje",
+          "type": "single_choice",
+          "prompt": "Od czego odrastają korzenie boczne w systemie palowym?",
+          "options": [
+            "od korzenia głównego",
+            "od liścia",
+            "od owocu",
+            "od aparatu szparkowego"
+          ],
+          "answer": 0,
+          "explanation": "Korzenie boczne odrastają od korzenia głównego."
+        },
+        {
+          "id": "R04_KORZEN_04",
+          "section": "Korzeń i jego modyfikacje",
+          "type": "single_choice",
+          "prompt": "W której strefie korzenia znajdują się włośniki?",
+          "options": [
+            "w strefie włośnikowej",
+            "w stożku wzrostu",
+            "w strefie kwiatowej",
+            "w pąku bocznym"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_budowa_korzenia_strefy.jpg",
+          "explanation": "Włośniki występują w strefie włośnikowej."
+        },
+        {
+          "id": "R04_KORZEN_05",
+          "section": "Korzeń i jego modyfikacje",
+          "type": "true_false",
+          "prompt": "Czapeczka chroni stożek wzrostu korzenia przed uszkodzeniami.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Czapeczka osłania delikatny stożek wzrostu."
+        },
+        {
+          "id": "R04_KORZEN_06",
+          "section": "Korzeń i jego modyfikacje",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: Stożek wzrostu jest miejscem intensywnych podziałów __________.",
+          "options": null,
+          "answer": [
+            "komórek"
+          ],
+          "altAnswers": [
+            [
+              "komórek",
+              "komórki",
+              "komórka"
+            ]
+          ],
+          "explanation": "W stożku wzrostu komórki intensywnie się dzielą, dlatego korzeń rośnie."
+        },
+        {
+          "id": "R04_KORZEN_07",
+          "section": "Korzeń i jego modyfikacje",
+          "type": "single_choice",
+          "prompt": "Jak nazywa się modyfikacja korzenia marchwi, która magazynuje substancje odżywcze?",
+          "options": [
+            "korzeń spichrzowy",
+            "korzeń czepny",
+            "korzeń powietrzny",
+            "ssawka"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_modyfikacje_korzeni.jpg",
+          "explanation": "Korzeń marchwi jest korzeniem spichrzowym i magazynuje zapasy."
+        },
+        {
+          "id": "R04_KORZEN_08",
+          "section": "Korzeń i jego modyfikacje",
+          "type": "single_choice",
+          "prompt": "Jakie korzenie ma storczyk, gdy pobiera parę wodną z powietrza?",
+          "options": [
+            "powietrzne",
+            "spichrzowe",
+            "podporowe",
+            "boczne"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_modyfikacje_korzeni.jpg",
+          "explanation": "Storczyki mają korzenie powietrzne, które pomagają pobierać wodę z powietrza."
+        },
+        {
+          "id": "R04_KORZEN_09",
+          "section": "Korzeń i jego modyfikacje",
+          "type": "single_choice",
+          "prompt": "Która modyfikacja korzenia pomaga kukurydzy stać stabilnie w glebie?",
+          "options": [
+            "korzenie podporowe",
+            "korzenie czepne",
+            "ssawki",
+            "korzenie powietrzne"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_modyfikacje_korzeni.jpg",
+          "explanation": "Korzenie podporowe podpierają roślinę i stabilizują ją w glebie."
+        },
+        {
+          "id": "R04_KORZEN_10",
+          "section": "Korzeń i jego modyfikacje",
+          "type": "scenario",
+          "prompt": "Jemioła wrasta w gałęzie drzewa i pobiera z niego wodę oraz sole mineralne. Jak nazywają się takie korzenie?",
+          "options": [
+            "ssawki",
+            "włośniki",
+            "korzenie boczne",
+            "rozłogi"
+          ],
+          "answer": 0,
+          "explanation": "Korzenie jemioły są przekształcone w ssawki."
+        },
+        {
+          "id": "R04_LISC_01",
+          "section": "Łodyga, liść i ich modyfikacje",
+          "type": "single_choice",
+          "prompt": "Jak nazywa się pąk na szczycie łodygi, dzięki któremu roślina rośnie na długość?",
+          "options": [
+            "pąk wierzchołkowy",
+            "pąk boczny",
+            "węzeł",
+            "międzywęźle"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_budowa_lodygi.jpg",
+          "explanation": "Pąk wierzchołkowy znajduje się na szczycie łodygi i odpowiada za wzrost na długość."
+        },
+        {
+          "id": "R04_LISC_02",
+          "section": "Łodyga, liść i ich modyfikacje",
+          "type": "single_choice",
+          "prompt": "Jak nazywa się miejsce na łodydze, z którego wyrastają liście?",
+          "options": [
+            "węzeł",
+            "międzywęźle",
+            "stożek wzrostu",
+            "ssawka"
+          ],
+          "answer": 0,
+          "explanation": "Węzeł to miejsce, w którym z łodygi wyrastają liście."
+        },
+        {
+          "id": "R04_LISC_03",
+          "section": "Łodyga, liść i ich modyfikacje",
+          "type": "single_choice",
+          "prompt": "Jak nazywa się bezlistny odcinek łodygi między węzłami?",
+          "options": [
+            "międzywęźle",
+            "pąk boczny",
+            "nerwacja",
+            "kutykula"
+          ],
+          "answer": 0,
+          "explanation": "Międzywęźle to odcinek łodygi między dwoma węzłami."
+        },
+        {
+          "id": "R04_LISC_04",
+          "section": "Łodyga, liść i ich modyfikacje",
+          "type": "single_choice",
+          "prompt": "Która część liścia łączy go z łodygą?",
+          "options": [
+            "ogonek liściowy",
+            "blaszka liściowa",
+            "nerwacja",
+            "włośnik"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_budowa_liscia.jpg",
+          "explanation": "Liść z łodygą łączy ogonek liściowy."
+        },
+        {
+          "id": "R04_LISC_05",
+          "section": "Łodyga, liść i ich modyfikacje",
+          "type": "single_choice",
+          "prompt": "Jak nazywa się system wiązek przewodzących w liściu?",
+          "options": [
+            "nerwacja",
+            "kutykula",
+            "czapeczka",
+            "korek"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_budowa_liscia.jpg",
+          "explanation": "System wiązek przewodzących w liściu to nerwacja."
+        },
+        {
+          "id": "R04_LISC_06",
+          "section": "Łodyga, liść i ich modyfikacje",
+          "type": "true_false",
+          "prompt": "Aparaty szparkowe umożliwiają wymianę gazową i parowanie wody.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Przez aparaty szparkowe roślina wymienia gazy i traci część wody."
+        },
+        {
+          "id": "R04_LISC_07",
+          "section": "Łodyga, liść i ich modyfikacje",
+          "type": "single_choice",
+          "prompt": "Do czego służą rozłogi truskawki?",
+          "options": [
+            "do rozmnażania wegetatywnego",
+            "do pobierania wody z powietrza",
+            "do ochrony przed zimnem",
+            "do wymiany gazowej"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_modyfikacje_lodyg_lisci.jpg",
+          "explanation": "Rozłogi truskawki pomagają roślinie rozmnażać się wegetatywnie."
+        },
+        {
+          "id": "R04_LISC_08",
+          "section": "Łodyga, liść i ich modyfikacje",
+          "type": "single_choice",
+          "prompt": "Co robią wąsy czepne roślin pnących?",
+          "options": [
+            "owijają się wokół podpory",
+            "zamieniają się w kwiaty",
+            "pobierają sole mineralne z gleby",
+            "chronią stożek wzrostu"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_modyfikacje_lodyg_lisci.jpg",
+          "explanation": "Wąsy czepne pomagają roślinie wspinać się po podporze."
+        },
+        {
+          "id": "R04_LISC_09",
+          "section": "Łodyga, liść i ich modyfikacje",
+          "type": "single_choice",
+          "prompt": "Bulwy ziemniaka są zmodyfikowanymi...",
+          "options": [
+            "łodygami",
+            "liśćmi",
+            "korzeniami bocznymi",
+            "włośnikami"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_modyfikacje_lodyg_lisci.jpg",
+          "explanation": "Bulwy ziemniaka to podziemne łodygi."
+        },
+        {
+          "id": "R04_LISC_10",
+          "section": "Łodyga, liść i ich modyfikacje",
+          "type": "riddle",
+          "prompt": "Jestem przekształconym liściem albo pędem. Zmniejszam parowanie wody i chronię roślinę przed zjedzeniem. Kim jestem?",
+          "options": null,
+          "answer": "cierń",
+          "altAnswers": [
+            "cierń",
+            "ciernie",
+            "cierniem",
+            "ciernia",
+            "cierniami"
+          ],
+          "explanation": "Ciernie ograniczają utratę wody i chronią roślinę przed roślinożercami."
+        },
+        {
+          "id": "R04_SUPER_01",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz tkankę z najlepiej pasującą informacją.",
+          "options": null,
+          "left": [
+            "twórcza",
+            "okrywająca",
+            "przewodząca",
+            "wzmacniająca",
+            "miękiszowa"
+          ],
+          "right": [
+            "transportuje substancje",
+            "chroni powierzchnię organów",
+            "wypełnia większość organów",
+            "dzieli się intensywnie",
+            "usztywnia roślinę"
+          ],
+          "answer": {
+            "twórcza": "dzieli się intensywnie",
+            "okrywająca": "chroni powierzchnię organów",
+            "przewodząca": "transportuje substancje",
+            "wzmacniająca": "usztywnia roślinę",
+            "miękiszowa": "wypełnia większość organów"
+          },
+          "explanation": "Każdy rodzaj tkanki ma swoją budowę i zadanie: jedne rosną, inne chronią, przewodzą, wzmacniają albo wypełniają."
+        },
+        {
+          "id": "R04_SUPER_02",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Uzupełnij ciąg poziomów budowy rośliny: __________ → tkanka → __________ → organizm.",
+          "options": null,
+          "answer": [
+            "komórka",
+            "organ"
+          ],
+          "altAnswers": [
+            [
+              "komórka",
+              "komorka",
+              "komórki"
+            ],
+            [
+              "organ",
+              "organy"
+            ]
+          ],
+          "explanation": "Poziomy budowy to: komórka, tkanka, organ, organizm."
+        },
+        {
+          "id": "R04_SUPER_03",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Na ilustracji pokazano dwa systemy korzeniowe. Który z nich pasuje do mniszka lekarskiego?",
+          "options": [
+            "system A",
+            "system B",
+            "oba tak samo",
+            "żaden"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_systemy_korzeniowe.jpg",
+          "explanation": "Mniszek ma system palowy, czyli taki z jednym grubym korzeniem głównym - na ilustracji to system A."
+        },
+        {
+          "id": "R04_SUPER_04",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Zaznacz wszystkie prawdziwe zdania o tkankach przewodzących.",
+          "options": [
+            "łyko transportuje substancje pokarmowe",
+            "drewno przewodzi wodę i sole mineralne",
+            "komórki drewna są martwe",
+            "komórki łyka są martwe",
+            "tkanki przewodzące łączą się w wiązki przewodzące"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explanation": "Prawdziwe są informacje o łyku, drewnie i wiązkach przewodzących. Martwe są komórki drewna, a nie łyka."
+        },
+        {
+          "id": "R04_SUPER_05",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Dlaczego brak ścian poprzecznych w komórkach drewna ułatwia ich działanie?",
+          "options": [
+            "bo woda może płynąć bez większych przeszkód",
+            "bo komórki wtedy przeprowadzają fotosyntezę",
+            "bo dzięki temu powstają kwiaty",
+            "bo korzeń może się wspinać"
+          ],
+          "answer": 0,
+          "explanation": "Komórki drewna tworzą długie rurki. Brak ścian poprzecznych ułatwia przepływ wody."
+        },
+        {
+          "id": "R04_SUPER_06",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Stara łodyga drzewa potrzebuje ochrony przed uszkodzeniami i zimnem. Która tkanka najlepiej spełnia to zadanie?",
+          "options": [
+            "korek",
+            "miękisz asymilacyjny",
+            "łyko",
+            "stożek wzrostu"
+          ],
+          "answer": 0,
+          "explanation": "Na starszych łodygach skórka jest zastępowana przez korek, który chroni i izoluje."
+        },
+        {
+          "id": "R04_SUPER_07",
+          "section": "Super trudne",
+          "type": "sort",
+          "prompt": "Na podstawie ilustracji przyporządkuj modyfikacje do ich głównej roli.",
+          "options": null,
+          "items": [
+            "rozłogi truskawki",
+            "wąsy czepne",
+            "kłącze imbiru",
+            "bulwy ziemniaka",
+            "liście spichrzowe cebuli",
+            "ciernie"
+          ],
+          "categories": [
+            "rozmnażanie",
+            "wspinanie się",
+            "magazynowanie zapasów",
+            "ochrona i ograniczanie parowania"
+          ],
+          "answer": {
+            "rozmnażanie": [
+              "rozłogi truskawki"
+            ],
+            "wspinanie się": [
+              "wąsy czepne"
+            ],
+            "magazynowanie zapasów": [
+              "kłącze imbiru",
+              "bulwy ziemniaka",
+              "liście spichrzowe cebuli"
+            ],
+            "ochrona i ograniczanie parowania": [
+              "ciernie"
+            ]
+          },
+          "image": "bbt_r04_modyfikacje_lodyg_lisci.jpg",
+          "explanation": "Rozłogi pomagają w rozmnażaniu, wąsy w wspinaniu, kłącze, bulwy i liście spichrzowe magazynują zapasy, a ciernie chronią i zmniejszają parowanie."
+        },
+        {
+          "id": "R04_SUPER_08",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Jak nazywa się tkanka przyranna, która powstaje w miejscu zranienia rośliny?",
+          "options": [
+            "kalus",
+            "korek",
+            "łyko",
+            "skórka"
+          ],
+          "answer": 0,
+          "explanation": "W miejscu zranienia roślina wytwarza kalus, który pomaga odbudować uszkodzone fragmenty."
+        },
+        {
+          "id": "R04_SUPER_09",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji są dwie tkanki miękiszowe. Która z nich prowadzi fotosyntezę?",
+          "options": [
+            "miękisz asymilacyjny",
+            "miękisz spichrzowy",
+            "obie tak samo",
+            "żadna"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_tkanki_miekiszowe.jpg",
+          "explanation": "Fotosyntezę prowadzi miękisz asymilacyjny, bo ma chloroplasty."
+        },
+        {
+          "id": "R04_SUPER_10",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Uzupełnij: Drewno przewodzi __________ i __________, a łyko przewodzi __________.",
+          "options": null,
+          "answer": [
+            "wodę",
+            "sole mineralne",
+            "substancje pokarmowe"
+          ],
+          "altAnswers": [
+            [
+              "wodę",
+              "woda"
+            ],
+            [
+              "sole mineralne",
+              "sole"
+            ],
+            [
+              "substancje pokarmowe",
+              "cukry",
+              "cukier",
+              "pokarm"
+            ]
+          ],
+          "explanation": "Drewno przewodzi wodę z solami mineralnymi, a łyko substancje pokarmowe."
+        },
+        {
+          "id": "R04_SUPER_11",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Liść stracił sztywność, bo uszkodzono tkankę biegnącą wzdłuż wiązek przewodzących. Która tkanka została uszkodzona?",
+          "options": [
+            "wzmacniająca",
+            "twórcza",
+            "skórka",
+            "miękisz spichrzowy"
+          ],
+          "answer": 0,
+          "explanation": "Tkanka wzmacniająca tworzy w liściu rusztowanie i pomaga mu zachować kształt."
+        },
+        {
+          "id": "R04_SUPER_12",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji łodygi wskaż nazwę bezlistnego odcinka między dwoma węzłami.",
+          "options": [
+            "międzywęźle",
+            "pąk boczny",
+            "pąk wierzchołkowy",
+            "korzeń boczny"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_budowa_lodygi.jpg",
+          "explanation": "Bezlistny odcinek między węzłami to międzywęźle."
+        },
+        {
+          "id": "R04_SUPER_13",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji liścia wybierz nazwę części, w której przede wszystkim zachodzi fotosynteza.",
+          "options": [
+            "blaszka liściowa",
+            "ogonek liściowy",
+            "węzeł",
+            "czapeczka"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_budowa_liscia.jpg",
+          "explanation": "Głównym miejscem fotosyntezy w liściu jest blaszka liściowa."
+        },
+        {
+          "id": "R04_SUPER_14",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Zaznacz funkcje, które mogą pełnić zarówno korzeń, jak i łodyga.",
+          "options": [
+            "rozmnażanie wegetatywne",
+            "gromadzenie substancji zapasowych",
+            "utrzymywanie rośliny w podłożu",
+            "transport wody do innych części rośliny"
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Zarówno korzeń, jak i łodyga mogą brać udział w rozmnażaniu wegetatywnym i magazynować zapasy. Pozostałe funkcje nie dotyczą obu organów jednocześnie."
+        },
+        {
+          "id": "R04_SUPER_15",
+          "section": "Super trudne",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: korzenie spichrzowe, korzenie powietrzne, korzenie podporowe, tkanka wzmacniająca.",
+          "options": null,
+          "answer": "tkanka wzmacniająca",
+          "explanation": "Trzy pierwsze przykłady to modyfikacje korzeni. Tkanka wzmacniająca jest rodzajem tkanki."
+        },
+        {
+          "id": "R04_SUPER_16",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Dlaczego włośniki są tak ważne dla korzenia?",
+          "options": [
+            "zwiększają powierzchnię chłonną",
+            "zamieniają się w kwiaty",
+            "wytwarzają nasiona",
+            "chronią stożek wzrostu"
+          ],
+          "answer": 0,
+          "explanation": "Dzięki włośnikom korzeń może pobierać więcej wody i soli mineralnych."
+        },
+        {
+          "id": "R04_SUPER_17",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji pokazano różne tkanki w roślinie. Która z nich leży na powierzchni organów?",
+          "options": [
+            "okrywająca",
+            "miękiszowa",
+            "przewodząca",
+            "wzmacniająca"
+          ],
+          "answer": 0,
+          "image": "bbt_r04_tkanki_w_roslinie_mapa.jpg",
+          "explanation": "Tkanka okrywająca leży na powierzchni łodyg, korzeni i liści."
+        },
+        {
+          "id": "R04_SUPER_18",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz strefę korzenia z jej rolą.",
+          "options": null,
+          "left": [
+            "strefa korzeni bocznych",
+            "strefa włośnikowa",
+            "strefa wydłużania",
+            "stożek wzrostu"
+          ],
+          "right": [
+            "powstają korzenie boczne",
+            "pobieranie wody i soli",
+            "komórki się wydłużają",
+            "intensywne podziały komórek"
+          ],
+          "answer": {
+            "strefa korzeni bocznych": "powstają korzenie boczne",
+            "strefa włośnikowa": "pobieranie wody i soli",
+            "strefa wydłużania": "komórki się wydłużają",
+            "stożek wzrostu": "intensywne podziały komórek"
+          },
+          "image": "bbt_r04_budowa_korzenia_strefy.jpg",
+          "explanation": "Każda strefa korzenia ma inne zadanie: boczne tworzą odgałęzienia, włośniki pobierają, wydłużania rośnie na długość, a stożek wzrostu dzieli komórki."
+        },
+        {
+          "id": "R04_SUPER_19",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "Bulwy ziemniaka i kłącze imbiru są zmodyfikowanymi łodygami.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Obie te struktury są modyfikacjami łodygi."
+        },
+        {
+          "id": "R04_SUPER_20",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Wkładasz fragment łodygi grubosza do wody. Po pewnym czasie pojawiają się korzenie i nowa roślina. Jaki to sposób rozmnażania?",
+          "options": [
+            "rozmnażanie wegetatywne",
+            "rozmnażanie płciowe",
+            "kiełkowanie nasion",
+            "oddychanie"
+          ],
+          "answer": 0,
+          "explanation": "Powstanie nowej rośliny z fragmentu łodygi to rozmnażanie wegetatywne."
+        }
+      ],
+      "kidPrompts": {
+        "R04_TKANKI_08": "Co jest między komórką a organem?",
+        "R04_BUDOWA_02": "Która tkanka odpowiada za wzrost rośliny?",
+        "R04_ORGANY_09": "Który organ gromadzi zapasy?",
+        "R04_KORZEN_10": "Jak nazywają się korzenie jemioły?",
+        "R04_LISC_10": "Jak nazywa się ostry twór chroniący roślinę?"
+      }
+    }
+  ],
+  "images": [
+    "bbt_r01_budowa_mikroskopu.jpg",
+    "bbt_r01_dokumentowanie_badan.jpg",
+    "bbt_r01_dzialy_biologii.jpg",
+    "bbt_r01_etapy_metody_naukowej.jpg",
+    "bbt_r01_komorki_skorki_cebuli.jpg",
+    "bbt_r01_materialy_do_preparatu.jpg",
+    "bbt_r01_obserwacja_i_doswiadczenie.jpg",
+    "bbt_r01_organizmy_w_kropli_wody.jpg",
+    "bbt_r01_preparat_cebuli_kroki.jpg",
+    "bbt_r01_proba_badawcza_i_kontrolna.jpg",
+    "bbt_r01_przyrzady_podstawowe.jpg",
+    "bbt_r01_przyrzady_specjalistyczne.jpg",
+    "bbt_r01_sposoby_poznawania_swiata.jpg",
+    "bbt_r01_wiedza_potoczna_i_naukowa.jpg",
+    "bbt_r02_ameba_wazka.jpg",
+    "bbt_r02_czynniki_fotosyntezy.jpg",
+    "bbt_r02_fotosynteza_rownanie.jpg",
+    "bbt_r02_hierarchiczna_budowa.jpg",
+    "bbt_r02_jadrowe_bezjadrowe.jpg",
+    "bbt_r02_jemioluszka_odzywianie.jpg",
+    "bbt_r02_komorka_bakterii.jpg",
+    "bbt_r02_komorka_roslinna.jpg",
+    "bbt_r02_lisc_chloroplasty.jpg",
+    "bbt_r02_pierwiastki_chonps.jpg",
+    "bbt_r02_produkty_fotosyntezy_cukry.jpg",
+    "bbt_r02_przebieg_fotosyntezy_roslina.jpg",
+    "bbt_r02_slonecznik_ruch.jpg",
+    "bbt_r02_symbole_pierwiastkow.jpg",
+    "bbt_r02_szklarnia_pomidory.jpg",
+    "bbt_r02_wlosnik_korzenia.jpg",
+    "bbt_r02_wyspecjalizowane_komorki.jpg",
+    "bbt_r02_znaczenie_fotosyntezy_las.jpg",
+    "bbt_r02_zroznicowana_dieta.jpg",
+    "bbt_r03_budowa_wirusa.jpg",
+    "bbt_r03_cechy_grzybow.jpg",
+    "bbt_r03_cykl_wirusa.jpg",
+    "bbt_r03_drogi_wirusy.jpg",
+    "bbt_r03_drozdze_plesniak.jpg",
+    "bbt_r03_euglena_budowa.jpg",
+    "bbt_r03_formy_bakterii.jpg",
+    "bbt_r03_grupy_protistow.jpg",
+    "bbt_r03_grzyb_kapeluszowy.jpg",
+    "bbt_r03_klucz_lisci_drzewa.jpg",
+    "bbt_r03_krolestwa_organizmy.jpg",
+    "bbt_r03_nazwa_gatunkowa.jpg",
+    "bbt_r03_pantofelek_budowa.jpg",
+    "bbt_r03_podzial_bakterii.jpg",
+    "bbt_r03_porost_wspolpraca.jpg",
+    "bbt_r03_zrodla_pokarmu_bakterii.jpg",
+    "bbt_r04_budowa_korzenia_strefy.jpg",
+    "bbt_r04_budowa_liscia.jpg",
+    "bbt_r04_budowa_lodygi.jpg",
+    "bbt_r04_funkcje_organow_rosliny.jpg",
+    "bbt_r04_hierarchiczna_budowa_rosliny.jpg",
+    "bbt_r04_modyfikacje_korzeni.jpg",
+    "bbt_r04_modyfikacje_lodyg_lisci.jpg",
+    "bbt_r04_skorka_korek_wlosniki.jpg",
+    "bbt_r04_systemy_korzeniowe.jpg",
+    "bbt_r04_tkanka_tworcza_wzrost.jpg",
+    "bbt_r04_tkanki_miekiszowe.jpg",
+    "bbt_r04_tkanki_przewodzace_lyko_drewno.jpg",
+    "bbt_r04_tkanki_w_roslinie_mapa.jpg",
+    "bbt_r04_tkanki_wzmacniajace_lisc.jpg"
+  ]
+}

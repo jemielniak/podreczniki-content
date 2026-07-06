@@ -1,0 +1,5062 @@
+{
+  "id": "biologia-5-wyd-mac",
+  "title": "Biologia 5. Wyd. MAC",
+  "version": 1,
+  "contentHash": "f555ec39a3dd01b9ab3ef9588104c088e88f3c7043393e503b8de5468e41f911",
+  "bookConfig": {
+    "id": "biologia-5-wyd-mac",
+    "title": "Biologia 5. Wyd. MAC",
+    "icon": "🧬",
+    "subtitle": "Ćwiczenia i powtórki",
+    "pageTitle": "Biologia 5. Wyd. MAC"
+  },
+  "chapters": [
+    {
+      "id": "r01",
+      "number": 1,
+      "title": "Podstawy biologii",
+      "icon": "🧬",
+      "sectionOrder": [
+        "W świecie organizmów",
+        "Budowa organizmów",
+        "Obserwacje mikroskopowe",
+        "Odżywianie się organizmów",
+        "Oddychanie organizmów",
+        "Podział świata organizmów",
+        "Wirusy"
+      ],
+      "sectionIcons": {
+        "W świecie organizmów": "🌍",
+        "Budowa organizmów": "🧫",
+        "Obserwacje mikroskopowe": "🔬",
+        "Odżywianie się organizmów": "🌿",
+        "Oddychanie organizmów": "💨",
+        "Podział świata organizmów": "🌳",
+        "Wirusy": "🦠"
+      },
+      "exercises": [
+        {
+          "id": "R01_WSO_01",
+          "section": "W świecie organizmów",
+          "type": "single_choice",
+          "prompt": "Na ilustracji widać bobra. Który dział biologii zajmuje się badaniem życia takich zwierząt?",
+          "image": "bbt_r01_bobr_organizm.jpg",
+          "options": [
+            "zoologia",
+            "botanika",
+            "mikrobiologia",
+            "systematyka"
+          ],
+          "answer": 0,
+          "explanation": "Zoologia zajmuje się zwierzętami. Bóbr jest zwierzęciem, więc bada go zoolog."
+        },
+        {
+          "id": "R01_WSO_02",
+          "section": "W świecie organizmów",
+          "type": "match",
+          "prompt": "Połącz dział biologii z tym, czym się zajmuje.",
+          "options": null,
+          "left": [
+            "zoolog",
+            "botanik",
+            "ekolog",
+            "mikrobiolog",
+            "paleobiolog"
+          ],
+          "right": [
+            "zwierzęta",
+            "rośliny",
+            "zależności między organizmami i środowiskiem",
+            "bardzo małe organizmy, np. bakterie",
+            "organizmy dawno wymarłe"
+          ],
+          "answer": {
+            "zoolog": "zwierzęta",
+            "botanik": "rośliny",
+            "ekolog": "zależności między organizmami i środowiskiem",
+            "mikrobiolog": "bardzo małe organizmy, np. bakterie",
+            "paleobiolog": "organizmy dawno wymarłe"
+          },
+          "explanation": "Różni biolodzy badają różne grupy organizmów albo zależności między nimi."
+        },
+        {
+          "id": "R01_WSO_03",
+          "section": "W świecie organizmów",
+          "type": "true_false",
+          "prompt": "Biologia zdobywa wiedzę głównie dzięki doświadczeniom i obserwacjom.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Biologia jest nauką doświadczalną, a obserwacje też są w niej bardzo ważne."
+        },
+        {
+          "id": "R01_WSO_04",
+          "section": "W świecie organizmów",
+          "type": "fill_in",
+          "prompt": "Biologia bada organizmy __________ i __________.",
+          "options": null,
+          "answer": [
+            "wymarłe",
+            "żyjące obecnie"
+          ],
+          "altAnswers": [
+            [
+              "wymarłe",
+              "wymarłych",
+              "wymarłymi"
+            ],
+            [
+              "żyjące obecnie",
+              "żyjące",
+              "obecnie żyjące",
+              "współczesne"
+            ]
+          ],
+          "explanation": "Biologów interesują organizmy, które żyły dawniej, i te, które żyją teraz."
+        },
+        {
+          "id": "R01_WSO_05",
+          "section": "W świecie organizmów",
+          "type": "single_choice",
+          "prompt": "Który zestaw najlepiej pokazuje wspólne potrzeby życiowe organizmów?",
+          "options": [
+            "woda, pokarm i odpowiednie warunki otoczenia",
+            "telefon, prąd i internet",
+            "farby, papier i nożyczki",
+            "piłka, rower i hulajnoga"
+          ],
+          "answer": 0,
+          "explanation": "Wszystkie organizmy potrzebują wody, pokarmu i odpowiednich warunków, żeby przeżyć i działać."
+        },
+        {
+          "id": "R01_WSO_06",
+          "section": "W świecie organizmów",
+          "type": "multi_select",
+          "prompt": "Zaznacz czynności, które należą do podstawowych czynności życiowych organizmów.",
+          "image": "bbt_r01_czynnosci_zyciowe_kot.jpg",
+          "options": [
+            "odżywianie",
+            "oddychanie",
+            "wzrost",
+            "rozmnażanie",
+            "wysyłanie wiadomości"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Organizmy odżywiają się, oddychają, rosną i rozmnażają. Wysyłanie wiadomości nie jest czynnością życiową."
+        },
+        {
+          "id": "R01_WSO_07",
+          "section": "W świecie organizmów",
+          "type": "scenario",
+          "prompt": "Kasia ogląda ilustrację z eugleną i zwierzętami domowymi. Chce wskazać organizm zbudowany tylko z jednej komórki. Co powinna wybrać?",
+          "image": "bbt_r01_jedno_i_wielokomorkowe.jpg",
+          "options": [
+            "euglenę",
+            "kota",
+            "psa",
+            "królika"
+          ],
+          "answer": 0,
+          "explanation": "Euglena jest organizmem jednokomórkowym. Zwierzęta domowe są wielokomórkowe."
+        },
+        {
+          "id": "R01_WSO_08",
+          "section": "W świecie organizmów",
+          "type": "sequence",
+          "prompt": "Ułóż od najmniejszego poziomu budowy do największego.",
+          "image": "bbt_r01_hierarchia_budowy.jpg",
+          "options": null,
+          "items": [
+            "układ narządów",
+            "komórka",
+            "narząd",
+            "tkanka"
+          ],
+          "answer": [
+            "komórka",
+            "tkanka",
+            "narząd",
+            "układ narządów"
+          ],
+          "explanation": "W organizmie wielokomórkowym komórki tworzą tkanki, tkanki tworzą narządy, a narządy tworzą układy narządów."
+        },
+        {
+          "id": "R01_BO_01",
+          "section": "Budowa organizmów",
+          "type": "scenario",
+          "prompt": "Na ilustracji pokazano kilka typów komórek. Które komórki mają charakterystyczne wypustki i rozgałęzienia?",
+          "image": "bbt_r01_ksztalty_komorek.jpg",
+          "options": [
+            "komórki nerwowe",
+            "komórki jelita",
+            "komórki wątroby",
+            "komórki serca"
+          ],
+          "answer": 0,
+          "explanation": "Komórki nerwowe mają długie wypustki i rozgałęzienia, dzięki którym mogą przekazywać informacje."
+        },
+        {
+          "id": "R01_BO_02",
+          "section": "Budowa organizmów",
+          "type": "multi_select",
+          "prompt": "Zaznacz elementy charakterystyczne dla komórki roślinnej.",
+          "options": [
+            "chloroplast",
+            "ściana komórkowa",
+            "duża wakuola",
+            "rzęska"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Komórkę roślinną wyróżniają chloroplasty, ściana komórkowa i duża wakuola."
+        },
+        {
+          "id": "R01_BO_03",
+          "section": "Budowa organizmów",
+          "type": "sort",
+          "prompt": "Przyporządkuj elementy do właściwej kategorii.",
+          "options": null,
+          "items": [
+            "błona komórkowa",
+            "cytoplazma",
+            "materiał genetyczny",
+            "jądro komórkowe",
+            "mitochondrium",
+            "chloroplast"
+          ],
+          "categories": [
+            "występuje w komórce bakteryjnej",
+            "brak w komórce bakteryjnej"
+          ],
+          "answer": {
+            "występuje w komórce bakteryjnej": [
+              "błona komórkowa",
+              "cytoplazma",
+              "materiał genetyczny"
+            ],
+            "brak w komórce bakteryjnej": [
+              "jądro komórkowe",
+              "mitochondrium",
+              "chloroplast"
+            ]
+          },
+          "explanation": "Komórka bakteryjna ma błonę, cytoplazmę i materiał genetyczny, ale nie ma jądra, mitochondriów ani chloroplastów."
+        },
+        {
+          "id": "R01_BO_04",
+          "section": "Budowa organizmów",
+          "type": "fill_in",
+          "prompt": "We wszystkich rodzajach komórek występują __________, __________ i materiał genetyczny.",
+          "options": null,
+          "answer": [
+            "cytoplazma",
+            "błona komórkowa"
+          ],
+          "altAnswers": [
+            [
+              "cytoplazma",
+              "cytoplazmę",
+              "cytoplazmie"
+            ],
+            [
+              "błona komórkowa",
+              "błona",
+              "błonę komórkową",
+              "błonie komórkowej"
+            ]
+          ],
+          "explanation": "Komórki roślinne, zwierzęce i bakteryjne mają cytoplazmę, błonę komórkową oraz materiał genetyczny."
+        },
+        {
+          "id": "R01_BO_05",
+          "section": "Budowa organizmów",
+          "type": "single_choice",
+          "prompt": "Który element komórki roślinnej pomaga roślinie wykorzystywać energię światła?",
+          "image": "bbt_r01_komorka_roslinna.jpg",
+          "options": [
+            "chloroplast",
+            "mitochondrium",
+            "wakuola",
+            "ściana komórkowa"
+          ],
+          "answer": 0,
+          "explanation": "Chloroplast to miejsce fotosyntezy. To w nim roślina wykorzystuje energię światła."
+        },
+        {
+          "id": "R01_BO_06",
+          "section": "Budowa organizmów",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: chloroplast, mitochondrium, wakuola, skrzela.",
+          "options": null,
+          "answer": "skrzela",
+          "explanation": "Skrzela są narządem, a pozostałe wyrazy oznaczają elementy komórki."
+        },
+        {
+          "id": "R01_BO_07",
+          "section": "Budowa organizmów",
+          "type": "true_false",
+          "prompt": "W komórce bakteryjnej materiał genetyczny znajduje się bezpośrednio w cytoplazmie.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Komórka bakteryjna nie ma jądra komórkowego, więc materiał genetyczny leży w cytoplazmie."
+        },
+        {
+          "id": "R01_BO_08",
+          "section": "Budowa organizmów",
+          "type": "single_choice",
+          "prompt": "Spójrz na ilustrację. Która komórka nie ma jądra komórkowego?",
+          "image": "bbt_r01_komorka_zwierzeca_i_bakteryjna.jpg",
+          "options": [
+            "komórka bakteryjna",
+            "komórka zwierzęca",
+            "obie komórki",
+            "żadna z nich"
+          ],
+          "answer": 0,
+          "explanation": "Jądra komórkowego nie ma komórka bakteryjna. Komórka zwierzęca ma jądro."
+        },
+        {
+          "id": "R01_BO_09",
+          "section": "Budowa organizmów",
+          "type": "match",
+          "prompt": "Połącz substancję z jej główną rolą.",
+          "options": null,
+          "left": [
+            "białka",
+            "cukry",
+            "tłuszcze",
+            "kwasy nukleinowe",
+            "woda",
+            "sole mineralne"
+          ],
+          "right": [
+            "podstawowy budulec organizmu",
+            "podstawowe źródło energii",
+            "zapas energii i ochrona przed utratą ciepła",
+            "instrukcja budowy i działania komórki",
+            "ułatwia transport substancji i przebieg procesów życiowych",
+            "między innymi budują kości"
+          ],
+          "answer": {
+            "białka": "podstawowy budulec organizmu",
+            "cukry": "podstawowe źródło energii",
+            "tłuszcze": "zapas energii i ochrona przed utratą ciepła",
+            "kwasy nukleinowe": "instrukcja budowy i działania komórki",
+            "woda": "ułatwia transport substancji i przebieg procesów życiowych",
+            "sole mineralne": "między innymi budują kości"
+          },
+          "explanation": "Różne związki chemiczne pełnią w organizmie różne zadania: jedne budują, inne dostarczają energii albo pomagają w działaniu komórek."
+        },
+        {
+          "id": "R01_BO_10",
+          "section": "Budowa organizmów",
+          "type": "multi_select",
+          "prompt": "Zaznacz pierwiastki biogenne.",
+          "options": [
+            "węgiel",
+            "tlen",
+            "wodór",
+            "azot",
+            "siarka",
+            "fosfor",
+            "złoto",
+            "srebro"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "explanation": "Do pierwiastków biogennych należą węgiel, tlen, wodór, azot, siarka i fosfor. To one budują najważniejsze związki chemiczne organizmów."
+        },
+        {
+          "id": "R01_OM_01",
+          "section": "Obserwacje mikroskopowe",
+          "type": "single_choice",
+          "prompt": "Jak nazywa się przyrząd pokazany na ilustracji?",
+          "image": "bbt_r01_mikroskop_swietlny.jpg",
+          "options": [
+            "mikroskop",
+            "teleskop",
+            "termometr",
+            "waga"
+          ],
+          "answer": 0,
+          "explanation": "To mikroskop świetlny. Używa się go do oglądania bardzo małych obiektów."
+        },
+        {
+          "id": "R01_OM_02",
+          "section": "Obserwacje mikroskopowe",
+          "type": "match",
+          "prompt": "Połącz element mikroskopu z jego funkcją.",
+          "options": null,
+          "left": [
+            "okular",
+            "obiektyw",
+            "stolik",
+            "źródło światła"
+          ],
+          "right": [
+            "umożliwia obserwację obrazu",
+            "powiększa oglądany obiekt",
+            "tu umieszcza się preparat",
+            "oświetla preparat"
+          ],
+          "answer": {
+            "okular": "umożliwia obserwację obrazu",
+            "obiektyw": "powiększa oglądany obiekt",
+            "stolik": "tu umieszcza się preparat",
+            "źródło światła": "oświetla preparat"
+          },
+          "explanation": "Każda część mikroskopu ma inne zadanie. Dzięki nim obraz jest widoczny i ostry."
+        },
+        {
+          "id": "R01_OM_03",
+          "section": "Obserwacje mikroskopowe",
+          "type": "sequence",
+          "prompt": "Ułóż podstawowe kroki korzystania z mikroskopu we właściwej kolejności.",
+          "options": null,
+          "items": [
+            "włącz światło i ustaw preparat w polu widzenia",
+            "ustaw obiektyw o najmniejszym powiększeniu",
+            "połóż preparat na stoliku",
+            "wyostrz obraz śrubą mikrometryczną",
+            "najpierw znajdź obraz śrubą makrometryczną"
+          ],
+          "answer": [
+            "połóż preparat na stoliku",
+            "ustaw obiektyw o najmniejszym powiększeniu",
+            "włącz światło i ustaw preparat w polu widzenia",
+            "najpierw znajdź obraz śrubą makrometryczną",
+            "wyostrz obraz śrubą mikrometryczną"
+          ],
+          "explanation": "Najpierw przygotowuje się mikroskop i preparat, potem znajduje obraz, a na końcu ustawia go dokładnie."
+        },
+        {
+          "id": "R01_OM_04",
+          "section": "Obserwacje mikroskopowe",
+          "type": "true_false",
+          "prompt": "W preparacie mikroskopowym oglądany obiekt znajduje się między szkiełkiem podstawowym a nakrywkowym.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Tak właśnie przygotowuje się prosty preparat do obserwacji."
+        },
+        {
+          "id": "R01_OM_05",
+          "section": "Obserwacje mikroskopowe",
+          "type": "fill_in",
+          "prompt": "Do prostego preparatu mikroskopowego potrzebne są szkiełko __________ i szkiełko __________.",
+          "options": null,
+          "answer": [
+            "podstawowe",
+            "nakrywkowe"
+          ],
+          "altAnswers": [
+            [
+              "podstawowe",
+              "podstawowym",
+              "podstawowego"
+            ],
+            [
+              "nakrywkowe",
+              "nakrywkowym",
+              "nakrywkowego"
+            ]
+          ],
+          "explanation": "Obiekt kładzie się na szkiełku podstawowym, a potem przykrywa szkiełkiem nakrywkowym."
+        },
+        {
+          "id": "R01_OM_06",
+          "section": "Obserwacje mikroskopowe",
+          "type": "scenario",
+          "prompt": "Na ilustracji widać dwa rodzaje szkiełek. Które z nich przykrywa obiekt i jest mniejsze?",
+          "image": "bbt_r01_preparat_mikroskopowy.jpg",
+          "options": [
+            "szkiełko nakrywkowe",
+            "szkiełko podstawowe",
+            "obiektyw",
+            "okular"
+          ],
+          "answer": 0,
+          "explanation": "Mniejsze szkiełko nakrywkowe przykrywa obiekt umieszczony na szkiełku podstawowym."
+        },
+        {
+          "id": "R01_OM_07",
+          "section": "Obserwacje mikroskopowe",
+          "type": "multi_select",
+          "prompt": "Zaznacz zasady bezpiecznego i poprawnego korzystania z mikroskopu.",
+          "options": [
+            "obchodzę się z nim delikatnie",
+            "zaczynam od największego powiększenia",
+            "na początku ustawiam najmniejszy obiektyw",
+            "ostrożnie reguluję ostrość śrubami",
+            "kręcę wszystkim naraz bardzo szybko"
+          ],
+          "answer": [
+            0,
+            2,
+            3
+          ],
+          "explanation": "Z mikroskopem trzeba obchodzić się delikatnie, zaczynać od najmniejszego powiększenia i spokojnie ustawiać ostrość."
+        },
+        {
+          "id": "R01_ODZ_01",
+          "section": "Odżywianie się organizmów",
+          "type": "single_choice",
+          "prompt": "Człowiek należy do organizmów:",
+          "options": [
+            "cudzożywnych",
+            "samożywnych",
+            "jednokomórkowych",
+            "beztlenowych"
+          ],
+          "answer": 0,
+          "explanation": "Człowiek nie wytwarza sam pokarmu z prostych substancji. Musi go pobierać, więc jest cudzożywny."
+        },
+        {
+          "id": "R01_ODZ_02",
+          "section": "Odżywianie się organizmów",
+          "type": "match",
+          "prompt": "Połącz pojęcie z właściwym opisem.",
+          "options": null,
+          "left": [
+            "organizm samożywny",
+            "organizm cudzożywny",
+            "chlorofil",
+            "chloroplast"
+          ],
+          "right": [
+            "sam wytwarza pokarm",
+            "pobiera pokarm z otoczenia",
+            "barwnik pochłaniający światło",
+            "miejsce, w którym zachodzi fotosynteza"
+          ],
+          "answer": {
+            "organizm samożywny": "sam wytwarza pokarm",
+            "organizm cudzożywny": "pobiera pokarm z otoczenia",
+            "chlorofil": "barwnik pochłaniający światło",
+            "chloroplast": "miejsce, w którym zachodzi fotosynteza"
+          },
+          "explanation": "Rośliny są samożywne, zwierzęta cudzożywne, a chlorofil i chloroplasty pomagają roślinom w fotosyntezie."
+        },
+        {
+          "id": "R01_ODZ_03",
+          "section": "Odżywianie się organizmów",
+          "type": "single_choice",
+          "prompt": "Który gaz powstaje podczas fotosyntezy i jest uwalniany do otoczenia?",
+          "image": "bbt_r01_fotosynteza_schemat.jpg",
+          "options": [
+            "tlen",
+            "azot",
+            "dwutlenek węgla",
+            "para wodna"
+          ],
+          "answer": 0,
+          "explanation": "Podczas fotosyntezy roślina wytwarza cukier i tlen. Tlen jest oddawany do otoczenia."
+        },
+        {
+          "id": "R01_ODZ_04",
+          "section": "Odżywianie się organizmów",
+          "type": "fill_in",
+          "prompt": "W fotosyntezie z __________ i __________ powstają __________ i __________.",
+          "options": null,
+          "answer": [
+            "wody",
+            "dwutlenku węgla",
+            "cukier",
+            "tlen"
+          ],
+          "altAnswers": [
+            [
+              "wody",
+              "woda"
+            ],
+            [
+              "dwutlenku węgla",
+              "dwutlenek węgla",
+              "co2"
+            ],
+            [
+              "cukier",
+              "cukru",
+              "glukoza",
+              "glukozę"
+            ],
+            [
+              "tlen",
+              "tlenu",
+              "o2"
+            ]
+          ],
+          "explanation": "Roślina pobiera wodę i dwutlenek węgla, a przy udziale światła wytwarza cukier oraz tlen."
+        },
+        {
+          "id": "R01_ODZ_05",
+          "section": "Odżywianie się organizmów",
+          "type": "multi_select",
+          "prompt": "Które czynniki mogą wpływać na intensywność fotosyntezy?",
+          "options": [
+            "natężenie światła",
+            "temperatura",
+            "dostępność wody",
+            "dostępność soli mineralnych",
+            "kolor zeszytu"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Na fotosyntezę wpływają warunki życia rośliny, na przykład światło, temperatura, woda i sole mineralne."
+        },
+        {
+          "id": "R01_ODZ_06",
+          "section": "Odżywianie się organizmów",
+          "type": "scenario",
+          "prompt": "W doświadczeniu z trzema zestawami B1, B2 i K roślina miała najwięcej światła w jednym zestawie. W którym powstanie najwięcej tlenu?",
+          "image": "bbt_r01_doswiadczenie_fotosynteza_swiatlo.jpg",
+          "options": [
+            "w zestawie B2",
+            "w zestawie B1",
+            "w zestawie K",
+            "we wszystkich tyle samo"
+          ],
+          "answer": 0,
+          "explanation": "Im większe natężenie światła, tym intensywniej zachodzi fotosynteza, więc najwięcej tlenu powstanie w dobrze oświetlonym zestawie B2."
+        },
+        {
+          "id": "R01_ODZ_07",
+          "section": "Odżywianie się organizmów",
+          "type": "true_false",
+          "prompt": "Chlorofil pomaga roślinie pochłaniać światło potrzebne do fotosyntezy.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Chlorofil jest barwnikiem fotosyntetycznym, który pochłania światło."
+        },
+        {
+          "id": "R01_ODZ_08",
+          "section": "Odżywianie się organizmów",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: światło, woda, dwutlenek węgla, skóra.",
+          "options": null,
+          "answer": "skóra",
+          "explanation": "Światło, woda i dwutlenek węgla są związane z fotosyntezą. Skóra nie jest potrzebna do tego procesu."
+        },
+        {
+          "id": "R01_ODD_01",
+          "section": "Oddychanie organizmów",
+          "type": "single_choice",
+          "prompt": "W którym elemencie komórki zachodzi oddychanie tlenowe?",
+          "image": "bbt_r01_oddychanie_tlenowe.jpg",
+          "options": [
+            "w mitochondrium",
+            "w chloroplaście",
+            "w ścianie komórkowej",
+            "w wakuoli"
+          ],
+          "answer": 0,
+          "explanation": "Oddychanie tlenowe zachodzi w mitochondriach. To tam komórka uzyskuje energię z cukru."
+        },
+        {
+          "id": "R01_ODD_02",
+          "section": "Oddychanie organizmów",
+          "type": "fill_in",
+          "prompt": "W oddychaniu tlenowym cukier łączy się z __________, a powstają energia, __________ i __________.",
+          "options": null,
+          "answer": [
+            "tlenem",
+            "dwutlenek węgla",
+            "woda"
+          ],
+          "altAnswers": [
+            [
+              "tlenem",
+              "tlen",
+              "tlenu",
+              "o2"
+            ],
+            [
+              "dwutlenek węgla",
+              "dwutlenku węgla",
+              "co2"
+            ],
+            [
+              "woda",
+              "wody"
+            ]
+          ],
+          "explanation": "W oddychaniu tlenowym cukier reaguje z tlenem. Dzięki temu komórka uzyskuje energię, a powstają też dwutlenek węgla i woda."
+        },
+        {
+          "id": "R01_ODD_03",
+          "section": "Oddychanie organizmów",
+          "type": "true_false",
+          "prompt": "Fermentacja pozwala uzyskać mniej energii niż oddychanie tlenowe.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Fermentacja uwalnia tylko część energii zawartej w cukrze."
+        },
+        {
+          "id": "R01_ODD_04",
+          "section": "Oddychanie organizmów",
+          "type": "match",
+          "prompt": "Połącz przykład z odpowiednim rodzajem fermentacji.",
+          "image": "bbt_r01_fermentacja_dwa_typy.jpg",
+          "options": null,
+          "left": [
+            "mięśnie podczas dużego wysiłku",
+            "drożdże w cieście"
+          ],
+          "right": [
+            "fermentacja mlekowa",
+            "fermentacja alkoholowa"
+          ],
+          "answer": {
+            "mięśnie podczas dużego wysiłku": "fermentacja mlekowa",
+            "drożdże w cieście": "fermentacja alkoholowa"
+          },
+          "explanation": "Gdy do mięśni dociera za mało tlenu, może zachodzić fermentacja mlekowa. Drożdże przeprowadzają fermentację alkoholową."
+        },
+        {
+          "id": "R01_ODD_05",
+          "section": "Oddychanie organizmów",
+          "type": "single_choice",
+          "prompt": "Co może zachodzić w mięśniach człowieka podczas bardzo dużego wysiłku, gdy brakuje tlenu?",
+          "options": [
+            "fermentacja mlekowa",
+            "fotosynteza",
+            "budowa ściany komórkowej",
+            "tworzenie chlorofilu"
+          ],
+          "answer": 0,
+          "explanation": "Przy niedoborze tlenu w mięśniach może zachodzić fermentacja mlekowa."
+        },
+        {
+          "id": "R01_ODD_06",
+          "section": "Oddychanie organizmów",
+          "type": "multi_select",
+          "prompt": "Zaznacz produkty fermentacji alkoholowej.",
+          "options": [
+            "alkohol etylowy",
+            "dwutlenek węgla",
+            "energia",
+            "chlorofil"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "W fermentacji alkoholowej powstają alkohol etylowy, dwutlenek węgla i trochę energii."
+        },
+        {
+          "id": "R01_ODD_07",
+          "section": "Oddychanie organizmów",
+          "type": "scenario",
+          "prompt": "Zwierzę stałocieplne znalazło się w bardzo zimnym miejscu. Dlaczego jego oddychanie może stać się intensywniejsze?",
+          "options": [
+            "żeby wytworzyć więcej energii i ciepła",
+            "żeby przeprowadzać fotosyntezę",
+            "żeby zbudować ścianę komórkową",
+            "żeby zamienić się w organizm jednokomórkowy"
+          ],
+          "answer": 0,
+          "explanation": "Oddychanie dostarcza energii. Część tej energii ma postać ciepła, więc w chłodzie oddychanie może się nasilać."
+        },
+        {
+          "id": "R01_PSO_01",
+          "section": "Podział świata organizmów",
+          "type": "single_choice",
+          "prompt": "Które zdanie najlepiej wyjaśnia, czym jest gatunek?",
+          "image": "bbt_r01_gatunek_i_podobienstwo.jpg",
+          "options": [
+            "to grupa organizmów o wielu wspólnych cechach, przekazujących je potomstwu",
+            "to każdy organizm, który potrafi latać",
+            "to tylko zwierzęta mieszkające w lesie",
+            "to nazwa wszystkich organizmów jednokomórkowych"
+          ],
+          "answer": 0,
+          "explanation": "Gatunek to grupa organizmów podobnych do siebie, które przekazują swoje cechy potomstwu."
+        },
+        {
+          "id": "R01_PSO_02",
+          "section": "Podział świata organizmów",
+          "type": "sort",
+          "prompt": "Przyporządkuj organizmy do królestw.",
+          "options": null,
+          "items": [
+            "brzoza",
+            "muchomor",
+            "kot",
+            "euglena",
+            "bakteria glebowa"
+          ],
+          "categories": [
+            "rośliny",
+            "grzyby",
+            "zwierzęta",
+            "protisty",
+            "bakterie"
+          ],
+          "answer": {
+            "rośliny": [
+              "brzoza"
+            ],
+            "grzyby": [
+              "muchomor"
+            ],
+            "zwierzęta": [
+              "kot"
+            ],
+            "protisty": [
+              "euglena"
+            ],
+            "bakterie": [
+              "bakteria glebowa"
+            ]
+          },
+          "explanation": "Organizmy dzieli się na królestwa według ich cech i pokrewieństwa."
+        },
+        {
+          "id": "R01_PSO_03",
+          "section": "Podział świata organizmów",
+          "type": "fill_in",
+          "prompt": "Największą grupą w tej klasyfikacji jest __________, a dział biologii zajmujący się klasyfikacją organizmów to __________.",
+          "options": null,
+          "answer": [
+            "królestwo",
+            "systematyka"
+          ],
+          "altAnswers": [
+            [
+              "królestwo",
+              "królestwem",
+              "królestwa"
+            ],
+            [
+              "systematyka",
+              "systematykę",
+              "systematyce"
+            ]
+          ],
+          "explanation": "Królestwo to największa grupa w tym szkolnym podziale, a systematyka zajmuje się porządkowaniem organizmów."
+        },
+        {
+          "id": "R01_PSO_04",
+          "section": "Podział świata organizmów",
+          "type": "sequence",
+          "prompt": "Ułóż poziomy klasyfikacji od najmniejszego do największego.",
+          "options": null,
+          "items": [
+            "rodzaj",
+            "królestwo",
+            "gatunek",
+            "gromada",
+            "rząd",
+            "rodzina"
+          ],
+          "answer": [
+            "gatunek",
+            "rodzaj",
+            "rodzina",
+            "rząd",
+            "gromada",
+            "królestwo"
+          ],
+          "explanation": "Najpierw jest gatunek, a potem kolejne coraz większe grupy: rodzaj, rodzina, rząd, gromada i królestwo."
+        },
+        {
+          "id": "R01_PSO_05",
+          "section": "Podział świata organizmów",
+          "type": "true_false",
+          "prompt": "Wszystkie gatunki żyjące dziś na Ziemi pochodzą od wspólnego przodka.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Gatunki są ze sobą bliżej lub dalej spokrewnione, bo pochodzą od dawnych wspólnych przodków."
+        },
+        {
+          "id": "R01_PSO_06",
+          "section": "Podział świata organizmów",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: lis, nietoperz, delfin, brzoza.",
+          "options": null,
+          "answer": "brzoza",
+          "explanation": "Lis, nietoperz i delfin to zwierzęta. Brzoza jest rośliną."
+        },
+        {
+          "id": "R01_WIR_01",
+          "section": "Wirusy",
+          "type": "single_choice",
+          "prompt": "Dlaczego wirusów nie zalicza się do organizmów?",
+          "image": "bbt_r01_wirusy_ksztalty.jpg",
+          "options": [
+            "bo nie mają budowy komórkowej i nie wykonują samodzielnie czynności życiowych",
+            "bo są za małe, by je nazwać organizmami",
+            "bo mają tylko jeden kolor",
+            "bo żyją wyłącznie w wodzie"
+          ],
+          "answer": 0,
+          "explanation": "Wirusy nie mają budowy komórkowej i same nie wykonują czynności życiowych, dlatego nie zalicza się ich do organizmów."
+        },
+        {
+          "id": "R01_WIR_02",
+          "section": "Wirusy",
+          "type": "fill_in",
+          "prompt": "Wirus jest zbudowany z materiału __________ i osłonki __________.",
+          "options": null,
+          "answer": [
+            "genetycznego",
+            "białkowej"
+          ],
+          "altAnswers": [
+            [
+              "genetycznego",
+              "genetyczny",
+              "genetyczna"
+            ],
+            [
+              "białkowej",
+              "białkowa",
+              "z białek",
+              "białkowej osłonki"
+            ]
+          ],
+          "explanation": "Wirus ma materiał genetyczny otoczony osłonką z białek."
+        },
+        {
+          "id": "R01_WIR_03",
+          "section": "Wirusy",
+          "type": "multi_select",
+          "prompt": "Zaznacz drogi, którymi mogą rozprzestrzeniać się wirusy.",
+          "options": [
+            "drogą powietrzno-kropelkową",
+            "drogą pokarmową",
+            "przez kontakt z zakażoną krwią lub drogą płciową",
+            "za pośrednictwem zwierząt",
+            "przez czytanie książek"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Wirusy mogą przenosić się na kilka sposobów, na przykład drogą kropelkową, pokarmową, przez krew i przez zwierzęta."
+        },
+        {
+          "id": "R01_WIR_04",
+          "section": "Wirusy",
+          "type": "true_false",
+          "prompt": "Szczepionki pomagają organizmowi przygotować się do walki z niektórymi wirusami.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Szczepionki pobudzają organizm do wytworzenia odporności przeciwko określonym wirusom."
+        },
+        {
+          "id": "R01_ST_01",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji pokazano pierwiastki ważne podczas wysiłku. Który z nich sportowiec szczególnie traci wraz z potem?",
+          "image": "bbt_r01_pierwiastki_dla_sportowca.jpg",
+          "options": [
+            "sód",
+            "wapń",
+            "magnez",
+            "fosfor"
+          ],
+          "answer": 0,
+          "explanation": "Sód jest tracony z potem, dlatego przy dużym wysiłku jego uzupełnianie może być ważne."
+        },
+        {
+          "id": "R01_ST_02",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Spójrz na ilustrację i zaznacz zdania prawdziwe.",
+          "image": "bbt_r01_fermentacja_dwa_typy.jpg",
+          "options": [
+            "Fermentacja mlekowa może zachodzić w mięśniach podczas dużego wysiłku.",
+            "Drożdże przeprowadzają fermentację alkoholową.",
+            "Oba typy fermentacji zachodzą bez udziału tlenu.",
+            "W obu typach fermentacji powstaje chlorofil."
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Fermentacja mlekowa może zachodzić w mięśniach, drożdże przeprowadzają fermentację alkoholową, a obie fermentacje zachodzą bez tlenu. Chlorofil nie ma z nimi związku."
+        },
+        {
+          "id": "R01_ST_03",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Który zapis pokazuje poprawną kolejność poziomów klasyfikacji od najmniejszego do największego?",
+          "image": "bbt_r01_klasyfikacja_organizmow.jpg",
+          "options": [
+            "gatunek → rodzaj → rodzina → rząd → gromada → królestwo",
+            "królestwo → gromada → rząd → rodzina → rodzaj → gatunek",
+            "rodzina → gatunek → królestwo → rząd → rodzaj → gromada",
+            "gatunek → rodzina → rodzaj → rząd → królestwo → gromada"
+          ],
+          "answer": 0,
+          "explanation": "W klasyfikacji zaczyna się od najmniejszej grupy, czyli gatunku, a kończy na coraz większych grupach."
+        },
+        {
+          "id": "R01_ST_04",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji są ptaki i ssaki. Która para jest zwykle bliżej spokrewniona?",
+          "image": "bbt_r01_gatunek_i_podobienstwo.jpg",
+          "options": [
+            "dwa ptaki",
+            "ptak i ssak",
+            "brzoza i ptak",
+            "bakteria i ssak"
+          ],
+          "answer": 0,
+          "explanation": "Organizmy należące do tej samej dużej grupy, na przykład do ptaków, są zwykle bliżej spokrewnione niż organizmy z bardzo różnych grup."
+        },
+        {
+          "id": "R01_ST_05",
+          "section": "Super trudne",
+          "type": "sort",
+          "prompt": "Przyporządkuj organizmy do właściwego królestwa.",
+          "image": "bbt_r01_krolestwa_organizmow.jpg",
+          "options": null,
+          "items": [
+            "sarna",
+            "pałeczka okrężnicy",
+            "morszczyn",
+            "koźlarz",
+            "koniczyna"
+          ],
+          "categories": [
+            "zwierzęta",
+            "bakterie",
+            "protisty",
+            "grzyby",
+            "rośliny"
+          ],
+          "answer": {
+            "zwierzęta": [
+              "sarna"
+            ],
+            "bakterie": [
+              "pałeczka okrężnicy"
+            ],
+            "protisty": [
+              "morszczyn"
+            ],
+            "grzyby": [
+              "koźlarz"
+            ],
+            "rośliny": [
+              "koniczyna"
+            ]
+          },
+          "explanation": "Każdy z tych organizmów należy do innego królestwa."
+        },
+        {
+          "id": "R01_ST_06",
+          "section": "Super trudne",
+          "type": "sequence",
+          "prompt": "Ułóż etapy namnażania się wirusa w komórce we właściwej kolejności.",
+          "image": "bbt_r01_cykl_infekcji_wirusa.jpg",
+          "options": null,
+          "items": [
+            "z komórki wydostają się nowe wirusy",
+            "wirus wnika do komórki",
+            "komórka zaczyna produkować części wirusa",
+            "materiał wirusa przejmuje kontrolę nad komórką"
+          ],
+          "answer": [
+            "wirus wnika do komórki",
+            "materiał wirusa przejmuje kontrolę nad komórką",
+            "komórka zaczyna produkować części wirusa",
+            "z komórki wydostają się nowe wirusy"
+          ],
+          "explanation": "Najpierw wirus wnika do komórki, potem przejmuje nad nią kontrolę, komórka produkuje nowe wirusy, a na końcu wirusy się wydostają."
+        },
+        {
+          "id": "R01_ST_07",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Na ilustracji pokazano trzy różne komórki. Co mają wspólnego wszystkie te komórki?",
+          "image": "bbt_r01_wspolne_elementy_komorki.jpg",
+          "options": [
+            "błona komórkowa",
+            "cytoplazma",
+            "materiał genetyczny",
+            "chloroplasty"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Wspólne dla komórek roślinnych, zwierzęcych i bakteryjnych są błona komórkowa, cytoplazma oraz materiał genetyczny. Chloroplasty mają tylko komórki roślinne."
+        },
+        {
+          "id": "R01_ST_08",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "Wirus może namnażać się całkowicie sam, bez żadnej komórki gospodarza.",
+          "options": null,
+          "answer": false,
+          "explanation": "To fałsz. Wirus potrzebuje zaatakowanej komórki, bo sam nie potrafi się namnażać."
+        },
+        {
+          "id": "R01_ST_09",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "W organizmie jednokomórkowym wszystkie podstawowe czynności życiowe zachodzą w __________ komórce.",
+          "options": null,
+          "answer": [
+            "jednej"
+          ],
+          "altAnswers": [
+            [
+              "jednej",
+              "jedna",
+              "tej samej",
+              "pojedynczej"
+            ]
+          ],
+          "explanation": "Organizm jednokomórkowy składa się tylko z jednej komórki, więc właśnie w niej zachodzą wszystkie czynności życiowe."
+        },
+        {
+          "id": "R01_ST_10",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz proces z miejscem, w którym zachodzi.",
+          "options": null,
+          "left": [
+            "fotosynteza",
+            "oddychanie tlenowe",
+            "fermentacja",
+            "obserwacja pod mikroskopem"
+          ],
+          "right": [
+            "chloroplast",
+            "mitochondrium",
+            "cytoplazma",
+            "preparat mikroskopowy"
+          ],
+          "answer": {
+            "fotosynteza": "chloroplast",
+            "oddychanie tlenowe": "mitochondrium",
+            "fermentacja": "cytoplazma",
+            "obserwacja pod mikroskopem": "preparat mikroskopowy"
+          },
+          "explanation": "Każdy z tych procesów ma swoje typowe miejsce: fotosynteza w chloroplaście, oddychanie tlenowe w mitochondrium, fermentacja w cytoplazmie, a obserwacja w preparacie."
+        },
+        {
+          "id": "R01_ST_11",
+          "section": "Super trudne",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: węgiel, tlen, azot, złoto.",
+          "options": null,
+          "answer": "złoto",
+          "explanation": "Węgiel, tlen i azot to pierwiastki biogenne. Złoto do nich nie należy."
+        },
+        {
+          "id": "R01_ST_12",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Ola chce obejrzeć pod mikroskopem komórki skórki cebuli. Który zestaw rzeczy będzie najbardziej potrzebny?",
+          "options": [
+            "mikroskop, skórka cebuli, szkiełko podstawowe, szkiełko nakrywkowe i kropla wody",
+            "linijka, nożyczki i kredki",
+            "mikroskop i piłka",
+            "tylko zeszyt i długopis"
+          ],
+          "answer": 0,
+          "explanation": "Do wykonania prostego preparatu potrzeba obiektu do obserwacji, mikroskopu, szkiełek i zwykle kropli wody."
+        },
+        {
+          "id": "R01_ST_13",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "W doświadczeniu z fotosyntezą wybierz zdania prawdziwe.",
+          "options": [
+            "B1 i B2 to próby badawcze.",
+            "K to próba kontrolna.",
+            "Im więcej światła, tym zwykle więcej tlenu powstaje w probówce.",
+            "W ciemności fotosynteza zachodzi najintensywniej."
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "W doświadczeniu B1 i B2 są próbami badawczymi, K jest próbą kontrolną, a większe natężenie światła zwykle zwiększa intensywność fotosyntezy."
+        },
+        {
+          "id": "R01_ST_14",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Kilka podobnych gatunków tworzy __________, a kilka podobnych rodzajów tworzy __________.",
+          "options": null,
+          "answer": [
+            "rodzaj",
+            "rodzinę"
+          ],
+          "altAnswers": [
+            [
+              "rodzaj",
+              "rodzaju"
+            ],
+            [
+              "rodzinę",
+              "rodzina",
+              "rodziny"
+            ]
+          ],
+          "explanation": "W klasyfikacji kilka podobnych gatunków łączy się w rodzaj, a kilka podobnych rodzajów w rodzinę."
+        },
+        {
+          "id": "R01_ST_15",
+          "section": "Super trudne",
+          "type": "riddle",
+          "prompt": "Nie mam budowy komórkowej. Żeby się rozmnożyć, muszę przejąć cudzą komórkę. Kim jestem?",
+          "options": null,
+          "answer": "wirus",
+          "altAnswers": [
+            "wirus",
+            "wirusem",
+            "wirusa",
+            "wirusy"
+          ],
+          "explanation": "Tak działa wirus. Sam nie rozmnaża się, tylko wykorzystuje zaatakowaną komórkę."
+        },
+        {
+          "id": "R01_ST_16",
+          "section": "Super trudne",
+          "type": "riddle",
+          "prompt": "Jestem zielonym organellum. To we mnie roślina wytwarza cukier z udziałem światła. Kim jestem?",
+          "options": null,
+          "answer": "chloroplast",
+          "altAnswers": [
+            "chloroplast",
+            "chloroplasty",
+            "chloroplaście",
+            "chloroplastem"
+          ],
+          "explanation": "Chloroplast jest miejscem fotosyntezy w komórce roślinnej."
+        },
+        {
+          "id": "R01_ST_17",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Roślina przez długi czas nie ma wody. Dlaczego jej fotosynteza może wyraźnie osłabnąć?",
+          "options": [
+            "bo do życia i do fotosyntezy potrzebuje wody",
+            "bo woda zmienia się wtedy w kości",
+            "bo bez wody roślina staje się wirusem",
+            "bo woda jest potrzebna tylko zwierzętom"
+          ],
+          "answer": 0,
+          "explanation": "Woda jest jednym z substratów fotosyntezy i jest roślinie potrzebna do prawidłowego działania."
+        },
+        {
+          "id": "R01_ST_18",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "W bardzo silnym świetle chloroplasty mogą zmieniać położenie w komórce, żeby ograniczyć pobieranie energii.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Chloroplasty mogą przemieszczać się w komórce zależnie od natężenia światła."
+        },
+        {
+          "id": "R01_ST_19",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz proces z produktami, które wtedy powstają.",
+          "options": null,
+          "left": [
+            "oddychanie tlenowe",
+            "fermentacja mlekowa",
+            "fermentacja alkoholowa"
+          ],
+          "right": [
+            "energia, dwutlenek węgla i woda",
+            "kwas mlekowy i energia",
+            "alkohol etylowy, dwutlenek węgla i energia"
+          ],
+          "answer": {
+            "oddychanie tlenowe": "energia, dwutlenek węgla i woda",
+            "fermentacja mlekowa": "kwas mlekowy i energia",
+            "fermentacja alkoholowa": "alkohol etylowy, dwutlenek węgla i energia"
+          },
+          "explanation": "Produkty zależą od procesu. Właśnie po nich można odróżnić oddychanie tlenowe i dwa typy fermentacji."
+        },
+        {
+          "id": "R01_ST_20",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Które zachowanie najmniej pomaga ograniczać rozprzestrzenianie się chorób wirusowych?",
+          "options": [
+            "częste mycie rąk",
+            "szczepienia",
+            "używanie tej samej butelki po napoju z osobą chorą",
+            "unikanie bliskiego kontaktu z chorym"
+          ],
+          "answer": 2,
+          "explanation": "Wspólne używanie butelki z osobą chorą może ułatwiać przenoszenie wirusów, więc nie pomaga ograniczać zakażeń."
+        }
+      ],
+      "kidPrompts": {}
+    },
+    {
+      "id": "r02",
+      "number": 2,
+      "title": "Bakterie, grzyby i protisty",
+      "icon": "🦠",
+      "sectionOrder": [
+        "Królestwo: bakterie",
+        "Bakterie w przyrodzie i w życiu człowieka",
+        "Królestwo: grzyby",
+        "Grzyby w przyrodzie i w życiu człowieka",
+        "Królestwo: protisty"
+      ],
+      "sectionIcons": {
+        "Królestwo: bakterie": "🦠",
+        "Bakterie w przyrodzie i w życiu człowieka": "🧫",
+        "Królestwo: grzyby": "🍄",
+        "Grzyby w przyrodzie i w życiu człowieka": "🌱",
+        "Królestwo: protisty": "🫧"
+      },
+      "exercises": [
+        {
+          "id": "R02_BA_01",
+          "section": "Królestwo: bakterie",
+          "type": "single_choice",
+          "prompt": "Na ilustracji widzisz komórkę bakterii. Które zdanie najlepiej ją opisuje?",
+          "image": "bbt_r02_komorka_bakteryjna.jpg",
+          "options": [
+            "jest mikroskopijna i jednokomórkowa",
+            "jest duża i wielokomórkowa",
+            "ma korzenie i liście",
+            "zawsze tworzy kapelusz"
+          ],
+          "answer": 0,
+          "explanation": "Bakterie są bardzo małe i zbudowane tylko z jednej komórki."
+        },
+        {
+          "id": "R02_BA_02",
+          "section": "Królestwo: bakterie",
+          "type": "multi_select",
+          "prompt": "Spójrz na ilustrację i zaznacz kształty, które mogą mieć bakterie.",
+          "image": "bbt_r02_bakterie_ksztalty.jpg",
+          "options": [
+            "ziarniaki",
+            "laseczki",
+            "śrubowce",
+            "motyle",
+            "przecinkowce"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explanation": "Komórki bakterii mogą mieć różne kształty, na przykład ziarenek, laseczek, śrubek albo przecinków."
+        },
+        {
+          "id": "R02_BA_03",
+          "section": "Królestwo: bakterie",
+          "type": "true_false",
+          "prompt": "Komórka bakteryjna ma jądro komórkowe.",
+          "options": null,
+          "answer": false,
+          "explanation": "To fałsz. Bakterie nie mają jądra komórkowego."
+        },
+        {
+          "id": "R02_BA_04",
+          "section": "Królestwo: bakterie",
+          "type": "fill_in",
+          "prompt": "W komórce bakteryjnej występują __________, __________ i materiał genetyczny.",
+          "options": null,
+          "answer": [
+            "cytoplazma",
+            "błona komórkowa"
+          ],
+          "altAnswers": [
+            [
+              "cytoplazma",
+              "cytoplazmę",
+              "cytoplazmie"
+            ],
+            [
+              "błona komórkowa",
+              "błona",
+              "błonę komórkową",
+              "błonie komórkowej"
+            ]
+          ],
+          "explanation": "Komórka bakteryjna ma cytoplazmę, błonę komórkową i materiał genetyczny, ale nie ma jądra."
+        },
+        {
+          "id": "R02_BA_05",
+          "section": "Królestwo: bakterie",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: jądro komórkowe, błona komórkowa, cytoplazma, ściana komórkowa.",
+          "options": null,
+          "answer": "jądro komórkowe",
+          "explanation": "Bakteria nie ma jądra komórkowego. Pozostałe elementy mogą występować w komórce bakteryjnej."
+        },
+        {
+          "id": "R02_BA_06",
+          "section": "Królestwo: bakterie",
+          "type": "scenario",
+          "prompt": "Ola przeczytała, że niektóre bakterie żyją w gorących źródłach. Co z tego wynika?",
+          "options": [
+            "bakterie potrafią przystosować się do bardzo różnych warunków",
+            "bakterie żyją tylko w ciele człowieka",
+            "wszystkie bakterie potrzebują lodu",
+            "bakterie nie potrzebują pokarmu"
+          ],
+          "answer": 0,
+          "explanation": "Bakterie potrafią zasiedlać bardzo różne środowiska, nawet takie, które dla wielu innych organizmów są zbyt trudne."
+        },
+        {
+          "id": "R02_BA_07",
+          "section": "Królestwo: bakterie",
+          "type": "single_choice",
+          "prompt": "Które bakterie są samożywne?",
+          "options": [
+            "te, które same wytwarzają pokarm, na przykład podczas fotosyntezy",
+            "te, które zawsze zjadają inne bakterie",
+            "te, które żyją tylko na skórze",
+            "te, które nigdy nie oddychają"
+          ],
+          "answer": 0,
+          "explanation": "Bakterie samożywne same wytwarzają pokarm. Niektóre robią to dzięki fotosyntezie."
+        },
+        {
+          "id": "R02_BA_08",
+          "section": "Królestwo: bakterie",
+          "type": "single_choice",
+          "prompt": "Na ilustracji pokazano dwa sposoby życia bakterii z innymi organizmami. Która sytuacja jest korzystna dla obu stron?",
+          "image": "bbt_r02_bakterie_symbioza_pasozyt.jpg",
+          "options": [
+            "symbioza",
+            "pasożytnictwo",
+            "brak związku",
+            "sen zimowy"
+          ],
+          "answer": 0,
+          "explanation": "W symbiozie obie strony odnoszą korzyść. W pasożytnictwie zyskuje pasożyt, a gospodarz traci."
+        },
+        {
+          "id": "R02_BA_09",
+          "section": "Królestwo: bakterie",
+          "type": "sequence",
+          "prompt": "Ułóż etapy rozmnażania się bakterii we właściwej kolejności.",
+          "image": "bbt_r02_podzial_bakterii.jpg",
+          "options": null,
+          "items": [
+            "podwojenie materiału genetycznego",
+            "podział komórki na pół",
+            "powstanie dwóch komórek potomnych"
+          ],
+          "answer": [
+            "podwojenie materiału genetycznego",
+            "podział komórki na pół",
+            "powstanie dwóch komórek potomnych"
+          ],
+          "explanation": "Bakteria najpierw powiela materiał genetyczny, potem dzieli się na pół i powstają dwie komórki potomne."
+        },
+        {
+          "id": "R02_BA_10",
+          "section": "Królestwo: bakterie",
+          "type": "true_false",
+          "prompt": "Niektóre bakterie w trudnych warunkach mogą tworzyć przetrwalniki.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Przetrwalniki pomagają bakteriom przetrwać suszę i inne niekorzystne warunki."
+        },
+        {
+          "id": "R02_BWC_01",
+          "section": "Bakterie w przyrodzie i w życiu człowieka",
+          "type": "single_choice",
+          "prompt": "Spójrz na schemat obiegu materii. Dlaczego bakterie saprofityczne są ważne w przyrodzie?",
+          "image": "bbt_r02_bakterie_obieg_materii.jpg",
+          "options": [
+            "rozkładają martwą materię i uwalniają związki potrzebne roślinom",
+            "zamieniają wszystkie rośliny w grzyby",
+            "zatrzymują obieg substancji w przyrodzie",
+            "zjadają tylko kamienie"
+          ],
+          "answer": 0,
+          "explanation": "Bakterie saprofityczne rozkładają martwą materię organiczną. Dzięki temu do środowiska wracają potrzebne związki chemiczne."
+        },
+        {
+          "id": "R02_BWC_02",
+          "section": "Bakterie w przyrodzie i w życiu człowieka",
+          "type": "multi_select",
+          "prompt": "Zaznacz przykłady pożytecznego wykorzystania bakterii przez człowieka.",
+          "image": "bbt_r02_bakterie_wykorzystanie.jpg",
+          "options": [
+            "produkcja jogurtu i kiszonej kapusty",
+            "oczyszczanie ścieków",
+            "otrzymywanie insuliny",
+            "leczenie drewna farbą",
+            "produkcja niektórych serów"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explanation": "Bakterie wykorzystuje się między innymi do produkcji żywności, oczyszczania ścieków i otrzymywania niektórych leków."
+        },
+        {
+          "id": "R02_BWC_03",
+          "section": "Bakterie w przyrodzie i w życiu człowieka",
+          "type": "true_false",
+          "prompt": "Wybrzuszone wieczko konserwy może oznaczać, że w środku namnożyły się groźne bakterie.",
+          "image": "bbt_r02_bombaz_konserwy.jpg",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Takie wybrzuszenie nazywa się bombażem i może oznaczać, że zawartość jest niebezpieczna."
+        },
+        {
+          "id": "R02_BWC_04",
+          "section": "Bakterie w przyrodzie i w życiu człowieka",
+          "type": "fill_in",
+          "prompt": "Niektóre bakterie żyjące w jelicie grubym człowieka pomagają wytwarzać __________ i żyją z nami w __________.",
+          "options": null,
+          "answer": [
+            "witaminy",
+            "symbiozie"
+          ],
+          "altAnswers": [
+            [
+              "witaminy",
+              "witaminę",
+              "witamin"
+            ],
+            [
+              "symbiozie",
+              "symbioza",
+              "symbiozą"
+            ]
+          ],
+          "explanation": "Pożyteczne bakterie jelitowe pomagają między innymi wytwarzać witaminy. Taki związek z człowiekiem to symbioza."
+        },
+        {
+          "id": "R02_BWC_05",
+          "section": "Bakterie w przyrodzie i w życiu człowieka",
+          "type": "sort",
+          "prompt": "Posortuj przykłady na pożyteczne i szkodliwe działanie bakterii.",
+          "options": null,
+          "items": [
+            "produkcja kiszonej kapusty",
+            "oczyszczanie ścieków",
+            "gruźlica",
+            "salmonelloza",
+            "produkcja insuliny",
+            "borelioza"
+          ],
+          "categories": [
+            "pożyteczne działanie",
+            "szkodliwe działanie"
+          ],
+          "answer": {
+            "pożyteczne działanie": [
+              "produkcja kiszonej kapusty",
+              "oczyszczanie ścieków",
+              "produkcja insuliny"
+            ],
+            "szkodliwe działanie": [
+              "gruźlica",
+              "salmonelloza",
+              "borelioza"
+            ]
+          },
+          "explanation": "Bakterie mogą pomagać ludziom, ale niektóre wywołują też groźne choroby."
+        },
+        {
+          "id": "R02_BWC_06",
+          "section": "Bakterie w przyrodzie i w życiu człowieka",
+          "type": "scenario",
+          "prompt": "Bartek skaleczył się zardzewiałym drutem ubrudzonym ziemią. Przed jaką chorobą trzeba go szczególnie chronić?",
+          "image": "bbt_r02_choroby_bakteryjne_drogi.jpg",
+          "options": [
+            "tężec",
+            "malaria",
+            "grypa",
+            "ospa wietrzna"
+          ],
+          "answer": 0,
+          "explanation": "Tężec może rozwinąć się po zakażeniu rany bakteriami obecnymi w glebie."
+        },
+        {
+          "id": "R02_BWC_07",
+          "section": "Bakterie w przyrodzie i w życiu człowieka",
+          "type": "single_choice",
+          "prompt": "Którą chorobę bakteryjną przenoszą kleszcze?",
+          "options": [
+            "boreliozę",
+            "salmonellozę",
+            "tężec",
+            "czerwonkę pełzakową"
+          ],
+          "answer": 0,
+          "explanation": "Borelioza jest przenoszona przez zakażone kleszcze."
+        },
+        {
+          "id": "R02_BWC_08",
+          "section": "Bakterie w przyrodzie i w życiu człowieka",
+          "type": "multi_select",
+          "prompt": "Zaznacz działania, które pomagają ograniczać zakażenia bakteryjne.",
+          "options": [
+            "mycie rąk",
+            "szczepienia ochronne",
+            "dbanie o czystość ran",
+            "jedzenie zepsutej żywności",
+            "picie wody z pewnego źródła"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explanation": "Higiena, szczepienia, dbanie o rany i bezpieczna woda zmniejszają ryzyko zakażeń."
+        },
+        {
+          "id": "R02_BWC_09",
+          "section": "Bakterie w przyrodzie i w życiu człowieka",
+          "type": "riddle",
+          "prompt": "Jestem wybrzuszeniem wieczka puszki. Ostrzegam, że jedzenie w środku może być groźne. Jak się nazywam?",
+          "options": null,
+          "answer": "bombaż",
+          "altAnswers": [
+            "bombaż",
+            "bombażem",
+            "bombazu",
+            "bombażu"
+          ],
+          "explanation": "Wybrzuszone wieczko konserwy to bombaż. Taka puszka nie nadaje się do jedzenia."
+        },
+        {
+          "id": "R02_BWC_10",
+          "section": "Bakterie w przyrodzie i w życiu człowieka",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: tężec, gruźlica, salmonelloza, grypa.",
+          "options": null,
+          "answer": "grypa",
+          "explanation": "Grypa jest chorobą wirusową, a tężec, gruźlica i salmonelloza to choroby bakteryjne."
+        },
+        {
+          "id": "R02_GR_01",
+          "section": "Królestwo: grzyby",
+          "type": "single_choice",
+          "prompt": "Na ilustracji pokazano budowę grzyba. Jak nazywa się splątana sieć strzępek ukryta w podłożu?",
+          "image": "bbt_r02_grzyby_budowa.jpg",
+          "options": [
+            "grzybnia",
+            "korzeń",
+            "łodyga",
+            "liść"
+          ],
+          "answer": 0,
+          "explanation": "Sieć strzępek grzyba to grzybnia. To ona pobiera pokarm z podłoża."
+        },
+        {
+          "id": "R02_GR_02",
+          "section": "Królestwo: grzyby",
+          "type": "multi_select",
+          "prompt": "Zaznacz cechy komórek grzybów.",
+          "options": [
+            "mają jądro komórkowe",
+            "mają ścianę komórkową z chityny",
+            "mają chloroplasty",
+            "wielu przedstawicieli ma ciało zbudowane ze strzępek"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
+          "explanation": "Komórki grzybów mają jądro i ścianę z chityny. Nie mają chloroplastów."
+        },
+        {
+          "id": "R02_GR_03",
+          "section": "Królestwo: grzyby",
+          "type": "true_false",
+          "prompt": "Większość grzybów to organizmy cudzożywne.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Grzyby nie prowadzą fotosyntezy, więc muszą pobierać gotowe substancje odżywcze."
+        },
+        {
+          "id": "R02_GR_04",
+          "section": "Królestwo: grzyby",
+          "type": "fill_in",
+          "prompt": "Cienkie nitki budujące ciało wielu grzybów to __________, a ich gęsta sieć to __________.",
+          "options": null,
+          "answer": [
+            "strzępki",
+            "grzybnia"
+          ],
+          "altAnswers": [
+            [
+              "strzępki",
+              "strzępka",
+              "strzępek"
+            ],
+            [
+              "grzybnia",
+              "grzybnię",
+              "grzybni"
+            ]
+          ],
+          "explanation": "Pojedyncze nitki to strzępki. Ich gęsta, splątana masa tworzy grzybnię."
+        },
+        {
+          "id": "R02_GR_05",
+          "section": "Królestwo: grzyby",
+          "type": "scenario",
+          "prompt": "Na ilustracji pokazano, jak grzyb zdobywa pokarm. Gdzie zachodzi trawienie pokarmu u grzyba?",
+          "image": "bbt_r02_grzyb_trawienie.jpg",
+          "options": [
+            "poza organizmem grzyba",
+            "w jamie ustnej grzyba",
+            "w żołądku grzyba",
+            "tylko w kapeluszu"
+          ],
+          "answer": 0,
+          "explanation": "Grzyby wydzielają substancje trawiące na zewnątrz swojego ciała, a potem wchłaniają gotowe składniki."
+        },
+        {
+          "id": "R02_GR_06",
+          "section": "Królestwo: grzyby",
+          "type": "single_choice",
+          "prompt": "Jak rozmnażają się drożdże pokazane na ilustracji?",
+          "image": "bbt_r02_drozdze_paczkowanie.jpg",
+          "options": [
+            "przez pączkowanie",
+            "przez nasiona",
+            "przez jaja",
+            "przez liście"
+          ],
+          "answer": 0,
+          "explanation": "Drożdże rozmnażają się bezpłciowo przez pączkowanie."
+        },
+        {
+          "id": "R02_GR_07",
+          "section": "Królestwo: grzyby",
+          "type": "single_choice",
+          "prompt": "Który sposób rozmnażania grzybów daje potomstwo bardziej zróżnicowane?",
+          "image": "bbt_r02_grzyby_zarodniki_i_plciowe.jpg",
+          "options": [
+            "rozmnażanie płciowe",
+            "rozmnażanie przez pączkowanie",
+            "rozmnażanie bezpłciowe jednego osobnika",
+            "żaden"
+          ],
+          "answer": 0,
+          "explanation": "W rozmnażaniu płciowym biorą udział dwa organizmy, więc potomstwo ma mieszaninę ich cech."
+        },
+        {
+          "id": "R02_GR_08",
+          "section": "Królestwo: grzyby",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: strzępka, grzybnia, owocnik, chloroplast.",
+          "options": null,
+          "answer": "chloroplast",
+          "explanation": "Grzyby nie mają chloroplastów. Pozostałe wyrazy dotyczą budowy grzybów."
+        },
+        {
+          "id": "R02_GR_09",
+          "section": "Królestwo: grzyby",
+          "type": "riddle",
+          "prompt": "Jestem jednokomórkowym grzybem. Dzięki mnie ciasto może rosnąć. Kim jestem?",
+          "options": null,
+          "answer": "drożdże",
+          "altAnswers": [
+            "drożdże",
+            "drożdżami",
+            "drozdze",
+            "drożdżach"
+          ],
+          "explanation": "Drożdże to jednokomórkowe grzyby wykorzystywane między innymi do pieczenia."
+        },
+        {
+          "id": "R02_GR_10",
+          "section": "Królestwo: grzyby",
+          "type": "sequence",
+          "prompt": "Ułóż etapy rozmnażania płciowego grzyba kapeluszowego.",
+          "options": null,
+          "items": [
+            "połączenie strzępek dwóch osobników",
+            "powstanie wspólnej grzybni",
+            "wytworzenie owocnika",
+            "rozsiewanie zarodników"
+          ],
+          "answer": [
+            "połączenie strzępek dwóch osobników",
+            "powstanie wspólnej grzybni",
+            "wytworzenie owocnika",
+            "rozsiewanie zarodników"
+          ],
+          "explanation": "Najpierw łączą się strzępki dwóch osobników, potem powstaje wspólna grzybnia, owocnik i zarodniki."
+        },
+        {
+          "id": "R02_GWC_01",
+          "section": "Grzyby w przyrodzie i w życiu człowieka",
+          "type": "match",
+          "prompt": "Połącz partnera mikoryzy z tym, co przekazuje drugiej stronie.",
+          "image": "bbt_r02_mikoryza.jpg",
+          "options": null,
+          "left": [
+            "roślina",
+            "grzyb"
+          ],
+          "right": [
+            "cukry wytworzone w liściach",
+            "woda i sole mineralne z gleby"
+          ],
+          "answer": {
+            "roślina": "cukry wytworzone w liściach",
+            "grzyb": "woda i sole mineralne z gleby"
+          },
+          "explanation": "W mikoryzie obie strony korzystają. Roślina daje cukry, a grzyb pomaga pobierać wodę i sole mineralne."
+        },
+        {
+          "id": "R02_GWC_02",
+          "section": "Grzyby w przyrodzie i w życiu człowieka",
+          "type": "single_choice",
+          "prompt": "Czym jest porost?",
+          "options": [
+            "wspólnym organizmem grzyba i glonu",
+            "samą rośliną wodną",
+            "samą bakterią",
+            "rodzajem owada"
+          ],
+          "answer": 0,
+          "explanation": "Porost tworzą razem grzyb i jednokomórkowy glon lub sinica."
+        },
+        {
+          "id": "R02_GWC_03",
+          "section": "Grzyby w przyrodzie i w życiu człowieka",
+          "type": "true_false",
+          "prompt": "W poroście zielona warstwa glonów wykonuje fotosyntezę.",
+          "image": "bbt_r02_porost_przekroj.jpg",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Zielona warstwa glonów w poroście wytwarza pokarm podczas fotosyntezy."
+        },
+        {
+          "id": "R02_GWC_04",
+          "section": "Grzyby w przyrodzie i w życiu człowieka",
+          "type": "single_choice",
+          "prompt": "Które porosty zwykle rosną tam, gdzie powietrze jest najczystsze?",
+          "image": "bbt_r02_porosty_typy.jpg",
+          "options": [
+            "krzaczkowate",
+            "listkowate",
+            "proszkowate",
+            "żadne porosty"
+          ],
+          "answer": 0,
+          "explanation": "Porosty krzaczkowate są najbardziej wrażliwe na zanieczyszczenie powietrza."
+        },
+        {
+          "id": "R02_GWC_05",
+          "section": "Grzyby w przyrodzie i w życiu człowieka",
+          "type": "multi_select",
+          "prompt": "Zaznacz przykłady pożytecznego wykorzystania grzybów przez człowieka.",
+          "image": "bbt_r02_grzyby_zastosowania.jpg",
+          "options": [
+            "pieczenie chleba",
+            "produkcja serów pleśniowych",
+            "otrzymywanie antybiotyków",
+            "uprawa pieczarek",
+            "robienie plastikowych zabawek"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Grzyby są używane w piekarnictwie, przy produkcji niektórych serów, leków i jadalnych pieczarek."
+        },
+        {
+          "id": "R02_GWC_06",
+          "section": "Grzyby w przyrodzie i w życiu człowieka",
+          "type": "scenario",
+          "prompt": "Kuba codziennie długo chodzi w nieprzewiewnych butach, a stopy ma często wilgotne. Co może się rozwinąć?",
+          "options": [
+            "grzybica stóp",
+            "borelioza",
+            "krzywica",
+            "malaria"
+          ],
+          "answer": 0,
+          "explanation": "Wilgoć i brak przewiewu sprzyjają rozwojowi grzybicy stóp."
+        },
+        {
+          "id": "R02_GWC_07",
+          "section": "Grzyby w przyrodzie i w życiu człowieka",
+          "type": "sort",
+          "prompt": "Posortuj przykłady na korzystny i szkodliwy wpływ grzybów.",
+          "options": null,
+          "items": [
+            "rozkład martwej materii",
+            "produkcja sera pleśniowego",
+            "grzybica skóry",
+            "choroby roślin uprawnych",
+            "produkcja antybiotyków",
+            "psucie żywności"
+          ],
+          "categories": [
+            "korzystny wpływ",
+            "szkodliwy wpływ"
+          ],
+          "answer": {
+            "korzystny wpływ": [
+              "rozkład martwej materii",
+              "produkcja sera pleśniowego",
+              "produkcja antybiotyków"
+            ],
+            "szkodliwy wpływ": [
+              "grzybica skóry",
+              "choroby roślin uprawnych",
+              "psucie żywności"
+            ]
+          },
+          "explanation": "Grzyby pomagają w przyrodzie i w produkcji żywności czy leków, ale mogą też powodować choroby i psuć jedzenie."
+        },
+        {
+          "id": "R02_GWC_08",
+          "section": "Grzyby w przyrodzie i w życiu człowieka",
+          "type": "fill_in",
+          "prompt": "Porosty należą do organizmów __________, bo potrafią rosnąć nawet na __________ skale.",
+          "options": null,
+          "answer": [
+            "pionierskich",
+            "nagiej"
+          ],
+          "altAnswers": [
+            [
+              "pionierskich",
+              "pionierskie",
+              "organizmów pionierskich"
+            ],
+            [
+              "nagiej",
+              "gołej",
+              "nagiej skale",
+              "gołej skale"
+            ]
+          ],
+          "explanation": "Porosty mogą osiedlać się tam, gdzie prawie nic jeszcze nie rośnie, nawet na nagiej skale."
+        },
+        {
+          "id": "R02_GWC_09",
+          "section": "Grzyby w przyrodzie i w życiu człowieka",
+          "type": "single_choice",
+          "prompt": "Dlaczego wiele grzybów rośnie w wilgotnych miejscach?",
+          "options": [
+            "bo do życia potrzebują odpowiedniej wilgotności",
+            "bo lubią tylko śnieg",
+            "bo same wytwarzają wodę w liściach",
+            "bo unikają wszelkiej materii organicznej"
+          ],
+          "answer": 0,
+          "explanation": "Grzyby dobrze rozwijają się tam, gdzie mają wilgoć i dostęp do substancji organicznych."
+        },
+        {
+          "id": "R02_GWC_10",
+          "section": "Grzyby w przyrodzie i w życiu człowieka",
+          "type": "riddle",
+          "prompt": "Jestem związkiem grzyba i glonu. Często rosnę na kamieniach i korze drzew. Kim jestem?",
+          "options": null,
+          "answer": "porost",
+          "altAnswers": [
+            "porost",
+            "porostem",
+            "porosty",
+            "poroście"
+          ],
+          "explanation": "Porost to wspólny organizm grzyba i glonu."
+        },
+        {
+          "id": "R02_PR_01",
+          "section": "Królestwo: protisty",
+          "type": "single_choice",
+          "prompt": "Na ilustracji pokazano różne protisty. Co łączy wszystkie te organizmy?",
+          "image": "bbt_r02_protisty_roznorodnosc.jpg",
+          "options": [
+            "mają komórki z jądrem",
+            "wszystkie mają kapelusze",
+            "wszystkie są bakteriami",
+            "wszystkie żyją tylko na pustyni"
+          ],
+          "answer": 0,
+          "explanation": "Protisty są bardzo różne, ale wszystkie mają komórki z jądrem."
+        },
+        {
+          "id": "R02_PR_02",
+          "section": "Królestwo: protisty",
+          "type": "true_false",
+          "prompt": "Większość protistów żyje w wodzie albo w bardzo wilgotnych miejscach.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Protisty najczęściej żyją w wodzie, wilgotnej glebie albo w innych organizmach."
+        },
+        {
+          "id": "R02_PR_03",
+          "section": "Królestwo: protisty",
+          "type": "multi_select",
+          "prompt": "Zaznacz zdania prawdziwe o protistach.",
+          "options": [
+            "wśród protistów są organizmy samożywne",
+            "wśród protistów są organizmy cudzożywne",
+            "niektóre protisty są jednokomórkowe",
+            "niektóre protisty są wielokomórkowe",
+            "żaden protist nie ma jądra komórkowego"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Protisty są bardzo zróżnicowane. Mogą być samożywne lub cudzożywne, jedno- albo wielokomórkowe."
+        },
+        {
+          "id": "R02_PR_04",
+          "section": "Królestwo: protisty",
+          "type": "scenario",
+          "prompt": "Euglena ma mało gotowego pokarmu. W którą stronę zwykle będzie się przemieszczać?",
+          "image": "bbt_r02_euglena.jpg",
+          "options": [
+            "w stronę światła",
+            "w stronę lodu",
+            "w stronę piasku",
+            "donikąd, bo nie potrafi się ruszać"
+          ],
+          "answer": 0,
+          "explanation": "Euglena może odżywiać się samożywnie, więc gdy brakuje pokarmu, przemieszcza się w stronę światła."
+        },
+        {
+          "id": "R02_PR_05",
+          "section": "Królestwo: protisty",
+          "type": "single_choice",
+          "prompt": "Który organizm łapie pokarm za pomocą nibynóżek?",
+          "image": "bbt_r02_pantofelek_ameba_wirczyk.jpg",
+          "options": [
+            "ameba",
+            "pantofelek",
+            "wirczyk",
+            "pieczarka"
+          ],
+          "answer": 0,
+          "explanation": "Ameba porusza się i zdobywa pokarm dzięki nibynóżkom."
+        },
+        {
+          "id": "R02_PR_06",
+          "section": "Królestwo: protisty",
+          "type": "fill_in",
+          "prompt": "Samożywne protisty zaliczamy do __________, a większość protistów żyjących w wodzie oddycha __________.",
+          "options": null,
+          "answer": [
+            "glonów",
+            "tlenowo"
+          ],
+          "altAnswers": [
+            [
+              "glonów",
+              "glony",
+              "glon"
+            ],
+            [
+              "tlenowo",
+              "tlenem",
+              "oddycha tlenowo"
+            ]
+          ],
+          "explanation": "Samożywne protisty to glony. Większość protistów oddycha tlenowo."
+        },
+        {
+          "id": "R02_PR_07",
+          "section": "Królestwo: protisty",
+          "type": "sort",
+          "prompt": "Przyporządkuj chorobę do drogi zakażenia.",
+          "options": null,
+          "items": [
+            "pełzak czerwonki",
+            "toksoplazma",
+            "zarodziec malarii"
+          ],
+          "categories": [
+            "zanieczyszczona woda lub żywność",
+            "kontakt z odchodami kotów lub zakażonym mięsem",
+            "ukąszenie komara"
+          ],
+          "answer": {
+            "zanieczyszczona woda lub żywność": [
+              "pełzak czerwonki"
+            ],
+            "kontakt z odchodami kotów lub zakażonym mięsem": [
+              "toksoplazma"
+            ],
+            "ukąszenie komara": [
+              "zarodziec malarii"
+            ]
+          },
+          "explanation": "Różne pasożytnicze protisty dostają się do organizmu człowieka różnymi drogami."
+        },
+        {
+          "id": "R02_PR_08",
+          "section": "Królestwo: protisty",
+          "type": "sequence",
+          "prompt": "Ułóż etapy prostej hodowli protistów we właściwej kolejności.",
+          "image": "bbt_r02_hodowla_protistow.jpg",
+          "options": null,
+          "items": [
+            "włożyć siano do słoika i zalać wodą",
+            "odstawić słoik na kilka dni",
+            "nanieść kroplę płynu na szkiełko",
+            "obejrzeć preparat pod mikroskopem"
+          ],
+          "answer": [
+            "włożyć siano do słoika i zalać wodą",
+            "odstawić słoik na kilka dni",
+            "nanieść kroplę płynu na szkiełko",
+            "obejrzeć preparat pod mikroskopem"
+          ],
+          "explanation": "Najpierw przygotowuje się hodowlę, potem czeka, robi preparat i ogląda go pod mikroskopem."
+        },
+        {
+          "id": "R02_PR_09",
+          "section": "Królestwo: protisty",
+          "type": "single_choice",
+          "prompt": "Który protist wywołuje malarię?",
+          "options": [
+            "zarodziec malarii",
+            "drożdże",
+            "gronkowiec",
+            "huba"
+          ],
+          "answer": 0,
+          "explanation": "Malarię wywołuje pasożytniczy protist nazywany zarodźcem malarii."
+        },
+        {
+          "id": "R02_PR_10",
+          "section": "Królestwo: protisty",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: ameba, euglena, pantofelek, borowik.",
+          "options": null,
+          "answer": "borowik",
+          "explanation": "Borowik jest grzybem, a pozostałe organizmy to protisty."
+        },
+        {
+          "id": "R02_ST_01",
+          "section": "Super trudne",
+          "type": "sort",
+          "prompt": "Posortuj cechy do właściwego królestwa.",
+          "image": "bbt_r02_krolestwa_porownanie.jpg",
+          "options": null,
+          "items": [
+            "brak jądra komórkowego",
+            "ściana komórkowa z chityny",
+            "euglena",
+            "przetrwalnik",
+            "drożdże",
+            "pantofelek"
+          ],
+          "categories": [
+            "bakterie",
+            "grzyby",
+            "protisty"
+          ],
+          "answer": {
+            "bakterie": [
+              "brak jądra komórkowego",
+              "przetrwalnik"
+            ],
+            "grzyby": [
+              "ściana komórkowa z chityny",
+              "drożdże"
+            ],
+            "protisty": [
+              "euglena",
+              "pantofelek"
+            ]
+          },
+          "explanation": "Bakterie nie mają jądra i mogą tworzyć przetrwalniki, grzyby mają chitynę, a euglena i pantofelek to protisty."
+        },
+        {
+          "id": "R02_ST_02",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Bakterie rozmnażają się przez __________, a w trudnych warunkach niektóre tworzą __________.",
+          "options": null,
+          "answer": [
+            "podział",
+            "przetrwalniki"
+          ],
+          "altAnswers": [
+            [
+              "podział",
+              "podział komórki",
+              "dzielenie się",
+              "podział na pół"
+            ],
+            [
+              "przetrwalniki",
+              "przetrwalnik",
+              "przetrwalników"
+            ]
+          ],
+          "explanation": "Typowym sposobem rozmnażania bakterii jest podział komórki. W trudnych warunkach część z nich tworzy przetrwalniki."
+        },
+        {
+          "id": "R02_ST_03",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Spójrz na wybrzuszoną konserwę i zaznacz poprawne wnioski.",
+          "image": "bbt_r02_bombaz_konserwy.jpg",
+          "options": [
+            "w środku mogły namnożyć się bakterie beztlenowe",
+            "zawartość puszki może być trująca",
+            "taką konserwę można bezpiecznie zjeść po otwarciu",
+            "puszkę należy wyrzucić"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
+          "explanation": "Bombaż może oznaczać rozwój groźnych bakterii i obecność toksyny. Takiej konserwy nie wolno jeść."
+        },
+        {
+          "id": "R02_ST_04",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Dlaczego choroby bakteryjne potrafią rozprzestrzeniać się szybko?",
+          "options": [
+            "bo bakterie są mikroskopijne i mogą szybko się mnożyć",
+            "bo każda bakteria jest wielka jak mysz",
+            "bo bakterie nigdy nie giną",
+            "bo bakterie mają skrzydła"
+          ],
+          "answer": 0,
+          "explanation": "Bakterie są małe, łatwo przenoszą się między miejscami i często rozmnażają się bardzo szybko."
+        },
+        {
+          "id": "R02_ST_05",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz przykład z odpowiednim typem zależności lub sposobem życia bakterii.",
+          "image": "bbt_r02_bakterie_symbioza_pasozyt.jpg",
+          "options": null,
+          "left": [
+            "bakterie w jelicie grubym człowieka",
+            "Helicobacter pylori w żołądku",
+            "bakterie rozkładające martwą materię"
+          ],
+          "right": [
+            "symbioza",
+            "pasożytnictwo",
+            "saprofityzm"
+          ],
+          "answer": {
+            "bakterie w jelicie grubym człowieka": "symbioza",
+            "Helicobacter pylori w żołądku": "pasożytnictwo",
+            "bakterie rozkładające martwą materię": "saprofityzm"
+          },
+          "explanation": "Bakterie mogą żyć z innymi organizmami na różne sposoby: korzystnie dla obu stron, pasożytniczo albo jako saprofity."
+        },
+        {
+          "id": "R02_ST_06",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "Antybiotyk pomaga zwalczać choroby wirusowe tak samo jak bakteryjne.",
+          "options": null,
+          "answer": false,
+          "explanation": "To fałsz. Antybiotyki działają na bakterie, a nie na wirusy."
+        },
+        {
+          "id": "R02_ST_07",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Na podstawie ilustracji zaznacz warunki sprzyjające rozwojowi wielu grzybów saprofitycznych.",
+          "image": "bbt_r02_grzyb_trawienie.jpg",
+          "options": [
+            "obecność martwej materii organicznej",
+            "odpowiednia wilgotność",
+            "całkowity brak pożywienia",
+            "dostęp do podłoża, w które mogą wrastać",
+            "temperatura niższa niż na Antarktydzie"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
+          "explanation": "Grzyby saprofityczne potrzebują materii organicznej, odpowiedniej wilgotności i podłoża, z którego mogą pobierać pokarm."
+        },
+        {
+          "id": "R02_ST_08",
+          "section": "Super trudne",
+          "type": "sequence",
+          "prompt": "Ułóż etapy rozmnażania płciowego grzybów we właściwej kolejności.",
+          "image": "bbt_r02_grzyby_zarodniki_i_plciowe.jpg",
+          "options": null,
+          "items": [
+            "połączenie strzępek dwóch osobników",
+            "powstanie wspólnej grzybni",
+            "utworzenie owocnika",
+            "rozsianie zróżnicowanych zarodników"
+          ],
+          "answer": [
+            "połączenie strzępek dwóch osobników",
+            "powstanie wspólnej grzybni",
+            "utworzenie owocnika",
+            "rozsianie zróżnicowanych zarodników"
+          ],
+          "explanation": "W rozmnażaniu płciowym najpierw łączą się strzępki dwóch osobników, a potem powstają zróżnicowane zarodniki."
+        },
+        {
+          "id": "R02_ST_09",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "W poroście grzyb otrzymuje od glonu __________, a glon dzięki grzybowi łatwiej zdobywa __________ i sole mineralne.",
+          "image": "bbt_r02_porost_przekroj.jpg",
+          "options": null,
+          "answer": [
+            "cukry",
+            "wodę"
+          ],
+          "altAnswers": [
+            [
+              "cukry",
+              "cukier",
+              "cukrów"
+            ],
+            [
+              "wodę",
+              "woda",
+              "wodę z otoczenia"
+            ]
+          ],
+          "explanation": "Glon wytwarza cukry podczas fotosyntezy, a grzyb pomaga zatrzymywać wodę i pobierać sole mineralne."
+        },
+        {
+          "id": "R02_ST_10",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "W pewnej okolicy rosną prawie wyłącznie porosty proszkowate. Co można podejrzewać?",
+          "image": "bbt_r02_porosty_typy.jpg",
+          "options": [
+            "powietrze jest dość silnie zanieczyszczone",
+            "powietrze jest wyjątkowo czyste",
+            "w okolicy nie ma żadnych skał",
+            "to na pewno pustynia"
+          ],
+          "answer": 0,
+          "explanation": "Porosty proszkowate najlepiej znoszą zanieczyszczenia. Ich przewaga może świadczyć o gorszej jakości powietrza."
+        },
+        {
+          "id": "R02_ST_11",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Dlaczego porost może rosnąć na nagiej skale, choć zwykły grzyb miałby z tym problem?",
+          "options": [
+            "bo partner glonowy sam wytwarza pokarm",
+            "bo porost ma korzenie",
+            "bo porost zjada kamienie",
+            "bo skała zamienia się dla niego w mięso"
+          ],
+          "answer": 0,
+          "explanation": "Glon w poroście prowadzi fotosyntezę, więc dostarcza pokarm nawet tam, gdzie nie ma martwej materii organicznej."
+        },
+        {
+          "id": "R02_ST_12",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "Euglena może zmieniać sposób odżywiania zależnie od warunków.",
+          "image": "bbt_r02_euglena.jpg",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Euglena może odżywiać się samożywnie lub cudzożywnie."
+        },
+        {
+          "id": "R02_ST_13",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Zaznacz sposoby ograniczania ryzyka zachorowania na malarię podczas podróży.",
+          "image": "bbt_r02_malaria_komar.jpg",
+          "options": [
+            "przyjmowanie leków przeciwmalarycznych",
+            "używanie moskitier",
+            "noszenie odzieży chroniącej przed komarami",
+            "jedzenie większej ilości chleba",
+            "unikanie ukąszeń komarów"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explanation": "Malaria jest przenoszona przez komary, więc trzeba ograniczać ukąszenia i stosować profilaktykę lekową."
+        },
+        {
+          "id": "R02_ST_14",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz pasożytniczego protista z drogą zakażenia.",
+          "options": null,
+          "left": [
+            "pełzak czerwonki",
+            "toksoplazma",
+            "zarodziec malarii"
+          ],
+          "right": [
+            "zanieczyszczona żywność lub woda",
+            "kontakt z odchodami kotów lub zakażonym mięsem",
+            "ukąszenie komara"
+          ],
+          "answer": {
+            "pełzak czerwonki": "zanieczyszczona żywność lub woda",
+            "toksoplazma": "kontakt z odchodami kotów lub zakażonym mięsem",
+            "zarodziec malarii": "ukąszenie komara"
+          },
+          "explanation": "Te trzy choroby pochodzą od protistów, ale do zakażenia dochodzi różnymi drogami."
+        },
+        {
+          "id": "R02_ST_15",
+          "section": "Super trudne",
+          "type": "riddle",
+          "prompt": "Jestem zielonym partnerem porostu. Wytwarzam pokarm dla całego układu. Kim jestem?",
+          "options": null,
+          "answer": "glon",
+          "altAnswers": [
+            "glon",
+            "glonem",
+            "glony",
+            "jednokomórkowy glon"
+          ],
+          "explanation": "W poroście glon wykonuje fotosyntezę i dostarcza pokarm."
+        },
+        {
+          "id": "R02_ST_16",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Po długiej antybiotykoterapii u niektórych osób może rozwinąć się grzybica. Jaka jest jedna z przyczyn?",
+          "options": [
+            "antybiotyk niszczy też pożyteczne bakterie",
+            "antybiotyk zamienia grzyby w rośliny",
+            "antybiotyk powoduje brak tlenu w domu",
+            "grzyby rozmnażają się tylko po deszczu"
+          ],
+          "answer": 0,
+          "explanation": "Antybiotyk może zniszczyć również pożyteczne bakterie, które zwykle pomagają hamować rozwój grzybów."
+        },
+        {
+          "id": "R02_ST_17",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Które królestwo na pewno nie obejmuje organizmów z jądrem komórkowym?",
+          "image": "bbt_r02_krolestwa_porownanie.jpg",
+          "options": [
+            "bakterie",
+            "grzyby",
+            "protisty",
+            "żadne z nich"
+          ],
+          "answer": 0,
+          "explanation": "Bakterie nie mają jądra komórkowego. Grzyby i protisty je mają."
+        },
+        {
+          "id": "R02_ST_18",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "W mikoryzie grzyb pomaga roślinie pobierać z gleby __________ i __________.",
+          "options": null,
+          "answer": [
+            "wodę",
+            "sole mineralne"
+          ],
+          "altAnswers": [
+            [
+              "wodę",
+              "woda"
+            ],
+            [
+              "sole mineralne",
+              "sole",
+              "sól mineralną",
+              "soli mineralnych"
+            ]
+          ],
+          "explanation": "Strzępki grzyba zwiększają możliwości pobierania przez roślinę wody i soli mineralnych."
+        },
+        {
+          "id": "R02_ST_19",
+          "section": "Super trudne",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: porost, mikoryza, symbioza, pasożytnictwo.",
+          "options": null,
+          "answer": "pasożytnictwo",
+          "explanation": "Porost, mikoryza i symbioza wiążą się ze współpracą organizmów. Pasożytnictwo szkodzi jednej ze stron."
+        },
+        {
+          "id": "R02_ST_20",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Zaznacz organizmy, które według tego rozdziału mogą rozmnażać się bezpłciowo.",
+          "options": [
+            "bakterie",
+            "drożdże",
+            "wiele protistów",
+            "porosty jako cały układ",
+            "grzyby wytwarzające zarodniki bezpłciowe"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explanation": "Bakterie rozmnażają się przez podział, drożdże przez pączkowanie, wiele protistów bezpłciowo, a część grzybów przez zarodniki bezpłciowe."
+        }
+      ],
+      "kidPrompts": {}
+    },
+    {
+      "id": "r03",
+      "number": 3,
+      "title": "Rośliny - od mchów do roślin nagonasiennych",
+      "icon": "🌿",
+      "sectionOrder": [
+        "Królestwo: rośliny. Tkanki roślinne",
+        "Mchy",
+        "Paprocie, skrzypy i widłaki",
+        "Rośliny nagonasienne",
+        "Rośliny nagonasienne w przyrodzie i w życiu człowieka"
+      ],
+      "sectionIcons": {
+        "Królestwo: rośliny. Tkanki roślinne": "🌿",
+        "Mchy": "🌱",
+        "Paprocie, skrzypy i widłaki": "🍃",
+        "Rośliny nagonasienne": "🌲",
+        "Rośliny nagonasienne w przyrodzie i w życiu człowieka": "🏞️"
+      },
+      "exercises": [
+        {
+          "id": "R03_RT_01",
+          "section": "Królestwo: rośliny. Tkanki roślinne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji pokazano budowę hierarchiczną rośliny. Która kolejność jest poprawna - od najmniejszego do największego poziomu?",
+          "image": "bbt_r03_hierarchia_rosliny.jpg",
+          "options": [
+            "komórka - tkanka - organ - organizm",
+            "tkanka - komórka - organ - organizm",
+            "komórka - organ - tkanka - organizm",
+            "organ - tkanka - komórka - organizm"
+          ],
+          "answer": 0,
+          "explanation": "Najpierw jest komórka. Z podobnych komórek powstaje tkanka, z tkanek organ, a z organów cały organizm."
+        },
+        {
+          "id": "R03_RT_02",
+          "section": "Królestwo: rośliny. Tkanki roślinne",
+          "type": "multi_select",
+          "prompt": "Spójrz na rysunek rośliny i zaznacz jej organy.",
+          "image": "bbt_r03_organy_i_tkanki_rosliny.jpg",
+          "options": [
+            "liść",
+            "łodyga",
+            "korzeń",
+            "chlorofil",
+            "skórka"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Organami rośliny są między innymi liść, łodyga i korzeń. Chlorofil to barwnik, a skórka jest tkanką."
+        },
+        {
+          "id": "R03_RT_03",
+          "section": "Królestwo: rośliny. Tkanki roślinne",
+          "type": "true_false",
+          "prompt": "Większość roślin sama wytwarza pokarm dzięki fotosyntezie.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Rośliny są zwykle samożywne, bo potrafią przeprowadzać fotosyntezę."
+        },
+        {
+          "id": "R03_RT_04",
+          "section": "Królestwo: rośliny. Tkanki roślinne",
+          "type": "fill_in",
+          "prompt": "Komórki roślin zwykle mają __________, dzięki którym mogą przeprowadzać fotosyntezę, oraz __________ zbudowaną z celulozy.",
+          "options": null,
+          "answer": [
+            "chloroplasty",
+            "ścianę komórkową"
+          ],
+          "altAnswers": [
+            [
+              "chloroplasty",
+              "chloroplast",
+              "chloroplastach",
+              "chloroplastami"
+            ],
+            [
+              "ścianę komórkową",
+              "ściana komórkowa",
+              "ścianie komórkowej",
+              "ścianą komórkową"
+            ]
+          ],
+          "explanation": "Chloroplasty biorą udział w fotosyntezie, a ściana komórkowa z celulozy nadaje komórce roślinnej kształt i chroni ją."
+        },
+        {
+          "id": "R03_RT_05",
+          "section": "Królestwo: rośliny. Tkanki roślinne",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: liść, łodyga, korzeń, chlorofil.",
+          "options": null,
+          "answer": "chlorofil",
+          "explanation": "Liść, łodyga i korzeń to organy rośliny. Chlorofil jest zielonym barwnikiem."
+        },
+        {
+          "id": "R03_RT_06",
+          "section": "Królestwo: rośliny. Tkanki roślinne",
+          "type": "scenario",
+          "prompt": "Ola patrzy na ilustrację tkanek roślinnych i chce wskazać tkankę twórczą. Co powinna wybrać?",
+          "image": "bbt_r03_klasyfikacja_tkanek.jpg",
+          "options": [
+            "stożek wzrostu pędu",
+            "łyko",
+            "drewno",
+            "skórkę"
+          ],
+          "answer": 0,
+          "explanation": "Do tkanek twórczych należą między innymi stożki wzrostu. Dzięki nim roślina może rosnąć."
+        },
+        {
+          "id": "R03_RT_07",
+          "section": "Królestwo: rośliny. Tkanki roślinne",
+          "type": "match",
+          "prompt": "Połącz tkankę z jej głównym zadaniem.",
+          "options": null,
+          "left": [
+            "skórka",
+            "miękisz",
+            "łyko",
+            "drewno"
+          ],
+          "right": [
+            "ochrona rośliny",
+            "fotosynteza lub magazynowanie",
+            "przewodzenie substancji pokarmowych",
+            "przewodzenie wody i soli mineralnych"
+          ],
+          "answer": {
+            "skórka": "ochrona rośliny",
+            "miękisz": "fotosynteza lub magazynowanie",
+            "łyko": "przewodzenie substancji pokarmowych",
+            "drewno": "przewodzenie wody i soli mineralnych"
+          },
+          "explanation": "Każda tkanka ma własną pracę - skórka chroni, miękisz wytwarza lub gromadzi, łyko przewodzi pokarm, a drewno wodę i sole."
+        },
+        {
+          "id": "R03_RT_08",
+          "section": "Królestwo: rośliny. Tkanki roślinne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji widać skórkę korzenia z włośnikami. Po co roślinie włośniki?",
+          "image": "bbt_r03_skorka_i_wlosniki.jpg",
+          "options": [
+            "zwiększają powierzchnię pobierania wody",
+            "pomagają roślinie latać",
+            "zamieniają się w kwiaty",
+            "wytwarzają nasiona"
+          ],
+          "answer": 0,
+          "explanation": "Włośniki zwiększają powierzchnię korzenia, więc roślina może pobrać więcej wody i soli mineralnych."
+        },
+        {
+          "id": "R03_RT_09",
+          "section": "Królestwo: rośliny. Tkanki roślinne",
+          "type": "sort",
+          "prompt": "Posortuj tkanki do odpowiednich grup.",
+          "options": null,
+          "items": [
+            "skórka",
+            "miękisz",
+            "łyko",
+            "drewno",
+            "stożek wzrostu korzenia",
+            "miazga"
+          ],
+          "categories": [
+            "tkanki stałe",
+            "tkanki twórcze"
+          ],
+          "answer": {
+            "tkanki stałe": [
+              "skórka",
+              "miękisz",
+              "łyko",
+              "drewno"
+            ],
+            "tkanki twórcze": [
+              "stożek wzrostu korzenia",
+              "miazga"
+            ]
+          },
+          "explanation": "Tkanki stałe wykonują określone zadania, a tkanki twórcze stale się dzielą i pozwalają roślinie rosnąć."
+        },
+        {
+          "id": "R03_RT_10",
+          "section": "Królestwo: rośliny. Tkanki roślinne",
+          "type": "single_choice",
+          "prompt": "Na schemacie liścia zaznaczono różne tkanki. Która tkanka rozprowadza wodę i sole mineralne?",
+          "image": "bbt_r03_miekisz_i_przewodzenie.jpg",
+          "options": [
+            "drewno",
+            "łyko",
+            "miękisz palisadowy",
+            "skórka"
+          ],
+          "answer": 0,
+          "explanation": "Drewno przewodzi wodę i sole mineralne z korzeni do innych części rośliny."
+        },
+        {
+          "id": "R03_MCH_01",
+          "section": "Mchy",
+          "type": "single_choice",
+          "prompt": "Gdzie mchy rosną najchętniej?",
+          "image": "bbt_r03_mchy_siedliska.jpg",
+          "options": [
+            "w miejscach wilgotnych",
+            "na bardzo suchych pustyniach",
+            "tylko w słonej wodzie",
+            "wyłącznie na wysokich drzewach"
+          ],
+          "answer": 0,
+          "explanation": "Mchy najlepiej rosną tam, gdzie jest wilgotno - na przykład w lesie, przy wodzie albo na wilgotnych skałach."
+        },
+        {
+          "id": "R03_MCH_02",
+          "section": "Mchy",
+          "type": "true_false",
+          "prompt": "Mchy mają prawdziwe korzenie, łodygi i liście takie jak paprocie.",
+          "options": null,
+          "answer": false,
+          "explanation": "To fałsz. Mchy nie mają prawdziwych korzeni, łodyg i liści. Mają chwytniki, łodyżki i listki."
+        },
+        {
+          "id": "R03_MCH_03",
+          "section": "Mchy",
+          "type": "fill_in",
+          "prompt": "U mchu wodę chłoną głównie __________, a do podłoża przytwierdzają go __________.",
+          "options": null,
+          "image": "bbt_r03_budowa_mchu.jpg",
+          "answer": [
+            "listki",
+            "chwytniki"
+          ],
+          "altAnswers": [
+            [
+              "listki",
+              "listek",
+              "liście",
+              "listkach"
+            ],
+            [
+              "chwytniki",
+              "chwytnik",
+              "chwytnikami",
+              "chwytnikach"
+            ]
+          ],
+          "explanation": "Listki mchu pobierają wodę, a chwytniki pomagają utrzymać roślinę w podłożu."
+        },
+        {
+          "id": "R03_MCH_04",
+          "section": "Mchy",
+          "type": "riddle",
+          "prompt": "Jestem małą częścią mchu na końcu łodyżki. Powstają we mnie zarodniki. Kim jestem?",
+          "options": null,
+          "answer": "zarodnia",
+          "altAnswers": [
+            "zarodnia",
+            "zarodnią",
+            "zarodni",
+            "zarodnie"
+          ],
+          "explanation": "Zarodnia to część mchu, w której powstają zarodniki służące do rozmnażania."
+        },
+        {
+          "id": "R03_MCH_05",
+          "section": "Mchy",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: chwytniki, listki, łodyżka, nasiona.",
+          "options": null,
+          "answer": "nasiona",
+          "explanation": "Mchy nie wytwarzają nasion. Rozmnażają się za pomocą zarodników."
+        },
+        {
+          "id": "R03_MCH_06",
+          "section": "Mchy",
+          "type": "single_choice",
+          "prompt": "Na ilustracji pokazano torfowiec i torfowisko. Dlaczego takie miejsca są zwykle bardzo mokre?",
+          "image": "bbt_r03_torfowiec_torfowisko.jpg",
+          "options": [
+            "bo torfowce magazynują dużo wody",
+            "bo codziennie ktoś je podlewa",
+            "bo mchy oddają całą wodę do powietrza",
+            "bo nie rosną tam żadne rośliny"
+          ],
+          "answer": 0,
+          "explanation": "Torfowce potrafią zgromadzić bardzo dużo wody, dlatego torfowiska są wilgotne."
+        },
+        {
+          "id": "R03_MCH_07",
+          "section": "Mchy",
+          "type": "scenario",
+          "prompt": "Na nagiej skale pojawiły się najpierw mchy, a dopiero później inne rośliny. Jak nazywamy takie rośliny jak mchy?",
+          "options": [
+            "organizmy pionierskie",
+            "pasożyty",
+            "rośliny nasienne",
+            "grzyby kapeluszowe"
+          ],
+          "answer": 0,
+          "explanation": "Mchy są organizmami pionierskimi - potrafią zasiedlać trudne miejsca i przygotowywać je dla innych roślin."
+        },
+        {
+          "id": "R03_MCH_08",
+          "section": "Mchy",
+          "type": "multi_select",
+          "prompt": "Zaznacz zdania opisujące znaczenie mchów w przyrodzie.",
+          "options": [
+            "zatrzymują wodę",
+            "chronią glebę przed wysychaniem",
+            "pomagają tworzyć glebę",
+            "wytwarzają szyszki",
+            "są schronieniem dla małych organizmów"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explanation": "Mchy zatrzymują wodę, chronią podłoże, pomagają w tworzeniu gleby i dają schronienie małym organizmom."
+        },
+        {
+          "id": "R03_MCH_09",
+          "section": "Mchy",
+          "type": "single_choice",
+          "prompt": "Na ilustracji porównano mech i paproć. Która z tych roślin ma chwytniki zamiast prawdziwych korzeni?",
+          "image": "bbt_r03_porownanie_mchu_i_paproci.jpg",
+          "options": [
+            "mech",
+            "paproć",
+            "obie",
+            "żadna"
+          ],
+          "answer": 0,
+          "explanation": "To mech ma chwytniki. Paproć ma prawdziwe korzenie."
+        },
+        {
+          "id": "R03_MCH_10",
+          "section": "Mchy",
+          "type": "true_false",
+          "prompt": "Mchy rozmnażają się za pomocą zarodników.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Mchy nie tworzą nasion, tylko zarodniki."
+        },
+        {
+          "id": "R03_PPW_01",
+          "section": "Paprocie, skrzypy i widłaki",
+          "type": "multi_select",
+          "prompt": "Spójrz na schemat i zaznacz cechy wspólne paproci, skrzypów i widłaków.",
+          "image": "bbt_r03_wspolne_cechy_paprotnikow.jpg",
+          "options": [
+            "mają tkanki",
+            "mają korzenie, łodygi i liście",
+            "rozmnażają się przez zarodniki",
+            "wytwarzają owoce",
+            "często rosną w miejscach wilgotnych"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explanation": "Paprocie, skrzypy i widłaki mają tkanki oraz organy, wytwarzają zarodniki i często rosną tam, gdzie jest wilgotno."
+        },
+        {
+          "id": "R03_PPW_02",
+          "section": "Paprocie, skrzypy i widłaki",
+          "type": "single_choice",
+          "prompt": "Na ilustracji budowy paproci wskaż nazwę podziemnej łodygi.",
+          "image": "bbt_r03_budowa_paproci.jpg",
+          "options": [
+            "kłącze",
+            "szyszka",
+            "zarodnia",
+            "chwytnik"
+          ],
+          "answer": 0,
+          "explanation": "Podziemna łodyga paproci to kłącze. Wyrastają z niej liście i korzenie."
+        },
+        {
+          "id": "R03_PPW_03",
+          "section": "Paprocie, skrzypy i widłaki",
+          "type": "true_false",
+          "prompt": "Na spodniej stronie liści niektórych paproci znajdują się skupienia zarodni.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Na spodniej stronie liści mogą znajdować się kupki z zarodniami."
+        },
+        {
+          "id": "R03_PPW_04",
+          "section": "Paprocie, skrzypy i widłaki",
+          "type": "single_choice",
+          "prompt": "Która roślina ma dwa rodzaje pędów - wiosenny i letni?",
+          "image": "bbt_r03_budowa_skrzypu.jpg",
+          "options": [
+            "skrzyp",
+            "paproć",
+            "widłak",
+            "mech"
+          ],
+          "answer": 0,
+          "explanation": "U skrzypu występują pędy wiosenne i letnie, które wyglądają inaczej."
+        },
+        {
+          "id": "R03_PPW_05",
+          "section": "Paprocie, skrzypy i widłaki",
+          "type": "scenario",
+          "prompt": "Kuba zobaczył roślinę z płożącą łodygą i rozgałęzieniami jak małe widelce. Którą grupę roślin obserwował?",
+          "image": "bbt_r03_budowa_widlaka.jpg",
+          "options": [
+            "widłaki",
+            "mchy",
+            "iglaki",
+            "kaktusy"
+          ],
+          "answer": 0,
+          "explanation": "Widłaki mają płożące łodygi i charakterystyczne widlaste rozgałęzienia."
+        },
+        {
+          "id": "R03_PPW_06",
+          "section": "Paprocie, skrzypy i widłaki",
+          "type": "fill_in",
+          "prompt": "Paprocie, skrzypy i widłaki rozmnażają się za pomocą __________, a nie wytwarzają __________.",
+          "options": null,
+          "answer": [
+            "zarodników",
+            "nasion"
+          ],
+          "altAnswers": [
+            [
+              "zarodników",
+              "zarodniki",
+              "zarodnikow",
+              "zarodnikami"
+            ],
+            [
+              "nasion",
+              "nasiona",
+              "nasionami",
+              "nasionek"
+            ]
+          ],
+          "explanation": "Te rośliny nie tworzą nasion. Rozmnażają się przez zarodniki."
+        },
+        {
+          "id": "R03_PPW_07",
+          "section": "Paprocie, skrzypy i widłaki",
+          "type": "sort",
+          "prompt": "Przyporządkuj cechy do właściwej grupy roślin.",
+          "options": null,
+          "items": [
+            "kłącze i duże liście",
+            "pędy wiosenne i letnie",
+            "widlaste rozgałęzienia",
+            "kupki zarodni pod liśćmi",
+            "drobne łuskowate liście"
+          ],
+          "categories": [
+            "paprocie",
+            "skrzypy",
+            "widłaki"
+          ],
+          "answer": {
+            "paprocie": [
+              "kłącze i duże liście",
+              "kupki zarodni pod liśćmi"
+            ],
+            "skrzypy": [
+              "pędy wiosenne i letnie"
+            ],
+            "widłaki": [
+              "widlaste rozgałęzienia",
+              "drobne łuskowate liście"
+            ]
+          },
+          "explanation": "Paprocie mają kłącze i duże liście, skrzypy - dwa typy pędów, a widłaki - widlaste pędy i drobne liście."
+        },
+        {
+          "id": "R03_PPW_08",
+          "section": "Paprocie, skrzypy i widłaki",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: kłącze, zarodnia, pastorał, szyszka nasienna.",
+          "options": null,
+          "answer": "szyszka nasienna",
+          "explanation": "Kłącze, zarodnia i pastorał wiążą się z paprotnikami. Szyszka nasienna należy do roślin nagonasiennych."
+        },
+        {
+          "id": "R03_PPW_09",
+          "section": "Paprocie, skrzypy i widłaki",
+          "type": "single_choice",
+          "prompt": "Na obrazku porównano mech i paproć. Która roślina może zwykle urosnąć większa, bo ma tkanki przewodzące i wzmacniające?",
+          "image": "bbt_r03_porownanie_mchu_i_paproci.jpg",
+          "options": [
+            "paproć",
+            "mech",
+            "obie rosną tak samo",
+            "żadna"
+          ],
+          "answer": 0,
+          "explanation": "Paproć ma tkanki i prawdziwe organy, dlatego zwykle osiąga większe rozmiary niż mech."
+        },
+        {
+          "id": "R03_PPW_10",
+          "section": "Paprocie, skrzypy i widłaki",
+          "type": "scenario",
+          "prompt": "Nauczyciel powiedział, że ze szczątków dawnych paproci, skrzypów i widłaków powstał ważny surowiec. Jaki?",
+          "options": [
+            "węgiel kamienny",
+            "sól kamienna",
+            "kreda",
+            "piasek"
+          ],
+          "answer": 0,
+          "explanation": "Ze szczątków dawnych roślin, w tym paprotników, powstał węgiel kamienny."
+        },
+        {
+          "id": "R03_NG_01",
+          "section": "Rośliny nagonasienne",
+          "type": "single_choice",
+          "prompt": "Dlaczego te rośliny nazywamy nagonasiennymi?",
+          "image": "bbt_r03_cechy_nagonasiennych.jpg",
+          "options": [
+            "bo ich nasiona nie są zamknięte w owocu",
+            "bo mają nagie łodygi",
+            "bo nie mają liści",
+            "bo rosną tylko zimą"
+          ],
+          "answer": 0,
+          "explanation": "Nasiona roślin nagonasiennych nie są osłonięte owocem, dlatego nazywa się je nagonasiennymi."
+        },
+        {
+          "id": "R03_NG_02",
+          "section": "Rośliny nagonasienne",
+          "type": "true_false",
+          "prompt": "Rośliny nagonasienne to głównie drzewa i krzewy.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Do roślin nagonasiennych należą przede wszystkim drzewa i krzewy."
+        },
+        {
+          "id": "R03_NG_03",
+          "section": "Rośliny nagonasienne",
+          "type": "multi_select",
+          "prompt": "Zaznacz elementy budowy sosny pokazane na ilustracji.",
+          "image": "bbt_r03_budowa_sosny.jpg",
+          "options": [
+            "pień",
+            "igły",
+            "korzeń",
+            "kora",
+            "owoc"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Sosna ma pień, korzenie, korę i igły, ale nie tworzy owoców."
+        },
+        {
+          "id": "R03_NG_04",
+          "section": "Rośliny nagonasienne",
+          "type": "fill_in",
+          "prompt": "Mech i paproć tworzą __________, a sosna tworzy __________.",
+          "options": null,
+          "image": "bbt_r03_zarodniki_i_nasiona.jpg",
+          "answer": [
+            "zarodniki",
+            "nasiona"
+          ],
+          "altAnswers": [
+            [
+              "zarodniki",
+              "zarodnik",
+              "zarodników",
+              "zarodnikami"
+            ],
+            [
+              "nasiona",
+              "nasion",
+              "nasionami",
+              "nasionko",
+              "nasionka"
+            ]
+          ],
+          "explanation": "Mchy i paprotniki rozmnażają się przez zarodniki, a sosna jest rośliną nasienną."
+        },
+        {
+          "id": "R03_NG_05",
+          "section": "Rośliny nagonasienne",
+          "type": "sequence",
+          "prompt": "Ułóż etapy rozmnażania sosny we właściwej kolejności.",
+          "options": null,
+          "image": "bbt_r03_rozmnazanie_sosny.jpg",
+          "items": [
+            "z nasiona wyrasta młoda roślina",
+            "dochodzi do zapylenia",
+            "powstaje ziarno pyłku",
+            "rozwija się nasiono"
+          ],
+          "answer": [
+            "powstaje ziarno pyłku",
+            "dochodzi do zapylenia",
+            "rozwija się nasiono",
+            "z nasiona wyrasta młoda roślina"
+          ],
+          "explanation": "Najpierw powstaje pyłek, potem następuje zapylenie, rozwija się nasiono, a na końcu rośnie nowa roślina."
+        },
+        {
+          "id": "R03_NG_06",
+          "section": "Rośliny nagonasienne",
+          "type": "scenario",
+          "prompt": "Sosna rośnie na suchej, piaszczystej glebie. Która cecha najbardziej pomaga jej ograniczać utratę wody?",
+          "options": [
+            "wąskie igły",
+            "duże miękkie liście",
+            "brak kory",
+            "kwiaty o dużych płatkach"
+          ],
+          "answer": 0,
+          "explanation": "Wąskie igły mają małą powierzchnię, więc roślina traci mniej wody."
+        },
+        {
+          "id": "R03_NG_07",
+          "section": "Rośliny nagonasienne",
+          "type": "riddle",
+          "prompt": "Jestem drobinką przenoszoną przez wiatr z kwiatu męskiego do żeńskiego. Kim jestem?",
+          "options": null,
+          "answer": "ziarno pyłku",
+          "altAnswers": [
+            "ziarno pyłku",
+            "pyłek",
+            "ziarna pyłku",
+            "ziarnem pyłku"
+          ],
+          "explanation": "Wiatr przenosi ziarna pyłku. Dzięki temu może dojść do zapylenia."
+        },
+        {
+          "id": "R03_NG_08",
+          "section": "Rośliny nagonasienne",
+          "type": "single_choice",
+          "prompt": "Którego organu sosna nie wytwarza?",
+          "options": [
+            "owocu",
+            "korzenia",
+            "łodygi",
+            "liści"
+          ],
+          "answer": 0,
+          "explanation": "Sosna nie tworzy owoców. Nasiona leżą na łuskach szyszki."
+        },
+        {
+          "id": "R03_NG_09",
+          "section": "Rośliny nagonasienne",
+          "type": "match",
+          "prompt": "Połącz cechę z odpowiednią częścią rośliny nagonasiennej.",
+          "options": null,
+          "left": [
+            "liście",
+            "nasiona",
+            "łodyga i korzeń"
+          ],
+          "right": [
+            "mają postać igieł lub łusek",
+            "leżą na łuskach szyszki",
+            "są zdrewniałe i mogą przyrastać na grubość"
+          ],
+          "answer": {
+            "liście": "mają postać igieł lub łusek",
+            "nasiona": "leżą na łuskach szyszki",
+            "łodyga i korzeń": "są zdrewniałe i mogą przyrastać na grubość"
+          },
+          "explanation": "U większości nagonasiennych liście mają formę igieł lub łusek, nasiona leżą na łuskach szyszki, a łodygi i korzenie są zdrewniałe."
+        },
+        {
+          "id": "R03_NG_10",
+          "section": "Rośliny nagonasienne",
+          "type": "true_false",
+          "prompt": "Igły wielu roślin nagonasiennych są wieloletnie i pozostają zielone także zimą.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Wiele nagonasiennych jest zimozielonych."
+        },
+        {
+          "id": "R03_NZ_01",
+          "section": "Rośliny nagonasienne w przyrodzie i w życiu człowieka",
+          "type": "single_choice",
+          "prompt": "Które zdanie najlepiej opisuje jedno z ważnych zadań lasów iglastych?",
+          "image": "bbt_r03_znaczenie_iglastego_lasu.jpg",
+          "options": [
+            "chronią glebę i są domem wielu organizmów",
+            "zamieniają się co roku w łąkę",
+            "rosną tylko w doniczkach",
+            "nie mają znaczenia dla zwierząt"
+          ],
+          "answer": 0,
+          "explanation": "Lasy iglaste chronią glebę, zatrzymują wodę i są miejscem życia wielu organizmów."
+        },
+        {
+          "id": "R03_NZ_02",
+          "section": "Rośliny nagonasienne w przyrodzie i w życiu człowieka",
+          "type": "multi_select",
+          "prompt": "Na ilustracji pokazano kilka drzew iglastych. Zaznacz gatunki omawiane w tym rozdziale.",
+          "image": "bbt_r03_szyszki_i_igly_gatunkow.jpg",
+          "options": [
+            "sosna",
+            "świerk",
+            "jodła",
+            "modrzew",
+            "dąb"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Sosna, świerk, jodła i modrzew to przykłady drzew nagonasiennych opisanych w rozdziale. Dąb jest okrytonasienny."
+        },
+        {
+          "id": "R03_NZ_03",
+          "section": "Rośliny nagonasienne w przyrodzie i w życiu człowieka",
+          "type": "scenario",
+          "prompt": "Nad morzem sadzi się sosny na piaszczystych terenach. Po co to się robi?",
+          "options": [
+            "żeby umacniały wydmy i podłoże",
+            "żeby zamieniały piasek w śnieg",
+            "żeby odstraszały wszystkie zwierzęta",
+            "żeby rosły tylko przez jeden miesiąc"
+          ],
+          "answer": 0,
+          "explanation": "Sosny pomagają umacniać piaszczyste podłoże, dlatego sadzi się je między innymi na wydmach."
+        },
+        {
+          "id": "R03_NZ_04",
+          "section": "Rośliny nagonasienne w przyrodzie i w życiu człowieka",
+          "type": "match",
+          "prompt": "Połącz drzewo z cechą, która pomaga je rozpoznać.",
+          "options": null,
+          "left": [
+            "sosna",
+            "świerk",
+            "jodła",
+            "modrzew"
+          ],
+          "right": [
+            "igły po dwie",
+            "zwisające szyszki",
+            "szyszki stojące do góry",
+            "gubi igły na zimę"
+          ],
+          "answer": {
+            "sosna": "igły po dwie",
+            "świerk": "zwisające szyszki",
+            "jodła": "szyszki stojące do góry",
+            "modrzew": "gubi igły na zimę"
+          },
+          "explanation": "Te cechy są bardzo pomocne przy rozpoznawaniu popularnych drzew iglastych."
+        },
+        {
+          "id": "R03_NZ_05",
+          "section": "Rośliny nagonasienne w przyrodzie i w życiu człowieka",
+          "type": "fill_in",
+          "prompt": "Drewno roślin nagonasiennych wykorzystuje się między innymi do produkcji __________ i __________.",
+          "options": null,
+          "answer": [
+            "mebli",
+            "papieru"
+          ],
+          "altAnswers": [
+            [
+              "mebli",
+              "meble",
+              "mebel"
+            ],
+            [
+              "papieru",
+              "papier",
+              "papierów"
+            ]
+          ],
+          "explanation": "Drewno drzew iglastych jest ważnym surowcem do produkcji mebli i papieru."
+        },
+        {
+          "id": "R03_NZ_06",
+          "section": "Rośliny nagonasienne w przyrodzie i w życiu człowieka",
+          "type": "true_false",
+          "prompt": "Modrzew jest wyjątkiem wśród wielu iglaków, bo gubi igły na zimę.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Modrzew nie jest zimozielony - zrzuca igły na zimę."
+        },
+        {
+          "id": "R03_NZ_07",
+          "section": "Rośliny nagonasienne w przyrodzie i w życiu człowieka",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: sosna, świerk, jodła, dąb.",
+          "options": null,
+          "answer": "dąb",
+          "explanation": "Sosna, świerk i jodła to rośliny nagonasienne. Dąb należy do roślin okrytonasiennych."
+        },
+        {
+          "id": "R03_NZ_08",
+          "section": "Rośliny nagonasienne w przyrodzie i w życiu człowieka",
+          "type": "sort",
+          "prompt": "Posortuj przykłady znaczenia roślin nagonasiennych.",
+          "options": null,
+          "items": [
+            "dają schronienie zwierzętom",
+            "oczyszczają powietrze",
+            "drewno do budowy i stolarstwa",
+            "surowiec do papieru",
+            "umacniają wydmy",
+            "wykorzystuje się je do leków i kosmetyków"
+          ],
+          "categories": [
+            "znaczenie w przyrodzie",
+            "znaczenie dla człowieka"
+          ],
+          "answer": {
+            "znaczenie w przyrodzie": [
+              "dają schronienie zwierzętom",
+              "oczyszczają powietrze",
+              "umacniają wydmy"
+            ],
+            "znaczenie dla człowieka": [
+              "drewno do budowy i stolarstwa",
+              "surowiec do papieru",
+              "wykorzystuje się je do leków i kosmetyków"
+            ]
+          },
+          "explanation": "Rośliny nagonasienne są ważne zarówno dla przyrody, jak i dla ludzi."
+        },
+        {
+          "id": "R03_NZ_09",
+          "section": "Rośliny nagonasienne w przyrodzie i w życiu człowieka",
+          "type": "single_choice",
+          "prompt": "Na ilustracji z igłami i szyszkami które drzewo ma szyszki stojące do góry?",
+          "image": "bbt_r03_szyszki_i_igly_gatunkow.jpg",
+          "options": [
+            "jodła",
+            "świerk",
+            "sosna",
+            "modrzew"
+          ],
+          "answer": 0,
+          "explanation": "Szyszki jodły stoją do góry. U świerka zwykle zwisają."
+        },
+        {
+          "id": "R03_NZ_10",
+          "section": "Rośliny nagonasienne w przyrodzie i w życiu człowieka",
+          "type": "scenario",
+          "prompt": "Wiewiórka wyjada nasiona z szyszek. Jaką rolę pełnią tu rośliny nagonasienne?",
+          "options": [
+            "są pokarmem dla zwierząt",
+            "są chorobą drzew",
+            "zjadają zwierzęta",
+            "zamieniają nasiona w zarodniki"
+          ],
+          "answer": 0,
+          "explanation": "Nasiona wielu drzew iglastych są pokarmem dla zwierząt."
+        },
+        {
+          "id": "R03_ST_01",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji porównano główne grupy roślin lądowych. Która grupa rozmnaża się przez nasiona, a nie przez zarodniki?",
+          "image": "bbt_r03_grupy_roslin_ladowych.jpg",
+          "options": [
+            "rośliny nagonasienne",
+            "mchy",
+            "paprocie",
+            "skrzypy i widłaki"
+          ],
+          "answer": 0,
+          "explanation": "W tym rozdziale tylko rośliny nagonasienne są roślinami nasiennymi. Pozostałe grupy rozmnażają się przez zarodniki."
+        },
+        {
+          "id": "R03_ST_02",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Na schemacie podziału tkanek zaznacz tylko tkanki twórcze.",
+          "image": "bbt_r03_klasyfikacja_tkanek.jpg",
+          "options": [
+            "stożek wzrostu pędu",
+            "stożek wzrostu korzenia",
+            "miazga",
+            "miękisz",
+            "drewno"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Do tkanek twórczych należą stożki wzrostu i miazga. Miękisz i drewno to tkanki stałe."
+        },
+        {
+          "id": "R03_ST_03",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Dwutlenek węgla trafia do wnętrza liścia głównie przez __________, a najwięcej chloroplastów ma zwykle __________.",
+          "options": null,
+          "image": "bbt_r03_przekroj_liscia_tkanki.jpg",
+          "answer": [
+            "aparaty szparkowe",
+            "miękisz palisadowy"
+          ],
+          "altAnswers": [
+            [
+              "aparaty szparkowe",
+              "aparaty szparkowe",
+              "aparat szparkowy",
+              "szparki"
+            ],
+            [
+              "miękisz palisadowy",
+              "miekisz palisadowy",
+              "miękisz",
+              "palisadowy miękisz"
+            ]
+          ],
+          "explanation": "Wymiana gazowa zachodzi głównie przez aparaty szparkowe, a miękisz palisadowy zawiera dużo chloroplastów i intensywnie przeprowadza fotosyntezę."
+        },
+        {
+          "id": "R03_ST_04",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Sosna dobrze radzi sobie na suchej, piaszczystej glebie. Który zestaw cech najlepiej to wyjaśnia?",
+          "options": [
+            "wąskie igły i dobrze rozwinięty system korzeniowy",
+            "duże miękkie liście i płytkie korzenie",
+            "brak kory i bardzo cienki pień",
+            "owoce pełne wody i chwytniki"
+          ],
+          "answer": 0,
+          "explanation": "Wąskie igły ograniczają utratę wody, a rozbudowany system korzeniowy pomaga pobierać wodę z gleby."
+        },
+        {
+          "id": "R03_ST_05",
+          "section": "Super trudne",
+          "type": "sort",
+          "prompt": "Posortuj rośliny według sposobu rozmnażania.",
+          "options": null,
+          "items": [
+            "mech",
+            "paproć",
+            "skrzyp",
+            "widłak",
+            "sosna",
+            "świerk",
+            "jodła"
+          ],
+          "categories": [
+            "zarodniki",
+            "nasiona"
+          ],
+          "answer": {
+            "zarodniki": [
+              "mech",
+              "paproć",
+              "skrzyp",
+              "widłak"
+            ],
+            "nasiona": [
+              "sosna",
+              "świerk",
+              "jodła"
+            ]
+          },
+          "explanation": "Mchy i paprotniki tworzą zarodniki. Sosna, świerk i jodła są roślinami nasiennymi."
+        },
+        {
+          "id": "R03_ST_06",
+          "section": "Super trudne",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: łyko, drewno, naczynia, chwytniki.",
+          "options": null,
+          "answer": "chwytniki",
+          "explanation": "Łyko, drewno i naczynia wiążą się z przewodzeniem substancji. Chwytniki służą mchom głównie do umocowania w podłożu."
+        },
+        {
+          "id": "R03_ST_07",
+          "section": "Super trudne",
+          "type": "sequence",
+          "prompt": "Ułóż etapy rozmnażania sosny od zapylenia do młodej rośliny.",
+          "options": null,
+          "image": "bbt_r03_rozmnazanie_sosny.jpg",
+          "items": [
+            "wyrasta siewka",
+            "rozwija się nasiono",
+            "ziarno pyłku trafia na kwiat żeński",
+            "nasiono spada lub jest roznoszone"
+          ],
+          "answer": [
+            "ziarno pyłku trafia na kwiat żeński",
+            "rozwija się nasiono",
+            "nasiono spada lub jest roznoszone",
+            "wyrasta siewka"
+          ],
+          "explanation": "Po zapyleniu rozwija się nasiono, potem może zostać rozprzestrzenione i w dobrych warunkach wyrasta z niego siewka."
+        },
+        {
+          "id": "R03_ST_08",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz grupę roślin z wyróżniającą ją cechą.",
+          "options": null,
+          "left": [
+            "mchy",
+            "paprocie",
+            "skrzypy",
+            "widłaki",
+            "sosna"
+          ],
+          "right": [
+            "chwytniki zamiast korzeni",
+            "duże liście wyrastające z kłącza",
+            "pędy wiosenne i letnie",
+            "widlaste rozgałęzienia",
+            "nasiona na łuskach szyszki"
+          ],
+          "answer": {
+            "mchy": "chwytniki zamiast korzeni",
+            "paprocie": "duże liście wyrastające z kłącza",
+            "skrzypy": "pędy wiosenne i letnie",
+            "widłaki": "widlaste rozgałęzienia",
+            "sosna": "nasiona na łuskach szyszki"
+          },
+          "explanation": "Każda z tych grup ma cechę, która pomaga ją rozpoznać."
+        },
+        {
+          "id": "R03_ST_09",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Na ilustracji widać dwie rośliny. Jedna ma chwytniki, druga prawdziwe korzenie i kłącze. Która roślina lepiej poradzi sobie, gdy ma urosnąć wyżej?",
+          "image": "bbt_r03_porownanie_mchu_i_paproci.jpg",
+          "options": [
+            "paproć",
+            "mech",
+            "obie tak samo",
+            "żadna"
+          ],
+          "answer": 0,
+          "explanation": "Paproć ma tkanki przewodzące i wzmacniające oraz prawdziwe organy, więc może osiągać większe rozmiary."
+        },
+        {
+          "id": "R03_ST_10",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "To, że mchy zwykle są niskie, ma związek z tym, że nie mają dobrze rozwiniętych tkanek przewodzących i wzmacniających.",
+          "options": null,
+          "answer": true,
+          "explanation": "To prawda. Brak takich tkanek ogranicza rozmiary mchów."
+        },
+        {
+          "id": "R03_ST_11",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Łyko przewodzi w roślinie głównie __________, a drewno przewodzi __________.",
+          "options": null,
+          "answer": [
+            "substancje pokarmowe",
+            "wodę i sole mineralne"
+          ],
+          "altAnswers": [
+            [
+              "substancje pokarmowe",
+              "pokarm",
+              "substancję pokarmową",
+              "substancji pokarmowych"
+            ],
+            [
+              "wodę i sole mineralne",
+              "wodę",
+              "wode i sole mineralne",
+              "wodę z solami mineralnymi"
+            ]
+          ],
+          "explanation": "Łyko rozprowadza pokarm wytworzony w fotosyntezie, a drewno wodę i sole mineralne."
+        },
+        {
+          "id": "R03_ST_12",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Patrz na ilustrację z drzewami iglastymi. Zaznacz zdania prawdziwe.",
+          "image": "bbt_r03_szyszki_i_igly_gatunkow.jpg",
+          "options": [
+            "jodła ma szyszki stojące do góry",
+            "świerk ma szyszki zwisające",
+            "modrzew gubi igły na zimę",
+            "sosna ma liście szerokie jak dąb",
+            "jodła i świerk to rośliny nagonasienne"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explanation": "Jodłę rozpoznaje się po szyszkach stojących, świerk po zwisających, a modrzew po zrzucaniu igieł. Sosna nie ma szerokich liści."
+        },
+        {
+          "id": "R03_ST_13",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "W rozdziale podano, że jodła źle znosi zanieczyszczone powietrze. Gdzie więc będzie jej trudniej rosnąć?",
+          "options": [
+            "blisko mocno uczęszczanej drogi w dużym mieście",
+            "w wilgotnym lesie z czystym powietrzem",
+            "w górach z dużą wilgotnością",
+            "w parku narodowym z małym ruchem"
+          ],
+          "answer": 0,
+          "explanation": "Skoro jodła źle znosi zanieczyszczenia, najtrudniej będzie jej w miejscu z zanieczyszczonym powietrzem."
+        },
+        {
+          "id": "R03_ST_14",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji pokazano torfowiec i torfowisko. Co może powstać z obumarłych szczątków torfowców gromadzących się przez długi czas?",
+          "image": "bbt_r03_torfowiec_torfowisko.jpg",
+          "options": [
+            "torf",
+            "wapień",
+            "bursztyn",
+            "piasek"
+          ],
+          "answer": 0,
+          "explanation": "Nagromadzone szczątki torfowców tworzą torf."
+        },
+        {
+          "id": "R03_ST_15",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz część sosny z jej rolą.",
+          "options": null,
+          "image": "bbt_r03_budowa_sosny.jpg",
+          "left": [
+            "igły",
+            "kora",
+            "korzeń główny",
+            "korzenie boczne"
+          ],
+          "right": [
+            "ograniczają utratę wody i prowadzą fotosyntezę",
+            "chroni pień",
+            "sięga głębiej w glebę",
+            "rozrastają się na boki i umacniają roślinę"
+          ],
+          "answer": {
+            "igły": "ograniczają utratę wody i prowadzą fotosyntezę",
+            "kora": "chroni pień",
+            "korzeń główny": "sięga głębiej w glebę",
+            "korzenie boczne": "rozrastają się na boki i umacniają roślinę"
+          },
+          "explanation": "Poszczególne części sosny pomagają jej chronić się, pobierać wodę i utrzymać w podłożu."
+        },
+        {
+          "id": "R03_ST_16",
+          "section": "Super trudne",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: sosna, świerk, modrzew, paproć.",
+          "options": null,
+          "answer": "paproć",
+          "explanation": "Sosna, świerk i modrzew to rośliny nagonasienne. Paproć należy do paprotników."
+        },
+        {
+          "id": "R03_ST_17",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Które zdanie najlepiej łączy znaczenie lasów iglastych dla przyrody i dla człowieka?",
+          "image": "bbt_r03_znaczenie_iglastego_lasu.jpg",
+          "options": [
+            "dają schronienie organizmom i dostarczają drewna",
+            "są tylko ozdobą w parkach",
+            "rosną jedynie tam, gdzie nikt nie mieszka",
+            "nie mają związku z przemysłem"
+          ],
+          "answer": 0,
+          "explanation": "Lasy iglaste są ważne dla ekosystemów, a jednocześnie dostarczają cennego drewna."
+        },
+        {
+          "id": "R03_ST_18",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Roślina, która jako jedna z pierwszych zasiedla trudne podłoże, to organizm __________, a roślina wytwarzająca nasiona bez owocu jest rośliną __________.",
+          "options": null,
+          "answer": [
+            "pionierski",
+            "nagonasienną"
+          ],
+          "altAnswers": [
+            [
+              "pionierski",
+              "pionierska",
+              "pionierskie",
+              "organizm pionierski"
+            ],
+            [
+              "nagonasienną",
+              "nagonasienna",
+              "nagonasiennych",
+              "nagonasienną rośliną"
+            ]
+          ],
+          "explanation": "Mchy są przykładami organizmów pionierskich, a sosna i inne iglaki są roślinami nagonasiennymi."
+        },
+        {
+          "id": "R03_ST_19",
+          "section": "Super trudne",
+          "type": "sort",
+          "prompt": "Posortuj przykłady według tego, czy dotyczą głównie ochrony rośliny, czy przewodzenia substancji.",
+          "options": null,
+          "items": [
+            "skórka",
+            "korek",
+            "łyko",
+            "drewno",
+            "włośniki",
+            "naczynia"
+          ],
+          "categories": [
+            "ochrona",
+            "przewodzenie lub pobieranie"
+          ],
+          "answer": {
+            "ochrona": [
+              "skórka",
+              "korek"
+            ],
+            "przewodzenie lub pobieranie": [
+              "łyko",
+              "drewno",
+              "włośniki",
+              "naczynia"
+            ]
+          },
+          "explanation": "Skórka i korek chronią roślinę, a łyko, drewno, naczynia i włośniki pomagają w pobieraniu lub transportowaniu substancji."
+        },
+        {
+          "id": "R03_ST_20",
+          "section": "Super trudne",
+          "type": "riddle",
+          "prompt": "Jestem miejscem intensywnego wzrostu na końcu pędu albo korzenia. Dzięki mnie roślina wydłuża się. Kim jestem?",
+          "options": null,
+          "answer": "stożek wzrostu",
+          "altAnswers": [
+            "stożek wzrostu",
+            "stożek wzrostu pędu",
+            "stożek wzrostu korzenia",
+            "stożkiem wzrostu"
+          ],
+          "explanation": "Stożki wzrostu należą do tkanek twórczych. Dzięki nim pęd i korzeń rosną na długość."
+        }
+      ],
+      "kidPrompts": {}
+    },
+    {
+      "id": "r04",
+      "number": 4,
+      "title": "Rośliny okrytonasienne",
+      "icon": "🌸",
+      "sectionOrder": [
+        "4.1 Cechy i budowa",
+        "4.1 Modyfikacje organów",
+        "4.2 Kwiat i zapylanie",
+        "4.2 Rozmnażanie wegetatywne",
+        "4.3 Nasiona i owoce",
+        "4.4 Drzewa liściaste w Polsce",
+        "4.5 W przyrodzie i dla człowieka"
+      ],
+      "sectionIcons": {
+        "4.1 Cechy i budowa": "🌿",
+        "4.1 Modyfikacje organów": "🪴",
+        "4.2 Kwiat i zapylanie": "🐝",
+        "4.2 Rozmnażanie wegetatywne": "🌱",
+        "4.3 Nasiona i owoce": "🌰",
+        "4.4 Drzewa liściaste w Polsce": "🍃",
+        "4.5 W przyrodzie i dla człowieka": "🌍"
+      },
+      "exercises": [
+        {
+          "id": "R04_CB_01",
+          "section": "4.1 Cechy i budowa",
+          "type": "single_choice",
+          "prompt": "Co najbardziej wyróżnia rośliny okrytonasienne?",
+          "options": [
+            "To, że wytwarzają owoce okrywające nasiona",
+            "To, że mają tylko igły",
+            "To, że nie mają korzeni",
+            "To, że żyją wyłącznie w wodzie"
+          ],
+          "answer": 0,
+          "explanation": "Najbardziej charakterystyczna cecha roślin okrytonasiennych to owoce, wewnątrz których znajdują się nasiona."
+        },
+        {
+          "id": "R04_CB_02",
+          "section": "4.1 Cechy i budowa",
+          "type": "multi_select",
+          "prompt": "Zaznacz organy typowej rośliny okrytonasiennej.",
+          "options": [
+            "korzeń",
+            "łodyga",
+            "liść",
+            "skrzele",
+            "kwiat"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "explanation": "Typowa roślina okrytonasienna ma korzeń, łodygę, liście i kwiaty. Skrzela mają zwierzęta wodne, nie rośliny."
+        },
+        {
+          "id": "R04_CB_03",
+          "section": "4.1 Cechy i budowa",
+          "type": "true_false",
+          "prompt": "Liście biorą udział w wymianie gazowej i transpiracji.",
+          "options": null,
+          "answer": true,
+          "explanation": "Na liściach znajdują się aparaty szparkowe, przez które zachodzi wymiana gazowa i parowanie wody."
+        },
+        {
+          "id": "R04_CB_04",
+          "section": "4.1 Cechy i budowa",
+          "type": "match",
+          "prompt": "Połącz organ rośliny z jego główną funkcją.",
+          "options": null,
+          "left": [
+            "korzeń",
+            "łodyga",
+            "owoc",
+            "liść"
+          ],
+          "right": [
+            "pobiera wodę i sole mineralne",
+            "podtrzymuje inne organy",
+            "chroni nasiona",
+            "prowadzi fotosyntezę"
+          ],
+          "answer": {
+            "korzeń": "pobiera wodę i sole mineralne",
+            "łodyga": "podtrzymuje inne organy",
+            "owoc": "chroni nasiona",
+            "liść": "prowadzi fotosyntezę"
+          },
+          "explanation": "Każdy organ ma inne zadanie: korzeń pobiera wodę, łodyga podtrzymuje, liść prowadzi fotosyntezę, a owoc osłania nasiona."
+        },
+        {
+          "id": "R04_CB_05",
+          "section": "4.1 Cechy i budowa",
+          "type": "fill_in",
+          "prompt": "Pęd rośliny składa się z __________ i organów, które na niej wyrastają.",
+          "options": null,
+          "answer": [
+            "łodygi"
+          ],
+          "altAnswers": [
+            [
+              "łodygi",
+              "łodyga",
+              "łodygę",
+              "łodydze"
+            ]
+          ],
+          "explanation": "Pęd to nadziemna część rośliny zbudowana z łodygi oraz osadzonych na niej liści, kwiatów i owoców."
+        },
+        {
+          "id": "R04_CB_06",
+          "section": "4.1 Cechy i budowa",
+          "type": "scenario",
+          "prompt": "Kuba wykopał młodą roślinę i zauważył część, która trzyma ją w glebie oraz pobiera wodę. Co znalazł?",
+          "options": [
+            "owoc",
+            "korzeń",
+            "liść",
+            "pąk"
+          ],
+          "answer": 1,
+          "explanation": "Korzeń utrzymuje roślinę w podłożu i pobiera z gleby wodę z solami mineralnymi."
+        },
+        {
+          "id": "R04_CB_07",
+          "section": "4.1 Cechy i budowa",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: korzeń, łodyga, liść, skrzydło.",
+          "options": null,
+          "answer": "skrzydło",
+          "explanation": "Korzeń, łodyga i liść to organy rośliny. Skrzydło nie jest organem roślinnym."
+        },
+        {
+          "id": "R04_CB_08",
+          "section": "4.1 Cechy i budowa",
+          "type": "sort",
+          "prompt": "Przyporządkuj organy do części podziemnej lub nadziemnej rośliny.",
+          "options": null,
+          "items": [
+            "korzeń",
+            "łodyga",
+            "liść",
+            "kwiat",
+            "owoc"
+          ],
+          "categories": [
+            "część podziemna",
+            "część nadziemna"
+          ],
+          "answer": {
+            "część podziemna": [
+              "korzeń"
+            ],
+            "część nadziemna": [
+              "łodyga",
+              "liść",
+              "kwiat",
+              "owoc"
+            ]
+          },
+          "explanation": "U typowej rośliny pod ziemią znajduje się korzeń, a nad ziemią - pęd z łodygą, liśćmi, kwiatami i owocami."
+        },
+        {
+          "id": "R04_CB_09",
+          "section": "4.1 Cechy i budowa",
+          "type": "single_choice",
+          "prompt": "Spójrz na ilustrację. Który podpis wskazuje organ, z którego powstają nasiona?",
+          "image": "bbt_r04_budowa_rosliny.jpg",
+          "options": [
+            "kwiat",
+            "liść",
+            "korzeń",
+            "łodyga"
+          ],
+          "answer": 0,
+          "explanation": "Nasiona powstają po zapłodnieniu w kwiacie."
+        },
+        {
+          "id": "R04_CB_10",
+          "section": "4.1 Cechy i budowa",
+          "type": "riddle",
+          "prompt": "Jestem zielony, zwykle płaski i pomagam roślinie wytwarzać pokarm. Kim jestem?",
+          "options": null,
+          "answer": "liść",
+          "altAnswers": [
+            "liść",
+            "liścia",
+            "liściem",
+            "liściu",
+            "listek"
+          ],
+          "explanation": "Liść jest ważnym miejscem fotosyntezy, czyli wytwarzania pokarmu przez roślinę."
+        },
+        {
+          "id": "R04_MO_01",
+          "section": "4.1 Modyfikacje organów",
+          "type": "single_choice",
+          "prompt": "Po co opuncji cienkie liście zostały zmienione w ciernie?",
+          "options": [
+            "Żeby szybciej pływać",
+            "Żeby ograniczyć utratę wody",
+            "Żeby łapać dźwięki",
+            "Żeby robić cień ślimakom"
+          ],
+          "answer": 1,
+          "explanation": "W suchym środowisku małe liście lub ciernie pomagają ograniczać parowanie wody."
+        },
+        {
+          "id": "R04_MO_02",
+          "section": "4.1 Modyfikacje organów",
+          "type": "single_choice",
+          "prompt": "Na ilustracji widać roślinę pustynną. W której części tej rośliny zachodzi fotosynteza?",
+          "image": "bbt_r04_opuncja.jpg",
+          "options": [
+            "w korzeniu",
+            "w zielonej łodydze",
+            "w cierniach",
+            "w nasionach"
+          ],
+          "answer": 1,
+          "explanation": "U opuncji liście są zmienione w ciernie, więc fotosynteza zachodzi głównie w zielonej łodydze."
+        },
+        {
+          "id": "R04_MO_03",
+          "section": "4.1 Modyfikacje organów",
+          "type": "true_false",
+          "prompt": "Korzenie podporowe pomagają roślinie utrzymać się w niestabilnym podłożu.",
+          "options": null,
+          "answer": true,
+          "explanation": "Takie korzenie wzmacniają roślinę i pomagają jej stać prosto tam, gdzie zwykłe korzenie nie wystarczają."
+        },
+        {
+          "id": "R04_MO_04",
+          "section": "4.1 Modyfikacje organów",
+          "type": "single_choice",
+          "prompt": "Która roślina z ilustracji wspina się dzięki korzeniom czepnym?",
+          "image": "bbt_r04_bluszcz_korzenie_czepne.jpg",
+          "options": [
+            "bluszcz",
+            "opuncja",
+            "marchew",
+            "tulipan"
+          ],
+          "answer": 0,
+          "explanation": "Bluszcz tworzy korzenie czepne, które pomagają mu przylegać do podpór."
+        },
+        {
+          "id": "R04_MO_05",
+          "section": "4.1 Modyfikacje organów",
+          "type": "scenario",
+          "prompt": "Roślina rośnie na glebie ubogiej w azot. Która modyfikacja może jej pomóc zdobyć ten pierwiastek?",
+          "options": [
+            "liście pułapkowe chwytające owady",
+            "grubsza kora",
+            "krótsza łodyga",
+            "większe nasiona"
+          ],
+          "answer": 0,
+          "explanation": "Niektóre rośliny, np. rosiczka, uzupełniają brak azotu, trawiąc schwytane owady."
+        },
+        {
+          "id": "R04_MO_06",
+          "section": "4.1 Modyfikacje organów",
+          "type": "single_choice",
+          "prompt": "Spójrz na ilustrację. Co jest najważniejszą cechą pokazanej rośliny?",
+          "image": "bbt_r04_rosiczka.jpg",
+          "options": [
+            "ma liście pułapkowe z lepką cieczą",
+            "żyje tylko pod wodą",
+            "nie ma korzeni",
+            "wytwarza szyszki"
+          ],
+          "answer": 0,
+          "explanation": "Rosiczka ma liście pułapkowe pokryte lepką cieczą, która pomaga chwytać małe zwierzęta."
+        },
+        {
+          "id": "R04_MO_07",
+          "section": "4.1 Modyfikacje organów",
+          "type": "multi_select",
+          "prompt": "Które przykłady to organy spichrzowe albo ich rola?",
+          "options": [
+            "korzeń marchwi gromadzi zapasy",
+            "bulwa ziemniaka gromadzi zapasy",
+            "ciernie opuncji magazynują dużo wody i cukru zamiast bronić rośliny",
+            "mięsiste liście cebuli przechowują substancje zapasowe"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
+          "explanation": "Marchew, ziemniak i cebula mają organy spichrzowe. Ciernie opuncji przede wszystkim chronią roślinę i ograniczają utratę wody."
+        },
+        {
+          "id": "R04_MO_08",
+          "section": "4.1 Modyfikacje organów",
+          "type": "single_choice",
+          "prompt": "Na ilustracji widać trzy przykłady organów spichrzowych. Który z nich jest bulwą pędową?",
+          "image": "bbt_r04_organy_spichrzowe.jpg",
+          "options": [
+            "marchew",
+            "ziemniak",
+            "cebula",
+            "żaden"
+          ],
+          "answer": 1,
+          "explanation": "Ziemniak tworzy bulwy pędowe, czyli przekształcone części pędu."
+        },
+        {
+          "id": "R04_MO_09",
+          "section": "4.1 Modyfikacje organów",
+          "type": "riddle",
+          "prompt": "Jestem zmienionym liściem lub pędem. Oplatam podporę i pomagam roślinie piąć się do góry. Kim jestem?",
+          "options": null,
+          "answer": "wąs",
+          "altAnswers": [
+            "wąs",
+            "wąsy",
+            "wąsem",
+            "wąs czepny",
+            "wąsy czepne"
+          ],
+          "explanation": "Wąsy czepne pomagają roślinie wspinać się ku światłu."
+        },
+        {
+          "id": "R04_KZ_01",
+          "section": "4.2 Kwiat i zapylanie",
+          "type": "single_choice",
+          "prompt": "Jak nazywa się męski element kwiatu?",
+          "options": [
+            "słupek",
+            "pręcik",
+            "zalążnia",
+            "płatki"
+          ],
+          "answer": 1,
+          "explanation": "Pręciki są męskimi elementami kwiatu i wytwarzają pyłek."
+        },
+        {
+          "id": "R04_KZ_02",
+          "section": "4.2 Kwiat i zapylanie",
+          "type": "single_choice",
+          "prompt": "Na ilustracji wskaż część, na którą musi trafić pyłek, aby doszło do zapylenia.",
+          "image": "bbt_r04_budowa_kwiatu.jpg",
+          "options": [
+            "znamię słupka",
+            "działki kielicha",
+            "płatek korony",
+            "szypułka"
+          ],
+          "answer": 0,
+          "explanation": "Ziarna pyłku muszą trafić na znamię słupka."
+        },
+        {
+          "id": "R04_KZ_03",
+          "section": "4.2 Kwiat i zapylanie",
+          "type": "fill_in",
+          "prompt": "Pyłek powstaje w __________, a żeńska komórka rozrodcza znajduje się w __________.",
+          "options": null,
+          "answer": [
+            "pręcikach",
+            "zalążni"
+          ],
+          "altAnswers": [
+            [
+              "pręcikach",
+              "pręciki",
+              "pręcik"
+            ],
+            [
+              "zalążni",
+              "zalążnia",
+              "zalążnię"
+            ]
+          ],
+          "explanation": "Pręciki wytwarzają pyłek, a w zalążni słupka znajdują się żeńskie komórki rozrodcze."
+        },
+        {
+          "id": "R04_KZ_04",
+          "section": "4.2 Kwiat i zapylanie",
+          "type": "true_false",
+          "prompt": "Zapłodnienie to połączenie męskiej i żeńskiej komórki rozrodczej.",
+          "options": null,
+          "answer": true,
+          "explanation": "Tak właśnie powstaje zygota, od której zaczyna się rozwój nasiona."
+        },
+        {
+          "id": "R04_KZ_05",
+          "section": "4.2 Kwiat i zapylanie",
+          "type": "single_choice",
+          "prompt": "Który zestaw najlepiej pasuje do kwiatu wiatropylnego?",
+          "image": "bbt_r04_wiatropylny_owadopylny.jpg",
+          "options": [
+            "duże, pachnące płatki i dużo nektaru",
+            "niepozorne kwiaty i dużo lekkiego pyłku",
+            "grube, mięsiste liście",
+            "kolczasty owoc"
+          ],
+          "answer": 1,
+          "explanation": "Rośliny wiatropylne zwykle mają niepozorne kwiaty i produkują dużo lekkiego pyłku."
+        },
+        {
+          "id": "R04_KZ_06",
+          "section": "4.2 Kwiat i zapylanie",
+          "type": "single_choice",
+          "prompt": "Po co kwiaty owadopylne wytwarzają nektar?",
+          "options": [
+            "Żeby odstraszać owady",
+            "Żeby przywabiać zapylacze",
+            "Żeby chłodzić słupek",
+            "Żeby nasiona szybciej rosły"
+          ],
+          "answer": 1,
+          "explanation": "Nektar przyciąga zapylacze, które przenoszą pyłek między kwiatami."
+        },
+        {
+          "id": "R04_KZ_07",
+          "section": "4.2 Kwiat i zapylanie",
+          "type": "scenario",
+          "prompt": "Pszczoła usiadła na jednym kwiecie, ubrudziła się pyłkiem, a potem poleciała na drugi kwiat tego samego gatunku. Co najprawdopodobniej się stało?",
+          "options": [
+            "doszło do zapylenia",
+            "owoc od razu dojrzał",
+            "liście zamieniły się w ciernie",
+            "roślina przestała rosnąć"
+          ],
+          "answer": 0,
+          "explanation": "Owady mogą przenosić pyłek na znamię słupka innego kwiatu, czyli doprowadzić do zapylenia."
+        },
+        {
+          "id": "R04_KZ_08",
+          "section": "4.2 Kwiat i zapylanie",
+          "type": "single_choice",
+          "prompt": "Na ilustracji widać zapylanie przez owada. Co owad przenosi między kwiatami?",
+          "image": "bbt_r04_owad_zapyla_kwiat.jpg",
+          "options": [
+            "wodę",
+            "pyłek",
+            "korzenie",
+            "nasiona"
+          ],
+          "answer": 1,
+          "explanation": "Zapylacze przenoszą pyłek z pręcików jednego kwiatu na słupek drugiego."
+        },
+        {
+          "id": "R04_KZ_09",
+          "section": "4.2 Kwiat i zapylanie",
+          "type": "match",
+          "prompt": "Połącz pojęcie z krótkim wyjaśnieniem.",
+          "options": null,
+          "left": [
+            "zapylenie",
+            "zapłodnienie",
+            "miodnik"
+          ],
+          "right": [
+            "trafienie pyłku na znamię słupka",
+            "połączenie komórek rozrodczych",
+            "miejsce wytwarzania nektaru"
+          ],
+          "answer": {
+            "zapylenie": "trafienie pyłku na znamię słupka",
+            "zapłodnienie": "połączenie komórek rozrodczych",
+            "miodnik": "miejsce wytwarzania nektaru"
+          },
+          "explanation": "Te trzy pojęcia opisują różne elementy rozmnażania roślin okrytonasiennych."
+        },
+        {
+          "id": "R04_KZ_10",
+          "section": "4.2 Kwiat i zapylanie",
+          "type": "riddle",
+          "prompt": "Jestem słodką nagrodą w kwiacie. Dzięki mnie pszczoły i inne zwierzęta chętniej odwiedzają rośliny. Co to jest?",
+          "options": null,
+          "answer": "nektar",
+          "altAnswers": [
+            "nektar",
+            "nektaru",
+            "nektarem"
+          ],
+          "explanation": "Nektar przywabia zapylacze do kwiatów."
+        },
+        {
+          "id": "R04_RW_01",
+          "section": "4.2 Rozmnażanie wegetatywne",
+          "type": "true_false",
+          "prompt": "Rozmnażanie wegetatywne zachodzi bez udziału nasion.",
+          "options": null,
+          "answer": true,
+          "explanation": "W rozmnażaniu wegetatywnym nowa roślina powstaje z części rośliny macierzystej, a nie z nasienia."
+        },
+        {
+          "id": "R04_RW_02",
+          "section": "4.2 Rozmnażanie wegetatywne",
+          "type": "single_choice",
+          "prompt": "Który przykład pokazuje rozmnażanie wegetatywne?",
+          "options": [
+            "ziemniak wyrasta z bulwy",
+            "jabłoń wyrasta z nasiona",
+            "sosna wytwarza pyłek",
+            "pszczoła zbiera nektar"
+          ],
+          "answer": 0,
+          "explanation": "Bulwa ziemniaka może dać początek nowej roślinie bez udziału nasion."
+        },
+        {
+          "id": "R04_RW_03",
+          "section": "4.2 Rozmnażanie wegetatywne",
+          "type": "multi_select",
+          "prompt": "Zaznacz przykłady części roślin, które mogą brać udział w rozmnażaniu wegetatywnym.",
+          "options": [
+            "cebule",
+            "bulwy",
+            "rozłogi",
+            "owoce"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "W rozmnażaniu wegetatywnym biorą udział różne części rośliny, np. cebule, bulwy i rozłogi."
+        },
+        {
+          "id": "R04_RW_04",
+          "section": "4.2 Rozmnażanie wegetatywne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji widać kilka przykładów. Który podpis dotyczy truskawki?",
+          "image": "bbt_r04_rozmnazanie_wegetatywne.jpg",
+          "options": [
+            "cebula",
+            "rozłogi",
+            "bulwy",
+            "liście pułapkowe"
+          ],
+          "answer": 1,
+          "explanation": "Truskawka rozmnaża się wegetatywnie dzięki rozłogom."
+        },
+        {
+          "id": "R04_RW_05",
+          "section": "4.2 Rozmnażanie wegetatywne",
+          "type": "fill_in",
+          "prompt": "U truskawki nowa roślina może wyrosnąć z __________, a u ziemniaka z __________.",
+          "options": null,
+          "answer": [
+            "rozłogu",
+            "bulwy"
+          ],
+          "altAnswers": [
+            [
+              "rozłogu",
+              "rozłóg",
+              "rozłogi",
+              "rozłogu"
+            ],
+            [
+              "bulwy",
+              "bulwa",
+              "bulw"
+            ]
+          ],
+          "explanation": "Truskawka wytwarza rozłogi, a ziemniak bulwy pędowe."
+        },
+        {
+          "id": "R04_RW_06",
+          "section": "4.2 Rozmnażanie wegetatywne",
+          "type": "scenario",
+          "prompt": "Ola wsadziła do ziemi cebulę kwiatu i po jakimś czasie pojawiła się nowa roślina. Jak nazywa się taki sposób rozmnażania?",
+          "options": [
+            "wegetatywne",
+            "płciowe",
+            "zarodnikowe",
+            "przez zapylanie"
+          ],
+          "answer": 0,
+          "explanation": "Nowa roślina powstała z cebuli, czyli z części rośliny, a to jest rozmnażanie wegetatywne."
+        },
+        {
+          "id": "R04_RW_07",
+          "section": "4.2 Rozmnażanie wegetatywne",
+          "type": "riddle",
+          "prompt": "Jestem długim pędem pełzającym po ziemi. Dzięki mnie truskawka tworzy nowe rośliny obok siebie. Kim jestem?",
+          "options": null,
+          "answer": "rozłóg",
+          "altAnswers": [
+            "rozłóg",
+            "rozłogu",
+            "rozłogiem",
+            "rozłogi"
+          ],
+          "explanation": "Rozłogi umożliwiają truskawce rozmnażanie wegetatywne."
+        },
+        {
+          "id": "R04_NO_01",
+          "section": "4.3 Nasiona i owoce",
+          "type": "single_choice",
+          "prompt": "Po co roślinie owoc?",
+          "options": [
+            "chroni nasiona",
+            "zamienia liście w korzenie",
+            "wytwarza pyłek",
+            "przyczepia roślinę do muru"
+          ],
+          "answer": 0,
+          "explanation": "Owoc osłania nasiona, a często pomaga też w ich rozsiewaniu."
+        },
+        {
+          "id": "R04_NO_02",
+          "section": "4.3 Nasiona i owoce",
+          "type": "single_choice",
+          "prompt": "Która część nasiona może rozwinąć się w nową roślinę?",
+          "image": "bbt_r04_budowa_nasiona_fasoli.jpg",
+          "options": [
+            "zarodek",
+            "łupina",
+            "pestka",
+            "nektar"
+          ],
+          "answer": 0,
+          "explanation": "To zarodek rozwija się w młodą roślinę."
+        },
+        {
+          "id": "R04_NO_03",
+          "section": "4.3 Nasiona i owoce",
+          "type": "multi_select",
+          "prompt": "Co jest potrzebne nasionu do kiełkowania?",
+          "options": [
+            "woda",
+            "odpowiednia temperatura",
+            "powietrze",
+            "lakier do drewna"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Do kiełkowania nasiono potrzebuje wody, tlenu i odpowiedniej temperatury."
+        },
+        {
+          "id": "R04_NO_04",
+          "section": "4.3 Nasiona i owoce",
+          "type": "sequence",
+          "prompt": "Ułóż etapy kiełkowania od początku do końca.",
+          "options": null,
+          "items": [
+            "wyrasta korzeń",
+            "nasiono pobiera wodę",
+            "pojawia się młody pęd",
+            "pęka łupina"
+          ],
+          "answer": [
+            "nasiono pobiera wodę",
+            "pęka łupina",
+            "wyrasta korzeń",
+            "pojawia się młody pęd"
+          ],
+          "explanation": "Najpierw nasiono pobiera wodę, potem pęka łupina, następnie wyrasta korzeń i pojawia się pęd."
+        },
+        {
+          "id": "R04_NO_05",
+          "section": "4.3 Nasiona i owoce",
+          "type": "single_choice",
+          "prompt": "Spójrz na ilustrację. Który etap pokazuje młodą roślinę z liśćmi nad ziemią?",
+          "image": "bbt_r04_kielkowanie_fasoli.jpg",
+          "options": [
+            "pierwszy",
+            "drugi",
+            "czwarty",
+            "piąty"
+          ],
+          "answer": 3,
+          "explanation": "Piąty etap pokazuje już młodą roślinę z liśćmi."
+        },
+        {
+          "id": "R04_NO_06",
+          "section": "4.3 Nasiona i owoce",
+          "type": "single_choice",
+          "prompt": "Jak najczęściej rozsiewane są lekkie nasiona z puchem, takie jak u mniszka?",
+          "image": "bbt_r04_rozsiewanie_nasion.jpg",
+          "options": [
+            "przez wiatr",
+            "przez wodę morską tylko",
+            "przez podziemne grzyby",
+            "przez mróz"
+          ],
+          "answer": 0,
+          "explanation": "Lekki puch działa jak spadochron i pomaga w rozsiewaniu przez wiatr."
+        },
+        {
+          "id": "R04_NO_07",
+          "section": "4.3 Nasiona i owoce",
+          "type": "fill_in",
+          "prompt": "Owoc, który chroni nasiona, a jednocześnie może pomagać w ich rozsiewaniu, powstaje z __________ kwiatu.",
+          "options": null,
+          "answer": [
+            "zalążni"
+          ],
+          "altAnswers": [
+            [
+              "zalążni",
+              "zalążnia",
+              "zalążnię"
+            ]
+          ],
+          "explanation": "Po zapłodnieniu zalążnia przekształca się w owoc."
+        },
+        {
+          "id": "R04_NO_08",
+          "section": "4.3 Nasiona i owoce",
+          "type": "single_choice",
+          "prompt": "Na ilustracji widać owoc tulipana. Jak nazywa się taki suchy owoc, który pęka i uwalnia nasiona?",
+          "image": "bbt_r04_torebka_tulipana.jpg",
+          "options": [
+            "torebka",
+            "szyszka",
+            "kłącze",
+            "igła"
+          ],
+          "answer": 0,
+          "explanation": "Owocem tulipana jest torebka, czyli suchy owoc pękający podczas dojrzewania."
+        },
+        {
+          "id": "R04_DL_01",
+          "section": "4.4 Drzewa liściaste w Polsce",
+          "type": "single_choice",
+          "prompt": "Które drzewo ma liść o wyraźnie klapowanym, dłoniastym kształcie?",
+          "image": "bbt_r04_liscie_dab_klon.jpg",
+          "options": [
+            "dąb",
+            "klon",
+            "brzoza",
+            "lipa"
+          ],
+          "answer": 1,
+          "explanation": "Taki charakterystyczny, dłoniasty liść ma klon."
+        },
+        {
+          "id": "R04_DL_02",
+          "section": "4.4 Drzewa liściaste w Polsce",
+          "type": "single_choice",
+          "prompt": "Spójrz na ilustrację. Które drzewo wytwarza kolczastą okrywę z kasztanem w środku?",
+          "image": "bbt_r04_kasztanowiec.jpg",
+          "options": [
+            "brzoza",
+            "kasztanowiec",
+            "olsza",
+            "wierzba"
+          ],
+          "answer": 1,
+          "explanation": "Kasztanowiec tworzy kolczaste owoce, w których znajdują się kasztany."
+        },
+        {
+          "id": "R04_DL_03",
+          "section": "4.4 Drzewa liściaste w Polsce",
+          "type": "match",
+          "prompt": "Połącz drzewo z tym, co dobrze je opisuje.",
+          "options": null,
+          "left": [
+            "brzoza",
+            "dąb",
+            "lipa"
+          ],
+          "right": [
+            "ma kotki",
+            "ma żołędzie",
+            "ma podsadkę i drobne owoce"
+          ],
+          "answer": {
+            "brzoza": "ma kotki",
+            "dąb": "ma żołędzie",
+            "lipa": "ma podsadkę i drobne owoce"
+          },
+          "explanation": "Te cechy pomagają rozpoznawać popularne drzewa liściaste w Polsce."
+        },
+        {
+          "id": "R04_DL_04",
+          "section": "4.4 Drzewa liściaste w Polsce",
+          "type": "single_choice",
+          "prompt": "Który zestaw najlepiej pasuje do ilustracji po prawej?",
+          "image": "bbt_r04_owoce_brzoza_lipa.jpg",
+          "options": [
+            "brzoza - kotki, lipa - podsadka i orzeszki",
+            "brzoza - kasztany, lipa - żołędzie",
+            "brzoza - szyszki, lipa - igły",
+            "brzoza - bulwy, lipa - cebule"
+          ],
+          "answer": 0,
+          "explanation": "Brzozę można rozpoznać po kotkach, a lipę po podsadce i małych owocach."
+        },
+        {
+          "id": "R04_PC_01",
+          "section": "4.5 W przyrodzie i dla człowieka",
+          "type": "multi_select",
+          "prompt": "Dlaczego rośliny okrytonasienne są ważne dla ludzi i zwierząt?",
+          "options": [
+            "dają pokarm",
+            "są schronieniem dla wielu organizmów",
+            "wytwarzają tlen",
+            "zamieniają wszystkie skały w piasek"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Rośliny okrytonasienne dostarczają pożywienia, tlenu i miejsc życia dla innych organizmów."
+        },
+        {
+          "id": "R04_PC_02",
+          "section": "4.5 W przyrodzie i dla człowieka",
+          "type": "single_choice",
+          "prompt": "Na ilustracji pokazano różne środowiska. W którym z nich także mogą żyć rośliny okrytonasienne?",
+          "image": "bbt_r04_siedliska.jpg",
+          "options": [
+            "tylko na łące",
+            "tylko w lesie",
+            "na łące, w lesie i w wodzie",
+            "wyłącznie na pustyni"
+          ],
+          "answer": 2,
+          "explanation": "Rośliny okrytonasienne żyją w bardzo różnych środowiskach, także w wodzie."
+        },
+        {
+          "id": "R04_ST_01",
+          "section": "Super trudne",
+          "type": "sort",
+          "prompt": "Przyporządkuj cechy do roślin okrytonasiennych lub nagonasiennych.",
+          "options": null,
+          "items": [
+            "wytwarzają owoce",
+            "nasiona mogą leżeć w szyszkach",
+            "mają kwiaty",
+            "większość roślin uprawnych należy do tej grupy"
+          ],
+          "categories": [
+            "okrytonasienne",
+            "nagonasienne"
+          ],
+          "answer": {
+            "okrytonasienne": [
+              "wytwarzają owoce",
+              "mają kwiaty",
+              "większość roślin uprawnych należy do tej grupy"
+            ],
+            "nagonasienne": [
+              "nasiona mogą leżeć w szyszkach"
+            ]
+          },
+          "explanation": "Okrytonasienne mają kwiaty i owoce, a u nagonasiennych nasiona nie są zamknięte w owocach."
+        },
+        {
+          "id": "R04_ST_02",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Dwie rośliny żyją w suchym miejscu. Pierwsza ma duże cienkie liście, druga - ciernie i zieloną łodygę. Która lepiej poradzi sobie z brakiem wody?",
+          "options": [
+            "pierwsza",
+            "druga",
+            "obie tak samo",
+            "żadna"
+          ],
+          "answer": 1,
+          "explanation": "Ciernie ograniczają parowanie, a zielona łodyga może przejąć rolę liści w fotosyntezie.",
+          "image": "bbt_r04_opuncja.jpg"
+        },
+        {
+          "id": "R04_ST_03",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji są dwa typy kwiatów. Który z nich musi wytwarzać więcej lekkiego pyłku, aby zwiększyć szansę zapylenia?",
+          "image": "bbt_r04_wiatropylny_owadopylny.jpg",
+          "options": [
+            "kwiat owadopylny",
+            "kwiat wiatropylny",
+            "oba tak samo",
+            "żaden"
+          ],
+          "answer": 1,
+          "explanation": "Wiatr działa przypadkowo, więc rośliny wiatropylne produkują bardzo dużo lekkiego pyłku."
+        },
+        {
+          "id": "R04_ST_04",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "Jeśli owoc pomaga w rozsiewaniu nasion, to zawsze jest mięsisty i jadalny.",
+          "options": null,
+          "answer": false,
+          "explanation": "Nie. Owoc może być też suchy i lekki, może mieć haczyki albo pękać samorzutnie."
+        },
+        {
+          "id": "R04_ST_05",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz modyfikację z korzyścią dla rośliny.",
+          "options": null,
+          "left": [
+            "ciernie opuncji",
+            "korzenie podporowe",
+            "liście pułapkowe",
+            "korzenie czepne"
+          ],
+          "right": [
+            "mniej utraconej wody",
+            "lepsze utrzymanie w podłożu",
+            "zdobywanie azotu",
+            "wspinanie się po podporze"
+          ],
+          "answer": {
+            "ciernie opuncji": "mniej utraconej wody",
+            "korzenie podporowe": "lepsze utrzymanie w podłożu",
+            "liście pułapkowe": "zdobywanie azotu",
+            "korzenie czepne": "wspinanie się po podporze"
+          },
+          "explanation": "Każda z tych modyfikacji pomaga roślinie poradzić sobie z innym problemem środowiskowym."
+        },
+        {
+          "id": "R04_ST_06",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Spójrz na ilustrację. Który organ spichrzowy należy do przekształconych liści, a nie korzenia ani pędu?",
+          "image": "bbt_r04_organy_spichrzowe.jpg",
+          "options": [
+            "marchew",
+            "ziemniak",
+            "cebula",
+            "wszystkie trzy"
+          ],
+          "answer": 2,
+          "explanation": "Cebula gromadzi zapasy w mięsistych liściach spichrzowych."
+        },
+        {
+          "id": "R04_ST_07",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Po zapyleniu i zapłodnieniu z __________ rozwija się nasiono, a z __________ powstaje owoc.",
+          "options": null,
+          "answer": [
+            "zalążka",
+            "zalążni"
+          ],
+          "altAnswers": [
+            [
+              "zalążka",
+              "zalążek",
+              "zalążku"
+            ],
+            [
+              "zalążni",
+              "zalążnia",
+              "zalążnię"
+            ]
+          ],
+          "explanation": "Zalążek przekształca się w nasiono, a zalążnia w owoc."
+        },
+        {
+          "id": "R04_ST_08",
+          "section": "Super trudne",
+          "type": "sequence",
+          "prompt": "Ułóż wydarzenia we właściwej kolejności.",
+          "options": null,
+          "items": [
+            "powstaje owoc z nasionami",
+            "pyłek trafia na znamię słupka",
+            "dochodzi do zapłodnienia",
+            "kwiat wytwarza pyłek"
+          ],
+          "answer": [
+            "kwiat wytwarza pyłek",
+            "pyłek trafia na znamię słupka",
+            "dochodzi do zapłodnienia",
+            "powstaje owoc z nasionami"
+          ],
+          "explanation": "Najpierw powstaje pyłek, potem następuje zapylenie, zapłodnienie, a na końcu rozwój owocu i nasion."
+        },
+        {
+          "id": "R04_ST_09",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji kiełkowania widać kolejne etapy. Co pojawia się wcześniej niż liście?",
+          "image": "bbt_r04_kielkowanie_fasoli.jpg",
+          "options": [
+            "owoc",
+            "korzeń",
+            "kwiat",
+            "szyszka"
+          ],
+          "answer": 1,
+          "explanation": "Podczas kiełkowania najpierw wyrasta korzeń, a dopiero później pęd i liście."
+        },
+        {
+          "id": "R04_ST_10",
+          "section": "Super trudne",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: cebula, bulwa, rozłóg, nektar.",
+          "options": null,
+          "answer": "nektar",
+          "explanation": "Cebula, bulwa i rozłóg mogą brać udział w rozmnażaniu wegetatywnym, a nektar służy przywabianiu zapylaczy."
+        },
+        {
+          "id": "R04_ST_11",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Roślina rośnie na ubogiej glebie, ale nie ma liści pułapkowych. Które wyjaśnienie jest najlepsze?",
+          "options": [
+            "może zdobywać potrzebne substancje innym sposobem",
+            "na pewno nie jest okrytonasienna",
+            "nie potrzebuje azotu",
+            "żyje tylko zimą"
+          ],
+          "answer": 0,
+          "explanation": "Ta sama grupa roślin może radzić sobie na różne sposoby. Liście pułapkowe to tylko jedno z możliwych przystosowań."
+        },
+        {
+          "id": "R04_ST_12",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Które cechy zwiększają szansę rozsiewania nasion przez zwierzęta?",
+          "options": [
+            "haczyki czepiające się sierści",
+            "soczysty owoc zjadany przez zwierzęta",
+            "duży ciężki pień",
+            "lekki puch"
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Nasiona mogą być roznoszone po przyczepieniu do sierści albo po zjedzeniu owocu przez zwierzęta."
+        },
+        {
+          "id": "R04_ST_13",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji porównano dąb i klon. Które zdanie jest trafne?",
+          "image": "bbt_r04_liscie_dab_klon.jpg",
+          "options": [
+            "oba mają identyczne liście",
+            "liść klonu jest bardziej dłoniasty niż liść dębu",
+            "dąb ma igły, a klon liście",
+            "oba to rośliny wodne"
+          ],
+          "answer": 1,
+          "explanation": "Liść klonu ma wyraźny, dłoniasty kształt. Liść dębu jest klapowany, ale inaczej ułożony."
+        },
+        {
+          "id": "R04_ST_14",
+          "section": "Super trudne",
+          "type": "riddle",
+          "prompt": "Jestem częścią słupka. To właśnie na mnie ląduje pyłek podczas zapylenia. Kim jestem?",
+          "options": null,
+          "answer": "znamię słupka",
+          "altAnswers": [
+            "znamię słupka",
+            "znamię",
+            "znamię słupka"
+          ],
+          "explanation": "Znamię słupka przyjmuje pyłek podczas zapylenia."
+        },
+        {
+          "id": "R04_ST_15",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Na ilustracji z siedliskami wybierz wniosek, który najlepiej pasuje do rozdziału.",
+          "image": "bbt_r04_siedliska.jpg",
+          "options": [
+            "okrytonasienne żyją tylko na lądzie",
+            "okrytonasienne mogą zasiedlać bardzo różne środowiska",
+            "okrytonasienne nie potrzebują światła",
+            "okrytonasienne to tylko drzewa"
+          ],
+          "answer": 1,
+          "explanation": "Ta grupa roślin jest bardzo zróżnicowana i żyje w wielu środowiskach."
+        },
+        {
+          "id": "R04_ST_16",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Dziecko mówi: \"Skoro cebula ma pod ziemią zapasy, to jest korzeniem\". Jak najlepiej to poprawić?",
+          "options": [
+            "To nie korzeń, tylko głównie mięsiste liście spichrzowe",
+            "Tak, każda część pod ziemią jest korzeniem",
+            "Cebula jest owocem",
+            "Cebula to nasiono"
+          ],
+          "answer": 0,
+          "explanation": "Nie wszystko, co rośnie pod ziemią, jest korzeniem. Cebula magazynuje zapasy głównie w liściach spichrzowych."
+        },
+        {
+          "id": "R04_ST_17",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Roślina, która wspina się po murze dzięki drobnym korzeniom wyrastającym z pędu, używa __________ __________.",
+          "options": null,
+          "answer": [
+            "korzeni",
+            "czepnych"
+          ],
+          "altAnswers": [
+            [
+              "korzeni",
+              "korzeń",
+              "korzenie"
+            ],
+            [
+              "czepnych",
+              "czepne",
+              "czepny"
+            ]
+          ],
+          "explanation": "Taką funkcję pełnią korzenie czepne, np. u bluszczu."
+        },
+        {
+          "id": "R04_ST_18",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Spójrz na ilustrację. Które zdanie najlepiej opisuje kasztanowiec?",
+          "image": "bbt_r04_kasztanowiec.jpg",
+          "options": [
+            "ma liście dłoniaste i kolczastą okrywę owocu",
+            "ma igły i szyszki",
+            "jest rośliną owadożerną",
+            "rozmnaża się wyłącznie przez rozłogi"
+          ],
+          "answer": 0,
+          "explanation": "Kasztanowiec ma charakterystyczne liście dłoniaste i kolczaste owoce z kasztanami."
+        },
+        {
+          "id": "R04_ST_19",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz przykład z typem rozmnażania.",
+          "options": null,
+          "left": [
+            "ziemniak z bulwy",
+            "fasola z nasiona",
+            "truskawka z rozłogu"
+          ],
+          "right": [
+            "wegetatywne",
+            "płciowe",
+            "wegetatywne"
+          ],
+          "answer": {
+            "ziemniak z bulwy": "wegetatywne",
+            "fasola z nasiona": "płciowe",
+            "truskawka z rozłogu": "wegetatywne"
+          },
+          "explanation": "Nowa roślina z nasiona powstaje w rozmnażaniu płciowym, a z bulwy lub rozłogu - wegetatywnie."
+        },
+        {
+          "id": "R04_ST_20",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "Im bardziej różnorodne sposoby rozsiewania, tym większa szansa, że nasiona trafią w miejsca odpowiednie do wzrostu.",
+          "options": null,
+          "answer": true,
+          "explanation": "Różne sposoby rozsiewania zwiększają szanse roślin na rozprzestrzenienie się i zasiedlenie nowych miejsc."
+        }
+      ],
+      "kidPrompts": {}
+    }
+  ],
+  "images": [
+    "bbt_r01_bobr_organizm.jpg",
+    "bbt_r01_cykl_infekcji_wirusa.jpg",
+    "bbt_r01_czynnosci_zyciowe_kot.jpg",
+    "bbt_r01_doswiadczenie_fotosynteza_swiatlo.jpg",
+    "bbt_r01_fermentacja_dwa_typy.jpg",
+    "bbt_r01_fotosynteza_schemat.jpg",
+    "bbt_r01_gatunek_i_podobienstwo.jpg",
+    "bbt_r01_hierarchia_budowy.jpg",
+    "bbt_r01_jedno_i_wielokomorkowe.jpg",
+    "bbt_r01_klasyfikacja_organizmow.jpg",
+    "bbt_r01_komorka_roslinna.jpg",
+    "bbt_r01_komorka_zwierzeca_i_bakteryjna.jpg",
+    "bbt_r01_krolestwa_organizmow.jpg",
+    "bbt_r01_ksztalty_komorek.jpg",
+    "bbt_r01_mikroskop_swietlny.jpg",
+    "bbt_r01_oddychanie_tlenowe.jpg",
+    "bbt_r01_pierwiastki_dla_sportowca.jpg",
+    "bbt_r01_preparat_mikroskopowy.jpg",
+    "bbt_r01_wirusy_ksztalty.jpg",
+    "bbt_r01_wspolne_elementy_komorki.jpg",
+    "bbt_r02_bakterie_ksztalty.jpg",
+    "bbt_r02_bakterie_obieg_materii.jpg",
+    "bbt_r02_bakterie_symbioza_pasozyt.jpg",
+    "bbt_r02_bakterie_wykorzystanie.jpg",
+    "bbt_r02_bombaz_konserwy.jpg",
+    "bbt_r02_choroby_bakteryjne_drogi.jpg",
+    "bbt_r02_drozdze_paczkowanie.jpg",
+    "bbt_r02_euglena.jpg",
+    "bbt_r02_grzyb_trawienie.jpg",
+    "bbt_r02_grzyby_budowa.jpg",
+    "bbt_r02_grzyby_zarodniki_i_plciowe.jpg",
+    "bbt_r02_grzyby_zastosowania.jpg",
+    "bbt_r02_hodowla_protistow.jpg",
+    "bbt_r02_komorka_bakteryjna.jpg",
+    "bbt_r02_krolestwa_porownanie.jpg",
+    "bbt_r02_malaria_komar.jpg",
+    "bbt_r02_mikoryza.jpg",
+    "bbt_r02_pantofelek_ameba_wirczyk.jpg",
+    "bbt_r02_podzial_bakterii.jpg",
+    "bbt_r02_porost_przekroj.jpg",
+    "bbt_r02_porosty_typy.jpg",
+    "bbt_r02_protisty_roznorodnosc.jpg",
+    "bbt_r03_budowa_mchu.jpg",
+    "bbt_r03_budowa_paproci.jpg",
+    "bbt_r03_budowa_skrzypu.jpg",
+    "bbt_r03_budowa_sosny.jpg",
+    "bbt_r03_budowa_widlaka.jpg",
+    "bbt_r03_cechy_nagonasiennych.jpg",
+    "bbt_r03_grupy_roslin_ladowych.jpg",
+    "bbt_r03_hierarchia_rosliny.jpg",
+    "bbt_r03_klasyfikacja_tkanek.jpg",
+    "bbt_r03_mchy_siedliska.jpg",
+    "bbt_r03_miekisz_i_przewodzenie.jpg",
+    "bbt_r03_organy_i_tkanki_rosliny.jpg",
+    "bbt_r03_porownanie_mchu_i_paproci.jpg",
+    "bbt_r03_przekroj_liscia_tkanki.jpg",
+    "bbt_r03_rozmnazanie_sosny.jpg",
+    "bbt_r03_skorka_i_wlosniki.jpg",
+    "bbt_r03_szyszki_i_igly_gatunkow.jpg",
+    "bbt_r03_torfowiec_torfowisko.jpg",
+    "bbt_r03_wspolne_cechy_paprotnikow.jpg",
+    "bbt_r03_zarodniki_i_nasiona.jpg",
+    "bbt_r03_znaczenie_iglastego_lasu.jpg",
+    "bbt_r04_bluszcz_korzenie_czepne.jpg",
+    "bbt_r04_budowa_kwiatu.jpg",
+    "bbt_r04_budowa_nasiona_fasoli.jpg",
+    "bbt_r04_budowa_rosliny.jpg",
+    "bbt_r04_kasztanowiec.jpg",
+    "bbt_r04_kielkowanie_fasoli.jpg",
+    "bbt_r04_liscie_dab_klon.jpg",
+    "bbt_r04_opuncja.jpg",
+    "bbt_r04_organy_spichrzowe.jpg",
+    "bbt_r04_owad_zapyla_kwiat.jpg",
+    "bbt_r04_owoce_brzoza_lipa.jpg",
+    "bbt_r04_rosiczka.jpg",
+    "bbt_r04_rozmnazanie_wegetatywne.jpg",
+    "bbt_r04_rozsiewanie_nasion.jpg",
+    "bbt_r04_siedliska.jpg",
+    "bbt_r04_torebka_tulipana.jpg",
+    "bbt_r04_wiatropylny_owadopylny.jpg"
+  ]
+}
