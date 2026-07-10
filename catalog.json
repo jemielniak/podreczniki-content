@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "levels": [
     {
       "id": "sp5",
@@ -66,6 +66,11 @@
       "label": "Repetytorium",
       "icon": "🎯",
       "special": true
+    },
+    {
+      "id": "geografia",
+      "label": "Geografia",
+      "icon": "🌍"
     }
   ],
   "companions": [
@@ -226,6 +231,21 @@
       "bundleHash": "05b7e17cc2350feaaf1ab8dfa810e4092ad7ae01e1494e9d83750eb4f389e5de",
       "entitlementId": "companion_biologia_puls_zycia_6_klasa",
       "offeringId": "companion_biologia_puls_zycia_6_klasa",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "planeta-nowa-5",
+      "levelId": "sp5",
+      "subjectId": "geografia",
+      "title": "Geografia bez tajemnic. Klasa 5",
+      "publisher": "WSiP",
+      "cover": "img/planeta-nowa-5/cover.png",
+      "chapterCount": 5,
+      "bundleUrl": "bundles/planeta-nowa-5.json",
+      "bundleVersion": 1,
+      "bundleHash": "9d9d540eaec7366740a8114d0bee784f5f41da1ee07cb607884604fa9475f9b6",
+      "entitlementId": "companion_planeta_nowa_5",
+      "offeringId": "companion_planeta_nowa_5",
       "freeFirstChapter": true
     }
   ]
