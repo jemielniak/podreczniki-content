@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "levels": [
     {
       "id": "sp5",
@@ -212,6 +212,21 @@
       "offeringId": "companion_to_nasz_swiat_biologia_6",
       "freeFirstChapter": true,
       "free": true
+    },
+    {
+      "id": "biologia-puls-zycia-6-klasa",
+      "levelId": "sp6",
+      "subjectId": "biologia",
+      "title": "Biologia Puls życia 6",
+      "publisher": "Nowa Era",
+      "cover": "img/biologia-puls-zycia-6-klasa/cover.png",
+      "chapterCount": 5,
+      "bundleUrl": "bundles/biologia-puls-zycia-6-klasa.json",
+      "bundleVersion": 1,
+      "bundleHash": "05b7e17cc2350feaaf1ab8dfa810e4092ad7ae01e1494e9d83750eb4f389e5de",
+      "entitlementId": "companion_biologia_puls_zycia_6_klasa",
+      "offeringId": "companion_biologia_puls_zycia_6_klasa",
+      "freeFirstChapter": true
     }
   ]
 }
