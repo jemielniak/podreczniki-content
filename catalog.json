@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "levels": [
     {
       "id": "sp5",
@@ -87,8 +87,7 @@
       "bundleHash": "05cf784032ec24c50bece90569d9ca51b83b1ecee3f7dd65bc499718544c0f39",
       "entitlementId": "companion_historia_5_gwo",
       "offeringId": "companion_historia_5_gwo",
-      "freeFirstChapter": true,
-      "free": true
+      "freeFirstChapter": true
     },
     {
       "id": "biologia-5-wyd-mac",
@@ -103,8 +102,7 @@
       "bundleHash": "f555ec39a3dd01b9ab3ef9588104c088e88f3c7043393e503b8de5468e41f911",
       "entitlementId": "companion_biologia_5_wyd_mac",
       "offeringId": "companion_biologia_5_wyd_mac",
-      "freeFirstChapter": true,
-      "free": true
+      "freeFirstChapter": true
     },
     {
       "id": "biologia-bez-tajemnic-5-klasa",
@@ -119,8 +117,7 @@
       "bundleHash": "2d868f7bac7cc8e22c93262ad5a1f32a332cba75359300dce7981f08a4d37388",
       "entitlementId": "companion_biologia_bez_tajemnic_5_klasa",
       "offeringId": "companion_biologia_bez_tajemnic_5_klasa",
-      "freeFirstChapter": true,
-      "free": true
+      "freeFirstChapter": true
     },
     {
       "id": "biologia-puls-zycia-5-klasa",
@@ -135,8 +132,7 @@
       "bundleHash": "a1a18761444c57a40630c46f4a8a6c272d30fb4bf910e7a12d83595a3a19e4bd",
       "entitlementId": "companion_biologia_puls_zycia_5_klasa",
       "offeringId": "companion_biologia_puls_zycia_5_klasa",
-      "freeFirstChapter": true,
-      "free": true
+      "freeFirstChapter": true
     },
     {
       "id": "biologia-to-nasz-swiat-5-klasa",
@@ -151,8 +147,7 @@
       "bundleHash": "78743cfbe51acb0c1d8fe60844d2f3767803dd2bf7ec67990afb7e1e8c72b04d",
       "entitlementId": "companion_biologia_to_nasz_swiat_5_klasa",
       "offeringId": "companion_biologia_to_nasz_swiat_5_klasa",
-      "freeFirstChapter": true,
-      "free": true
+      "freeFirstChapter": true
     },
     {
       "id": "historia-5-wczoraj-i-dzis",
@@ -167,8 +162,7 @@
       "bundleHash": "cf87103639f5edfb3762592de40a3e648bd876294ae35be6fa8bc4bba82d158d",
       "entitlementId": "companion_historia_5_wczoraj_i_dzis",
       "offeringId": "companion_historia_5_wczoraj_i_dzis",
-      "freeFirstChapter": true,
-      "free": true
+      "freeFirstChapter": true
     },
     {
       "id": "historia-5-wsip",
@@ -183,8 +177,7 @@
       "bundleHash": "6d98d47b1e07ffabfacb7dd39f12d458fd1827697ab522634a979e1a0b08289b",
       "entitlementId": "companion_historia_5_wsip",
       "offeringId": "companion_historia_5_wsip",
-      "freeFirstChapter": true,
-      "free": true
+      "freeFirstChapter": true
     },
     {
       "id": "biologia-bez-tajemnic-klasa-6",
@@ -199,8 +192,7 @@
       "bundleHash": "01add60d559fee0170a5ae634570070ae838902c9ab9abf354efcdbe4bf33493",
       "entitlementId": "companion_biologia_bez_tajemnic_klasa_6",
       "offeringId": "companion_biologia_bez_tajemnic_klasa_6",
-      "freeFirstChapter": true,
-      "free": true
+      "freeFirstChapter": true
     },
     {
       "id": "to-nasz-swiat-biologia-6",
@@ -215,8 +207,7 @@
       "bundleHash": "4a5ca9d8cf2d6de2b028a1cd9b822a8417a02676e9709b99ecd8e9ad4ef6d78e",
       "entitlementId": "companion_to_nasz_swiat_biologia_6",
       "offeringId": "companion_to_nasz_swiat_biologia_6",
-      "freeFirstChapter": true,
-      "free": true
+      "freeFirstChapter": true
     },
     {
       "id": "biologia-puls-zycia-6-klasa",
