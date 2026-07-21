@@ -1,8 +1,8 @@
 {
   "id": "biologia-bez-tajemnic-klasa-6",
   "title": "Biologia bez tajemnic klasa 6",
-  "version": 1,
-  "contentHash": "01add60d559fee0170a5ae634570070ae838902c9ab9abf354efcdbe4bf33493",
+  "version": 2,
+  "contentHash": "1d915df0e03b0df9594d16b043583d78ce63fb4de842d467e8d176b49256d759",
   "bookConfig": {
     "id": "biologia-bez-tajemnic-klasa-6",
     "title": "Biologia bez tajemnic klasa 6",
@@ -4215,8 +4215,8 @@
           "kind": "infografika"
         },
         {
-          "file": "r03/02_przystosowania_stawonogow.jpg",
-          "title": "Przystosowania stawonogów",
+          "file": "r03/02_srodowisko_a_budowa_stawonogow.jpg",
+          "title": "Środowisko a budowa stawonogów",
           "kind": "infografika"
         },
         {
@@ -4225,8 +4225,8 @@
           "kind": "infografika"
         },
         {
-          "file": "r03/01_srodowisko_a_budowa_stawonogow.jpg",
-          "title": "Środowisko a budowa stawonogów",
+          "file": "r03/01_przystosowania_stawonogow.jpg",
+          "title": "Przystosowania stawonogów",
           "kind": "mapa"
         },
         {

@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "levels": [
     {
       "id": "sp5",
@@ -113,8 +113,8 @@
       "cover": "img/biologia-bez-tajemnic-5-klasa/cover.png",
       "chapterCount": 5,
       "bundleUrl": "bundles/biologia-bez-tajemnic-5-klasa.json",
-      "bundleVersion": 2,
-      "bundleHash": "2d868f7bac7cc8e22c93262ad5a1f32a332cba75359300dce7981f08a4d37388",
+      "bundleVersion": 3,
+      "bundleHash": "df739524daa9df27f42da29f1f51cb92719b3eeaeb69543cc2b795534e9437eb",
       "entitlementId": "companion_biologia_bez_tajemnic_5_klasa",
       "offeringId": "companion_biologia_bez_tajemnic_5_klasa",
       "freeFirstChapter": true
@@ -143,8 +143,8 @@
       "cover": "img/biologia-to-nasz-swiat-5-klasa/cover.png",
       "chapterCount": 4,
       "bundleUrl": "bundles/biologia-to-nasz-swiat-5-klasa.json",
-      "bundleVersion": 1,
-      "bundleHash": "78743cfbe51acb0c1d8fe60844d2f3767803dd2bf7ec67990afb7e1e8c72b04d",
+      "bundleVersion": 2,
+      "bundleHash": "d6c4bb57429746581e34ae972b6f580a112852202bca87a70128dc186dc1a037",
       "entitlementId": "companion_biologia_to_nasz_swiat_5_klasa",
       "offeringId": "companion_biologia_to_nasz_swiat_5_klasa",
       "freeFirstChapter": true
@@ -188,8 +188,8 @@
       "cover": "img/biologia-bez-tajemnic-klasa-6/cover.png",
       "chapterCount": 5,
       "bundleUrl": "bundles/biologia-bez-tajemnic-klasa-6.json",
-      "bundleVersion": 1,
-      "bundleHash": "01add60d559fee0170a5ae634570070ae838902c9ab9abf354efcdbe4bf33493",
+      "bundleVersion": 2,
+      "bundleHash": "1d915df0e03b0df9594d16b043583d78ce63fb4de842d467e8d176b49256d759",
       "entitlementId": "companion_biologia_bez_tajemnic_klasa_6",
       "offeringId": "companion_biologia_bez_tajemnic_klasa_6",
       "freeFirstChapter": true
@@ -237,6 +237,21 @@
       "bundleHash": "9d9d540eaec7366740a8114d0bee784f5f41da1ee07cb607884604fa9475f9b6",
       "entitlementId": "companion_planeta_nowa_5",
       "offeringId": "companion_planeta_nowa_5",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "geografia-bez-tajemnic-5",
+      "levelId": "sp5",
+      "subjectId": "geografia",
+      "title": "Geografia bez tajemnic. Klasa 5",
+      "publisher": "WSiP",
+      "cover": "img/geografia-bez-tajemnic-5/cover.png",
+      "chapterCount": 5,
+      "bundleUrl": "bundles/geografia-bez-tajemnic-5.json",
+      "bundleVersion": 1,
+      "bundleHash": "24674658653e674e5e6c65e2d1f750d69bd5cdcad38935a7d6144990b6635605",
+      "entitlementId": "companion_geografia_bez_tajemnic_5",
+      "offeringId": "companion_geografia_bez_tajemnic_5",
       "freeFirstChapter": true
     }
   ]
