@@ -1,8 +1,8 @@
 {
   "id": "biologia-bez-tajemnic-5-klasa",
   "title": "Biologia bez tajemnic 5 klasa",
-  "version": 4,
-  "contentHash": "8003b73f1a6301478a6aeba61a431158b764ade067bcbe05ffdfb3b4e2ed611f",
+  "version": 5,
+  "contentHash": "8228b82dc82a577941b61e1b06607e87cbcec592048404d4373e7fe433328132",
   "bookConfig": {
     "id": "biologia-bez-tajemnic-5-klasa",
     "title": "Biologia bez tajemnic 5 klasa",
@@ -1407,17 +1407,17 @@
       "kidPrompts": {},
       "visuals": [
         {
-          "file": "r01/01_biologia_i_jej_dzialy.png",
+          "file": "r01/01_biologia_i_jej_dzialy.jpg",
           "title": "Biologia i jej działy",
           "kind": "infografika"
         },
         {
-          "file": "r01/02_metoda_naukowa_w_biologii.png",
+          "file": "r01/02_metoda_naukowa_w_biologii.jpg",
           "title": "Metoda naukowa w biologii",
           "kind": "infografika"
         },
         {
-          "file": "r01/03_mikroskop_i_preparat.png",
+          "file": "r01/03_mikroskop_i_preparat.jpg",
           "title": "Mikroskop i preparat",
           "kind": "infografika"
         }
@@ -2818,17 +2818,17 @@
       },
       "visuals": [
         {
-          "file": "r02/01_organizmy.png",
+          "file": "r02/01_organizmy.jpg",
           "title": "Organizmy",
           "kind": "infografika"
         },
         {
-          "file": "r02/02_chemizm_zycia.png",
+          "file": "r02/02_chemizm_zycia.jpg",
           "title": "Chemizm zycia",
           "kind": "infografika"
         },
         {
-          "file": "r02/03_komorka_i_energia.png",
+          "file": "r02/03_komorka_i_energia.jpg",
           "title": "Komorka i energia",
           "kind": "infografika"
         }
@@ -4279,17 +4279,17 @@
       },
       "visuals": [
         {
-          "file": "r03/01_klasyfikacja_organizmow.png",
+          "file": "r03/01_klasyfikacja_organizmow.jpg",
           "title": "Klasyfikacja organizmow",
           "kind": "infografika"
         },
         {
-          "file": "r03/02_wirusy_bakterie_i_protisty.png",
+          "file": "r03/02_wirusy_bakterie_i_protisty.jpg",
           "title": "Wirusy bakterie i protisty",
           "kind": "infografika"
         },
         {
-          "file": "r03/03_grzyby_i_porosty.png",
+          "file": "r03/03_grzyby_i_porosty.jpg",
           "title": "Grzyby i porosty",
           "kind": "infografika"
         }
@@ -5690,7 +5690,24 @@
         "R04_KNO_05": "Ułóż kolejno zapylenie, zapłodnienie i rozwój owocu.",
         "R04_HARD_04": "Uzupełnij, co przewodzi drewno i co przewodzi łyko.",
         "R04_HARD_11": "Podziel przykłady według sposobu rozsiewania nasion."
-      }
+      },
+      "visuals": [
+        {
+          "file": "r04/01_tkanki_roslinne.jpg",
+          "title": "Tkanki roślinne",
+          "kind": "infografika"
+        },
+        {
+          "file": "r04/02_organy_roslin.jpg",
+          "title": "Organy roślin",
+          "kind": "infografika"
+        },
+        {
+          "file": "r04/03_kwiat_nasiono_i_owoc.jpg",
+          "title": "Kwiat nasiono i owoc",
+          "kind": "infografika"
+        }
+      ]
     },
     {
       "id": "r05",
@@ -6941,17 +6958,17 @@
       },
       "visuals": [
         {
-          "file": "r05/01_rosliny_zarodnikowe.png",
+          "file": "r05/01_rosliny_zarodnikowe.jpg",
           "title": "Rośliny zarodnikowe",
           "kind": "infografika"
         },
         {
-          "file": "r05/02_nagonasienne_igly_szyszki_i_nasiona.png",
+          "file": "r05/02_nagonasienne_igly_szyszki_i_nasiona.jpg",
           "title": "Nagonasienne - igły szyszki i nasiona",
           "kind": "infografika"
         },
         {
-          "file": "r05/03_okrytonasienne_kwiaty_owoce_i_formy.png",
+          "file": "r05/03_okrytonasienne_kwiaty_owoce_i_formy.jpg",
           "title": "Okrytonasienne - kwiaty owoce i formy",
           "kind": "infografika"
         }
