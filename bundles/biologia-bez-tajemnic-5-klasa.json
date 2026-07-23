@@ -1,8 +1,8 @@
 {
   "id": "biologia-bez-tajemnic-5-klasa",
   "title": "Biologia bez tajemnic 5 klasa",
-  "version": 3,
-  "contentHash": "df739524daa9df27f42da29f1f51cb92719b3eeaeb69543cc2b795534e9437eb",
+  "version": 4,
+  "contentHash": "8003b73f1a6301478a6aeba61a431158b764ade067bcbe05ffdfb3b4e2ed611f",
   "bookConfig": {
     "id": "biologia-bez-tajemnic-5-klasa",
     "title": "Biologia bez tajemnic 5 klasa",
@@ -1407,19 +1407,19 @@
       "kidPrompts": {},
       "visuals": [
         {
-          "file": "r01/01_biologia.jpg",
-          "title": "Biologia",
-          "kind": "mapa"
+          "file": "r01/01_biologia_i_jej_dzialy.png",
+          "title": "Biologia i jej działy",
+          "kind": "infografika"
         },
         {
-          "file": "r01/02_komorka.jpg",
-          "title": "Komórka",
-          "kind": "mapa"
+          "file": "r01/02_metoda_naukowa_w_biologii.png",
+          "title": "Metoda naukowa w biologii",
+          "kind": "infografika"
         },
         {
-          "file": "r01/03_mikroskop.jpg",
-          "title": "Mikroskop",
-          "kind": "mapa"
+          "file": "r01/03_mikroskop_i_preparat.png",
+          "title": "Mikroskop i preparat",
+          "kind": "infografika"
         }
       ]
     },
@@ -2815,7 +2815,24 @@
         "R02_KOM_01": "Czym jest komórka?",
         "R02_FOTO_01": "Gdzie w komórce rośliny zachodzi fotosynteza?",
         "R02_ODD_01": "Co dzieje się podczas oddychania w komórkach?"
-      }
+      },
+      "visuals": [
+        {
+          "file": "r02/01_organizmy.png",
+          "title": "Organizmy",
+          "kind": "infografika"
+        },
+        {
+          "file": "r02/02_chemizm_zycia.png",
+          "title": "Chemizm zycia",
+          "kind": "infografika"
+        },
+        {
+          "file": "r02/03_komorka_i_energia.png",
+          "title": "Komorka i energia",
+          "kind": "infografika"
+        }
+      ]
     },
     {
       "id": "r03",
@@ -4262,18 +4279,18 @@
       },
       "visuals": [
         {
-          "file": "r03/01_bakterie_formy_i_czynnosci_zyciowe.jpg",
-          "title": "Bakterie formy i czynności życiowe",
+          "file": "r03/01_klasyfikacja_organizmow.png",
+          "title": "Klasyfikacja organizmow",
           "kind": "infografika"
         },
         {
-          "file": "r03/02_protisty_trzy_grupy_i_ich_cechy.jpg",
-          "title": "Protisty trzy grupy i ich cechy",
+          "file": "r03/02_wirusy_bakterie_i_protisty.png",
+          "title": "Wirusy bakterie i protisty",
           "kind": "infografika"
         },
         {
-          "file": "r03/03_grzyby_budowa_i_zrodla_pokarmu.jpg",
-          "title": "Grzyby budowa i źródła pokarmu",
+          "file": "r03/03_grzyby_i_porosty.png",
+          "title": "Grzyby i porosty",
           "kind": "infografika"
         }
       ]
@@ -6924,64 +6941,19 @@
       },
       "visuals": [
         {
-          "file": "r05/01_budowa_mchow.jpg",
-          "title": "Budowa mchów",
+          "file": "r05/01_rosliny_zarodnikowe.png",
+          "title": "Rośliny zarodnikowe",
           "kind": "infografika"
         },
         {
-          "file": "r05/01_mchy_budowa_i_znaczenie.jpg",
-          "title": "Mchy budowa i znaczenie",
+          "file": "r05/02_nagonasienne_igly_szyszki_i_nasiona.png",
+          "title": "Nagonasienne - igły szyszki i nasiona",
           "kind": "infografika"
         },
         {
-          "file": "r05/02_paprotniki_paprociowe_widlakowe_i_skrzypowe.jpg",
-          "title": "Paprotniki paprociowe, widłakowe i skrzypowe",
+          "file": "r05/03_okrytonasienne_kwiaty_owoce_i_formy.png",
+          "title": "Okrytonasienne - kwiaty owoce i formy",
           "kind": "infografika"
-        },
-        {
-          "file": "r05/02_paprotniki_grupy_i_cechy.jpg",
-          "title": "Paprotniki grupy i cechy",
-          "kind": "infografika"
-        },
-        {
-          "file": "r05/03_rosliny_nagonasienne.jpg",
-          "title": "Rośliny nagonasienne",
-          "kind": "infografika"
-        },
-        {
-          "file": "r05/03_rosliny_nasienne_nagonasienne_i_okrytonasienne.jpg",
-          "title": "Rośliny nasienne nagonasienne i okrytonasienne",
-          "kind": "infografika"
-        },
-        {
-          "file": "r05/01_rozmnazanie_roslin_z_rozdzialu_5.jpg",
-          "title": "Rozmnażanie roślin z rozdziału 5",
-          "kind": "mapa"
-        },
-        {
-          "file": "r05/01_znaczenie_mchow_w_srodowisku.jpg",
-          "title": "Znaczenie mchów w środowisku",
-          "kind": "mapa"
-        },
-        {
-          "file": "r05/02_od_karbonu_do_wegla_kamiennego.jpg",
-          "title": "Od karbonu do węgla kamiennego",
-          "kind": "mapa"
-        },
-        {
-          "file": "r05/02_srodowisko_i_znaczenie_roslin.jpg",
-          "title": "Środowisko i znaczenie roślin",
-          "kind": "mapa"
-        },
-        {
-          "file": "r05/03_cechy_rozpoznawcze_grup_roslin.jpg",
-          "title": "Cechy rozpoznawcze grup roślin",
-          "kind": "mapa"
-        },
-        {
-          "file": "r05/03_okrytonasienne_w_przyrodzie_i_zyciu_czlowieka.jpg",
-          "title": "Okrytonasienne w przyrodzie i życiu człowieka",
-          "kind": "mapa"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "levels": [
     {
       "id": "sp5",
@@ -98,8 +98,8 @@
       "cover": "img/biologia-5-wyd-mac/cover.png",
       "chapterCount": 4,
       "bundleUrl": "bundles/biologia-5-wyd-mac.json",
-      "bundleVersion": 1,
-      "bundleHash": "f555ec39a3dd01b9ab3ef9588104c088e88f3c7043393e503b8de5468e41f911",
+      "bundleVersion": 2,
+      "bundleHash": "d2102b7567969dec352fdd6719ed2dcce94457872cff66cbab38aec7a805ebbe",
       "entitlementId": "companion_biologia_5_wyd_mac",
       "offeringId": "companion_biologia_5_wyd_mac",
       "freeFirstChapter": true
@@ -113,8 +113,8 @@
       "cover": "img/biologia-bez-tajemnic-5-klasa/cover.png",
       "chapterCount": 5,
       "bundleUrl": "bundles/biologia-bez-tajemnic-5-klasa.json",
-      "bundleVersion": 3,
-      "bundleHash": "df739524daa9df27f42da29f1f51cb92719b3eeaeb69543cc2b795534e9437eb",
+      "bundleVersion": 4,
+      "bundleHash": "8003b73f1a6301478a6aeba61a431158b764ade067bcbe05ffdfb3b4e2ed611f",
       "entitlementId": "companion_biologia_bez_tajemnic_5_klasa",
       "offeringId": "companion_biologia_bez_tajemnic_5_klasa",
       "freeFirstChapter": true
