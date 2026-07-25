@@ -1,8 +1,8 @@
 {
   "id": "biologia-to-nasz-swiat-5-klasa",
   "title": "Biologia to nasz świat 5 klasa",
-  "version": 2,
-  "contentHash": "d6c4bb57429746581e34ae972b6f580a112852202bca87a70128dc186dc1a037",
+  "version": 3,
+  "contentHash": "73a799d654bb51692489708049f5b6f1f6e55516b31e63d91a08f7cb6b137270",
   "bookConfig": {
     "id": "biologia-to-nasz-swiat-5-klasa",
     "title": "Biologia to nasz świat 5 klasa",
@@ -2725,17 +2725,17 @@
       "kidPrompts": {},
       "visuals": [
         {
-          "file": "r02/01_system_klasyfikacji_organizmow.png",
+          "file": "r02/01_system_klasyfikacji_organizmow.jpg",
           "title": "System klasyfikacji organizmów",
           "kind": "infografika"
         },
         {
-          "file": "r02/02_wirusy_i_bakterie.png",
+          "file": "r02/02_wirusy_i_bakterie.jpg",
           "title": "Wirusy i bakterie",
           "kind": "infografika"
         },
         {
-          "file": "r02/03_protisty_grzyby_i_porosty.png",
+          "file": "r02/03_protisty_grzyby_i_porosty.jpg",
           "title": "Protisty grzyby i porosty",
           "kind": "infografika"
         }

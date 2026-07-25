@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "levels": [
     {
       "id": "sp5",
@@ -98,8 +98,8 @@
       "cover": "img/biologia-5-wyd-mac/cover.png",
       "chapterCount": 4,
       "bundleUrl": "bundles/biologia-5-wyd-mac.json",
-      "bundleVersion": 2,
-      "bundleHash": "d2102b7567969dec352fdd6719ed2dcce94457872cff66cbab38aec7a805ebbe",
+      "bundleVersion": 3,
+      "bundleHash": "68ef30f1d905a99075e894284fe523ce0451fda1b40bc9523a35760e828a3fcd",
       "entitlementId": "companion_biologia_5_wyd_mac",
       "offeringId": "companion_biologia_5_wyd_mac",
       "freeFirstChapter": true
@@ -143,8 +143,8 @@
       "cover": "img/biologia-to-nasz-swiat-5-klasa/cover.png",
       "chapterCount": 4,
       "bundleUrl": "bundles/biologia-to-nasz-swiat-5-klasa.json",
-      "bundleVersion": 2,
-      "bundleHash": "d6c4bb57429746581e34ae972b6f580a112852202bca87a70128dc186dc1a037",
+      "bundleVersion": 3,
+      "bundleHash": "73a799d654bb51692489708049f5b6f1f6e55516b31e63d91a08f7cb6b137270",
       "entitlementId": "companion_biologia_to_nasz_swiat_5_klasa",
       "offeringId": "companion_biologia_to_nasz_swiat_5_klasa",
       "freeFirstChapter": true

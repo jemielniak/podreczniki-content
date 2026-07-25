@@ -1,8 +1,8 @@
 {
   "id": "biologia-5-wyd-mac",
   "title": "Biologia 5. Wyd. MAC",
-  "version": 2,
-  "contentHash": "d2102b7567969dec352fdd6719ed2dcce94457872cff66cbab38aec7a805ebbe",
+  "version": 3,
+  "contentHash": "68ef30f1d905a99075e894284fe523ce0451fda1b40bc9523a35760e828a3fcd",
   "bookConfig": {
     "id": "biologia-5-wyd-mac",
     "title": "Biologia 5. Wyd. MAC",
@@ -1215,7 +1215,24 @@
           "explanation": "Przeciwciała to białka wytwarzane przez białe krwinki i uczestniczące w obronie organizmu."
         }
       ],
-      "kidPrompts": {}
+      "kidPrompts": {},
+      "visuals": [
+        {
+          "file": "r01/01_organizm_cechy_i_budowa.jpg",
+          "title": "Organizm - cechy i budowa",
+          "kind": "infografika"
+        },
+        {
+          "file": "r01/02_odzywianie_i_energia.jpg",
+          "title": "Odżywianie i energia",
+          "kind": "infografika"
+        },
+        {
+          "file": "r01/03_klasyfikacja_organizmow_i_wirusy.jpg",
+          "title": "Klasyfikacja organizmów i wirusy",
+          "kind": "infografika"
+        }
+      ]
     },
     {
       "id": "r02",
@@ -2567,7 +2584,24 @@
         "R02_PRO_08": "Połącz protista z jego cechą.",
         "R02_HARD_02": "Połącz chorobę z organizmem, który ją wywołuje.",
         "R02_HARD_06": "Ułóż wydarzenia o penicylinie po kolei."
-      }
+      },
+      "visuals": [
+        {
+          "file": "r02/01_bakterie_komorka_i_zycie.jpg",
+          "title": "Bakterie - komórka i życie",
+          "kind": "infografika"
+        },
+        {
+          "file": "r02/02_grzyby_strzepki_i_znaczenie.jpg",
+          "title": "Grzyby - strzępki i znaczenie",
+          "kind": "infografika"
+        },
+        {
+          "file": "r02/03_protisty_roznorodnosc_w_kropli_wody.jpg",
+          "title": "Protisty - różnorodność w kropli wody",
+          "kind": "infografika"
+        }
+      ]
     },
     {
       "id": "r03",
@@ -3680,7 +3714,24 @@
         "R03_NAG_05": "Połącz część sosny z opisem.",
         "R03_ZNA_01": "Jak nazywa się las iglasty?",
         "R03_ZNA_07": "Podziel przykłady na znaczenie w przyrodzie i dla człowieka."
-      }
+      },
+      "visuals": [
+        {
+          "file": "r03/01_budowa_i_tkanki_roslin.jpg",
+          "title": "Budowa i tkanki roślin",
+          "kind": "infografika"
+        },
+        {
+          "file": "r03/02_rosliny_zarodnikowe.jpg",
+          "title": "Rośliny zarodnikowe",
+          "kind": "infografika"
+        },
+        {
+          "file": "r03/03_nagonasienne_i_bory.jpg",
+          "title": "Nagonasienne i bory",
+          "kind": "infografika"
+        }
+      ]
     },
     {
       "id": "r04",
@@ -4928,7 +4979,24 @@
           "image": "r04_kapusta_odmiany.jpg"
         }
       ],
-      "kidPrompts": {}
+      "kidPrompts": {},
+      "visuals": [
+        {
+          "file": "r04/01_budowa_i_organy_okrytonasiennych.jpg",
+          "title": "Budowa i organy okrytonasiennych",
+          "kind": "infografika"
+        },
+        {
+          "file": "r04/02_kwiat_zapylenie_i_powstawanie_owocu.jpg",
+          "title": "Kwiat - zapylenie i powstawanie owocu",
+          "kind": "infografika"
+        },
+        {
+          "file": "r04/03_nasiona_owoce_i_rozsiewanie.jpg",
+          "title": "Nasiona owoce i rozsiewanie",
+          "kind": "infografika"
+        }
+      ]
     }
   ],
   "images": [
