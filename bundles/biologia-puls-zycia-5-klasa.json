@@ -1,8 +1,8 @@
 {
   "id": "biologia-puls-zycia-5-klasa",
   "title": "Biologia Puls życia 5 klasa",
-  "version": 1,
-  "contentHash": "a1a18761444c57a40630c46f4a8a6c272d30fb4bf910e7a12d83595a3a19e4bd",
+  "version": 2,
+  "contentHash": "7f558cb82e72b989a377d38e9196a5e5452c88126799986bc11720acfbf13663",
   "bookConfig": {
     "id": "biologia-puls-zycia-5-klasa",
     "title": "Biologia Puls życia 5 klasa",
@@ -1150,7 +1150,24 @@
         "R01_OM_08": "Policz powiększenie: 10 razy 40.",
         "R01_ST_11": "Które zdanie jest przewidywaniem, a nie pytaniem ani wynikiem?",
         "R01_ST_19": "Który mikroskop nadaje się do wirusów?"
-      }
+      },
+      "visuals": [
+        {
+          "file": "r01/01_biologia_nauka_o_zyciu.jpg",
+          "title": "Biologia - nauka o życiu",
+          "kind": "infografika"
+        },
+        {
+          "file": "r01/02_czynnosci_zyciowe_organizmow.jpg",
+          "title": "Czynności życiowe organizmów",
+          "kind": "infografika"
+        },
+        {
+          "file": "r01/03_jak_poznawac_biologie.jpg",
+          "title": "Jak poznawać biologię",
+          "kind": "infografika"
+        }
+      ]
     },
     {
       "id": "r02",
@@ -2339,7 +2356,29 @@
         "R02_SA_05": "Co oznaczają zielone owalne elementy na rysunku komórki liścia?",
         "R02_CU_05": "Na obrazku pasożyt siedzi na skórze. Jak nazywa się taki pasożyt?",
         "R02_OD_02": "Na schemacie oddychania wpisz, co jest potrzebne i co powstaje."
-      }
+      },
+      "visuals": [
+        {
+          "file": "r02/01_cudzozywnosc_i_oddychanie.jpg",
+          "title": "Cudzożywność i oddychanie",
+          "kind": "infografika"
+        },
+        {
+          "file": "r02/02_komorki_organizmow.jpg",
+          "title": "Komórki organizmów",
+          "kind": "infografika"
+        },
+        {
+          "file": "r02/03_samozywnosc_i_fotosynteza.jpg",
+          "title": "Samożywność i fotosynteza",
+          "kind": "infografika"
+        },
+        {
+          "file": "r02/04_skladniki_chemiczne_organizmow.jpg",
+          "title": "Składniki chemiczne organizmów",
+          "kind": "infografika"
+        }
+      ]
     },
     {
       "id": "r03",
@@ -2430,7 +2469,7 @@
             "grzyby",
             "wirusy"
           ],
-          "image": "08_karty_choroby.jpg"
+          "image": "r03_karty_choroby.jpg"
         },
         {
           "id": "WB_01",
@@ -2445,7 +2484,7 @@
           ],
           "answer": 1,
           "explanation": "To najważniejsza cecha odróżniająca wirusy od organizmów.",
-          "image": "01_schemat_wirusa.jpg"
+          "image": "r03_schemat_wirusa.jpg"
         },
         {
           "id": "WB_02",
@@ -2458,7 +2497,7 @@
             "białek"
           ],
           "explanation": "Podręcznik opisuje wirusa jako cząstkę z kwasem nukleinowym i otoczką białkową.",
-          "image": "01_schemat_wirusa.jpg",
+          "image": "r03_schemat_wirusa.jpg",
           "altAnswers": [
             [
               "nukleinowego",
@@ -2499,7 +2538,7 @@
             2
           ],
           "explanation": "Na ilustracjach pokazano bakterie kuliste, podłużne i spiralne.",
-          "image": "02_ksztalty_bakterii.jpg"
+          "image": "r03_ksztalty_bakterii.jpg"
         },
         {
           "id": "WB_05",
@@ -2540,7 +2579,7 @@
             "wirusowe",
             "bakteryjne"
           ],
-          "image": "08_karty_choroby.jpg"
+          "image": "r03_karty_choroby.jpg"
         },
         {
           "id": "WB_06",
@@ -2567,7 +2606,7 @@
             "borelioza lub AIDS",
             "AIDS"
           ],
-          "image": "03_drogi_zakazen.jpg"
+          "image": "r03_drogi_zakazen.jpg"
         },
         {
           "id": "WB_07",
@@ -2600,7 +2639,7 @@
             2
           ],
           "explanation": "Podręcznik wymienia te zastosowania jako pożyteczne.",
-          "image": "04_bakterie_dobre_i_zle.jpg"
+          "image": "r03_bakterie_dobre_i_zle.jpg"
         },
         {
           "id": "WB_09",
@@ -2702,7 +2741,7 @@
             "ma chloroplasty i witkę",
             "jest protistem wielokomórkowym żyjącym w morzu"
           ],
-          "image": "05_pantofelek_i_euglena.jpg"
+          "image": "r03_pantofelek_i_euglena.jpg"
         },
         {
           "id": "PRO_04",
@@ -2756,7 +2795,7 @@
             "protisty",
             "nie_protisty"
           ],
-          "image": "08_karty_choroby.jpg"
+          "image": "r03_karty_choroby.jpg"
         },
         {
           "id": "PRO_07",
@@ -2794,7 +2833,7 @@
           "options": null,
           "answer": "euglena",
           "explanation": "To klasyczny opis eugleny.",
-          "image": "05_pantofelek_i_euglena.jpg",
+          "image": "r03_pantofelek_i_euglena.jpg",
           "altAnswers": [
             "euglena",
             "eugleny",
@@ -2812,7 +2851,7 @@
           "options": null,
           "answer": "pantofelek",
           "explanation": "To opis pantofelka.",
-          "image": "05_pantofelek_i_euglena.jpg",
+          "image": "r03_pantofelek_i_euglena.jpg",
           "altAnswers": [
             "pantofelek",
             "pantofelka",
@@ -2880,7 +2919,7 @@
           ],
           "answer": 2,
           "explanation": "Grzybnia tworzy część podziemną.",
-          "image": "06_budowa_grzyba.jpg"
+          "image": "r03_budowa_grzyba.jpg"
         },
         {
           "id": "GRZ_04",
@@ -2948,7 +2987,7 @@
             "powstają pod kapeluszem",
             "sieć strzępek w podłożu"
           ],
-          "image": "06_budowa_grzyba.jpg"
+          "image": "r03_budowa_grzyba.jpg"
         },
         {
           "id": "GRZ_08",
@@ -2963,7 +3002,7 @@
           ],
           "answer": 1,
           "explanation": "Ciało porostu składa się ze strzępek grzyba i komórek glonu.",
-          "image": "07_porost_budowa.jpg"
+          "image": "r03_porost_budowa.jpg"
         },
         {
           "id": "GRZ_09",
@@ -2978,7 +3017,7 @@
           ],
           "answer": 0,
           "explanation": "Glon w poroście przeprowadza fotosyntezę i przekazuje grzybowi pokarm.",
-          "image": "07_porost_budowa.jpg"
+          "image": "r03_porost_budowa.jpg"
         },
         {
           "id": "GRZ_10",
@@ -2993,7 +3032,7 @@
           ],
           "answer": 1,
           "explanation": "Porosty potrafią rosnąć tam, gdzie innym organizmom jest bardzo trudno.",
-          "image": "07_porost_budowa.jpg"
+          "image": "r03_porost_budowa.jpg"
         },
         {
           "id": "GRZ_11",
@@ -3119,7 +3158,7 @@
           ],
           "answer": 1,
           "explanation": "Na schemacie oznaczono trzy elementy: kwas nukleinowy, otoczkę białkową i kolce białkowe.",
-          "image": "01_schemat_wirusa.jpg"
+          "image": "r03_schemat_wirusa.jpg"
         },
         {
           "id": "IMG_02",
@@ -3134,7 +3173,7 @@
           ],
           "answer": 3,
           "explanation": "Na ilustracji pokazano trzy kształty: kuliste, podłużne i spiralne. Sześciennych nie ma.",
-          "image": "02_ksztalty_bakterii.jpg"
+          "image": "r03_ksztalty_bakterii.jpg"
         },
         {
           "id": "IMG_03",
@@ -3149,7 +3188,7 @@
           ],
           "answer": 1,
           "explanation": "Chloroplasty (zielone owalki na rysunku) widać tylko u eugleny. Pantofelek ich nie ma.",
-          "image": "05_pantofelek_i_euglena.jpg"
+          "image": "r03_pantofelek_i_euglena.jpg"
         },
         {
           "id": "IMG_04",
@@ -3164,7 +3203,7 @@
           ],
           "answer": 3,
           "explanation": "Na rysunku widać, że grzybnia (sieć strzępek) rozchodzi się pod powierzchnią ziemi.",
-          "image": "06_budowa_grzyba.jpg"
+          "image": "r03_budowa_grzyba.jpg"
         },
         {
           "id": "IMG_05",
@@ -3179,7 +3218,7 @@
           ],
           "answer": 1,
           "explanation": "Na przekroju widać strzępki grzyba i komórki glonu - to z nich składa się porost.",
-          "image": "07_porost_budowa.jpg"
+          "image": "r03_porost_budowa.jpg"
         },
         {
           "id": "IMG_06",
@@ -3198,7 +3237,7 @@
             2
           ],
           "explanation": "Na ilustracji widać cztery drogi: kropelkową, pokarmową, przez krew i płciową. \"Przez dotyk\" nie jest żadną z nich.",
-          "image": "03_drogi_zakazen.jpg"
+          "image": "r03_drogi_zakazen.jpg"
         },
         {
           "id": "IMG_07",
@@ -3208,7 +3247,7 @@
           "options": null,
           "answer": false,
           "explanation": "Na rysunku widać, że pantofelek ma rzęski (krótkie wypustki dookoła ciała), a nie witkę. To euglena ma witkę.",
-          "image": "05_pantofelek_i_euglena.jpg"
+          "image": "r03_pantofelek_i_euglena.jpg"
         },
         {
           "id": "SYS_EASY_01",
@@ -3557,7 +3596,29 @@
         "GRZ_EASY_04": "Która grupa nie ma chloroplastów?",
         "GRZ_EASY_05": "Prawda czy fałsz? Dużo porostów w okolicy może znaczyć czyste powietrze.",
         "GRZ_EASY_06": "Który organizm jest grzybem?"
-      }
+      },
+      "visuals": [
+        {
+          "file": "r03/01_grzyby_i_porosty.jpg",
+          "title": "Grzyby i porosty",
+          "kind": "infografika"
+        },
+        {
+          "file": "r03/02_protisty.jpg",
+          "title": "Protisty",
+          "kind": "infografika"
+        },
+        {
+          "file": "r03/03_systematyka_organizmow.jpg",
+          "title": "Systematyka organizmów",
+          "kind": "infografika"
+        },
+        {
+          "file": "r03/04_wirusy_i_bakterie.jpg",
+          "title": "Wirusy i bakterie",
+          "kind": "infografika"
+        }
+      ]
     },
     {
       "id": "r04",
@@ -4761,7 +4822,29 @@
         "R04_LI_11": "Jakie liście pomagają dzbanecznikowi łapać owady?",
         "R04_ST_05": "Po co drzewu wzmacniająca część drewna?",
         "R04_ST_15": "Jeden liść ma jedną blaszkę, drugi kilka. Jak je nazwać?"
-      }
+      },
+      "visuals": [
+        {
+          "file": "r04/01_ped_budowa_i_funkcje_lodygi.jpg",
+          "title": "Pęd - budowa i funkcje łodygi",
+          "kind": "infografika"
+        },
+        {
+          "file": "r04/02_korzen_organ_podziemny_rosliny.jpg",
+          "title": "Korzeń - organ podziemny rośliny",
+          "kind": "infografika"
+        },
+        {
+          "file": "r04/03_lisc_wytwornia_pokarmu.jpg",
+          "title": "Liść - wytwórnia pokarmu",
+          "kind": "infografika"
+        },
+        {
+          "file": "r04/04_tkanki_roslinne.jpg",
+          "title": "Tkanki roślinne",
+          "kind": "infografika"
+        }
+      ]
     },
     {
       "id": "r05",
@@ -5963,18 +6046,32 @@
         "R05_NG_04": "Na obrazku sosny zaznaczono dwie części. Która z nich zamienia się w szyszkę?",
         "R05_OK_03": "Która część kwiatu łapie pyłek?",
         "R05_RO_04": "Co najpierw wyrasta z nasiona podczas kiełkowania?"
-      }
+      },
+      "visuals": [
+        {
+          "file": "r05/01_mchy_budowa_rozmnazanie_i_znaczenie.jpg",
+          "title": "Mchy - budowa rozmnażanie i znaczenie",
+          "kind": "infografika"
+        },
+        {
+          "file": "r05/02_nagonasienne_cechy_budowa_i_rozmnazanie.jpg",
+          "title": "Nagonasienne - cechy budowa i rozmnażanie",
+          "kind": "infografika"
+        },
+        {
+          "file": "r05/03_okrytonasienne_budowa_rozmnazanie_i_znaczenie.jpg",
+          "title": "Okrytonasienne - budowa rozmnażanie i znaczenie",
+          "kind": "infografika"
+        },
+        {
+          "file": "r05/04_paprotniki_budowa_rozmnazanie_i_przyklady.jpg",
+          "title": "Paprotniki - budowa rozmnażanie i przykłady",
+          "kind": "infografika"
+        }
+      ]
     }
   ],
   "images": [
-    "01_schemat_wirusa.jpg",
-    "02_ksztalty_bakterii.jpg",
-    "03_drogi_zakazen.jpg",
-    "04_bakterie_dobre_i_zle.jpg",
-    "05_pantofelek_i_euglena.jpg",
-    "06_budowa_grzyba.jpg",
-    "07_porost_budowa.jpg",
-    "08_karty_choroby.jpg",
     "r01_budowa_mikroskopu.jpg",
     "r01_cechy_badacza.jpg",
     "r01_cechy_organizmow.jpg",
@@ -6007,6 +6104,14 @@
     "r02_porownanie_komorek.jpg",
     "r02_skladniki_organizmu.jpg",
     "r02_wymiana_gazowa.jpg",
+    "r03_bakterie_dobre_i_zle.jpg",
+    "r03_budowa_grzyba.jpg",
+    "r03_drogi_zakazen.jpg",
+    "r03_karty_choroby.jpg",
+    "r03_ksztalty_bakterii.jpg",
+    "r03_pantofelek_i_euglena.jpg",
+    "r03_porost_budowa.jpg",
+    "r03_schemat_wirusa.jpg",
     "r04_budowa_liscia.jpg",
     "r04_budowa_lodygi.jpg",
     "r04_korzen_od_srodka.jpg",

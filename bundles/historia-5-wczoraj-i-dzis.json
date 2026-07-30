@@ -1,8 +1,8 @@
 {
   "id": "historia-5-wczoraj-i-dzis",
   "title": "Historia 5 Wczoraj i dziś",
-  "version": 1,
-  "contentHash": "cf87103639f5edfb3762592de40a3e648bd876294ae35be6fa8bc4bba82d158d",
+  "version": 2,
+  "contentHash": "e6983eb3f2eaf5ba0516dd29827107d5325f6f693c70921fe0544bf707f0d075",
   "bookConfig": {
     "id": "historia-5-wczoraj-i-dzis",
     "title": "Historia 5 Wczoraj i dziś",
@@ -1251,7 +1251,7 @@
             "kamień z Rosetty",
             "Rosetta"
           ],
-          "image": "r01_kamien_z_rosetty.png"
+          "image": "r01_kamien_z_rosetty.jpg"
         },
         {
           "id": "R01_HARD_08",
@@ -9460,7 +9460,7 @@
     "r01_dymarka_zelazo.jpg",
     "r01_hieroglify_alfabety.jpg",
     "r01_jedwabny_szlak_karawana.jpg",
-    "r01_kamien_z_rosetty.png",
+    "r01_kamien_z_rosetty.jpg",
     "r01_mumifikacja_sarkofag.jpg",
     "r01_osada_neolityczna.jpg",
     "r01_piramidy_giza.jpg",

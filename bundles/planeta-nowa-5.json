@@ -1,0 +1,4915 @@
+{
+  "id": "planeta-nowa-5",
+  "title": "Planeta Nowa 5",
+  "version": 1,
+  "contentHash": "e2356b7b3321048e5fadb00a75906b908ce651bc31d9235d42ed7f15704571d3",
+  "bookConfig": {
+    "id": "planeta-nowa-5",
+    "title": "Planeta Nowa 5",
+    "icon": "🌍",
+    "subtitle": "Ćwiczenia do podręcznika",
+    "pageTitle": "Planeta Nowa 5"
+  },
+  "chapters": [
+    {
+      "id": "r01",
+      "number": 1,
+      "title": "Mapa Polski",
+      "icon": "🗺️",
+      "sectionOrder": [
+        "Mapa i skala",
+        "Odległości na mapie i w terenie",
+        "Ukształtowanie powierzchni na mapach",
+        "Czytamy mapę najbliższej okolicy",
+        "Powtórka mieszana",
+        "Super trudne"
+      ],
+      "sectionIcons": {
+        "Mapa i skala": "🗺️",
+        "Odległości na mapie i w terenie": "📏",
+        "Ukształtowanie powierzchni na mapach": "⛰️",
+        "Czytamy mapę najbliższej okolicy": "🧭",
+        "Powtórka mieszana": "🔁",
+        "Super trudne": "🔥"
+      },
+      "exercises": [
+        {
+          "id": "R01_MAP_01",
+          "section": "Mapa i skala",
+          "type": "single_choice",
+          "prompt": "Czym jest mapa według rozdziału?",
+          "options": [
+            "Zdjęciem krajobrazu z boku",
+            "Obrazem powierzchni Ziemi lub jej fragmentu widzianym z góry",
+            "Spisem nazw miejscowości",
+            "Rysunkiem wyłącznie granic państw",
+            "Tabelą odległości między miastami",
+            "Opisem pogody na danym obszarze"
+          ],
+          "answer": 1,
+          "image": "r01_elementy_mapy_schemat.jpg",
+          "explanation": "Mapa jest obrazem powierzchni Ziemi lub jej fragmentu widzianym z góry, przedstawionym na płaszczyźnie i w pomniejszeniu."
+        },
+        {
+          "id": "R01_MAP_02",
+          "section": "Mapa i skala",
+          "type": "multi_select",
+          "prompt": "Zaznacz elementy, które powinna zawierać mapa.",
+          "options": [
+            "treść",
+            "skala",
+            "legenda",
+            "tytuł",
+            "spis treści podręcznika",
+            "prognoza pogody"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "image": "r01_elementy_mapy_schemat.jpg",
+          "explanation": "Aby obraz mógł być mapą, powinien zawierać treść, skalę, legendę oraz tytuł."
+        },
+        {
+          "id": "R01_MAP_03",
+          "section": "Mapa i skala",
+          "type": "true_false",
+          "prompt": "Skala informuje, ile razy pomniejszono na mapie rzeczywiste odległości lub wymiary obiektów.",
+          "options": null,
+          "answer": true,
+          "explanation": "Skala pozwala przeliczać pomiary z mapy na odległości lub wymiary w terenie."
+        },
+        {
+          "id": "R01_MAP_04",
+          "section": "Mapa i skala",
+          "type": "fill_in",
+          "prompt": "Znaki kartograficzne dzielimy na znaki __________, __________ i __________.",
+          "options": null,
+          "answer": [
+            "punktowe",
+            "liniowe",
+            "powierzchniowe"
+          ],
+          "altAnswers": [
+            [
+              "punktowe",
+              "punktowe."
+            ],
+            [
+              "liniowe",
+              "liniowe."
+            ],
+            [
+              "powierzchniowe",
+              "powierzchniowe."
+            ]
+          ],
+          "explanation": "W rozdziale wyróżniono znaki punktowe, liniowe i powierzchniowe."
+        },
+        {
+          "id": "R01_MAP_05",
+          "section": "Mapa i skala",
+          "type": "riddle",
+          "prompt": "Zestawienie wszystkich znaków kartograficznych użytych na mapie wraz z ich wyjaśnieniem to...",
+          "options": null,
+          "answer": "legenda",
+          "altAnswers": [
+            "legenda",
+            "legenda mapy"
+          ],
+          "explanation": "Legenda objaśnia znaczenie znaków zastosowanych na mapie."
+        },
+        {
+          "id": "R01_MAP_06",
+          "section": "Mapa i skala",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: tytuł, legenda, skala, termometr.",
+          "options": null,
+          "answer": "termometr",
+          "explanation": "Termometr nie jest podstawowym elementem mapy, a tytuł, legenda i skala są elementami mapy."
+        },
+        {
+          "id": "R01_MAP_07",
+          "section": "Mapa i skala",
+          "type": "match",
+          "prompt": "Połącz rodzaj znaku kartograficznego z przykładem.",
+          "options": null,
+          "left": [
+            "znak punktowy",
+            "znak liniowy",
+            "znak powierzchniowy"
+          ],
+          "right": [
+            "las lub zabudowa",
+            "droga lub rzeka",
+            "pojedynczy budynek lub przystań"
+          ],
+          "answer": {
+            "znak punktowy": "pojedynczy budynek lub przystań",
+            "znak liniowy": "droga lub rzeka",
+            "znak powierzchniowy": "las lub zabudowa"
+          },
+          "explanation": "Znaki punktowe oznaczają pojedyncze obiekty, liniowe przebieg dróg lub rzek, a powierzchniowe zasięg rozległych obiektów."
+        },
+        {
+          "id": "R01_MAP_08",
+          "section": "Mapa i skala",
+          "type": "single_choice",
+          "prompt": "Który zapis jest przykładem skali liczbowej?",
+          "options": [
+            "1:1000",
+            "1 cm - 10 m",
+            "0 10 20 30 m",
+            "barwa zielona",
+            "legenda mapy",
+            "poziomica 500"
+          ],
+          "answer": 0,
+          "explanation": "Skala liczbowa ma postać stosunku, na przykład 1:1000."
+        },
+        {
+          "id": "R01_MAP_09",
+          "section": "Mapa i skala",
+          "type": "fill_in",
+          "prompt": "W skali 1:100 000 odcinek 1 cm na mapie odpowiada w terenie __________ km.",
+          "options": null,
+          "answer": [
+            "1"
+          ],
+          "altAnswers": [
+            [
+              "1",
+              "1 km",
+              "jednemu",
+              "jednemu kilometrowi"
+            ]
+          ],
+          "image": "r01_podzialka_liniowa.jpg",
+          "explanation": "100 000 cm to 1000 m, czyli 1 km."
+        },
+        {
+          "id": "R01_MAP_10",
+          "section": "Mapa i skala",
+          "type": "sort",
+          "prompt": "Przyporządkuj przykłady do sposobów przedstawiania skali.",
+          "options": null,
+          "items": [
+            "1:10 000",
+            "1 cm - 100 m",
+            "0 100 200 300 m",
+            "1:500 000",
+            "1 cm - 5 km"
+          ],
+          "categories": [
+            "skala liczbowa",
+            "skala mianowana",
+            "podziałka liniowa"
+          ],
+          "answer": {
+            "skala liczbowa": [
+              "1:10 000",
+              "1:500 000"
+            ],
+            "skala mianowana": [
+              "1 cm - 100 m",
+              "1 cm - 5 km"
+            ],
+            "podziałka liniowa": [
+              "0 100 200 300 m"
+            ]
+          },
+          "explanation": "Skalę można zapisać liczbowo, mianowanie albo pokazać za pomocą podziałki liniowej."
+        },
+        {
+          "id": "R01_ODL_01",
+          "section": "Odległości na mapie i w terenie",
+          "type": "single_choice",
+          "prompt": "W skali 1:30 000 jeden centymetr na mapie odpowiada ilu metrom w terenie?",
+          "options": [
+            "30 m",
+            "300 m",
+            "3 km",
+            "30 km",
+            "3000 km",
+            "1 m"
+          ],
+          "answer": 1,
+          "explanation": "30 000 cm to 300 m, dlatego 1 cm na mapie odpowiada 300 m w terenie."
+        },
+        {
+          "id": "R01_ODL_02",
+          "section": "Odległości na mapie i w terenie",
+          "type": "scenario",
+          "prompt": "Na mapie w skali 1:30 000 odcinek między punktami ma 3 cm. Jaką długość ma ten odcinek w terenie?",
+          "options": [
+            "90 m",
+            "300 m",
+            "900 m",
+            "2,7 km",
+            "9 km",
+            "30 km"
+          ],
+          "answer": 2,
+          "explanation": "W tej skali 1 cm odpowiada 300 m, więc 3 cm odpowiadają 900 m."
+        },
+        {
+          "id": "R01_ODL_03",
+          "section": "Odległości na mapie i w terenie",
+          "type": "fill_in",
+          "prompt": "Trasa na mapie w skali 1:30 000 składa się z odcinków 6 cm i 3 cm. Jej długość w terenie wynosi __________ km.",
+          "options": null,
+          "answer": [
+            "2,7"
+          ],
+          "altAnswers": [
+            [
+              "2,7",
+              "2.7",
+              "2,7 km",
+              "2.7 km"
+            ]
+          ],
+          "explanation": "Suma odcinków to 9 cm, a 9 razy 0,3 km daje 2,7 km."
+        },
+        {
+          "id": "R01_ODL_04",
+          "section": "Odległości na mapie i w terenie",
+          "type": "true_false",
+          "prompt": "Do obliczania odległości w linii prostej na mapie można użyć linijki oraz skali liczbowej.",
+          "options": null,
+          "answer": true,
+          "explanation": "Linijka i skala liczbowa są odpowiednie do odcinków prostych oraz tras złożonych z prostych odcinków."
+        },
+        {
+          "id": "R01_ODL_05",
+          "section": "Odległości na mapie i w terenie",
+          "type": "single_choice",
+          "prompt": "Czego najlepiej użyć do zmierzenia krętej trasy na mapie?",
+          "options": [
+            "nitki i podziałki liniowej",
+            "tylko kątomierza",
+            "wyłącznie kompasu",
+            "termometru",
+            "legendy bez skali",
+            "siatki kartograficznej bez pomiaru"
+          ],
+          "answer": 0,
+          "image": "r01_podzialka_liniowa.jpg",
+          "explanation": "Przy nieregularnej trasie najlepiej użyć nitki oraz podziałki liniowej."
+        },
+        {
+          "id": "R01_ODL_06",
+          "section": "Odległości na mapie i w terenie",
+          "type": "sequence",
+          "prompt": "Ułóż czynności mierzenia krętej trasy nitką w poprawnej kolejności.",
+          "options": null,
+          "items": [
+            "Przyłóż naprężoną nitkę do podziałki liniowej",
+            "Ułóż nitkę wzdłuż mierzonej trasy",
+            "Zaznacz na nitce koniec trasy",
+            "Odczytaj długość trasy z podziałki"
+          ],
+          "answer": [
+            "Ułóż nitkę wzdłuż mierzonej trasy",
+            "Zaznacz na nitce koniec trasy",
+            "Przyłóż naprężoną nitkę do podziałki liniowej",
+            "Odczytaj długość trasy z podziałki"
+          ],
+          "explanation": "Najpierw układa się nitkę na trasie, potem zaznacza długość, prostuje nitkę i przykłada ją do podziałki."
+        },
+        {
+          "id": "R01_ODL_07",
+          "section": "Odległości na mapie i w terenie",
+          "type": "match",
+          "prompt": "Połącz zapis skali z odpowiadającą mu odległością w terenie dla 1 cm na mapie.",
+          "options": null,
+          "left": [
+            "1:10 000",
+            "1:250 000",
+            "1:500 000",
+            "1:1 000 000"
+          ],
+          "right": [
+            "10 km",
+            "100 m",
+            "2,5 km",
+            "5 km"
+          ],
+          "answer": {
+            "1:10 000": "100 m",
+            "1:250 000": "2,5 km",
+            "1:500 000": "5 km",
+            "1:1 000 000": "10 km"
+          },
+          "explanation": "Mianownik skali liczbowej podaje liczbę centymetrów w terenie odpowiadających 1 cm na mapie."
+        },
+        {
+          "id": "R01_ODL_08",
+          "section": "Odległości na mapie i w terenie",
+          "type": "riddle",
+          "prompt": "Graficzne przedstawienie skali, pokazujące odległości w terenie na odcinku z podziałem, to...",
+          "options": null,
+          "answer": "podziałka liniowa",
+          "altAnswers": [
+            "podziałka liniowa",
+            "podzialka liniowa",
+            "podziałka"
+          ],
+          "explanation": "Podziałka liniowa pozwala odczytywać odległości bez wykonywania pełnych obliczeń."
+        },
+        {
+          "id": "R01_ODL_09",
+          "section": "Odległości na mapie i w terenie",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: linijka, nitka, podziałka liniowa, wysokość bezwzględna.",
+          "options": null,
+          "answer": "wysokość bezwzględna",
+          "explanation": "Wysokość bezwzględna dotyczy ukształtowania terenu, a pozostałe elementy pomagają mierzyć odległości na mapie."
+        },
+        {
+          "id": "R01_ODL_10",
+          "section": "Odległości na mapie i w terenie",
+          "type": "multi_select",
+          "prompt": "Zaznacz prawidłowe informacje o mierzeniu odległości na mapie.",
+          "options": [
+            "Odległość w linii prostej można zmierzyć linijką.",
+            "Przy krętej trasie przydaje się nitka.",
+            "Podziałka liniowa pomaga odczytać odległość w terenie.",
+            "Skala nie jest potrzebna do obliczania odległości.",
+            "Każdą krętą drogę najdokładniej mierzy się tylko kątomierzem."
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Do prostych odcinków przydaje się linijka i skala liczbowa, a do tras krętych nitka i podziałka liniowa."
+        },
+        {
+          "id": "R01_UKS_01",
+          "section": "Ukształtowanie powierzchni na mapach",
+          "type": "single_choice",
+          "prompt": "Jak nazywa się wysokość punktu mierzona od poziomu morza?",
+          "options": [
+            "wysokość bezwzględna",
+            "wysokość względna",
+            "skala liczbowa",
+            "podziałka liniowa",
+            "legenda",
+            "azymut"
+          ],
+          "answer": 0,
+          "explanation": "Wysokość bezwzględna to wysokość mierzona od poziomu morza."
+        },
+        {
+          "id": "R01_UKS_02",
+          "section": "Ukształtowanie powierzchni na mapach",
+          "type": "true_false",
+          "prompt": "Wysokość względną mierzy się od wybranego miejsca, na przykład od podnóża wzniesienia do jego szczytu.",
+          "options": null,
+          "answer": true,
+          "explanation": "Wysokość względna zależy od miejsca, od którego ją mierzymy."
+        },
+        {
+          "id": "R01_UKS_03",
+          "section": "Ukształtowanie powierzchni na mapach",
+          "type": "riddle",
+          "prompt": "Linia na mapie łącząca punkty położone na tej samej wysokości nad poziomem morza to...",
+          "options": null,
+          "answer": "poziomica",
+          "altAnswers": [
+            "poziomica",
+            "izohipsa",
+            "poziomice",
+            "izohipsy"
+          ],
+          "image": "r01_poziomice_wzniesienie.jpg",
+          "explanation": "Poziomica, czyli izohipsa, łączy punkty o tej samej wysokości bezwzględnej."
+        },
+        {
+          "id": "R01_UKS_04",
+          "section": "Ukształtowanie powierzchni na mapach",
+          "type": "fill_in",
+          "prompt": "Mapa, na której ukształtowanie terenu przedstawiono za pomocą poziomic, to mapa __________.",
+          "options": null,
+          "answer": [
+            "poziomicowa"
+          ],
+          "altAnswers": [
+            [
+              "poziomicowa",
+              "poziomicową",
+              "poziomicowej"
+            ]
+          ],
+          "image": "r01_poziomice_wzniesienie.jpg",
+          "explanation": "Mapa poziomicowa przedstawia ukształtowanie terenu za pomocą poziomic."
+        },
+        {
+          "id": "R01_UKS_05",
+          "section": "Ukształtowanie powierzchni na mapach",
+          "type": "single_choice",
+          "prompt": "Gdzie teren jest najbardziej stromy na mapie poziomicowej?",
+          "options": [
+            "tam, gdzie poziomice są bardzo blisko siebie",
+            "tam, gdzie poziomice są daleko od siebie",
+            "tam, gdzie nie ma żadnej poziomicy",
+            "zawsze przy legendzie mapy",
+            "wyłącznie przy rzekach",
+            "tylko na obszarach zielonych"
+          ],
+          "answer": 0,
+          "image": "r01_poziomice_wzniesienie.jpg",
+          "explanation": "Im bliżej siebie leżą poziomice, tym teren jest bardziej stromy."
+        },
+        {
+          "id": "R01_UKS_06",
+          "section": "Ukształtowanie powierzchni na mapach",
+          "type": "multi_select",
+          "prompt": "Co można odczytać lub określić z mapy poziomicowej?",
+          "options": [
+            "wysokość bezwzględną",
+            "wysokość względną",
+            "nachylenie terenu",
+            "rodzaje form terenu",
+            "cenę biletu do muzeum",
+            "aktualną temperaturę powietrza"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Układ poziomic pozwala odczytać wysokość bezwzględną, obliczyć wysokość względną, rozpoznać formy terenu i nachylenie stoków."
+        },
+        {
+          "id": "R01_UKS_07",
+          "section": "Ukształtowanie powierzchni na mapach",
+          "type": "match",
+          "prompt": "Połącz formę terenu ze sposobem rozpoznawania jej na mapie poziomicowej.",
+          "options": null,
+          "left": [
+            "dolina",
+            "kotlina",
+            "góra z dwoma wierzchołkami"
+          ],
+          "right": [
+            "wartości poziomic maleją do środka, a poziomice otaczają dno prawie ze wszystkich stron",
+            "wartości poziomic rosną ku dwóm najwyższym punktom, między którymi jest przełęcz",
+            "wartości poziomic maleją ku rzece, a poziomice są prawie równoległe do rzeki"
+          ],
+          "answer": {
+            "dolina": "wartości poziomic maleją ku rzece, a poziomice są prawie równoległe do rzeki",
+            "kotlina": "wartości poziomic maleją do środka, a poziomice otaczają dno prawie ze wszystkich stron",
+            "góra z dwoma wierzchołkami": "wartości poziomic rosną ku dwóm najwyższym punktom, między którymi jest przełęcz"
+          },
+          "explanation": "Dolina, kotlina i góra mają różny układ poziomic oraz różny kierunek zmian wysokości."
+        },
+        {
+          "id": "R01_UKS_08",
+          "section": "Ukształtowanie powierzchni na mapach",
+          "type": "sort",
+          "prompt": "Przyporządkuj barwy i zakresy do form ukształtowania powierzchni na mapie hipsometrycznej.",
+          "options": null,
+          "items": [
+            "odcienie zieleni od 0 do 300 m n.p.m.",
+            "odcienie żółci powyżej 300 m n.p.m.",
+            "pomarańczowy i czerwony powyżej 500 m n.p.m.",
+            "ciemnozielony poniżej poziomu morza",
+            "niebieski"
+          ],
+          "categories": [
+            "niziny",
+            "wyżyny",
+            "góry",
+            "depresje",
+            "wody"
+          ],
+          "answer": {
+            "niziny": [
+              "odcienie zieleni od 0 do 300 m n.p.m."
+            ],
+            "wyżyny": [
+              "odcienie żółci powyżej 300 m n.p.m."
+            ],
+            "góry": [
+              "pomarańczowy i czerwony powyżej 500 m n.p.m."
+            ],
+            "depresje": [
+              "ciemnozielony poniżej poziomu morza"
+            ],
+            "wody": [
+              "niebieski"
+            ]
+          },
+          "image": "r01_barwy_hipsometryczne.jpg",
+          "explanation": "Na mapach hipsometrycznych niziny, wyżyny, góry, depresje i wody oznacza się różnymi barwami."
+        },
+        {
+          "id": "R01_UKS_09",
+          "section": "Ukształtowanie powierzchni na mapach",
+          "type": "scenario",
+          "prompt": "Szczyt leży na wysokości 720 m n.p.m., a dno doliny na 200 m n.p.m. Jaka jest wysokość względna wzniesienia względem dna doliny?",
+          "options": [
+            "200 m",
+            "520 m",
+            "720 m",
+            "920 m",
+            "1440 m",
+            "20 m"
+          ],
+          "answer": 1,
+          "explanation": "Wysokość względną obliczamy przez odjęcie wysokości dna doliny od wysokości szczytu: 720 m - 200 m = 520 m."
+        },
+        {
+          "id": "R01_UKS_10",
+          "section": "Ukształtowanie powierzchni na mapach",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: poziomica, izohipsa, wysokość bezwzględna, linia autobusowa.",
+          "options": null,
+          "answer": "linia autobusowa",
+          "explanation": "Linia autobusowa nie służy do przedstawiania ukształtowania powierzchni, a pozostałe pojęcia są z nim związane."
+        },
+        {
+          "id": "R01_CZY_01",
+          "section": "Czytamy mapę najbliższej okolicy",
+          "type": "single_choice",
+          "prompt": "Które mapy przedstawiają podstawowe informacje o obszarze, takie jak rzeźba terenu, rzeki, jeziora, miasta, drogi i granice?",
+          "options": [
+            "mapy ogólnogeograficzne",
+            "plany miast",
+            "mapy turystyczne",
+            "mapy krajobrazowe",
+            "podziałki liniowe",
+            "legendy"
+          ],
+          "answer": 0,
+          "explanation": "Mapy ogólnogeograficzne pokazują podstawowe informacje o danym obszarze."
+        },
+        {
+          "id": "R01_CZY_02",
+          "section": "Czytamy mapę najbliższej okolicy",
+          "type": "match",
+          "prompt": "Połącz rodzaj mapy z jej głównym zastosowaniem.",
+          "options": null,
+          "left": [
+            "mapa ogólnogeograficzna",
+            "mapa krajobrazowa",
+            "mapa turystyczna",
+            "plan miasta"
+          ],
+          "right": [
+            "pełna sieć ulic, nazwy ulic i ważne budynki",
+            "podstawowe informacje o obszarze",
+            "zagospodarowanie terenu, pola, łąki, lasy i zabudowa",
+            "szlaki turystyczne i ciekawe miejsca do zwiedzania"
+          ],
+          "answer": {
+            "mapa ogólnogeograficzna": "podstawowe informacje o obszarze",
+            "mapa krajobrazowa": "zagospodarowanie terenu, pola, łąki, lasy i zabudowa",
+            "mapa turystyczna": "szlaki turystyczne i ciekawe miejsca do zwiedzania",
+            "plan miasta": "pełna sieć ulic, nazwy ulic i ważne budynki"
+          },
+          "explanation": "Różne mapy zawierają różną treść, dostosowaną do potrzeb użytkowników."
+        },
+        {
+          "id": "R01_CZY_03",
+          "section": "Czytamy mapę najbliższej okolicy",
+          "type": "multi_select",
+          "prompt": "Zaznacz zalety map cyfrowych wymienione w rozdziale.",
+          "options": [
+            "można je dowolnie powiększać i pomniejszać",
+            "można wybierać wyświetlane informacje",
+            "można mieć je przy sobie w telefonie lub tablecie",
+            "są często aktualizowane",
+            "zawsze są wykonane na papierze",
+            "nie potrzebują legendy ani skali"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Mapy cyfrowe można powiększać i pomniejszać, wybierać na nich informacje, mieć je przy sobie i często aktualizować."
+        },
+        {
+          "id": "R01_CZY_04",
+          "section": "Czytamy mapę najbliższej okolicy",
+          "type": "fill_in",
+          "prompt": "Zorientowanie mapy polega na takim jej ułożeniu, aby kierunki geograficzne na mapie pokrywały się z kierunkami geograficznymi w __________.",
+          "options": null,
+          "answer": [
+            "terenie"
+          ],
+          "altAnswers": [
+            [
+              "terenie",
+              "terenie."
+            ]
+          ],
+          "image": "r01_orientowanie_mapy.jpg",
+          "explanation": "Mapę orientuje się po to, aby jej kierunki zgadzały się z kierunkami w terenie."
+        },
+        {
+          "id": "R01_CZY_05",
+          "section": "Czytamy mapę najbliższej okolicy",
+          "type": "sequence",
+          "prompt": "Ułóż czynności orientowania mapy za pomocą kompasu w poprawnej kolejności.",
+          "options": null,
+          "items": [
+            "Obracaj mapę, aż północ na mapie pokryje się z północą wskazywaną przez kompas",
+            "Rozłóż mapę poziomo",
+            "Przyłóż kompas do lewej krawędzi ramki mapy",
+            "Odczekaj, aż igła magnetyczna wskaże północ"
+          ],
+          "answer": [
+            "Rozłóż mapę poziomo",
+            "Przyłóż kompas do lewej krawędzi ramki mapy",
+            "Odczekaj, aż igła magnetyczna wskaże północ",
+            "Obracaj mapę, aż północ na mapie pokryje się z północą wskazywaną przez kompas"
+          ],
+          "image": "r01_orientowanie_mapy.jpg",
+          "explanation": "Najpierw rozkłada się mapę, następnie przykłada kompas, czeka na igłę i obraca mapę zgodnie z kierunkiem północnym."
+        },
+        {
+          "id": "R01_CZY_06",
+          "section": "Czytamy mapę najbliższej okolicy",
+          "type": "true_false",
+          "prompt": "Na mapach turystycznych i planach miast kierunek północny bardzo często znajduje się na górze arkusza.",
+          "options": null,
+          "answer": true,
+          "explanation": "W takiej sytuacji południe jest na dole, zachód po lewej, a wschód po prawej."
+        },
+        {
+          "id": "R01_CZY_07",
+          "section": "Czytamy mapę najbliższej okolicy",
+          "type": "single_choice",
+          "prompt": "Co na planie miasta pomaga szybko znaleźć obiekt w polu oznaczonym na przykład C2?",
+          "options": [
+            "siatka z literami i liczbami",
+            "barwa hipsometryczna",
+            "odcinek wsteczny podziałki",
+            "wysokość względna",
+            "poziomica 500 m",
+            "granica państwa"
+          ],
+          "answer": 0,
+          "explanation": "Siatka z literami i liczbami na obrzeżach planu ułatwia odnajdywanie obiektów."
+        },
+        {
+          "id": "R01_CZY_08",
+          "section": "Czytamy mapę najbliższej okolicy",
+          "type": "scenario",
+          "prompt": "Stoisz w terenie i widzisz samotne drzewo, most oraz pojedynczy budynek. Chcesz zorientować mapę bez kompasu. Co powinieneś zrobić?",
+          "options": [
+            "odszukać te obiekty na mapie i obracać mapę, aż kierunki się pokryją",
+            "zmienić skalę liczbową na mianowaną",
+            "pokolorować mapę barwami hipsometrycznymi",
+            "mierzyć wysokość bezwzględną mostu",
+            "usunąć legendę z mapy",
+            "policzyć wszystkie ulice w mieście"
+          ],
+          "answer": 0,
+          "image": "r01_orientowanie_mapy.jpg",
+          "explanation": "Mapę można zorientować za pomocą obiektów w terenie, odnajdując je na mapie i obracając mapę tak, aby kierunki się zgadzały."
+        },
+        {
+          "id": "R01_CZY_09",
+          "section": "Czytamy mapę najbliższej okolicy",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: mapa cyfrowa, nawigacja satelitarna, aktualizacja danych, poziom morza.",
+          "options": null,
+          "answer": "poziom morza",
+          "explanation": "Poziom morza jest punktem odniesienia wysokości, a pozostałe pojęcia dotyczą map cyfrowych."
+        },
+        {
+          "id": "R01_CZY_10",
+          "section": "Czytamy mapę najbliższej okolicy",
+          "type": "sort",
+          "prompt": "Przyporządkuj elementy do mapy turystycznej albo planu miasta.",
+          "options": null,
+          "items": [
+            "szlaki turystyczne",
+            "trasy rowerowe",
+            "pełna sieć ulic",
+            "nazwy ulic",
+            "zabytkowe budowle na trasie",
+            "ważne budynki, np. poczty i muzea"
+          ],
+          "categories": [
+            "mapa turystyczna",
+            "plan miasta"
+          ],
+          "answer": {
+            "mapa turystyczna": [
+              "szlaki turystyczne",
+              "trasy rowerowe",
+              "zabytkowe budowle na trasie"
+            ],
+            "plan miasta": [
+              "pełna sieć ulic",
+              "nazwy ulic",
+              "ważne budynki, np. poczty i muzea"
+            ]
+          },
+          "explanation": "Mapy turystyczne pomagają w wycieczkach, a plany miast w poruszaniu się po zróżnicowanej sieci ulic."
+        },
+        {
+          "id": "R01_MIE_01",
+          "section": "Powtórka mieszana",
+          "type": "single_choice",
+          "prompt": "Który zestaw zawiera wyłącznie podstawowe elementy mapy?",
+          "options": [
+            "treść, skala, legenda, tytuł",
+            "kompas, linijka, nitka, telefon",
+            "barwy, pogoda, zdjęcie, opis",
+            "rzeka, jezioro, las, miasto",
+            "wysokość, temperatura, wiatr, opad",
+            "arkusz, ołówek, gumka, zeszyt"
+          ],
+          "answer": 0,
+          "explanation": "Podstawowe elementy mapy to treść, skala, legenda i tytuł."
+        },
+        {
+          "id": "R01_MIE_02",
+          "section": "Powtórka mieszana",
+          "type": "match",
+          "prompt": "Połącz pojęcie z definicją.",
+          "options": null,
+          "left": [
+            "mapa",
+            "skala",
+            "legenda",
+            "poziomica"
+          ],
+          "right": [
+            "linia łącząca punkty na tej samej wysokości nad poziomem morza",
+            "obraz powierzchni Ziemi lub jej fragmentu w pomniejszeniu",
+            "informacja, ile razy pomniejszono rzeczywiste odległości lub wymiary",
+            "zestawienie znaków kartograficznych i ich wyjaśnień"
+          ],
+          "answer": {
+            "mapa": "obraz powierzchni Ziemi lub jej fragmentu w pomniejszeniu",
+            "skala": "informacja, ile razy pomniejszono rzeczywiste odległości lub wymiary",
+            "legenda": "zestawienie znaków kartograficznych i ich wyjaśnień",
+            "poziomica": "linia łącząca punkty na tej samej wysokości nad poziomem morza"
+          },
+          "explanation": "W rozdziale zdefiniowano mapę, skalę, legendę i poziomicę jako podstawowe pojęcia pracy z mapą."
+        },
+        {
+          "id": "R01_MIE_03",
+          "section": "Powtórka mieszana",
+          "type": "true_false",
+          "prompt": "Plan miasta przedstawia zwykle niewielki obszar, na przykład miasto lub osiedle.",
+          "options": null,
+          "answer": true,
+          "explanation": "Plany miast dotyczą zwykle niewielkich obszarów, a mapy mogą przedstawiać dużo większe fragmenty powierzchni Ziemi."
+        },
+        {
+          "id": "R01_MIE_04",
+          "section": "Powtórka mieszana",
+          "type": "multi_select",
+          "prompt": "Zaznacz informacje zgodne z rozdziałem.",
+          "options": [
+            "Mapa jest obrazem widzianym z góry i przedstawionym w pomniejszeniu.",
+            "Skalę można zapisać w postaci liczbowej, mianowanej i jako podziałkę liniową.",
+            "Do krętej trasy można użyć nitki.",
+            "Poziomice łączą punkty o tej samej wysokości nad poziomem morza.",
+            "Legenda służy do mierzenia temperatury.",
+            "Barwy hipsometryczne oznaczają wyłącznie zabudowę."
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Rozdział wyjaśnia między innymi definicję mapy, rodzaje skali, użycie nitki i znaczenie poziomic."
+        },
+        {
+          "id": "R01_MIE_05",
+          "section": "Powtórka mieszana",
+          "type": "fill_in",
+          "prompt": "Na mapach hipsometrycznych wody oznacza się barwą __________, a niziny odcieniami __________.",
+          "options": null,
+          "answer": [
+            "niebieską",
+            "zieleni"
+          ],
+          "altAnswers": [
+            [
+              "niebieską",
+              "niebieska",
+              "niebieskim",
+              "niebieski"
+            ],
+            [
+              "zieleni",
+              "zieloną",
+              "zielony",
+              "zielonej"
+            ]
+          ],
+          "explanation": "Wody są niebieskie, a niziny oznacza się odcieniami zieleni."
+        },
+        {
+          "id": "R01_MIE_06",
+          "section": "Powtórka mieszana",
+          "type": "sequence",
+          "prompt": "Ułóż działania przy obliczaniu odległości w linii prostej ze skali liczbowej.",
+          "options": null,
+          "items": [
+            "Pomnóż długość odcinka przez wartość odpowiadającą 1 cm w terenie",
+            "Odczytaj skalę liczbową",
+            "Zmierz linijką odcinek na mapie",
+            "Zamień centymetry ze skali na metry lub kilometry"
+          ],
+          "answer": [
+            "Zmierz linijką odcinek na mapie",
+            "Odczytaj skalę liczbową",
+            "Zamień centymetry ze skali na metry lub kilometry",
+            "Pomnóż długość odcinka przez wartość odpowiadającą 1 cm w terenie"
+          ],
+          "explanation": "Najpierw mierzy się odcinek na mapie, potem odczytuje skalę, przelicza 1 cm i mnoży przez długość odcinka."
+        },
+        {
+          "id": "R01_MIE_07",
+          "section": "Powtórka mieszana",
+          "type": "riddle",
+          "prompt": "Mała ikonka oznaczająca pojedynczy obiekt, na przykład budynek, pocztę lub przystań, to znak...",
+          "options": null,
+          "answer": "punktowy",
+          "altAnswers": [
+            "punktowy",
+            "znak punktowy"
+          ],
+          "explanation": "Znak punktowy przedstawia pojedynczy obiekt na mapie."
+        },
+        {
+          "id": "R01_MIE_08",
+          "section": "Powtórka mieszana",
+          "type": "sort",
+          "prompt": "Przyporządkuj pojęcia do tematów.",
+          "options": null,
+          "items": [
+            "legenda",
+            "tytuł",
+            "nitka",
+            "podziałka liniowa",
+            "poziomica",
+            "wysokość względna",
+            "kompas",
+            "obiekty w terenie"
+          ],
+          "categories": [
+            "elementy mapy",
+            "pomiar odległości",
+            "ukształtowanie terenu",
+            "orientowanie mapy"
+          ],
+          "answer": {
+            "elementy mapy": [
+              "legenda",
+              "tytuł"
+            ],
+            "pomiar odległości": [
+              "nitka",
+              "podziałka liniowa"
+            ],
+            "ukształtowanie terenu": [
+              "poziomica",
+              "wysokość względna"
+            ],
+            "orientowanie mapy": [
+              "kompas",
+              "obiekty w terenie"
+            ]
+          },
+          "explanation": "Pojęcia z rozdziału można pogrupować według tego, czy dotyczą elementów mapy, pomiaru odległości, ukształtowania terenu czy orientowania mapy."
+        },
+        {
+          "id": "R01_MIE_09",
+          "section": "Powtórka mieszana",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: niziny, wyżyny, góry, przystanki autobusowe.",
+          "options": null,
+          "answer": "przystanki autobusowe",
+          "explanation": "Niziny, wyżyny i góry to formy ukształtowania powierzchni, a przystanki autobusowe są elementami zagospodarowania lub komunikacji."
+        },
+        {
+          "id": "R01_MIE_10",
+          "section": "Powtórka mieszana",
+          "type": "scenario",
+          "prompt": "Uczeń chce sprawdzić, czy droga na stok jest łagodna. Na mapie widzi, że poziomice są tam daleko od siebie. Co powinien wnioskować?",
+          "options": [
+            "stok jest łagodny",
+            "stok jest bardzo stromy",
+            "to na pewno depresja",
+            "nie da się tego ocenić z poziomic",
+            "teren leży poniżej poziomu morza",
+            "to znak liniowy drogi krajowej"
+          ],
+          "answer": 0,
+          "image": "r01_poziomice_wzniesienie.jpg",
+          "explanation": "Tam, gdzie poziomice są daleko od siebie, teren jest nachylony łagodnie."
+        },
+        {
+          "id": "R01_HARD_01",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Na mapie poziomicowej punkt A leży dokładnie na poziomicy 450 m n.p.m., a punkt B między poziomicami 350 i 400 m n.p.m. Którą informację można podać najdokładniej?",
+          "options": [
+            "punkt A ma 450 m n.p.m.",
+            "punkt B ma dokładnie 375 m n.p.m.",
+            "punkt B ma dokładnie 400 m n.p.m.",
+            "oba punkty mają tę samą wysokość",
+            "punkt A leży poniżej poziomu morza",
+            "nie można podać żadnej wysokości"
+          ],
+          "answer": 0,
+          "explanation": "Punkt leżący na poziomicy ma wysokość równą wartości tej poziomicy, a punkt między poziomicami ma tylko wysokość przybliżoną."
+        },
+        {
+          "id": "R01_HARD_02",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Co oznacza odcinek wsteczny podziałki liniowej?",
+          "options": [
+            "część podziałki po lewej stronie zera służącą do dokładniejszego odczytu",
+            "odcinek pokazujący wyłącznie kierunek północny",
+            "symbol drogi gruntowej",
+            "miejsce na tytuł mapy",
+            "kolor oznaczający depresję",
+            "najwyższą poziomicę na mapie"
+          ],
+          "answer": 0,
+          "image": "r01_podzialka_liniowa.jpg",
+          "explanation": "Odcinek wsteczny jest podzielony na mniejsze części i umożliwia dokładniejsze odczytywanie odległości."
+        },
+        {
+          "id": "R01_HARD_03",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "W skali 1:250 000 odcinek 4 cm na mapie odpowiada w terenie __________ km.",
+          "options": null,
+          "answer": [
+            "10"
+          ],
+          "altAnswers": [
+            [
+              "10",
+              "10 km",
+              "dziesięć",
+              "dziesięć kilometrów"
+            ]
+          ],
+          "explanation": "W skali 1:250 000 jeden centymetr odpowiada 2,5 km, więc 4 cm odpowiadają 10 km."
+        },
+        {
+          "id": "R01_HARD_04",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "Na mapie hipsometrycznej poziomice nie muszą być opisane, ponieważ wysokości można odczytywać ze skali barw w legendzie.",
+          "options": null,
+          "answer": true,
+          "image": "r01_barwy_hipsometryczne.jpg",
+          "explanation": "Skala barw pomaga odczytywać zakresy wysokości na mapie hipsometrycznej."
+        },
+        {
+          "id": "R01_HARD_05",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz przykład z typem znaku lub elementu mapy.",
+          "options": null,
+          "left": [
+            "linia kolejowa",
+            "cmentarz jako obszar",
+            "urząd pocztowy",
+            "1 cm - 100 m",
+            "nazwa przedstawionego obszaru"
+          ],
+          "right": [
+            "tytuł",
+            "znak punktowy",
+            "skala mianowana",
+            "znak liniowy",
+            "znak powierzchniowy"
+          ],
+          "answer": {
+            "linia kolejowa": "znak liniowy",
+            "cmentarz jako obszar": "znak powierzchniowy",
+            "urząd pocztowy": "znak punktowy",
+            "1 cm - 100 m": "skala mianowana",
+            "nazwa przedstawionego obszaru": "tytuł"
+          },
+          "explanation": "Ten zestaw wymaga odróżnienia znaków kartograficznych od elementów mapy i sposobów przedstawiania skali."
+        },
+        {
+          "id": "R01_HARD_06",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Mapa przedstawia kotlinę i dolinę. W obu przypadkach wartości poziomic maleją ku niższemu miejscu. Co najbardziej pomaga odróżnić kotlinę od doliny?",
+          "options": [
+            "układ poziomic wokół dna oraz obecność rzeki w dolinie",
+            "sam kolor tytułu mapy",
+            "liczba liter w nazwie formy terenu",
+            "brak legendy",
+            "skala mianowana",
+            "wyłącznie wysokość 0 m n.p.m."
+          ],
+          "answer": 0,
+          "image": "r01_poziomice_wzniesienie.jpg",
+          "explanation": "W kotlinie poziomice otaczają dno niemal ze wszystkich stron, a w dolinie przebiegają prawie równolegle do rzeki."
+        },
+        {
+          "id": "R01_HARD_07",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Zaznacz poprawne wnioski wynikające z porównania planu miasta i mapy.",
+          "options": [
+            "Plan miasta przedstawia zwykle niewielki obszar.",
+            "Na planie miasta można znaleźć sieć ulic i ich nazwy.",
+            "Mapa może przedstawiać dużą część powierzchni Ziemi.",
+            "Plan miasta zawsze pokazuje wyłącznie ukształtowanie powierzchni.",
+            "Mapa turystyczna nie ma legendy."
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Plan obejmuje zwykle niewielki obszar i pokazuje dużo szczegółów ulicznych, a mapa może przedstawiać większy obszar."
+        },
+        {
+          "id": "R01_HARD_08",
+          "section": "Super trudne",
+          "type": "sort",
+          "prompt": "Przyporządkuj czynności do właściwego sposobu orientowania mapy.",
+          "options": null,
+          "items": [
+            "przyłóż kompas do krawędzi ramki mapy",
+            "odczekaj, aż igła magnetyczna wskaże północ",
+            "odszukaj samotne drzewo lub most w terenie",
+            "odnajdź te same obiekty na mapie",
+            "obracaj mapę, aż kierunki do obiektów się pokryją"
+          ],
+          "categories": [
+            "za pomocą kompasu",
+            "za pomocą obiektów w terenie"
+          ],
+          "answer": {
+            "za pomocą kompasu": [
+              "przyłóż kompas do krawędzi ramki mapy",
+              "odczekaj, aż igła magnetyczna wskaże północ"
+            ],
+            "za pomocą obiektów w terenie": [
+              "odszukaj samotne drzewo lub most w terenie",
+              "odnajdź te same obiekty na mapie",
+              "obracaj mapę, aż kierunki do obiektów się pokryją"
+            ]
+          },
+          "image": "r01_orientowanie_mapy.jpg",
+          "explanation": "Mapę można orientować kompasem albo przez porównanie kierunków do obiektów w terenie i na mapie."
+        },
+        {
+          "id": "R01_HARD_09",
+          "section": "Super trudne",
+          "type": "sequence",
+          "prompt": "Ułóż zakresy wysokości od najniższego do najwyższego według opisu barw hipsometrycznych.",
+          "options": null,
+          "items": [
+            "góry powyżej 500 m n.p.m.",
+            "niziny od 0 do 300 m n.p.m.",
+            "depresje poniżej 0 m n.p.m.",
+            "wyżyny powyżej 300 m n.p.m."
+          ],
+          "answer": [
+            "depresje poniżej 0 m n.p.m.",
+            "niziny od 0 do 300 m n.p.m.",
+            "wyżyny powyżej 300 m n.p.m.",
+            "góry powyżej 500 m n.p.m."
+          ],
+          "explanation": "Depresje leżą poniżej 0 m n.p.m., potem są niziny 0-300 m, wyżyny powyżej 300 m i góry powyżej 500 m n.p.m."
+        },
+        {
+          "id": "R01_HARD_10",
+          "section": "Super trudne",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: 1:10 000, 1 cm - 100 m, podziałka liniowa, poziomica 100 m.",
+          "options": null,
+          "answer": "poziomica 100 m",
+          "explanation": "Trzy pierwsze elementy są sposobami przedstawiania skali, a poziomica 100 m dotyczy wysokości terenu."
+        }
+      ],
+      "kidPrompts": {},
+      "visuals": [
+        {
+          "file": "r01/01_elementy_mapy_i_znaki_kartograficzne.jpg",
+          "title": "Elementy mapy i znaki kartograficzne",
+          "kind": "infografika"
+        },
+        {
+          "file": "r01/02_skala_mapy.jpg",
+          "title": "Skala mapy",
+          "kind": "infografika"
+        },
+        {
+          "file": "r01/03_rodzaje_map_i_mapy_cyfrowe.jpg",
+          "title": "Rodzaje map i mapy cyfrowe",
+          "kind": "infografika"
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "number": 2,
+      "title": "Krajobrazy Polski",
+      "icon": "🗺️",
+      "sectionOrder": [
+        "Podstawy krajobrazu",
+        "Pobrzeża i pojezierza",
+        "Niziny i Warszawa",
+        "Wyżyny Śląska i Lubelska",
+        "Jura i Tatry",
+        "Super trudne"
+      ],
+      "sectionIcons": {
+        "Podstawy krajobrazu": "🌍",
+        "Pobrzeża i pojezierza": "🌊",
+        "Niziny i Warszawa": "🏙️",
+        "Wyżyny Śląska i Lubelska": "⛏️",
+        "Jura i Tatry": "⛰️",
+        "Super trudne": "🔥"
+      },
+      "exercises": [
+        {
+          "id": "R02_POD_01",
+          "section": "Podstawy krajobrazu",
+          "type": "single_choice",
+          "prompt": "Czym jest krajobraz?",
+          "options": [
+            "Wyglądem części powierzchni Ziemi",
+            "Tylko pogodą w danym miejscu",
+            "Wyłącznie mapą administracyjną",
+            "Nazwą pasa rzeźby terenu",
+            "Tylko zbiorem budynków",
+            "Rodzajem gleby"
+          ],
+          "answer": 0,
+          "explanation": "Krajobraz to określony wygląd części powierzchni Ziemi."
+        },
+        {
+          "id": "R02_POD_02",
+          "section": "Podstawy krajobrazu",
+          "type": "multi_select",
+          "prompt": "Zaznacz elementy krajobrazu wymienione w podręczniku.",
+          "options": [
+            "ukształtowanie powierzchni",
+            "wody powierzchniowe",
+            "szata roślinna",
+            "wytwory działalności człowieka",
+            "numer PESEL mieszkańców",
+            "rozkład lekcji w szkole"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Do elementów krajobrazu należą m.in. ukształtowanie powierzchni, skały, wody, roślinność i wytwory działalności człowieka."
+        },
+        {
+          "id": "R02_POD_03",
+          "section": "Podstawy krajobrazu",
+          "type": "true_false",
+          "prompt": "Krajobraz kulturowy został przekształcony przez człowieka.",
+          "options": null,
+          "answer": true,
+          "explanation": "Podręcznik przeciwstawia krajobraz kulturowy krajobrazowi naturalnemu."
+        },
+        {
+          "id": "R02_POD_04",
+          "section": "Podstawy krajobrazu",
+          "type": "fill_in",
+          "prompt": "W Polsce wyróżnia się sześć pasów rzeźby terenu: pobrzeża, pojezierza, Niziny Środkowopolskie, Wyżyny Polskie, Kotliny Podkarpackie i __________.",
+          "options": null,
+          "answer": [
+            "góry"
+          ],
+          "altAnswers": [
+            [
+              "góry",
+              "gor",
+              "pas gór",
+              "gór"
+            ]
+          ],
+          "explanation": "Ostatnim z sześciu pasów rzeźby terenu jest pas gór."
+        },
+        {
+          "id": "R02_POD_05",
+          "section": "Podstawy krajobrazu",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: pobrzeża, pojezierza, Wyżyny Polskie, klimat.",
+          "options": null,
+          "answer": "klimat",
+          "explanation": "Pobrzeża, pojezierza i Wyżyny Polskie to pasy rzeźby terenu, a klimat nie jest pasem rzeźby."
+        },
+        {
+          "id": "R02_POD_06",
+          "section": "Podstawy krajobrazu",
+          "type": "match",
+          "prompt": "Połącz typ krajobrazu kulturowego z jego cechą.",
+          "options": null,
+          "left": [
+            "rolniczy",
+            "przemysłowy",
+            "miejski"
+          ],
+          "right": [
+            "wsie i pola uprawne",
+            "fabryki",
+            "gęsta zabudowa i sieć ulic"
+          ],
+          "answer": {
+            "rolniczy": "wsie i pola uprawne",
+            "przemysłowy": "fabryki",
+            "miejski": "gęsta zabudowa i sieć ulic"
+          },
+          "explanation": "Krajobrazy kulturowe różnią się dominującym sposobem zagospodarowania terenu."
+        },
+        {
+          "id": "R02_POD_07",
+          "section": "Podstawy krajobrazu",
+          "type": "sort",
+          "prompt": "Przyporządkuj elementy do grup: przyrodnicze lub wytworzone przez człowieka.",
+          "options": null,
+          "items": [
+            "rzeka",
+            "las",
+            "skała",
+            "droga",
+            "fabryka",
+            "blok mieszkalny"
+          ],
+          "categories": [
+            "przyrodnicze",
+            "wytworzone przez człowieka"
+          ],
+          "answer": {
+            "przyrodnicze": [
+              "rzeka",
+              "las",
+              "skała"
+            ],
+            "wytworzone przez człowieka": [
+              "droga",
+              "fabryka",
+              "blok mieszkalny"
+            ]
+          },
+          "explanation": "Rzeka, las i skała są elementami przyrodniczymi, natomiast droga, fabryka i blok są wytworami człowieka."
+        },
+        {
+          "id": "R02_POD_08",
+          "section": "Podstawy krajobrazu",
+          "type": "sequence",
+          "prompt": "Ułóż pasy rzeźby terenu Polski od północy ku południu.",
+          "options": null,
+          "items": [
+            "Wyżyny Polskie",
+            "pobrzeża",
+            "góry",
+            "pojezierza",
+            "Niziny Środkowopolskie",
+            "Kotliny Podkarpackie"
+          ],
+          "answer": [
+            "pobrzeża",
+            "pojezierza",
+            "Niziny Środkowopolskie",
+            "Wyżyny Polskie",
+            "Kotliny Podkarpackie",
+            "góry"
+          ],
+          "image": "r02_pasy_rzezby_polski.jpg",
+          "explanation": "Pasy rzeźby terenu układają się w Polsce mniej więcej równoleżnikowo od pobrzeży po góry."
+        },
+        {
+          "id": "R02_POD_09",
+          "section": "Podstawy krajobrazu",
+          "type": "riddle",
+          "prompt": "Nazwa krajobrazu, w którym przeważają wsie i pola uprawne, to krajobraz...",
+          "options": null,
+          "answer": "rolniczy",
+          "altAnswers": [
+            "rolniczy",
+            "krajobraz rolniczy"
+          ],
+          "explanation": "Krajobraz rolniczy rozpoznaje się po polach uprawnych i zabudowie wiejskiej."
+        },
+        {
+          "id": "R02_POD_10",
+          "section": "Podstawy krajobrazu",
+          "type": "scenario",
+          "prompt": "Uczeń opisuje teren pełen bloków, ulic, linii komunikacyjnych i wysokich budynków. Jaki typ krajobrazu kulturowego opisuje?",
+          "options": [
+            "miejski",
+            "rolniczy",
+            "naturalny",
+            "wysokogórski",
+            "nadmorski",
+            "pojezierny"
+          ],
+          "answer": 0,
+          "explanation": "Taki zestaw cech wskazuje na krajobraz miejski."
+        },
+        {
+          "id": "R02_POP_01",
+          "section": "Pobrzeża i pojezierza",
+          "type": "single_choice",
+          "prompt": "Który pas rzeźby terenu ciągnie się wzdłuż wybrzeża Morza Bałtyckiego?",
+          "options": [
+            "pobrzeża",
+            "pojezierza",
+            "Wyżyny Polskie",
+            "Kotliny Podkarpackie",
+            "Niziny Środkowopolskie",
+            "góry"
+          ],
+          "answer": 0,
+          "explanation": "Wzdłuż Bałtyku rozciąga się pas pobrzeży."
+        },
+        {
+          "id": "R02_POP_02",
+          "section": "Pobrzeża i pojezierza",
+          "type": "multi_select",
+          "prompt": "Zaznacz elementy charakterystyczne dla Wybrzeża Słowińskiego.",
+          "options": [
+            "piaszczyste plaże",
+            "wydmy",
+            "jeziora przybrzeżne",
+            "nadmorskie równiny",
+            "turnie granitowe",
+            "hałdy górnicze"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "image": "r02_wydmy_plaza.jpg",
+          "explanation": "Wybrzeże Słowińskie ma piaszczyste plaże, wydmy, jeziora przybrzeżne i nadmorskie równiny."
+        },
+        {
+          "id": "R02_POP_03",
+          "section": "Pobrzeża i pojezierza",
+          "type": "true_false",
+          "prompt": "Ruchome wydmy mogą zmieniać położenie pod wpływem przewiewania piasku przez wiatr.",
+          "options": null,
+          "answer": true,
+          "image": "r02_wydmy_plaza.jpg",
+          "explanation": "Podręcznik podaje, że stałe przewiewanie piasku powoduje przemieszczanie się wydm."
+        },
+        {
+          "id": "R02_POP_04",
+          "section": "Pobrzeża i pojezierza",
+          "type": "fill_in",
+          "prompt": "Jeziora Łebsko, Jamno i Gardno to jeziora __________.",
+          "options": null,
+          "answer": [
+            "przybrzeżne"
+          ],
+          "altAnswers": [
+            [
+              "przybrzeżne",
+              "przybrzezne",
+              "jeziora przybrzeżne"
+            ]
+          ],
+          "explanation": "Są to jeziora przybrzeżne powstałe przy wybrzeżu niskim."
+        },
+        {
+          "id": "R02_POP_05",
+          "section": "Pobrzeża i pojezierza",
+          "type": "sequence",
+          "prompt": "Ułóż etapy powstawania jeziora przybrzeżnego.",
+          "options": null,
+          "items": [
+            "mierzeja staje się coraz dłuższa",
+            "z dawnej zatoki powstaje jezioro przybrzeżne",
+            "prąd przybrzeżny nanosi piasek",
+            "piasek tworzy mierzeję"
+          ],
+          "answer": [
+            "prąd przybrzeżny nanosi piasek",
+            "piasek tworzy mierzeję",
+            "mierzeja staje się coraz dłuższa",
+            "z dawnej zatoki powstaje jezioro przybrzeżne"
+          ],
+          "explanation": "Prąd przybrzeżny nanosi piasek, powstaje i wydłuża się mierzeja, a dawna zatoka staje się jeziorem przybrzeżnym."
+        },
+        {
+          "id": "R02_POP_06",
+          "section": "Pobrzeża i pojezierza",
+          "type": "match",
+          "prompt": "Połącz pojęcie z opisem.",
+          "options": null,
+          "left": [
+            "wydma",
+            "mierzeja",
+            "klif",
+            "prąd przybrzeżny"
+          ],
+          "right": [
+            "wzniesienie usypane z piasku przez wiatr",
+            "piaszczysty wał odcinający zatokę",
+            "strome wysokie wybrzeże",
+            "strumień wody płynącej wzdłuż brzegu"
+          ],
+          "answer": {
+            "wydma": "wzniesienie usypane z piasku przez wiatr",
+            "mierzeja": "piaszczysty wał odcinający zatokę",
+            "klif": "strome wysokie wybrzeże",
+            "prąd przybrzeżny": "strumień wody płynącej wzdłuż brzegu"
+          },
+          "explanation": "Pojęcia te opisują procesy i formy nadmorskiego krajobrazu."
+        },
+        {
+          "id": "R02_POP_07",
+          "section": "Pobrzeża i pojezierza",
+          "type": "single_choice",
+          "prompt": "Które największe jeziora Polski leżą na Pojezierzu Mazurskim?",
+          "options": [
+            "Śniardwy i Mamry",
+            "Łebsko i Gardno",
+            "Jamno i Wicko",
+            "Gopło i Malta",
+            "Rożnowskie i Solińskie",
+            "Czorsztyńskie i Żywieckie"
+          ],
+          "answer": 0,
+          "image": "r02_jeziora_mazurskie.jpg",
+          "explanation": "W Krainie Wielkich Jezior Mazurskich znajdują się Śniardwy i Mamry."
+        },
+        {
+          "id": "R02_POP_08",
+          "section": "Pobrzeża i pojezierza",
+          "type": "true_false",
+          "prompt": "Pojezierze Mazurskie zostało w dużej mierze ukształtowane przez lądolód.",
+          "options": null,
+          "answer": true,
+          "explanation": "Lądolód pozostawił na pojezierzach wzniesienia i zagłębienia, z których część wypełniła się wodą."
+        },
+        {
+          "id": "R02_POP_09",
+          "section": "Pobrzeża i pojezierza",
+          "type": "sort",
+          "prompt": "Przyporządkuj elementy do krajobrazu nadmorskiego albo pojeziernego.",
+          "options": null,
+          "items": [
+            "plaża",
+            "klif",
+            "lądolód",
+            "Śniardwy",
+            "Mamry",
+            "wydma"
+          ],
+          "categories": [
+            "nadmorski",
+            "pojezierny"
+          ],
+          "answer": {
+            "nadmorski": [
+              "plaża",
+              "klif",
+              "wydma"
+            ],
+            "pojezierny": [
+              "lądolód",
+              "Śniardwy",
+              "Mamry"
+            ]
+          },
+          "explanation": "Plaża i klif są związane z wybrzeżem, a lądolód, wzniesienia i wielkie jeziora z krajobrazem pojeziernym."
+        },
+        {
+          "id": "R02_POP_10",
+          "section": "Pobrzeża i pojezierza",
+          "type": "scenario",
+          "prompt": "Rodzina planuje wakacje z żeglarstwem i kajakarstwem na szlaku wielu połączonych jezior. Który region z rozdziału najlepiej pasuje do takiego planu?",
+          "options": [
+            "Pojezierze Mazurskie",
+            "Wyżyna Śląska",
+            "Nizina Mazowiecka",
+            "Wyżyna Lubelska",
+            "Tatry Zachodnie",
+            "Wybrzeże Słowińskie"
+          ],
+          "answer": 0,
+          "image": "r02_jeziora_mazurskie.jpg",
+          "explanation": "Pojezierze Mazurskie jest opisane jako dobre miejsce do uprawiania żeglarstwa i kajakarstwa."
+        },
+        {
+          "id": "R02_NIW_01",
+          "section": "Niziny i Warszawa",
+          "type": "single_choice",
+          "prompt": "Jaka rzeźba terenu przeważa w krajobrazie Niziny Mazowieckiej?",
+          "options": [
+            "równiny i wysoczyzny porozcinane dolinami rzek",
+            "strome turnie i granie",
+            "czynne wulkany",
+            "wysokie klify morskie",
+            "głębokie jaskinie krasowe",
+            "hałdy i kopalnie"
+          ],
+          "answer": 0,
+          "explanation": "W krajobrazie Niziny Mazowieckiej przeważają równiny oraz wysoczyzny porozcinane dolinami rzek."
+        },
+        {
+          "id": "R02_NIW_02",
+          "section": "Niziny i Warszawa",
+          "type": "multi_select",
+          "prompt": "Zaznacz elementy związane z Kampinoskim Parkiem Narodowym.",
+          "options": [
+            "Puszcza Kampinoska",
+            "bagna",
+            "wydmy porośnięte lasem sosnowym",
+            "położenie niedaleko Warszawy",
+            "najwyższy szczyt Polski",
+            "latarnie morskie"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Park obejmuje Puszczę Kampinoską, w której sąsiadują m.in. bagna i wydmy porośnięte lasem sosnowym."
+        },
+        {
+          "id": "R02_NIW_03",
+          "section": "Niziny i Warszawa",
+          "type": "true_false",
+          "prompt": "Warszawa leży po obu brzegach Wisły.",
+          "options": null,
+          "answer": true,
+          "image": "r02_warszawa_panorama.jpg",
+          "explanation": "Podręcznik podaje, że Warszawa leży w centralnej części kraju, po obu brzegach Wisły."
+        },
+        {
+          "id": "R02_NIW_04",
+          "section": "Niziny i Warszawa",
+          "type": "fill_in",
+          "prompt": "Warszawa jest __________ Polski.",
+          "options": null,
+          "answer": [
+            "stolicą"
+          ],
+          "altAnswers": [
+            [
+              "stolicą",
+              "stolica",
+              "stolicą Polski",
+              "stolica Polski"
+            ]
+          ],
+          "explanation": "Warszawa jest stolicą naszego kraju."
+        },
+        {
+          "id": "R02_NIW_05",
+          "section": "Niziny i Warszawa",
+          "type": "match",
+          "prompt": "Połącz warszawski obiekt z opisem z rozdziału.",
+          "options": null,
+          "left": [
+            "Stare Miasto",
+            "Łazienki Królewskie",
+            "Centrum Nauki Kopernik",
+            "Stadion Narodowy"
+          ],
+          "right": [
+            "miejsce wpisane na Listę UNESCO",
+            "parkowo-pałacowa atrakcja stolicy",
+            "centrum popularyzujące naukę",
+            "arena wydarzeń sportowych i kulturalnych"
+          ],
+          "answer": {
+            "Stare Miasto": "miejsce wpisane na Listę UNESCO",
+            "Łazienki Królewskie": "parkowo-pałacowa atrakcja stolicy",
+            "Centrum Nauki Kopernik": "centrum popularyzujące naukę",
+            "Stadion Narodowy": "arena wydarzeń sportowych i kulturalnych"
+          },
+          "image": "r02_warszawa_panorama.jpg",
+          "explanation": "Rozdział przedstawia kilka znanych atrakcji Warszawy."
+        },
+        {
+          "id": "R02_NIW_06",
+          "section": "Niziny i Warszawa",
+          "type": "single_choice",
+          "prompt": "Która cecha najlepiej opisuje krajobraz wielkomiejski Warszawy?",
+          "options": [
+            "zwarta wielopiętrowa zabudowa i gęsta sieć ulic",
+            "rozległe pola pszenicy i chmielu",
+            "ruchome wydmy i mierzeje",
+            "turnie, żleby i piargi",
+            "wąwozy lessowe bez miast",
+            "wyłącznie naturalne lasy"
+          ],
+          "answer": 0,
+          "explanation": "Krajobraz wielkomiejski cechuje zwarta, wielopiętrowa zabudowa oraz rozbudowana sieć ulic i komunikacji."
+        },
+        {
+          "id": "R02_NIW_07",
+          "section": "Niziny i Warszawa",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: Sejm, Senat, Prezydent RP, latarnia morska.",
+          "options": null,
+          "answer": "latarnia morska",
+          "explanation": "Sejm, Senat i Prezydent RP to organy władzy państwowej mające siedziby w Warszawie, a latarnia morska jest obiektem nadmorskim."
+        },
+        {
+          "id": "R02_NIW_08",
+          "section": "Niziny i Warszawa",
+          "type": "sort",
+          "prompt": "Przyporządkuj elementy do Niziny Mazowieckiej lub Warszawy.",
+          "options": null,
+          "items": [
+            "Puszcza Kampinoska",
+            "Kurpie",
+            "metro",
+            "Stare Miasto",
+            "siedziby władz państwowych",
+            "Twierdza Modlin"
+          ],
+          "categories": [
+            "Nizina Mazowiecka",
+            "Warszawa"
+          ],
+          "answer": {
+            "Nizina Mazowiecka": [
+              "Puszcza Kampinoska",
+              "Kurpie",
+              "Twierdza Modlin"
+            ],
+            "Warszawa": [
+              "metro",
+              "Stare Miasto",
+              "siedziby władz państwowych"
+            ]
+          },
+          "explanation": "Puszcza Kampinoska i Kurpie dotyczą Niziny Mazowieckiej, a metro, Stare Miasto i siedziby władz są związane z Warszawą."
+        },
+        {
+          "id": "R02_NIW_09",
+          "section": "Niziny i Warszawa",
+          "type": "riddle",
+          "prompt": "Największa rzeka przepływająca przez Warszawę to...",
+          "options": null,
+          "answer": "Wisła",
+          "altAnswers": [
+            "Wisła",
+            "Wisla",
+            "rzeka Wisła"
+          ],
+          "explanation": "Warszawa leży po obu brzegach Wisły."
+        },
+        {
+          "id": "R02_NIW_10",
+          "section": "Niziny i Warszawa",
+          "type": "scenario",
+          "prompt": "Turysta chce zobaczyć miejsce urodzenia Fryderyka Chopina na Nizinie Mazowieckiej. Którą miejscowość powinien wybrać?",
+          "options": [
+            "Żelazowa Wola",
+            "Łeba",
+            "Giżycko",
+            "Zamość",
+            "Zakopane",
+            "Tarnowskie Góry"
+          ],
+          "answer": 0,
+          "explanation": "Muzeum w Żelazowej Woli jest przedstawione jako atrakcja Niziny Mazowieckiej związana z koncertami fortepianowymi."
+        },
+        {
+          "id": "R02_WSL_01",
+          "section": "Wyżyny Śląska i Lubelska",
+          "type": "single_choice",
+          "prompt": "Jaki surowiec szczególnie przyczynił się do rozwoju przemysłu na Wyżynie Śląskiej?",
+          "options": [
+            "węgiel kamienny",
+            "sól morska",
+            "granit tatrzański",
+            "less",
+            "piasek wydmowy",
+            "wapień jurajski"
+          ],
+          "answer": 0,
+          "image": "r02_kopalnia_halda.jpg",
+          "explanation": "Do rozwoju przemysłu na Wyżynie Śląskiej przyczyniły się bogate złoża węgla kamiennego."
+        },
+        {
+          "id": "R02_WSL_02",
+          "section": "Wyżyny Śląska i Lubelska",
+          "type": "multi_select",
+          "prompt": "Zaznacz negatywne skutki działalności kopalń i przemysłu na Wyżynie Śląskiej.",
+          "options": [
+            "powstawanie hałd",
+            "zanieczyszczenie powietrza",
+            "szkody górnicze",
+            "silne przekształcenie środowiska",
+            "powstawanie jezior przybrzeżnych",
+            "narastanie stalaktytów"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "image": "r02_kopalnia_halda.jpg",
+          "explanation": "Rozwój przemysłu spowodował przekształcenie środowiska, hałdy, zanieczyszczenie powietrza i szkody górnicze."
+        },
+        {
+          "id": "R02_WSL_03",
+          "section": "Wyżyny Śląska i Lubelska",
+          "type": "true_false",
+          "prompt": "Hałdy to wzniesienia utworzone z odpadów przemysłowych.",
+          "options": null,
+          "answer": true,
+          "image": "r02_kopalnia_halda.jpg",
+          "explanation": "Podręcznik definiuje hałdy jako wzniesienia z odpadów przemysłowych."
+        },
+        {
+          "id": "R02_WSL_04",
+          "section": "Wyżyny Śląska i Lubelska",
+          "type": "fill_in",
+          "prompt": "Najważniejsze święto górników obchodzone 4 grudnia to __________.",
+          "options": null,
+          "answer": [
+            "Barbórka"
+          ],
+          "altAnswers": [
+            [
+              "Barbórka",
+              "Barborka"
+            ]
+          ],
+          "explanation": "Barbórka jest świętem górników obchodzonym w dzień św. Barbary."
+        },
+        {
+          "id": "R02_WSL_05",
+          "section": "Wyżyny Śląska i Lubelska",
+          "type": "match",
+          "prompt": "Połącz element kultury lub przemysłu Śląska z opisem.",
+          "options": null,
+          "left": [
+            "gwara śląska",
+            "Barbórka",
+            "Szlak Zabytków Techniki",
+            "Park Śląski"
+          ],
+          "right": [
+            "regionalna odmiana języka",
+            "święto górników",
+            "zabytkowe obiekty przemysłowe",
+            "teren zielony na obszarach przekształconych"
+          ],
+          "answer": {
+            "gwara śląska": "regionalna odmiana języka",
+            "Barbórka": "święto górników",
+            "Szlak Zabytków Techniki": "zabytkowe obiekty przemysłowe",
+            "Park Śląski": "teren zielony na obszarach przekształconych"
+          },
+          "explanation": "Rozdział łączy Śląsk z górnictwem, gwarą śląską, Barbórką i Szlakiem Zabytków Techniki."
+        },
+        {
+          "id": "R02_WSL_06",
+          "section": "Wyżyny Śląska i Lubelska",
+          "type": "single_choice",
+          "prompt": "Który krajobraz przeważa na Wyżynie Lubelskiej?",
+          "options": [
+            "rolniczy",
+            "wysokogórski",
+            "nadmorski",
+            "miejsko-przemysłowy",
+            "pojezierny",
+            "naturalny"
+          ],
+          "answer": 0,
+          "explanation": "Na Wyżynie Lubelskiej przeważa krajobraz rolniczy z polami uprawnymi."
+        },
+        {
+          "id": "R02_WSL_07",
+          "section": "Wyżyny Śląska i Lubelska",
+          "type": "multi_select",
+          "prompt": "Zaznacz rośliny uprawiane na Wyżynie Lubelskiej wymienione w podręczniku.",
+          "options": [
+            "pszenica",
+            "buraki cukrowe",
+            "tytoń",
+            "chmiel",
+            "kosodrzewina",
+            "mikołajek nadmorski"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Na Wyżynie Lubelskiej uprawia się m.in. pszenicę, buraki cukrowe, tytoń i chmiel."
+        },
+        {
+          "id": "R02_WSL_08",
+          "section": "Wyżyny Śląska i Lubelska",
+          "type": "fill_in",
+          "prompt": "Skała, w której na Wyżynie Lubelskiej tworzą się wąwozy, to __________.",
+          "options": null,
+          "answer": [
+            "less"
+          ],
+          "altAnswers": [
+            [
+              "less",
+              "lessie"
+            ]
+          ],
+          "explanation": "Wąwozy na Wyżynie Lubelskiej powstały w łatwo wymywanym lessie."
+        },
+        {
+          "id": "R02_WSL_09",
+          "section": "Wyżyny Śląska i Lubelska",
+          "type": "sort",
+          "prompt": "Przyporządkuj elementy do Wyżyny Śląskiej albo Wyżyny Lubelskiej.",
+          "options": null,
+          "items": [
+            "kopalnie",
+            "hałdy",
+            "less",
+            "wąwozy",
+            "pszenica",
+            "Spodek"
+          ],
+          "categories": [
+            "Wyżyna Śląska",
+            "Wyżyna Lubelska"
+          ],
+          "answer": {
+            "Wyżyna Śląska": [
+              "kopalnie",
+              "hałdy",
+              "Spodek"
+            ],
+            "Wyżyna Lubelska": [
+              "less",
+              "wąwozy",
+              "pszenica"
+            ]
+          },
+          "explanation": "Wyżyna Śląska wiąże się z kopalniami i przemysłem, a Wyżyna Lubelska z lessami, wąwozami i rolnictwem."
+        },
+        {
+          "id": "R02_WSL_10",
+          "section": "Wyżyny Śląska i Lubelska",
+          "type": "scenario",
+          "prompt": "Rolnik szuka miejsca z żyznymi glebami brunatnymi i czarnoziemami, gdzie można uprawiać pszenicę, buraki cukrowe, tytoń i chmiel. Która kraina z rozdziału pasuje najlepiej?",
+          "options": [
+            "Wyżyna Lubelska",
+            "Wybrzeże Słowińskie",
+            "Tatry Wysokie",
+            "Pojezierze Mazurskie",
+            "Wyżyna Śląska",
+            "Nizina Mazowiecka"
+          ],
+          "answer": 0,
+          "image": "r02_wawoz_lessowy.jpg",
+          "explanation": "Tak opisano rolniczy krajobraz Wyżyny Lubelskiej."
+        },
+        {
+          "id": "R02_JUT_01",
+          "section": "Jura i Tatry",
+          "type": "single_choice",
+          "prompt": "Z jakich skał zbudowana jest głównie Wyżyna Krakowsko-Częstochowska?",
+          "options": [
+            "wapiennych",
+            "granitowych",
+            "bazaltowych",
+            "lessowych",
+            "węglowych",
+            "ilastych"
+          ],
+          "answer": 0,
+          "image": "r02_jaskinia_krasowa.jpg",
+          "explanation": "Wyżynę Krakowsko-Częstochowską budują głównie skały wapienne."
+        },
+        {
+          "id": "R02_JUT_02",
+          "section": "Jura i Tatry",
+          "type": "fill_in",
+          "prompt": "Rozpuszczanie skał wapiennych przez wodę opadową z dwutlenkiem węgla to __________.",
+          "options": null,
+          "answer": [
+            "krasowienie"
+          ],
+          "altAnswers": [
+            [
+              "krasowienie",
+              "proces krasowienia"
+            ]
+          ],
+          "explanation": "To zjawisko nazywa się krasowieniem i prowadzi do powstawania form krasowych."
+        },
+        {
+          "id": "R02_JUT_03",
+          "section": "Jura i Tatry",
+          "type": "match",
+          "prompt": "Połącz formę krasową z opisem.",
+          "options": null,
+          "left": [
+            "stalaktyt",
+            "stalagmit",
+            "stalagnat",
+            "wywierzysko"
+          ],
+          "right": [
+            "zwisa ze stropu jaskini",
+            "wyrasta z dna jaskini",
+            "powstaje z połączenia stalaktytu i stalagmitu",
+            "źródło krasowe"
+          ],
+          "answer": {
+            "stalaktyt": "zwisa ze stropu jaskini",
+            "stalagmit": "wyrasta z dna jaskini",
+            "stalagnat": "powstaje z połączenia stalaktytu i stalagmitu",
+            "wywierzysko": "źródło krasowe"
+          },
+          "image": "r02_jaskinia_krasowa.jpg",
+          "explanation": "Stalaktyt zwisa ze stropu, stalagmit narasta od dna, a stalagnat jest kolumną z połączenia obu form."
+        },
+        {
+          "id": "R02_JUT_04",
+          "section": "Jura i Tatry",
+          "type": "true_false",
+          "prompt": "Szlak Orlich Gniazd prowadzi przez Wyżynę Krakowsko-Częstochowską.",
+          "options": null,
+          "answer": true,
+          "explanation": "Szlak Orlich Gniazd biegnie z Krakowa do Częstochowy i obejmuje ruiny zamków oraz warowni na wzniesieniach."
+        },
+        {
+          "id": "R02_JUT_05",
+          "section": "Jura i Tatry",
+          "type": "single_choice",
+          "prompt": "Która część Tatr jest zbudowana głównie ze skał granitowych?",
+          "options": [
+            "Tatry Wysokie",
+            "Tatry Zachodnie",
+            "Podhale",
+            "Roztocze",
+            "Pogórze",
+            "Kotliny Podkarpackie"
+          ],
+          "answer": 0,
+          "image": "r02_tatry_wysokie.jpg",
+          "explanation": "Tatry Wysokie są zbudowane głównie z granitu i tworzą najwyższą część Tatr."
+        },
+        {
+          "id": "R02_JUT_06",
+          "section": "Jura i Tatry",
+          "type": "multi_select",
+          "prompt": "Zaznacz cechy krajobrazu wysokogórskiego Tatr Wysokich.",
+          "options": [
+            "duże wysokości względne i bezwzględne",
+            "głębokie doliny",
+            "strome stoki",
+            "turnie i granie",
+            "ruchome wydmy",
+            "hałdy górnicze"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "image": "r02_tatry_wysokie.jpg",
+          "explanation": "Tatry Wysokie cechują duże wysokości, głębokie doliny, strome stoki, turnie, granie, żleby i piargi."
+        },
+        {
+          "id": "R02_JUT_07",
+          "section": "Jura i Tatry",
+          "type": "sequence",
+          "prompt": "Ułóż piętra roślinności w Tatrach od najniższego do najwyższego.",
+          "options": null,
+          "items": [
+            "hale",
+            "regiel dolny",
+            "turnie",
+            "pogórze",
+            "piętro kosodrzewiny",
+            "regiel górny"
+          ],
+          "answer": [
+            "pogórze",
+            "regiel dolny",
+            "regiel górny",
+            "piętro kosodrzewiny",
+            "hale",
+            "turnie"
+          ],
+          "image": "r02_pietra_roslinnosci_tatr.jpg",
+          "explanation": "Piętra roślinne w Tatrach to kolejno: pogórze, regiel dolny, regiel górny, kosodrzewina, hale, turnie."
+        },
+        {
+          "id": "R02_JUT_08",
+          "section": "Jura i Tatry",
+          "type": "sort",
+          "prompt": "Przyporządkuj cechy do Tatr Wysokich lub Tatr Zachodnich.",
+          "options": null,
+          "items": [
+            "skały granitowe",
+            "wyższe pasmo",
+            "strome stoki",
+            "skały wapienne",
+            "zaokrąglone wierzchołki",
+            "liczne jaskinie"
+          ],
+          "categories": [
+            "Tatry Wysokie",
+            "Tatry Zachodnie"
+          ],
+          "answer": {
+            "Tatry Wysokie": [
+              "skały granitowe",
+              "wyższe pasmo",
+              "strome stoki"
+            ],
+            "Tatry Zachodnie": [
+              "skały wapienne",
+              "zaokrąglone wierzchołki",
+              "liczne jaskinie"
+            ]
+          },
+          "explanation": "Tatry Wysokie są granitowe, wyższe i bardziej strome, a Tatry Zachodnie są wapienne, niższe i mają zaokrąglone wierzchołki."
+        },
+        {
+          "id": "R02_JUT_09",
+          "section": "Jura i Tatry",
+          "type": "riddle",
+          "prompt": "Silny, ciepły i suchy wiatr wiejący w Tatrach z południa to...",
+          "options": null,
+          "answer": "halny",
+          "altAnswers": [
+            "halny",
+            "wiatr halny"
+          ],
+          "explanation": "Halny zimą przynosi ocieplenie i może powodować gwałtowne topnienie śniegu."
+        },
+        {
+          "id": "R02_JUT_10",
+          "section": "Jura i Tatry",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: turnia, grań, żleb, mierzeja.",
+          "options": null,
+          "answer": "mierzeja",
+          "explanation": "Turnia, grań i żleb to formy skalne krajobrazu wysokogórskiego, a mierzeja jest formą nadmorską."
+        },
+        {
+          "id": "R02_HARD_01",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Które zdanie najlepiej wyjaśnia, dlaczego Tatry Zachodnie są niższe i mniej strome od Tatr Wysokich?",
+          "options": [
+            "Budują je mniej odporne skały wapienne",
+            "Są położone nad morzem",
+            "Nie działały tam żadne procesy niszczące",
+            "Zbudowane są wyłącznie z lessu",
+            "Powstały z hałd przemysłowych",
+            "Leżą na Nizinie Mazowieckiej"
+          ],
+          "answer": 0,
+          "explanation": "Tatry Zachodnie zbudowane są głównie ze skał wapiennych, mniej odpornych na niszczenie niż granit Tatr Wysokich."
+        },
+        {
+          "id": "R02_HARD_02",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Zaznacz pary: obiekt lub zjawisko oraz właściwy region.",
+          "options": [
+            "Łebsko — Wybrzeże Słowińskie",
+            "Śniardwy — Pojezierze Mazurskie",
+            "Barbórka — Wyżyna Śląska",
+            "Zamość — Wyżyna Lubelska",
+            "Morskie Oko — Wyżyna Śląska",
+            "Spodek — Tatry Zachodnie"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Wszystkie poprawne pary łączą obiekt lub zjawisko z regionem wskazanym w rozdziale."
+        },
+        {
+          "id": "R02_HARD_03",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "Stalaktyty w jaskiniach wydłużają się bardzo powoli, około 1 mm na rok.",
+          "options": null,
+          "answer": true,
+          "explanation": "Schemat rzeźby krasowej podaje, że stalaktyty wydłużają się bardzo powoli, około 1 mm rocznie."
+        },
+        {
+          "id": "R02_HARD_04",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Najgłębszą i najdłuższą jaskinią w Polsce, położoną w Tatrach Zachodnich, jest Wielka Jaskinia __________.",
+          "options": null,
+          "answer": [
+            "Śnieżna"
+          ],
+          "altAnswers": [
+            [
+              "Śnieżna",
+              "Sniezna",
+              "Wielka Jaskinia Śnieżna",
+              "Wielka Jaskinia Sniezna"
+            ]
+          ],
+          "explanation": "Wielka Jaskinia Śnieżna znajduje się w Tatrach Zachodnich."
+        },
+        {
+          "id": "R02_HARD_05",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz liczbę z informacją z rozdziału.",
+          "options": null,
+          "left": [
+            "2499 m n.p.m.",
+            "163 km",
+            "600 m",
+            "4 grudnia"
+          ],
+          "right": [
+            "wysokość Rysów",
+            "długość Szlaku Orlich Gniazd",
+            "długość podziemnego przepływu w Sztolni Czarnego Pstrąga",
+            "data Barbórki"
+          ],
+          "answer": {
+            "2499 m n.p.m.": "wysokość Rysów",
+            "163 km": "długość Szlaku Orlich Gniazd",
+            "600 m": "długość podziemnego przepływu w Sztolni Czarnego Pstrąga",
+            "4 grudnia": "data Barbórki"
+          },
+          "explanation": "Te liczby pojawiają się w opisach konkretnych krajobrazów i obiektów."
+        },
+        {
+          "id": "R02_HARD_06",
+          "section": "Super trudne",
+          "type": "sequence",
+          "prompt": "Ułóż obiekty od północy Polski ku południu.",
+          "options": null,
+          "items": [
+            "Tatry",
+            "Nizina Mazowiecka",
+            "Wybrzeże Słowińskie",
+            "Pojezierze Mazurskie"
+          ],
+          "answer": [
+            "Wybrzeże Słowińskie",
+            "Pojezierze Mazurskie",
+            "Nizina Mazowiecka",
+            "Tatry"
+          ],
+          "image": "r02_pasy_rzezby_polski.jpg",
+          "explanation": "Wybrzeże Słowińskie leży nad Bałtykiem, Pojezierze Mazurskie na północnym wschodzie, Nizina Mazowiecka w centrum, a Tatry na południu."
+        },
+        {
+          "id": "R02_HARD_07",
+          "section": "Super trudne",
+          "type": "sort",
+          "prompt": "Przyporządkuj procesy do skutków w krajobrazie.",
+          "options": null,
+          "items": [
+            "odcięcie zatoki przez mierzeję",
+            "zanik lądolodu",
+            "krasowienie wapieni",
+            "wymywanie lessu",
+            "działalność kopalń",
+            "lodowce górskie w Tatrach"
+          ],
+          "categories": [
+            "tworzy jeziora lub doliny naturalne",
+            "tworzy formy krasowe lub lessowe",
+            "przekształca krajobraz przemysłowo"
+          ],
+          "answer": {
+            "tworzy jeziora lub doliny naturalne": [
+              "odcięcie zatoki przez mierzeję",
+              "zanik lądolodu",
+              "lodowce górskie w Tatrach"
+            ],
+            "tworzy formy krasowe lub lessowe": [
+              "krasowienie wapieni",
+              "wymywanie lessu"
+            ],
+            "przekształca krajobraz przemysłowo": [
+              "działalność kopalń"
+            ]
+          },
+          "explanation": "Różne czynniki rzeźbotwórcze tworzą charakterystyczne elementy krajobrazów Polski."
+        },
+        {
+          "id": "R02_HARD_08",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Który zestaw zawiera wyłącznie elementy krajobrazu krasowego Jury Krakowsko-Częstochowskiej?",
+          "options": [
+            "skałki wapienne, jaskinie, stalaktyty, wywierzyska",
+            "wydmy, mierzeje, klify, latarnie",
+            "hałdy, kopalnie, szyby, filtry kominowe",
+            "turnie, granie, piargi, hale",
+            "pola pszenicy, chmiel, less, Barbórka",
+            "metro, Sejm, Senat, plaża"
+          ],
+          "answer": 0,
+          "image": "r02_jaskinia_krasowa.jpg",
+          "explanation": "Do form krasowych należą m.in. skałki wapienne, jaskinie, stalaktyty i wywierzyska."
+        },
+        {
+          "id": "R02_HARD_09",
+          "section": "Super trudne",
+          "type": "riddle",
+          "prompt": "Nazwa źródła krasowego, z którego woda wydostaje się na powierzchnię, to...",
+          "options": null,
+          "answer": "wywierzysko",
+          "altAnswers": [
+            "wywierzysko",
+            "wywierzyska"
+          ],
+          "explanation": "Wywierzyska są źródłami dającymi początek niektórym rzekom Wyżyny Krakowsko-Częstochowskiej."
+        },
+        {
+          "id": "R02_HARD_10",
+          "section": "Super trudne",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: piaskownica zwyczajna, mikołajek nadmorski, wydmuchrzyca piaskowa, limba.",
+          "options": null,
+          "answer": "limba",
+          "explanation": "Piaskownica, mikołajek i wydmuchrzyca są roślinami wydm, a limba jest charakterystyczna dla Tatr."
+        }
+      ],
+      "kidPrompts": {
+        "R02_POD_08": "Ułóż pasy Polski od morza do gór.",
+        "R02_POP_05": "Ułóż, jak z zatoki robi się jezioro przybrzeżne.",
+        "R02_NIW_05": "Połącz znane miejsca w Warszawie z opisami.",
+        "R02_WSL_10": "Wybierz krainę z żyznymi polami i wąwozami.",
+        "R02_JUT_07": "Ułóż piętra roślin w Tatrach od dołu do góry.",
+        "R02_HARD_06": "Ułóż krainy Polski od północy do południa."
+      },
+      "visuals": [
+        {
+          "file": "r02/01_pasy_rzezby_terenu_polski.jpg",
+          "title": "Pasy rzeźby terenu Polski",
+          "kind": "infografika"
+        },
+        {
+          "file": "r02/02_krajobraz_nadmorski_wybrzeza_slowinskiego.jpg",
+          "title": "Krajobraz nadmorski Wybrzeża Słowińskiego",
+          "kind": "infografika"
+        },
+        {
+          "file": "r02/03_krajobraz_wysokogorski_tatr.jpg",
+          "title": "Krajobraz wysokogórski Tatr",
+          "kind": "infografika"
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "number": 3,
+      "title": "Lądy i oceany na Ziemi",
+      "icon": "🌍",
+      "sectionOrder": [
+        "Ziemia i globus",
+        "Siatka geograficzna i półkule",
+        "Kontynenty i oceany",
+        "Wielkie odkrycia geograficzne",
+        "Badacze i podróże nowożytne",
+        "Super trudne"
+      ],
+      "sectionIcons": {
+        "Ziemia i globus": "🌍",
+        "Siatka geograficzna i półkule": "🧭",
+        "Kontynenty i oceany": "🗺️",
+        "Wielkie odkrycia geograficzne": "⛵",
+        "Badacze i podróże nowożytne": "🏔️",
+        "Super trudne": "🔥"
+      },
+      "exercises": [
+        {
+          "id": "R03_ZIE_01",
+          "section": "Ziemia i globus",
+          "type": "single_choice",
+          "prompt": "Jak w uproszczeniu można określić kształt Ziemi?",
+          "explanation": "Ziemia ma kształt zbliżony do kuli, choć jest lekko spłaszczona na biegunach.",
+          "options": [
+            "płaski dysk",
+            "kula",
+            "sześcian",
+            "stożek",
+            "walec",
+            "półkula"
+          ],
+          "answer": 1,
+          "image": "r03_globus_os_ziemska.jpg"
+        },
+        {
+          "id": "R03_ZIE_02",
+          "section": "Ziemia i globus",
+          "type": "true_false",
+          "prompt": "Oś ziemska przebiega przez środek Ziemi i łączy biegun północny z biegunem południowym.",
+          "explanation": "Oś ziemska to prosta przechodząca przez środek Ziemi i oba bieguny.",
+          "options": null,
+          "answer": true,
+          "image": "r03_globus_os_ziemska.jpg"
+        },
+        {
+          "id": "R03_ZIE_03",
+          "section": "Ziemia i globus",
+          "type": "fill_in",
+          "prompt": "Model naszej planety w kształcie kuli to __________.",
+          "explanation": "Globus jest kulistym modelem Ziemi.",
+          "options": null,
+          "answer": [
+            "globus"
+          ],
+          "altAnswers": [
+            [
+              "globus",
+              "globusem"
+            ]
+          ]
+        },
+        {
+          "id": "R03_ZIE_04",
+          "section": "Ziemia i globus",
+          "type": "single_choice",
+          "prompt": "Ile w przybliżeniu lat istnieje Ziemia według tekstu rozdziału?",
+          "explanation": "W rozdziale podano, że Ziemia istnieje około 4,5 miliarda lat.",
+          "options": [
+            "około 4,5 mln lat",
+            "około 45 mln lat",
+            "około 4,5 mld lat",
+            "około 450 tys. lat",
+            "około 14 mld lat",
+            "około 400 lat"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "R03_ZIE_05",
+          "section": "Ziemia i globus",
+          "type": "true_false",
+          "prompt": "Ziemia obraca się wokół własnej osi.",
+          "explanation": "Ruch obrotowy Ziemi odbywa się wokół osi ziemskiej.",
+          "options": null,
+          "answer": true,
+          "image": "r03_globus_os_ziemska.jpg"
+        },
+        {
+          "id": "R03_ZIE_06",
+          "section": "Ziemia i globus",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: biegun północny, biegun południowy, oś ziemska, zwrotnik Raka.",
+          "explanation": "Zwrotnik Raka jest równoleżnikiem, a pozostałe elementy są bezpośrednio związane z osią i biegunami Ziemi.",
+          "options": null,
+          "answer": "zwrotnik Raka"
+        },
+        {
+          "id": "R03_ZIE_07",
+          "section": "Ziemia i globus",
+          "type": "riddle",
+          "prompt": "Punkt na powierzchni Ziemi połączony osią ziemską z biegunem południowym to...",
+          "explanation": "Oś ziemska łączy biegun północny i biegun południowy.",
+          "options": null,
+          "answer": "biegun północny",
+          "altAnswers": [
+            "biegun północny",
+            "północny biegun",
+            "Biegun Północny"
+          ]
+        },
+        {
+          "id": "R03_ZIE_08",
+          "section": "Ziemia i globus",
+          "type": "single_choice",
+          "prompt": "Dlaczego w uproszczeniu mówi się, że Ziemia jest kulą?",
+          "explanation": "Wzniesienia, zagłębienia i spłaszczenie biegunów są niewielkie w porównaniu z rozmiarami planety.",
+          "options": [
+            "bo nie ma na niej oceanów",
+            "bo wszystkie mapy są okrągłe",
+            "bo odkształcenia są małe wobec rozmiarów planety",
+            "bo globus jest płaski",
+            "bo Ziemia nie obraca się",
+            "bo lądy zajmują całą powierzchnię"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "R03_ZIE_09",
+          "section": "Ziemia i globus",
+          "type": "match",
+          "prompt": "Połącz pojęcie z opisem.",
+          "explanation": "Te pojęcia opisują podstawowy model i oś obrotu Ziemi.",
+          "options": null,
+          "left": [
+            "oś ziemska",
+            "biegun północny",
+            "biegun południowy",
+            "globus"
+          ],
+          "right": [
+            "kulisty model Ziemi",
+            "punkt na północnym końcu osi",
+            "punkt na południowym końcu osi",
+            "prosta przechodząca przez środek Ziemi"
+          ],
+          "answer": {
+            "oś ziemska": "prosta przechodząca przez środek Ziemi",
+            "biegun północny": "punkt na północnym końcu osi",
+            "biegun południowy": "punkt na południowym końcu osi",
+            "globus": "kulisty model Ziemi"
+          }
+        },
+        {
+          "id": "R03_ZIE_10",
+          "section": "Ziemia i globus",
+          "type": "scenario",
+          "prompt": "Uczeń patrzy na model Ziemi, który może się obracać wokół pręta przechodzącego przez jego środek i oba bieguny. Jaki model ogląda?",
+          "explanation": "Taki model to globus, czyli kulisty model Ziemi.",
+          "options": [
+            "mapę polityczną",
+            "plan miasta",
+            "globus",
+            "kompas",
+            "atlas samochodowy"
+          ],
+          "answer": 2,
+          "image": "r03_globus_os_ziemska.jpg"
+        },
+        {
+          "id": "R03_ZIE_11",
+          "section": "Ziemia i globus",
+          "type": "multi_select",
+          "prompt": "Zaznacz informacje zgodne z opisem Ziemi w rozdziale.",
+          "explanation": "Rozdział podkreśla kulisty kształt Ziemi, jej obrót wokół osi oraz spłaszczenie na biegunach.",
+          "options": [
+            "Ziemia obraca się wokół własnej osi",
+            "Ziemia jest idealnym sześcianem",
+            "Ziemia jest lekko spłaszczona na biegunach",
+            "Globus jest modelem Ziemi",
+            "Na Ziemi nie ma wzniesień ani zagłębień"
+          ],
+          "answer": [
+            0,
+            2,
+            3
+          ]
+        },
+        {
+          "id": "R03_ZIE_12",
+          "section": "Ziemia i globus",
+          "type": "sequence",
+          "prompt": "Ułóż czynności w kolejności, w jakiej najprościej wyjaśnisz budowę osi ziemskiej.",
+          "explanation": "Oś ziemska przechodzi przez środek Ziemi i oba bieguny.",
+          "options": null,
+          "items": [
+            "Wskaż środek Ziemi",
+            "Wskaż biegun północny",
+            "Wskaż biegun południowy",
+            "Połącz te punkty prostą"
+          ],
+          "answer": [
+            "Wskaż środek Ziemi",
+            "Wskaż biegun północny",
+            "Wskaż biegun południowy",
+            "Połącz te punkty prostą"
+          ]
+        },
+        {
+          "id": "R03_SIA_01",
+          "section": "Siatka geograficzna i półkule",
+          "type": "single_choice",
+          "prompt": "Jak nazywają się linie biegnące z północy na południe i łączące bieguny?",
+          "explanation": "Południki łączą bieguny kuli ziemskiej.",
+          "options": [
+            "równoleżniki",
+            "południki",
+            "zwrotniki",
+            "równik",
+            "koła podbiegunowe",
+            "granice kontynentów"
+          ],
+          "answer": 1,
+          "image": "r03_siatka_geograficzna.jpg"
+        },
+        {
+          "id": "R03_SIA_02",
+          "section": "Siatka geograficzna i półkule",
+          "type": "single_choice",
+          "prompt": "Który równoleżnik jest najdłuższy?",
+          "explanation": "Najdłuższym równoleżnikiem jest równik.",
+          "options": [
+            "zwrotnik Raka",
+            "zwrotnik Koziorożca",
+            "równik",
+            "koło podbiegunowe północne",
+            "koło podbiegunowe południowe",
+            "południk zerowy"
+          ],
+          "answer": 2,
+          "image": "r03_siatka_geograficzna.jpg"
+        },
+        {
+          "id": "R03_SIA_03",
+          "section": "Siatka geograficzna i półkule",
+          "type": "true_false",
+          "prompt": "Wszystkie południki mają taką samą długość.",
+          "explanation": "W rozdziale podano, że południki są równej długości.",
+          "options": null,
+          "answer": true
+        },
+        {
+          "id": "R03_SIA_04",
+          "section": "Siatka geograficzna i półkule",
+          "type": "true_false",
+          "prompt": "Równoleżniki przecinają południki pod kątem prostym.",
+          "explanation": "Równoleżniki przecinają południki pod kątem prostym.",
+          "options": null,
+          "answer": true,
+          "image": "r03_siatka_geograficzna.jpg"
+        },
+        {
+          "id": "R03_SIA_05",
+          "section": "Siatka geograficzna i półkule",
+          "type": "fill_in",
+          "prompt": "Na globusie południki i równoleżniki tworzą siatkę __________, a na mapie siatkę __________.",
+          "explanation": "Na globusie jest to siatka geograficzna, a na mapie siatka kartograficzna.",
+          "options": null,
+          "answer": [
+            "geograficzną",
+            "kartograficzną"
+          ],
+          "altAnswers": [
+            [
+              "geograficzną",
+              "geograficzna"
+            ],
+            [
+              "kartograficzną",
+              "kartograficzna"
+            ]
+          ]
+        },
+        {
+          "id": "R03_SIA_06",
+          "section": "Siatka geograficzna i półkule",
+          "type": "multi_select",
+          "prompt": "Zaznacz równoleżniki, którym nadano własne nazwy.",
+          "explanation": "W rozdziale wymieniono równik, dwa zwrotniki i dwa koła podbiegunowe.",
+          "options": [
+            "równik",
+            "zwrotnik Raka",
+            "południk 180°",
+            "zwrotnik Koziorożca",
+            "południk zerowy",
+            "koło podbiegunowe północne"
+          ],
+          "answer": [
+            0,
+            1,
+            3,
+            5
+          ]
+        },
+        {
+          "id": "R03_SIA_07",
+          "section": "Siatka geograficzna i półkule",
+          "type": "single_choice",
+          "prompt": "Jaka płaszczyzna dzieli Ziemię na półkulę północną i południową?",
+          "explanation": "Płaszczyzna równika dzieli Ziemię na półkulę północną i południową.",
+          "options": [
+            "płaszczyzna równika",
+            "płaszczyzna południka 0° i 180°",
+            "płaszczyzna zwrotnika Raka",
+            "płaszczyzna koła podbiegunowego",
+            "płaszczyzna dowolnej mapy",
+            "płaszczyzna osi ziemskiej"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "R03_SIA_08",
+          "section": "Siatka geograficzna i półkule",
+          "type": "single_choice",
+          "prompt": "Które południki tworzą płaszczyznę podziału na półkulę wschodnią i zachodnią?",
+          "explanation": "Podział ten tworzą południk zerowy oraz południk 180°.",
+          "options": [
+            "równik i zwrotnik Raka",
+            "południk 0° i południk 180°",
+            "dwa dowolne równoleżniki",
+            "koła podbiegunowe",
+            "zwrotniki Raka i Koziorożca",
+            "równik i południk 0°"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "R03_SIA_09",
+          "section": "Siatka geograficzna i półkule",
+          "type": "match",
+          "prompt": "Połącz oznaczenie kierunku z jego znaczeniem.",
+          "explanation": "Skróty kierunków pochodzą od nazw używanych na mapach i globusach.",
+          "options": null,
+          "left": [
+            "N",
+            "S",
+            "E",
+            "W"
+          ],
+          "right": [
+            "północ",
+            "południe",
+            "wschód",
+            "zachód"
+          ],
+          "answer": {
+            "N": "północ",
+            "S": "południe",
+            "E": "wschód",
+            "W": "zachód"
+          }
+        },
+        {
+          "id": "R03_SIA_10",
+          "section": "Siatka geograficzna i półkule",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: równik, zwrotnik Raka, zwrotnik Koziorożca, południk zerowy.",
+          "explanation": "Południk zerowy jest południkiem, a pozostałe nazwy dotyczą równoleżników.",
+          "options": null,
+          "answer": "południk zerowy"
+        },
+        {
+          "id": "R03_SIA_11",
+          "section": "Siatka geograficzna i półkule",
+          "type": "scenario",
+          "prompt": "Na globusie chcesz określić, czy punkt leży na półkuli północnej czy południowej. Którą linię musisz najpierw odszukać?",
+          "explanation": "Równik jest granicą między półkulą północną i południową.",
+          "options": [
+            "równik",
+            "południk 180°",
+            "zwrotnik Koziorożca",
+            "dowolną rzekę",
+            "granicę kontynentu"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "R03_SIA_12",
+          "section": "Siatka geograficzna i półkule",
+          "type": "sort",
+          "prompt": "Przyporządkuj linie do grup.",
+          "explanation": "Zwrotniki, koła podbiegunowe i równik są równoleżnikami, a południki 0° i 180° są południkami.",
+          "options": null,
+          "items": [
+            "równik",
+            "południk zerowy",
+            "zwrotnik Raka",
+            "południk 180°",
+            "koło podbiegunowe południowe"
+          ],
+          "categories": [
+            "równoleżniki",
+            "południki"
+          ],
+          "answer": {
+            "równoleżniki": [
+              "równik",
+              "zwrotnik Raka",
+              "koło podbiegunowe południowe"
+            ],
+            "południki": [
+              "południk zerowy",
+              "południk 180°"
+            ]
+          }
+        },
+        {
+          "id": "R03_SIA_13",
+          "section": "Siatka geograficzna i półkule",
+          "type": "riddle",
+          "prompt": "Równoleżnik leżący w połowie odległości między biegunami to...",
+          "explanation": "Równik przebiega w połowie odległości między biegunami.",
+          "options": null,
+          "answer": "równik",
+          "altAnswers": [
+            "równik",
+            "rownik"
+          ]
+        },
+        {
+          "id": "R03_SIA_14",
+          "section": "Siatka geograficzna i półkule",
+          "type": "true_false",
+          "prompt": "Europa leży na półkuli północnej oraz częściowo na półkuli wschodniej i zachodniej.",
+          "explanation": "Południk 0° przebiega przez Europę, a cały kontynent leży na północ od równika.",
+          "options": null,
+          "answer": true
+        },
+        {
+          "id": "R03_KON_01",
+          "section": "Kontynenty i oceany",
+          "type": "single_choice",
+          "prompt": "Ile kontynentów wyróżnia się na Ziemi w rozdziale?",
+          "explanation": "Rozdział wymienia siedem kontynentów.",
+          "options": [
+            "pięć",
+            "sześć",
+            "siedem",
+            "osiem",
+            "dziewięć",
+            "dziesięć"
+          ],
+          "answer": 2,
+          "image": "r03_kontynenty_oceany_mapa.jpg"
+        },
+        {
+          "id": "R03_KON_02",
+          "section": "Kontynenty i oceany",
+          "type": "multi_select",
+          "prompt": "Zaznacz kontynenty wymienione w rozdziale.",
+          "explanation": "Wśród siedmiu kontynentów są między innymi Azja, Afryka, Europa i Australia.",
+          "options": [
+            "Azja",
+            "Afryka",
+            "Europa",
+            "Australia",
+            "Grenlandia",
+            "Ocean Indyjski"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": "R03_KON_03",
+          "section": "Kontynenty i oceany",
+          "type": "single_choice",
+          "prompt": "Ile oceanów wchodzi w skład oceanu światowego według rozdziału?",
+          "explanation": "Ocean światowy jest umownie podzielony na pięć oceanów.",
+          "options": [
+            "trzy",
+            "cztery",
+            "pięć",
+            "sześć",
+            "siedem",
+            "dwa"
+          ],
+          "answer": 2,
+          "image": "r03_kontynenty_oceany_mapa.jpg"
+        },
+        {
+          "id": "R03_KON_04",
+          "section": "Kontynenty i oceany",
+          "type": "single_choice",
+          "prompt": "Który ocean nazywany jest Pacyfikiem?",
+          "explanation": "Pacyfik to inna nazwa Oceanu Spokojnego.",
+          "options": [
+            "Ocean Atlantycki",
+            "Ocean Indyjski",
+            "Ocean Spokojny",
+            "Ocean Arktyczny",
+            "Ocean Południowy",
+            "Ocean Śródziemny"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "R03_KON_05",
+          "section": "Kontynenty i oceany",
+          "type": "single_choice",
+          "prompt": "Który ocean nazywany jest Atlantykiem?",
+          "explanation": "Atlantyk to inna nazwa Oceanu Atlantyckiego.",
+          "options": [
+            "Ocean Spokojny",
+            "Ocean Atlantycki",
+            "Ocean Indyjski",
+            "Ocean Arktyczny",
+            "Ocean Południowy",
+            "Ocean Światowy"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "R03_KON_06",
+          "section": "Kontynenty i oceany",
+          "type": "true_false",
+          "prompt": "Europa i Azja w rzeczywistości tworzą jeden wielki kontynent nazywany Eurazją.",
+          "explanation": "Podręcznik zaznacza, że Europę i Azję dzieli się umownie ze względów historycznych i kulturowych.",
+          "options": null,
+          "answer": true
+        },
+        {
+          "id": "R03_KON_07",
+          "section": "Kontynenty i oceany",
+          "type": "fill_in",
+          "prompt": "Duże obszary lądowe otoczone wodami mórz i oceanów to __________.",
+          "explanation": "Kontynenty to bardzo duże obszary lądu otoczone wodami mórz i oceanów.",
+          "options": null,
+          "answer": [
+            "kontynenty"
+          ],
+          "altAnswers": [
+            [
+              "kontynenty",
+              "kontynentami"
+            ]
+          ]
+        },
+        {
+          "id": "R03_KON_08",
+          "section": "Kontynenty i oceany",
+          "type": "match",
+          "prompt": "Połącz nazwę z typem obiektu.",
+          "explanation": "Azja i Antarktyda to kontynenty, a Ocean Indyjski i Arktyczny to oceany.",
+          "options": null,
+          "left": [
+            "Azja",
+            "Ocean Indyjski",
+            "Antarktyda",
+            "Ocean Arktyczny"
+          ],
+          "right": [
+            "kontynent",
+            "ocean",
+            "kontynent",
+            "ocean"
+          ],
+          "answer": {
+            "Azja": "kontynent",
+            "Ocean Indyjski": "ocean",
+            "Antarktyda": "kontynent",
+            "Ocean Arktyczny": "ocean"
+          }
+        },
+        {
+          "id": "R03_KON_09",
+          "section": "Kontynenty i oceany",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: Azja, Afryka, Ocean Spokojny, Australia.",
+          "explanation": "Ocean Spokojny jest oceanem, a pozostałe nazwy to kontynenty.",
+          "options": null,
+          "answer": "Ocean Spokojny"
+        },
+        {
+          "id": "R03_KON_10",
+          "section": "Kontynenty i oceany",
+          "type": "scenario",
+          "prompt": "Uczeń ma wskazać kontynent leżący na południe od Europy, przez który przebiegają równik i południk zerowy. Co powinien wskazać?",
+          "explanation": "Afryka leży na południe od Europy, a przez jej obszar przebiegają równik i południk zerowy.",
+          "options": [
+            "Australia",
+            "Afryka",
+            "Antarktyda",
+            "Ameryka Północna",
+            "Europa"
+          ],
+          "answer": 1,
+          "image": "r03_kontynenty_oceany_mapa.jpg"
+        },
+        {
+          "id": "R03_KON_11",
+          "section": "Kontynenty i oceany",
+          "type": "sort",
+          "prompt": "Przyporządkuj nazwy do kategorii.",
+          "explanation": "Kontynenty są obszarami lądowymi, a oceany tworzą części oceanu światowego.",
+          "options": null,
+          "items": [
+            "Ameryka Północna",
+            "Ocean Południowy",
+            "Europa",
+            "Ocean Atlantycki",
+            "Ameryka Południowa",
+            "Ocean Arktyczny"
+          ],
+          "categories": [
+            "kontynenty",
+            "oceany"
+          ],
+          "answer": {
+            "kontynenty": [
+              "Ameryka Północna",
+              "Europa",
+              "Ameryka Południowa"
+            ],
+            "oceany": [
+              "Ocean Południowy",
+              "Ocean Atlantycki",
+              "Ocean Arktyczny"
+            ]
+          }
+        },
+        {
+          "id": "R03_KON_12",
+          "section": "Kontynenty i oceany",
+          "type": "true_false",
+          "prompt": "Kontynenty zajmują większą powierzchnię na półkuli północnej niż na półkuli południowej.",
+          "explanation": "Pod mapą w rozdziale podano, że rozmieszczenie kontynentów nie jest równomierne i więcej lądów znajduje się na półkuli północnej.",
+          "options": null,
+          "answer": true,
+          "image": "r03_kontynenty_oceany_mapa.jpg"
+        },
+        {
+          "id": "R03_KON_13",
+          "section": "Kontynenty i oceany",
+          "type": "riddle",
+          "prompt": "Jeden wielki kontynent tworzony w rzeczywistości przez Europę i Azję to...",
+          "explanation": "Europa i Azja tworzą Eurazję, choć zwykle omawia się je jako dwa kontynenty.",
+          "options": null,
+          "answer": "Eurazja",
+          "altAnswers": [
+            "Eurazja",
+            "eurazja"
+          ]
+        },
+        {
+          "id": "R03_ODK_01",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "single_choice",
+          "prompt": "Kto według rozdziału był jednym z pierwszych wielkich podróżników i odkrywców wnętrza Azji?",
+          "explanation": "Marco Polo odbył wieloletnią wyprawę w głąb Azji.",
+          "options": [
+            "Marco Polo",
+            "Krzysztof Kolumb",
+            "James Cook",
+            "Robert Peary",
+            "Roald Amundsen",
+            "Paweł Strzelecki"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "R03_ODK_02",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "fill_in",
+          "prompt": "Wyprawa Marca Polo w głąb Azji trwała od roku __________ do roku __________.",
+          "explanation": "W rozdziale podano lata 1271-1295.",
+          "options": null,
+          "answer": [
+            "1271",
+            "1295"
+          ],
+          "altAnswers": [
+            [
+              "1271",
+              "1271 r."
+            ],
+            [
+              "1295",
+              "1295 r."
+            ]
+          ]
+        },
+        {
+          "id": "R03_ODK_03",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "single_choice",
+          "prompt": "Do jakiego miasta w Chinach dotarł Marco Polo drogą lądową?",
+          "explanation": "Marco Polo dotarł do Pekinu, stolicy Chin.",
+          "options": [
+            "Pekin",
+            "Szanghaj",
+            "Kanton",
+            "Tokio",
+            "Delhi",
+            "Bagdad"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "R03_ODK_04",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "multi_select",
+          "prompt": "Które towary zaczęto sprowadzać z Azji dzięki poznaniu odległych państw przez Europejczyków?",
+          "explanation": "W rozdziale wymieniono przyprawy: pieprz, cynamon, goździki i gałkę muszkatołową.",
+          "options": [
+            "pieprz",
+            "cynamon",
+            "goździki",
+            "gałka muszkatołowa",
+            "ziemniaki",
+            "kakao"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": "R03_ODK_05",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "single_choice",
+          "prompt": "Dlaczego w drugiej połowie XV wieku europejscy kupcy szukali nowej drogi do Azji?",
+          "explanation": "Dotychczasowe lądowe szlaki handlowe zostały zablokowane przez Turków.",
+          "options": [
+            "bo zabrakło statków",
+            "bo lądowe szlaki handlowe zablokowali Turcy",
+            "bo odkryto Antarktydę",
+            "bo zakazano używania kompasu",
+            "bo Europa była bezludna",
+            "bo nie znano przypraw"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "R03_ODK_06",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "true_false",
+          "prompt": "W morską podróż do Azji jako pierwsi wyruszyli Portugalczycy, wybierając drogę wokół Afryki.",
+          "explanation": "Portugalczycy szukali drogi do Azji wokół Afryki.",
+          "options": null,
+          "answer": true,
+          "image": "r03_karawela_ocean.jpg"
+        },
+        {
+          "id": "R03_ODK_07",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "single_choice",
+          "prompt": "Który podróżnik dotarł w 1498 roku do zachodniego wybrzeża Indii po przepłynięciu Oceanu Indyjskiego?",
+          "explanation": "Vasco da Gama dopłynął do Indii w 1498 roku.",
+          "options": [
+            "Vasco da Gama",
+            "Krzysztof Kolumb",
+            "Ferdynand Magellan",
+            "James Cook",
+            "Henry Stanley",
+            "Marco Polo"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "R03_ODK_08",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "single_choice",
+          "prompt": "Do jakich wysp dotarł Krzysztof Kolumb w 1492 roku?",
+          "explanation": "Kolumb dotarł do Bahamów, Kuby i Haiti.",
+          "options": [
+            "Bahamów, Kuby i Haiti",
+            "Hawajów, Filipin i Jawy",
+            "Grenlandii, Islandii i Spitsbergenu",
+            "Moluków, Jawy i Borneo",
+            "Wysp Brytyjskich i Sycylii",
+            "Nowej Zelandii i Tasmanii"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "R03_ODK_09",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "true_false",
+          "prompt": "Krzysztof Kolumb od razu wiedział, że dotarł do nowego kontynentu.",
+          "explanation": "Kolumb sądził, że dopłynął do Indii, dlatego wyspy nazwał Indiami Zachodnimi.",
+          "options": null,
+          "answer": false
+        },
+        {
+          "id": "R03_ODK_10",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "riddle",
+          "prompt": "Od imienia którego podróżnika nazwano Amerykę?",
+          "explanation": "Nazwa Ameryka pochodzi od imienia Ameriga Vespucciego.",
+          "options": null,
+          "answer": "Amerigo Vespucci",
+          "altAnswers": [
+            "Amerigo Vespucci",
+            "Vespucci",
+            "Ameriga Vespucciego",
+            "Amerigo"
+          ]
+        },
+        {
+          "id": "R03_ODK_11",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "scenario",
+          "prompt": "Żeglarz płynie na zachód przez Ocean Atlantycki, chce dotrzeć do Indii, ale trafia na Bahamy, Kubę i Haiti. Kto to jest?",
+          "explanation": "Tak opisana jest wyprawa Krzysztofa Kolumba z 1492 roku.",
+          "options": [
+            "Krzysztof Kolumb",
+            "Vasco da Gama",
+            "Marco Polo",
+            "David Livingstone",
+            "Robert Peary"
+          ],
+          "answer": 0,
+          "image": "r03_karawela_ocean.jpg"
+        },
+        {
+          "id": "R03_ODK_12",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "match",
+          "prompt": "Połącz podróżnika z dokonaniem.",
+          "explanation": "Każdy z tych podróżników jest w rozdziale powiązany z innym etapem poznawania świata.",
+          "options": null,
+          "left": [
+            "Marco Polo",
+            "Vasco da Gama",
+            "Krzysztof Kolumb",
+            "Ferdynand Magellan"
+          ],
+          "right": [
+            "dotarł drogą lądową do Pekinu",
+            "dopłynął do Indii wokół Afryki",
+            "dotarł do Bahamów, Kuby i Haiti",
+            "dowodził wyprawą, która opłynęła Ziemię"
+          ],
+          "answer": {
+            "Marco Polo": "dotarł drogą lądową do Pekinu",
+            "Vasco da Gama": "dopłynął do Indii wokół Afryki",
+            "Krzysztof Kolumb": "dotarł do Bahamów, Kuby i Haiti",
+            "Ferdynand Magellan": "dowodził wyprawą, która opłynęła Ziemię"
+          }
+        },
+        {
+          "id": "R03_ODK_13",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "sequence",
+          "prompt": "Ułóż wydarzenia w kolejności chronologicznej.",
+          "explanation": "Marco Polo wyruszył w 1271 roku, Kolumb w 1492, Vasco da Gama dotarł do Indii w 1498, a Magellan rozpoczął wyprawę w 1519 roku.",
+          "options": null,
+          "items": [
+            "Wyprawa Kolumba do Ameryki",
+            "Wyprawa Vasco da Gamy do Indii",
+            "Początek wyprawy Magellana",
+            "Początek wyprawy Marca Polo"
+          ],
+          "answer": [
+            "Początek wyprawy Marca Polo",
+            "Wyprawa Kolumba do Ameryki",
+            "Wyprawa Vasco da Gamy do Indii",
+            "Początek wyprawy Magellana"
+          ]
+        },
+        {
+          "id": "R03_ODK_14",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: Bahamy, Kuba, Haiti, Hawaje.",
+          "explanation": "Bahamy, Kuba i Haiti są związane z wyprawą Kolumba, a Hawaje z wyprawami Jamesa Cooka.",
+          "options": null,
+          "answer": "Hawaje"
+        },
+        {
+          "id": "R03_ODK_15",
+          "section": "Wielkie odkrycia geograficzne",
+          "type": "single_choice",
+          "prompt": "Jak nazywano okres dalekich podróży morskich w poszukiwaniu szlaków handlowych do Azji?",
+          "explanation": "Ten okres nazwano epoką wielkich odkryć geograficznych.",
+          "options": [
+            "epoka wielkich odkryć geograficznych",
+            "rewolucja przemysłowa",
+            "wielka wędrówka ludów",
+            "średniowieczny pokój morski",
+            "epoka lodowcowa",
+            "czas wielkich bitew"
+          ],
+          "answer": 0,
+          "image": "r03_karawela_ocean.jpg"
+        },
+        {
+          "id": "R03_BAD_01",
+          "section": "Badacze i podróże nowożytne",
+          "type": "single_choice",
+          "prompt": "Kto dowodził wyprawą, której uczestnicy jako pierwsi opłynęli Ziemię?",
+          "explanation": "Pierwszą wyprawą dookoła świata dowodził Ferdynand Magellan.",
+          "options": [
+            "Ferdynand Magellan",
+            "James Cook",
+            "Marco Polo",
+            "Krzysztof Kolumb",
+            "Henry Stanley",
+            "Robert Peary"
+          ],
+          "answer": 0,
+          "image": "r03_magellan_ciesnina.jpg"
+        },
+        {
+          "id": "R03_BAD_02",
+          "section": "Badacze i podróże nowożytne",
+          "type": "fill_in",
+          "prompt": "Wyprawa Magellana rozpoczęła się w roku __________ i powróciła do Hiszpanii w roku __________.",
+          "explanation": "Wyprawa trwała od 1519 do 1522 roku.",
+          "options": null,
+          "answer": [
+            "1519",
+            "1522"
+          ],
+          "altAnswers": [
+            [
+              "1519",
+              "1519 r."
+            ],
+            [
+              "1522",
+              "1522 r."
+            ]
+          ]
+        },
+        {
+          "id": "R03_BAD_03",
+          "section": "Badacze i podróże nowożytne",
+          "type": "single_choice",
+          "prompt": "Jak Magellan nazwał ocean leżący na zachód od Ameryki Południowej?",
+          "explanation": "Magellan nazwał ten ocean Pacyfikiem, czyli Oceanem Spokojnym.",
+          "options": [
+            "Pacyfikiem",
+            "Atlantykiem",
+            "Oceanem Arktycznym",
+            "Oceanem Indyjskim",
+            "Morzem Śródziemnym",
+            "Oceanem Południowym"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "R03_BAD_04",
+          "section": "Badacze i podróże nowożytne",
+          "type": "true_false",
+          "prompt": "Magellan zginął na Filipinach.",
+          "explanation": "Rozdział podaje, że Magellan zginął w walce z tubylcami na Filipinach.",
+          "options": null,
+          "answer": true
+        },
+        {
+          "id": "R03_BAD_05",
+          "section": "Badacze i podróże nowożytne",
+          "type": "single_choice",
+          "prompt": "Który podróżnik trzykrotnie opłynął Ziemię i odkrył wiele wysp na Oceanie Spokojnym, m.in. Hawaje?",
+          "explanation": "Tak opisano Jamesa Cooka.",
+          "options": [
+            "James Cook",
+            "Willem Janszoon",
+            "David Livingstone",
+            "Henry Stanley",
+            "Roald Amundsen",
+            "Don Walsh"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "R03_BAD_06",
+          "section": "Badacze i podróże nowożytne",
+          "type": "single_choice",
+          "prompt": "Kto odkrył Australię w 1605 roku według rozdziału?",
+          "explanation": "Rozdział wskazuje holenderskiego żeglarza Willema Janszoona.",
+          "options": [
+            "Willem Janszoon",
+            "James Cook",
+            "Krzysztof Kolumb",
+            "Vasco da Gama",
+            "Robert Peary",
+            "Edmund Hillary"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "R03_BAD_07",
+          "section": "Badacze i podróże nowożytne",
+          "type": "match",
+          "prompt": "Połącz badacza z dokonaniem.",
+          "explanation": "Rozdział zestawia tych badaczy z odkryciami w Afryce i wyprawami polarnymi.",
+          "options": null,
+          "left": [
+            "David Livingstone",
+            "Henry Stanley",
+            "Robert Peary",
+            "Roald Amundsen"
+          ],
+          "right": [
+            "odkrył Wodospady Wiktorii",
+            "odszukał źródła Nilu",
+            "zdobył biegun północny",
+            "zdobył biegun południowy"
+          ],
+          "answer": {
+            "David Livingstone": "odkrył Wodospady Wiktorii",
+            "Henry Stanley": "odszukał źródła Nilu",
+            "Robert Peary": "zdobył biegun północny",
+            "Roald Amundsen": "zdobył biegun południowy"
+          },
+          "image": "r03_wodospady_wiktorii.jpg"
+        },
+        {
+          "id": "R03_BAD_08",
+          "section": "Badacze i podróże nowożytne",
+          "type": "single_choice",
+          "prompt": "Kto zdobył najwyższy szczyt Ziemi w 1953 roku?",
+          "explanation": "Mount Everest zdobyli Edmund Hillary i Tenzing Norgay.",
+          "options": [
+            "Edmund Hillary i Tenzing Norgay",
+            "Robert Peary i Don Walsh",
+            "Roald Amundsen i James Cook",
+            "Marco Polo i Vasco da Gama",
+            "David Livingstone i Henry Stanley",
+            "Willem Janszoon i Amerigo Vespucci"
+          ],
+          "answer": 0,
+          "image": "r03_bieguny_everest_row_marianski.jpg"
+        },
+        {
+          "id": "R03_BAD_09",
+          "section": "Badacze i podróże nowożytne",
+          "type": "single_choice",
+          "prompt": "Do jakiego najgłębszego miejsca na Ziemi opuścili się Jacques Piccard i Don Walsh?",
+          "explanation": "Jacques Piccard i Don Walsh opuścili się na dno Rowu Mariańskiego.",
+          "options": [
+            "Rowu Mariańskiego",
+            "Morza Kaspijskiego",
+            "Jeziora Tanganika",
+            "Kanału Sueskiego",
+            "Cieśniny Magellana",
+            "Zatoki Hudsona"
+          ],
+          "answer": 0,
+          "image": "r03_bieguny_everest_row_marianski.jpg"
+        },
+        {
+          "id": "R03_BAD_10",
+          "section": "Badacze i podróże nowożytne",
+          "type": "sequence",
+          "prompt": "Ułóż wydarzenia XX wieku w kolejności chronologicznej.",
+          "explanation": "Kolejność z tabeli to: 1909, 1911, 1953 i 1960.",
+          "options": null,
+          "items": [
+            "Zdobycie Mount Everestu",
+            "Zejście na dno Rowu Mariańskiego",
+            "Zdobycie bieguna północnego",
+            "Zdobycie bieguna południowego"
+          ],
+          "answer": [
+            "Zdobycie bieguna północnego",
+            "Zdobycie bieguna południowego",
+            "Zdobycie Mount Everestu",
+            "Zejście na dno Rowu Mariańskiego"
+          ],
+          "image": "r03_bieguny_everest_row_marianski.jpg"
+        },
+        {
+          "id": "R03_HARD_01",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Który ocean trzeba było przepłynąć po opłynięciu Ameryki od południa, aby według przypuszczeń dotrzeć do wschodnich wybrzeży Azji?",
+          "explanation": "Po zachodniej stronie Ameryki Południowej leży Ocean Spokojny, nazwany przez Magellana Pacyfikiem.",
+          "options": [
+            "Ocean Spokojny",
+            "Ocean Atlantycki",
+            "Ocean Arktyczny",
+            "Ocean Południowy",
+            "Ocean Indyjski",
+            "Ocean Światowy"
+          ],
+          "answer": 0,
+          "image": "r03_magellan_ciesnina.jpg"
+        },
+        {
+          "id": "R03_HARD_02",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Zaznacz obszary wymienione w opisie trasy Marca Polo.",
+          "explanation": "Trasa Marca Polo wiodła między innymi przez Nizinę Mezopotamską, Wyżynę Irańską, Pamir i pustynię Gobi.",
+          "options": [
+            "Nizina Mezopotamska",
+            "Wyżyna Irańska",
+            "góry Pamir",
+            "pustynia Gobi",
+            "Cieśnina Magellana",
+            "Hawaje"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": "R03_HARD_03",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Jak nazywał się najdalej na południe wysunięty punkt Afryki, do którego dotarł Vasco da Gama?",
+          "explanation": "Vasco da Gama dotarł do Przylądka Igielnego.",
+          "options": [
+            "Przylądek Igielny",
+            "Przylądek Dobrej Nadziei",
+            "Przylądek Horn",
+            "Cieśnina Magellana",
+            "Zatoka Hudsona",
+            "Wyspa Luzon"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "R03_HARD_04",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "James Cook przekroczył oba koła podbiegunowe.",
+          "explanation": "W rozdziale podano, że James Cook przekroczył oba koła podbiegunowe.",
+          "options": null,
+          "answer": true
+        },
+        {
+          "id": "R03_HARD_05",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz obiekt geograficzny z podróżnikiem, którego dotyczy w rozdziale.",
+          "explanation": "Każdy obiekt pojawia się w rozdziale przy opisie innej wyprawy lub odkrycia.",
+          "options": null,
+          "left": [
+            "góry Pamir",
+            "Przylądek Igielny",
+            "Wodospady Wiktorii",
+            "Hawaje"
+          ],
+          "right": [
+            "Marco Polo",
+            "Vasco da Gama",
+            "David Livingstone",
+            "James Cook"
+          ],
+          "answer": {
+            "góry Pamir": "Marco Polo",
+            "Przylądek Igielny": "Vasco da Gama",
+            "Wodospady Wiktorii": "David Livingstone",
+            "Hawaje": "James Cook"
+          }
+        },
+        {
+          "id": "R03_HARD_06",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Marek Kamiński w 1995 roku zdobył najpierw biegun __________, a później samotnie biegun __________.",
+          "explanation": "Ciekawostka podaje, że w marcu 1995 roku dotarł do bieguna północnego, a w grudniu samotnie zdobył biegun południowy.",
+          "options": null,
+          "answer": [
+            "północny",
+            "południowy"
+          ],
+          "altAnswers": [
+            [
+              "północny",
+              "północnego"
+            ],
+            [
+              "południowy",
+              "południowego"
+            ]
+          ],
+          "image": "r03_bieguny_everest_row_marianski.jpg"
+        },
+        {
+          "id": "R03_HARD_07",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Badacz XIX wieku bada okolice jeziora Tanganika, biegi rzek Zambezi i Konga oraz odkrywa Wodospady Wiktorii. Kto to jest?",
+          "explanation": "Taki opis dotyczy Davida Livingstone’a.",
+          "options": [
+            "David Livingstone",
+            "Henry Stanley",
+            "James Cook",
+            "Robert Peary",
+            "Roald Amundsen"
+          ],
+          "answer": 0,
+          "image": "r03_wodospady_wiktorii.jpg"
+        },
+        {
+          "id": "R03_HARD_08",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Które wyspy były celem wyprawy dowodzonej przez Ferdynanda Magellana, nazywane wówczas Wyspami Korzennymi?",
+          "explanation": "Celem wyprawy Magellana były Moluki, czyli Wyspy Korzenne.",
+          "options": [
+            "Moluki",
+            "Hawaje",
+            "Bahamy",
+            "Filipiny",
+            "Kuba i Haiti",
+            "Nowa Zelandia"
+          ],
+          "answer": 0
+        }
+      ],
+      "kidPrompts": {
+        "R03_ZIE_01": "Jaki kształt ma Ziemia w uproszczeniu?",
+        "R03_SIA_01": "Jak nazywają się linie od bieguna do bieguna?",
+        "R03_SIA_07": "Co dzieli Ziemię na północ i południe?",
+        "R03_KON_01": "Ile jest kontynentów?",
+        "R03_KON_03": "Ile jest oceanów?",
+        "R03_ODK_01": "Który podróżnik dotarł daleko w głąb Azji?",
+        "R03_ODK_08": "Do jakich wysp dotarł Kolumb?",
+        "R03_BAD_01": "Kto dowodził pierwszą wyprawą dookoła świata?",
+        "R03_BAD_08": "Kto zdobył Mount Everest w 1953 roku?",
+        "R03_HARD_07": "Który badacz odkrył Wodospady Wiktorii?"
+      },
+      "visuals": [
+        {
+          "file": "r03/01_ziemia_i_globus.jpg",
+          "title": "Ziemia i globus",
+          "kind": "infografika"
+        },
+        {
+          "file": "r03/02_siatka_geograficzna_i_polkule_ziemi.jpg",
+          "title": "Siatka geograficzna i półkule Ziemi",
+          "kind": "infografika"
+        },
+        {
+          "file": "r03/03_kontynenty_i_oceany_na_ziemi.jpg",
+          "title": "Kontynenty i oceany na Ziemi",
+          "kind": "infografika"
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "number": 4,
+      "title": "Krajobrazy świata",
+      "icon": "🌍",
+      "sectionOrder": [
+        "Pogoda i klimat",
+        "Strefy klimatyczne i krajobrazowe",
+        "Lasy świata",
+        "Sawanny, stepy i pustynie",
+        "Krajobraz śródziemnomorski",
+        "Tajga, tundra i góry",
+        "Super trudne"
+      ],
+      "sectionIcons": {
+        "Pogoda i klimat": "🌦️",
+        "Strefy klimatyczne i krajobrazowe": "🌍",
+        "Lasy świata": "🌳",
+        "Sawanny, stepy i pustynie": "🏜️",
+        "Krajobraz śródziemnomorski": "🌿",
+        "Tajga, tundra i góry": "🏔️",
+        "Super trudne": "🔥"
+      },
+      "exercises": [
+        {
+          "id": "R04_POG_01",
+          "section": "Pogoda i klimat",
+          "type": "single_choice",
+          "prompt": "Czym jest pogoda?",
+          "options": [
+            "Stan atmosfery w określonym miejscu i czasie",
+            "Średnie warunki z wielu lat",
+            "Układ stref roślinnych na Ziemi",
+            "Roczna suma opadów w całym kraju",
+            "Stała cecha klimatu kontynentu",
+            "Mapa wysokości terenu"
+          ],
+          "answer": 0,
+          "explanation": "Pogoda to stan atmosfery w określonym miejscu i czasie."
+        },
+        {
+          "id": "R04_POG_02",
+          "section": "Pogoda i klimat",
+          "type": "multi_select",
+          "prompt": "Zaznacz składniki pogody wymienione w podręczniku.",
+          "options": [
+            "temperatura powietrza",
+            "zachmurzenie",
+            "kierunek i prędkość wiatru",
+            "liczba mieszkańców",
+            "barwa gleby",
+            "ciśnienie atmosferyczne"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            5
+          ],
+          "explanation": "Do składników pogody należą między innymi temperatura, zachmurzenie, opady, ciśnienie i wiatr."
+        },
+        {
+          "id": "R04_POG_03",
+          "section": "Pogoda i klimat",
+          "type": "single_choice",
+          "prompt": "Co przedstawia klimatogram?",
+          "options": [
+            "Temperaturę i opady w kolejnych miesiącach",
+            "Tylko kierunki wiatrów",
+            "Ukształtowanie powierzchni",
+            "Rozmieszczenie ludności",
+            "Granice państw",
+            "Wysokość gór"
+          ],
+          "answer": 0,
+          "image": "r04_klimatogram_schemat.jpg",
+          "explanation": "Klimatogram pokazuje średnie miesięczne wartości temperatury powietrza i miesięczne sumy opadów."
+        },
+        {
+          "id": "R04_POG_04",
+          "section": "Pogoda i klimat",
+          "type": "true_false",
+          "prompt": "Klimat danego miejsca można określić na podstawie obserwacji pogody prowadzonych przez 30 lat lub dłużej.",
+          "options": null,
+          "answer": true,
+          "explanation": "W podręczniku podano, że pomiary prowadzone przez 30 lat lub dłużej pozwalają określić klimat."
+        },
+        {
+          "id": "R04_POG_05",
+          "section": "Pogoda i klimat",
+          "type": "fill_in",
+          "prompt": "Klimatem nazywamy warunki pogodowe występujące na danym obszarze w ciągu __________ i powtarzające się w kolejnych __________.",
+          "options": null,
+          "answer": [
+            "roku",
+            "latach"
+          ],
+          "altAnswers": [
+            [
+              "roku"
+            ],
+            [
+              "latach"
+            ]
+          ],
+          "explanation": "Klimat opisuje warunki w ciągu roku, które powtarzają się w następnych latach."
+        },
+        {
+          "id": "R04_POG_06",
+          "section": "Pogoda i klimat",
+          "type": "scenario",
+          "prompt": "Uczeń odczytuje z klimatogramu słupki i linię. Który element zwykle pokazują słupki?",
+          "options": [
+            "miesięczne sumy opadów",
+            "średnie roczne ciśnienie",
+            "wysokość nad poziomem morza",
+            "kierunek wiatru"
+          ],
+          "answer": 0,
+          "image": "r04_klimatogram_schemat.jpg",
+          "explanation": "Na klimatogramach słupki przedstawiają miesięczne sumy opadów."
+        },
+        {
+          "id": "R04_POG_07",
+          "section": "Pogoda i klimat",
+          "type": "riddle",
+          "prompt": "Różnica między średnią temperaturą najcieplejszego i najzimniejszego miesiąca to średnia roczna...",
+          "options": null,
+          "answer": "amplituda temperatury",
+          "altAnswers": [
+            "amplituda",
+            "amplituda temperatury",
+            "średnia roczna amplituda temperatury"
+          ],
+          "explanation": "Amplituda temperatury pokazuje, jak duża jest różnica między najcieplejszym i najzimniejszym miesiącem."
+        },
+        {
+          "id": "R04_POG_08",
+          "section": "Pogoda i klimat",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: temperatura powietrza, opady atmosferyczne, ciśnienie atmosferyczne, liczba ludności.",
+          "options": null,
+          "answer": "liczba ludności",
+          "explanation": "Liczba ludności nie jest składnikiem pogody."
+        },
+        {
+          "id": "R04_POG_09",
+          "section": "Pogoda i klimat",
+          "type": "match",
+          "prompt": "Połącz pojęcie z opisem.",
+          "options": null,
+          "left": [
+            "pogoda",
+            "klimat",
+            "klimatogram",
+            "roczna suma opadów"
+          ],
+          "right": [
+            "stan atmosfery w miejscu i czasie",
+            "warunki pogodowe powtarzające się w latach",
+            "wykres temperatury i opadów",
+            "suma opadów z 12 miesięcy"
+          ],
+          "answer": {
+            "pogoda": "stan atmosfery w miejscu i czasie",
+            "klimat": "warunki pogodowe powtarzające się w latach",
+            "klimatogram": "wykres temperatury i opadów",
+            "roczna suma opadów": "suma opadów z 12 miesięcy"
+          },
+          "explanation": "Pogoda dotyczy krótkiego czasu, klimat opisuje wieloletnią powtarzalność, a klimatogram jest wykresem danych klimatycznych."
+        },
+        {
+          "id": "R04_POG_10",
+          "section": "Pogoda i klimat",
+          "type": "sequence",
+          "prompt": "Ułóż czynności potrzebne do obliczenia rocznej sumy opadów.",
+          "options": null,
+          "items": [
+            "Dodaj wszystkie miesięczne sumy opadów",
+            "Odczytaj sumy opadów dla kolejnych miesięcy",
+            "Zapisz wynik w milimetrach"
+          ],
+          "answer": [
+            "Odczytaj sumy opadów dla kolejnych miesięcy",
+            "Dodaj wszystkie miesięczne sumy opadów",
+            "Zapisz wynik w milimetrach"
+          ],
+          "explanation": "Roczną sumę opadów otrzymuje się przez odczytanie i dodanie opadów ze wszystkich miesięcy."
+        },
+        {
+          "id": "R04_STR_01",
+          "section": "Strefy klimatyczne i krajobrazowe",
+          "type": "single_choice",
+          "prompt": "Jak układają się strefy klimatyczne na Ziemi?",
+          "options": [
+            "Mniej więcej równoleżnikowo",
+            "Wyłącznie wzdłuż południków",
+            "Tylko wokół oceanów",
+            "Promieniście od najwyższych gór",
+            "Zawsze zgodnie z granicami państw",
+            "Losowo, bez związku z szerokością geograficzną"
+          ],
+          "answer": 0,
+          "explanation": "Strefy klimatyczne tworzą pasy rozciągające się mniej więcej wzdłuż równoleżników."
+        },
+        {
+          "id": "R04_STR_02",
+          "section": "Strefy klimatyczne i krajobrazowe",
+          "type": "true_false",
+          "prompt": "Strefy krajobrazowe wydzielono przede wszystkim na podstawie zróżnicowania roślinności.",
+          "options": null,
+          "answer": true,
+          "image": "r04_strefy_krajobrazowe_pas.jpg",
+          "explanation": "Roślinność jest charakterystycznym elementem krajobrazu, dlatego była podstawą wydzielenia stref krajobrazowych."
+        },
+        {
+          "id": "R04_STR_03",
+          "section": "Strefy klimatyczne i krajobrazowe",
+          "type": "multi_select",
+          "prompt": "Zaznacz czynniki różnicujące klimat w obrębie stref klimatycznych.",
+          "options": [
+            "ukształtowanie powierzchni",
+            "odległość od mórz i oceanów",
+            "wysokość bezwzględna",
+            "kolor flagi państwowej",
+            "liczba języków urzędowych",
+            "nazwy kontynentów"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Podręcznik wskazuje ukształtowanie powierzchni oraz odległość od mórz i oceanów jako ważne czynniki różnicujące klimat."
+        },
+        {
+          "id": "R04_STR_04",
+          "section": "Strefy klimatyczne i krajobrazowe",
+          "type": "fill_in",
+          "prompt": "Wraz ze wzrostem wysokości bezwzględnej średnia roczna temperatura powietrza __________, a roczne sumy opadów zwykle __________.",
+          "options": null,
+          "answer": [
+            "maleje",
+            "zwiększają się"
+          ],
+          "altAnswers": [
+            [
+              "maleje",
+              "spada",
+              "obniża się"
+            ],
+            [
+              "zwiększają się",
+              "rosną",
+              "wzrastają"
+            ]
+          ],
+          "explanation": "W górach wraz z wysokością temperatura maleje, a opady są większe."
+        },
+        {
+          "id": "R04_STR_05",
+          "section": "Strefy klimatyczne i krajobrazowe",
+          "type": "single_choice",
+          "prompt": "Który opis najlepiej pasuje do klimatu morskiego?",
+          "options": [
+            "Chłodne lata, dużo opadów i łagodne zimy",
+            "Bardzo gorące lata i całkowity brak opadów",
+            "Mroźne zimy i brak wpływu oceanów",
+            "Stała temperatura poniżej zera przez cały rok",
+            "Upały tylko podczas nocy polarnej",
+            "Wyłącznie opady śniegu"
+          ],
+          "answer": 0,
+          "explanation": "Klimat morski cechuje się chłodnymi latami z dużą ilością opadów oraz łagodnymi zimami."
+        },
+        {
+          "id": "R04_STR_06",
+          "section": "Strefy klimatyczne i krajobrazowe",
+          "type": "sort",
+          "prompt": "Przyporządkuj cechy do klimatu morskiego lub kontynentalnego.",
+          "options": null,
+          "items": [
+            "łagodne zimy",
+            "chłodne lata z opadami",
+            "skąpe opady",
+            "cieplejsze lata niż na wybrzeżu",
+            "zimą niższa temperatura niż na wybrzeżu"
+          ],
+          "categories": [
+            "klimat morski",
+            "klimat kontynentalny"
+          ],
+          "answer": {
+            "klimat morski": [
+              "łagodne zimy",
+              "chłodne lata z opadami"
+            ],
+            "klimat kontynentalny": [
+              "skąpe opady",
+              "cieplejsze lata niż na wybrzeżu",
+              "zimą niższa temperatura niż na wybrzeżu"
+            ]
+          },
+          "image": "r04_strefy_krajobrazowe_pas.jpg",
+          "explanation": "Klimat morski łagodzi temperatury, a kontynentalny ma skąpe opady, cieplejsze lata i chłodniejsze zimy."
+        },
+        {
+          "id": "R04_STR_07",
+          "section": "Strefy klimatyczne i krajobrazowe",
+          "type": "riddle",
+          "prompt": "Pasy terenu o podobnych warunkach klimatycznych to...",
+          "options": null,
+          "answer": "strefy klimatyczne",
+          "altAnswers": [
+            "strefa klimatyczna",
+            "strefy klimatyczne"
+          ],
+          "explanation": "Takie pasy nazywamy strefami klimatycznymi."
+        },
+        {
+          "id": "R04_STR_08",
+          "section": "Strefy klimatyczne i krajobrazowe",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: tajga, tundra, sawanna, klimatogram.",
+          "options": null,
+          "answer": "klimatogram",
+          "explanation": "Tajga, tundra i sawanna to strefy krajobrazowe, a klimatogram jest wykresem klimatycznym."
+        },
+        {
+          "id": "R04_STR_09",
+          "section": "Strefy klimatyczne i krajobrazowe",
+          "type": "true_false",
+          "prompt": "Układ stref krajobrazowych jest mniej regularny niż układ stref klimatycznych.",
+          "options": null,
+          "answer": true,
+          "explanation": "Podręcznik podkreśla, że strefy krajobrazowe nie układają się tak regularnie jak klimatyczne."
+        },
+        {
+          "id": "R04_STR_10",
+          "section": "Strefy klimatyczne i krajobrazowe",
+          "type": "single_choice",
+          "prompt": "Jak działalność człowieka zmieniła wiele naturalnych krajobrazów Ziemi?",
+          "options": [
+            "Przekształciła je w krajobrazy rolnicze, miejskie i przemysłowe",
+            "Sprawiła, że wszędzie powstały pustynie lodowe",
+            "Usunęła wszystkie różnice klimatyczne",
+            "Zamieniła oceany w góry",
+            "Zatrzymała zmiany pogody",
+            "Zlikwidowała strefy klimatyczne"
+          ],
+          "answer": 0,
+          "explanation": "Wiele obszarów naturalnych przekształcono w krajobrazy rolnicze, miejskie i przemysłowe."
+        },
+        {
+          "id": "R04_LAS_01",
+          "section": "Lasy świata",
+          "type": "single_choice",
+          "prompt": "Gdzie znajdują się największe obszary wilgotnych lasów równikowych?",
+          "options": [
+            "Nizina Amazonki, Kotlina Konga i Archipelag Malajski",
+            "Grenlandia, Antarktyda i Svalbard",
+            "Sahara, Gobi i Atakama",
+            "Alpy, Tatry i Himalaje",
+            "Europa Zachodnia i środkowa Australia",
+            "Wyłącznie okolice Morza Śródziemnego"
+          ],
+          "answer": 0,
+          "explanation": "Największe obszary leżą na Nizinie Amazonki, w Kotlinie Konga oraz na wyspach Archipelagu Malajskiego."
+        },
+        {
+          "id": "R04_LAS_02",
+          "section": "Lasy świata",
+          "type": "true_false",
+          "prompt": "W strefie wilgotnych lasów równikowych występują wyraźne cztery pory roku.",
+          "options": null,
+          "answer": false,
+          "image": "r04_wilgotny_las_warstwy.jpg",
+          "explanation": "Duża ilość opadów i wysoka temperatura utrzymują się tam przez cały rok, dlatego nie ma wyraźnych pór roku."
+        },
+        {
+          "id": "R04_LAS_03",
+          "section": "Lasy świata",
+          "type": "fill_in",
+          "prompt": "Codzienne ulewne opady w pobliżu równika nazywa się deszczami __________.",
+          "options": null,
+          "answer": [
+            "zenitalnymi"
+          ],
+          "altAnswers": [
+            [
+              "zenitalnymi",
+              "zenitalne"
+            ]
+          ],
+          "explanation": "Deszcze zenitalne powstają, gdy para wodna unosi się, ochładza i skrapla."
+        },
+        {
+          "id": "R04_LAS_04",
+          "section": "Lasy świata",
+          "type": "multi_select",
+          "prompt": "Zaznacz zwierzęta wymienione przy wilgotnych lasach równikowych.",
+          "options": [
+            "małpy",
+            "jaguary",
+            "tapiry",
+            "kolibry",
+            "niedźwiedzie polarne",
+            "pingwiny"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "W podręczniku przy lasach równikowych pojawiają się między innymi małpy, ptaki, tapiry i jaguary."
+        },
+        {
+          "id": "R04_LAS_05",
+          "section": "Lasy świata",
+          "type": "match",
+          "prompt": "Połącz warstwę wilgotnego lasu równikowego z opisem.",
+          "options": null,
+          "left": [
+            "pojedyncze drzewa",
+            "drzewa 30–40 m",
+            "drzewa 5–20 m",
+            "krzewy i runo"
+          ],
+          "right": [
+            "50–70 m wysokości",
+            "zwarta warstwa koron",
+            "niższe drzewa, np. kakaowce",
+            "półmrok i rośliny cieniolubne"
+          ],
+          "answer": {
+            "pojedyncze drzewa": "50–70 m wysokości",
+            "drzewa 30–40 m": "zwarta warstwa koron",
+            "drzewa 5–20 m": "niższe drzewa, np. kakaowce",
+            "krzewy i runo": "półmrok i rośliny cieniolubne"
+          },
+          "image": "r04_wilgotny_las_warstwy.jpg",
+          "explanation": "W wilgotnym lesie równikowym drzewa tworzą kilka pięter, od pojedynczych najwyższych drzew po warstwę krzewów i runa."
+        },
+        {
+          "id": "R04_LAS_06",
+          "section": "Lasy świata",
+          "type": "single_choice",
+          "prompt": "Dlaczego tradycyjne domy Indian w Amazonii często buduje się na palach?",
+          "options": [
+            "Aby chroniły przed zalaniem i jadowitymi zwierzętami",
+            "Aby łatwiej ogrzewać je zimą",
+            "Aby zatrzymywać śnieg na dachu",
+            "Aby ukryć się przed wiatrem polarnym",
+            "Aby przechowywać lód",
+            "Aby stały na piaskowych wydmach"
+          ],
+          "answer": 0,
+          "explanation": "Domy na palach chronią mieszkańców przed okresowym zalewaniem i jadowitymi zwierzętami."
+        },
+        {
+          "id": "R04_LAS_07",
+          "section": "Lasy świata",
+          "type": "riddle",
+          "prompt": "Podstawowa roślina uprawiana przez część Indian w wilgotnych lasach równikowych to...",
+          "options": null,
+          "answer": "maniok",
+          "altAnswers": [
+            "maniok"
+          ],
+          "explanation": "Maniok jest podstawowym pożywieniem mieszkańców tej strefy."
+        },
+        {
+          "id": "R04_LAS_08",
+          "section": "Lasy świata",
+          "type": "sort",
+          "prompt": "Przyporządkuj cechy do lasów równikowych lub lasów liściastych i mieszanych.",
+          "options": null,
+          "items": [
+            "wysoka temperatura przez cały rok",
+            "cztery pory roku",
+            "deszcze zenitalne",
+            "występują w Ameryce Północnej, Europie i Azji",
+            "wiecznie zielone lasy liściaste",
+            "w Polsce przeważają lasy mieszane"
+          ],
+          "categories": [
+            "wilgotne lasy równikowe",
+            "lasy liściaste i mieszane"
+          ],
+          "answer": {
+            "wilgotne lasy równikowe": [
+              "wysoka temperatura przez cały rok",
+              "deszcze zenitalne",
+              "wiecznie zielone lasy liściaste"
+            ],
+            "lasy liściaste i mieszane": [
+              "cztery pory roku",
+              "występują w Ameryce Północnej, Europie i Azji",
+              "w Polsce przeważają lasy mieszane"
+            ]
+          },
+          "explanation": "Lasy równikowe są gorące i wilgotne cały rok, a lasy liściaste i mieszane rosną w klimacie umiarkowanym z czterema porami roku."
+        },
+        {
+          "id": "R04_LAS_09",
+          "section": "Lasy świata",
+          "type": "true_false",
+          "prompt": "Strefa lasów liściastych i mieszanych występuje przede wszystkim w Ameryce Północnej, Europie i Azji.",
+          "options": null,
+          "answer": true,
+          "explanation": "Podręcznik wskazuje te trzy kontynenty jako główne obszary lasów liściastych i mieszanych."
+        },
+        {
+          "id": "R04_LAS_10",
+          "section": "Lasy świata",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: wyjec, czepiak, tapir, renifer.",
+          "options": null,
+          "answer": "renifer",
+          "explanation": "Wyjec, czepiak i tapir występują w wilgotnych lasach równikowych, a renifer jest kojarzony ze strefą tajgi i tundry."
+        },
+        {
+          "id": "R04_SPS_01",
+          "section": "Sawanny, stepy i pustynie",
+          "type": "single_choice",
+          "prompt": "Co jest wspólną cechą krajobrazu sawanny i stepu?",
+          "options": [
+            "Dominacja traw",
+            "Stała pokrywa lodowa",
+            "Gęsty las równikowy",
+            "Brak jakiejkolwiek roślinności",
+            "Wyłącznie wysokie drzewa iglaste",
+            "Codzienne deszcze zenitalne"
+          ],
+          "answer": 0,
+          "explanation": "Sawanny i stepy są rozległymi obszarami porośniętymi głównie trawami."
+        },
+        {
+          "id": "R04_SPS_02",
+          "section": "Sawanny, stepy i pustynie",
+          "type": "true_false",
+          "prompt": "Na sawannie występują pora deszczowa i pora sucha.",
+          "options": null,
+          "answer": true,
+          "image": "r04_sawanna_pora_sucha.jpg",
+          "explanation": "Klimat sawanny cechuje się naprzemiennym występowaniem pory deszczowej i suchej."
+        },
+        {
+          "id": "R04_SPS_03",
+          "section": "Sawanny, stepy i pustynie",
+          "type": "multi_select",
+          "prompt": "Zaznacz rośliny charakterystyczne dla sawanny wymienione w rozdziale.",
+          "options": [
+            "trawy",
+            "baobaby",
+            "akacje",
+            "mchy i porosty",
+            "jodły",
+            "cedry"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Na sawannie występują trawy oraz pojedyncze drzewa, między innymi baobaby i akacje."
+        },
+        {
+          "id": "R04_SPS_04",
+          "section": "Sawanny, stepy i pustynie",
+          "type": "single_choice",
+          "prompt": "Dlaczego na stepach prawie nie rosną drzewa?",
+          "options": [
+            "Z powodu zbyt małej ilości opadów",
+            "Z powodu całorocznej pokrywy lodowej",
+            "Ponieważ gleby są zawsze zalane wodą",
+            "Ponieważ codziennie padają deszcze zenitalne",
+            "Bo step leży wyłącznie na wybrzeżach",
+            "Bo rosną tam tylko palmy"
+          ],
+          "answer": 0,
+          "explanation": "Na stepach opady są zbyt małe, aby drzewa mogły powszechnie rosnąć."
+        },
+        {
+          "id": "R04_SPS_05",
+          "section": "Sawanny, stepy i pustynie",
+          "type": "match",
+          "prompt": "Połącz strefę z cechą klimatu.",
+          "options": null,
+          "left": [
+            "sawanna",
+            "step",
+            "pustynia gorąca",
+            "pustynia lodowa"
+          ],
+          "right": [
+            "pora deszczowa i sucha",
+            "suchy klimat umiarkowany kontynentalny",
+            "bardzo małe opady i upały",
+            "bardzo niska temperatura"
+          ],
+          "answer": {
+            "sawanna": "pora deszczowa i sucha",
+            "step": "suchy klimat umiarkowany kontynentalny",
+            "pustynia gorąca": "bardzo małe opady i upały",
+            "pustynia lodowa": "bardzo niska temperatura"
+          },
+          "explanation": "Sawanna leży w klimacie z porą deszczową i suchą, step w klimacie umiarkowanym kontynentalnym, pustynia gorąca ma skrajnie mało opadów, a pustynia lodowa bardzo niską temperaturę."
+        },
+        {
+          "id": "R04_SPS_06",
+          "section": "Sawanny, stepy i pustynie",
+          "type": "riddle",
+          "prompt": "Miejsce na pustyni, gdzie dzięki dostępowi do wody możliwa jest uprawa roślin, to...",
+          "options": null,
+          "answer": "oaza",
+          "altAnswers": [
+            "oaza",
+            "oazy"
+          ],
+          "image": "r04_pustynia_oaza_wydmy.jpg",
+          "explanation": "Oazy umożliwiają uprawę roślin w strefie pustyń gorących."
+        },
+        {
+          "id": "R04_SPS_07",
+          "section": "Sawanny, stepy i pustynie",
+          "type": "single_choice",
+          "prompt": "Która forma terenu jest typowa dla pustyni piaszczystej?",
+          "options": [
+            "wydmy",
+            "lodowce górskie",
+            "granie",
+            "piętro krzewów",
+            "tajga",
+            "runo leśne"
+          ],
+          "answer": 0,
+          "image": "r04_pustynia_oaza_wydmy.jpg",
+          "explanation": "Na pustyniach piaszczystych wiatr usypuje wydmy."
+        },
+        {
+          "id": "R04_SPS_08",
+          "section": "Sawanny, stepy i pustynie",
+          "type": "multi_select",
+          "prompt": "Zaznacz przykłady przystosowań roślin pustyń gorących do suszy.",
+          "options": [
+            "długie korzenie",
+            "magazynowanie wody",
+            "ograniczanie parowania",
+            "zrzucanie igieł na zimę",
+            "tworzenie lodowców",
+            "codzienne kwitnienie w deszczu"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Rośliny pustyń ograniczają utratę wody i sięgają po nią głęboko korzeniami lub magazynują ją w pędach."
+        },
+        {
+          "id": "R04_SPS_09",
+          "section": "Sawanny, stepy i pustynie",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: baobab, akacja, trawy, świerk.",
+          "options": null,
+          "answer": "świerk",
+          "explanation": "Baobab, akacja i trawy są charakterystyczne dla sawanny, a świerk dla lasów iglastych."
+        },
+        {
+          "id": "R04_SPS_10",
+          "section": "Sawanny, stepy i pustynie",
+          "type": "sort",
+          "prompt": "Przyporządkuj elementy do sawanny lub pustyni gorącej.",
+          "options": null,
+          "items": [
+            "baobaby",
+            "stada antylop",
+            "wydmy",
+            "oazy",
+            "akacje",
+            "bardzo skąpa roślinność"
+          ],
+          "categories": [
+            "sawanna",
+            "pustynia gorąca"
+          ],
+          "answer": {
+            "sawanna": [
+              "baobaby",
+              "stada antylop",
+              "akacje"
+            ],
+            "pustynia gorąca": [
+              "wydmy",
+              "oazy",
+              "bardzo skąpa roślinność"
+            ]
+          },
+          "explanation": "Sawanna ma trawy i pojedyncze drzewa oraz duże stada zwierząt, a pustynia gorąca ma skąpą roślinność, wydmy i oazy."
+        },
+        {
+          "id": "R04_SPS_11",
+          "section": "Sawanny, stepy i pustynie",
+          "type": "true_false",
+          "prompt": "Pustynie lodowe obejmują obszary leżące wokół biegunów Ziemi.",
+          "options": null,
+          "answer": true,
+          "explanation": "Strefa pustyń lodowych występuje w rejonach polarnych, między innymi na Antarktydzie i Grenlandii."
+        },
+        {
+          "id": "R04_SPS_12",
+          "section": "Sawanny, stepy i pustynie",
+          "type": "fill_in",
+          "prompt": "Na pustyniach lodowych roślinność pojawia się głównie na niepokrytych lodem __________, gdzie mogą rosnąć mchy i __________.",
+          "options": null,
+          "answer": [
+            "wybrzeżach",
+            "porosty"
+          ],
+          "altAnswers": [
+            [
+              "wybrzeżach",
+              "brzegach"
+            ],
+            [
+              "porosty",
+              "porostów"
+            ]
+          ],
+          "explanation": "Na obrzeżach pustyń lodowych występują mchy i porosty."
+        },
+        {
+          "id": "R04_SRO_01",
+          "section": "Krajobraz śródziemnomorski",
+          "type": "single_choice",
+          "prompt": "Gdzie występuje krajobraz śródziemnomorski?",
+          "options": [
+            "Głównie wokół Morza Śródziemnego",
+            "Wyłącznie wokół bieguna południowego",
+            "Tylko w centrum Antarktydy",
+            "Na całej Nizinie Amazonki",
+            "Tylko na szczytach Himalajów",
+            "W każdym miejscu na równiku"
+          ],
+          "answer": 0,
+          "explanation": "Strefa krajobrazu śródziemnomorskiego obejmuje głównie obszary wokół Morza Śródziemnego."
+        },
+        {
+          "id": "R04_SRO_02",
+          "section": "Krajobraz śródziemnomorski",
+          "type": "fill_in",
+          "prompt": "Klimat śródziemnomorski ma __________ i suche lata oraz łagodne, wilgotne __________.",
+          "options": null,
+          "answer": [
+            "gorące",
+            "zimy"
+          ],
+          "altAnswers": [
+            [
+              "gorące",
+              "ciepłe",
+              "upalne"
+            ],
+            [
+              "zimy",
+              "zime"
+            ]
+          ],
+          "explanation": "Latem w tej strefie jest gorąco i sucho, a zimą łagodnie i bardziej wilgotno."
+        },
+        {
+          "id": "R04_SRO_03",
+          "section": "Krajobraz śródziemnomorski",
+          "type": "riddle",
+          "prompt": "Gęste, twardolistne zarośla strefy śródziemnomorskiej to...",
+          "options": null,
+          "answer": "makia",
+          "altAnswers": [
+            "makia",
+            "makią"
+          ],
+          "image": "r04_makia_roslinnosc.jpg",
+          "explanation": "Roślinność występująca w krajobrazie śródziemnomorskim jest nazywana makią."
+        },
+        {
+          "id": "R04_SRO_04",
+          "section": "Krajobraz śródziemnomorski",
+          "type": "multi_select",
+          "prompt": "Zaznacz cechy roślinności śródziemnomorskiej pomagające przetrwać suszę.",
+          "options": [
+            "skórzaste liście",
+            "kolce",
+            "rozbudowane korzenie",
+            "liście opadające pod śniegiem",
+            "brak korzeni",
+            "igły pokryte lodem"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Rośliny makii mają między innymi skórzaste liście, kolce i rozbudowane korzenie."
+        },
+        {
+          "id": "R04_SRO_05",
+          "section": "Krajobraz śródziemnomorski",
+          "type": "true_false",
+          "prompt": "W strefie śródziemnomorskiej turystyka jest ważnym zajęciem ludności.",
+          "options": null,
+          "answer": true,
+          "explanation": "Ciepły klimat, morze i zabytki sprzyjają rozwojowi turystyki w tej strefie."
+        },
+        {
+          "id": "R04_SRO_06",
+          "section": "Krajobraz śródziemnomorski",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: oliwka, cytrusy, winorośl, świerk.",
+          "options": null,
+          "answer": "świerk",
+          "explanation": "Oliwki, cytrusy i winorośl są kojarzone z rolnictwem śródziemnomorskim, a świerk z lasami iglastymi."
+        },
+        {
+          "id": "R04_SRO_07",
+          "section": "Krajobraz śródziemnomorski",
+          "type": "scenario",
+          "prompt": "Rodzina planuje wakacje nad Morzem Śródziemnym w lipcu. Jakich warunków powinna się spodziewać według opisu klimatu tej strefy?",
+          "options": [
+            "gorącego i suchego lata",
+            "mroźnej zimy z wieloletnią zmarzliną",
+            "codziennych deszczów zenitalnych",
+            "nocy polarnej i lądolodu"
+          ],
+          "answer": 0,
+          "explanation": "Lata w strefie śródziemnomorskiej są gorące i suche."
+        },
+        {
+          "id": "R04_SRO_08",
+          "section": "Krajobraz śródziemnomorski",
+          "type": "match",
+          "prompt": "Połącz element krajobrazu śródziemnomorskiego z opisem.",
+          "options": null,
+          "left": [
+            "klimat",
+            "makia",
+            "turystyka",
+            "rolnictwo"
+          ],
+          "right": [
+            "gorące suche lata i łagodne wilgotne zimy",
+            "twardolistne zarośla",
+            "ważne zajęcie mieszkańców",
+            "uprawa m.in. oliwek i winorośli"
+          ],
+          "answer": {
+            "klimat": "gorące suche lata i łagodne wilgotne zimy",
+            "makia": "twardolistne zarośla",
+            "turystyka": "ważne zajęcie mieszkańców",
+            "rolnictwo": "uprawa m.in. oliwek i winorośli"
+          },
+          "explanation": "Klimat, makia, turystyka i rolnictwo są głównymi elementami opisu tej strefy w podręczniku."
+        },
+        {
+          "id": "R04_TTG_01",
+          "section": "Tajga, tundra i góry",
+          "type": "single_choice",
+          "prompt": "Na której półkuli występują strefy tajgi i tundry?",
+          "options": [
+            "północnej",
+            "południowej",
+            "wschodniej",
+            "zachodniej",
+            "tylko oceanicznej",
+            "tylko równikowej"
+          ],
+          "answer": 0,
+          "explanation": "Podręcznik podaje, że tajga i tundra występują tylko na półkuli północnej."
+        },
+        {
+          "id": "R04_TTG_02",
+          "section": "Tajga, tundra i góry",
+          "type": "fill_in",
+          "prompt": "W strefach tajgi i tundry występuje wieloletnia __________.",
+          "options": null,
+          "answer": [
+            "zmarzlina"
+          ],
+          "altAnswers": [
+            [
+              "zmarzlina",
+              "zmarzliny"
+            ]
+          ],
+          "image": "r04_tajga_tundra_porownanie.jpg",
+          "explanation": "Wieloletnia zmarzlina jest wspólną cechą tajgi i tundry."
+        },
+        {
+          "id": "R04_TTG_03",
+          "section": "Tajga, tundra i góry",
+          "type": "multi_select",
+          "prompt": "Zaznacz drzewa charakterystyczne dla tajgi.",
+          "options": [
+            "świerki",
+            "sosny",
+            "jodły",
+            "modrzewie",
+            "palmy daktylowe",
+            "baobaby"
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explanation": "Tajgę tworzą głównie lasy iglaste, w których rosną świerki, sosny, jodły i modrzewie."
+        },
+        {
+          "id": "R04_TTG_04",
+          "section": "Tajga, tundra i góry",
+          "type": "single_choice",
+          "prompt": "Dlaczego w tundrze nie rosną wysokie drzewa?",
+          "options": [
+            "Z powodu niskiej temperatury i wieloletniej zmarzliny",
+            "Z powodu codziennych opadów zenitalnych",
+            "Ponieważ gleba jest stale zbyt gorąca",
+            "Bo tundra leży tylko w oazach",
+            "Bo wszędzie rosną wysokie palmy",
+            "Z powodu braku zimy"
+          ],
+          "answer": 0,
+          "explanation": "Niska temperatura, krótki okres wegetacyjny i wieloletnia zmarzlina utrudniają wzrost drzew."
+        },
+        {
+          "id": "R04_TTG_05",
+          "section": "Tajga, tundra i góry",
+          "type": "sort",
+          "prompt": "Przyporządkuj rośliny i zwierzęta do tajgi lub tundry.",
+          "options": null,
+          "items": [
+            "świerki",
+            "niedźwiedzie",
+            "mchy i porosty",
+            "renifery",
+            "karłowate wierzby",
+            "łosie"
+          ],
+          "categories": [
+            "tajga",
+            "tundra"
+          ],
+          "answer": {
+            "tajga": [
+              "świerki",
+              "niedźwiedzie",
+              "łosie"
+            ],
+            "tundra": [
+              "mchy i porosty",
+              "renifery",
+              "karłowate wierzby"
+            ]
+          },
+          "image": "r04_tajga_tundra_porownanie.jpg",
+          "explanation": "Tajga to lasy iglaste z dużymi ssakami, a tundra ma niską roślinność, mchy, porosty i zwierzęta przystosowane do zimna."
+        },
+        {
+          "id": "R04_TTG_06",
+          "section": "Tajga, tundra i góry",
+          "type": "true_false",
+          "prompt": "Krajobraz wysokogórski występuje tylko w Himalajach.",
+          "options": null,
+          "answer": false,
+          "explanation": "Krajobraz wysokogórski występuje we wszystkich strefach klimatycznych, a Himalaje są jednym z przykładów."
+        },
+        {
+          "id": "R04_TTG_07",
+          "section": "Tajga, tundra i góry",
+          "type": "single_choice",
+          "prompt": "Co dzieje się z temperaturą powietrza wraz ze wzrostem wysokości w górach?",
+          "options": [
+            "obniża się",
+            "rośnie bez ograniczeń",
+            "pozostaje zawsze taka sama",
+            "zmienia się w zasolenie wody",
+            "występuje tylko nocą",
+            "zależy od nazw szczytów"
+          ],
+          "answer": 0,
+          "explanation": "W górach temperatura powietrza obniża się wraz ze wzrostem wysokości."
+        },
+        {
+          "id": "R04_TTG_08",
+          "section": "Tajga, tundra i góry",
+          "type": "sequence",
+          "prompt": "Ułóż piętra roślinności Himalajów od najniższego do najwyższego.",
+          "options": null,
+          "items": [
+            "piętro lasów iglastych",
+            "piętro śnieżne",
+            "piętro wiecznie zielonych lasów",
+            "piętro krzewów",
+            "piętro lasów liściastych",
+            "piętro górskich łąk"
+          ],
+          "answer": [
+            "piętro wiecznie zielonych lasów",
+            "piętro lasów liściastych",
+            "piętro lasów iglastych",
+            "piętro krzewów",
+            "piętro górskich łąk",
+            "piętro śnieżne"
+          ],
+          "image": "r04_pietra_roslinnosci_himalaje.jpg",
+          "explanation": "W Himalajach kolejne piętra to wiecznie zielone lasy, lasy liściaste, lasy iglaste, krzewy, górskie łąki i piętro śnieżne."
+        },
+        {
+          "id": "R04_TTG_09",
+          "section": "Tajga, tundra i góry",
+          "type": "riddle",
+          "prompt": "Najwyższy szczyt Himalajów i całej Ziemi to...",
+          "options": null,
+          "answer": "Mount Everest",
+          "altAnswers": [
+            "Mount Everest",
+            "Everest"
+          ],
+          "explanation": "Podręcznik podaje, że najwyższym szczytem jest Mount Everest."
+        },
+        {
+          "id": "R04_TTG_10",
+          "section": "Tajga, tundra i góry",
+          "type": "multi_select",
+          "prompt": "Zaznacz zajęcia Szerpów wymienione w rozdziale.",
+          "options": [
+            "hodowla jaków, owiec i kóz",
+            "uprawa roślin na niższych wysokościach",
+            "praca jako tragarze i przewodnicy",
+            "połów ryb w oceanie",
+            "uprawa manioku w Amazonii",
+            "budowanie igloo na lądolodzie"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "explanation": "Szerpowie zajmują się pasterstwem, uprawą ziemi oraz obsługą turystów."
+        },
+        {
+          "id": "R04_TTG_11",
+          "section": "Tajga, tundra i góry",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: turnia, grań, żleb, sawanna.",
+          "options": null,
+          "answer": "sawanna",
+          "explanation": "Turnia, grań i żleb to formy rzeźby wysokogórskiej, a sawanna jest strefą krajobrazową."
+        },
+        {
+          "id": "R04_TTG_12",
+          "section": "Tajga, tundra i góry",
+          "type": "match",
+          "prompt": "Połącz piętro Himalajów z przykładem roślinności lub cechą.",
+          "options": null,
+          "left": [
+            "wiecznie zielone lasy",
+            "lasy iglaste",
+            "górskie łąki",
+            "piętro śnieżne"
+          ],
+          "right": [
+            "bambusy i figowce",
+            "jodły, sosny, cedry i świerki",
+            "trawy, zioła i krzewinki",
+            "lodowce górskie i brak roślin na stokach"
+          ],
+          "answer": {
+            "wiecznie zielone lasy": "bambusy i figowce",
+            "lasy iglaste": "jodły, sosny, cedry i świerki",
+            "górskie łąki": "trawy, zioła i krzewinki",
+            "piętro śnieżne": "lodowce górskie i brak roślin na stokach"
+          },
+          "image": "r04_pietra_roslinnosci_himalaje.jpg",
+          "explanation": "Wraz z wysokością w Himalajach zmieniają się piętra roślinności od lasów po piętro śnieżne."
+        },
+        {
+          "id": "R04_HARD_01",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Dla Oslo najcieplejszym miesiącem na klimatogramie w podręczniku jest lipiec. Jaki miesiąc jest najzimniejszy?",
+          "options": [
+            "luty",
+            "styczeń",
+            "marzec",
+            "grudzień",
+            "październik",
+            "lipiec"
+          ],
+          "answer": 0,
+          "image": "r04_klimatogram_schemat.jpg",
+          "explanation": "W przykładzie z Oslo najniższa średnia temperatura występuje w lutym."
+        },
+        {
+          "id": "R04_HARD_02",
+          "section": "Super trudne",
+          "type": "fill_in",
+          "prompt": "Na podstawie danych dla Oslo średnia roczna temperatura wynosi około __________°C, a roczna suma opadów __________ mm.",
+          "options": null,
+          "answer": [
+            "4,0",
+            "845"
+          ],
+          "altAnswers": [
+            [
+              "4,0",
+              "4",
+              "3,97"
+            ],
+            [
+              "845",
+              "845 mm"
+            ]
+          ],
+          "explanation": "Podręcznik pokazuje obliczenia: 47,6 : 12 ≈ 4,0°C oraz suma opadów 845 mm."
+        },
+        {
+          "id": "R04_HARD_03",
+          "section": "Super trudne",
+          "type": "true_false",
+          "prompt": "W Oslo najwyższa miesięczna suma opadów w przykładzie z podręcznika przypada na październik.",
+          "options": null,
+          "answer": true,
+          "explanation": "W opisie klimatogramu Oslo podano najwyższe opady w październiku."
+        },
+        {
+          "id": "R04_HARD_04",
+          "section": "Super trudne",
+          "type": "single_choice",
+          "prompt": "Który zestaw poprawnie łączy podobieństwo stref krajobrazowych i pięter roślinności w górach?",
+          "options": [
+            "pustynie lodowe — piętro śnieżne",
+            "sawanna — piętro śnieżne",
+            "tundra — piętro wiecznie zielonych lasów",
+            "tajga — piętro górskich łąk",
+            "makia — lodowiec górski",
+            "step — piętro śnieżne"
+          ],
+          "answer": 0,
+          "explanation": "Podręcznik porównuje pustynie lodowe z piętrem śnieżnym, tundrę z piętrem górskich łąk, a tajgę z piętrem lasów iglastych."
+        },
+        {
+          "id": "R04_HARD_05",
+          "section": "Super trudne",
+          "type": "match",
+          "prompt": "Połącz strefę lub piętro z najbardziej podobnym odpowiednikiem.",
+          "options": null,
+          "left": [
+            "pustynie lodowe",
+            "tundra",
+            "tajga",
+            "strefa wilgotnych lasów podzwrotnikowych"
+          ],
+          "right": [
+            "piętro śnieżne",
+            "piętro górskich łąk",
+            "piętro lasów iglastych",
+            "piętro wiecznie zielonych lasów"
+          ],
+          "answer": {
+            "pustynie lodowe": "piętro śnieżne",
+            "tundra": "piętro górskich łąk",
+            "tajga": "piętro lasów iglastych",
+            "strefa wilgotnych lasów podzwrotnikowych": "piętro wiecznie zielonych lasów"
+          },
+          "explanation": "Roślinność niektórych stref krajobrazowych przypomina roślinność wybranych pięter w górach."
+        },
+        {
+          "id": "R04_HARD_06",
+          "section": "Super trudne",
+          "type": "sequence",
+          "prompt": "Ułóż krajobrazy od równika ku biegunowi na półkuli północnej zgodnie z uproszczonym schematem z podręcznika.",
+          "options": null,
+          "items": [
+            "tajga",
+            "wilgotne lasy równikowe",
+            "pustynie lodowe",
+            "sawanny",
+            "lasy liściaste i mieszane",
+            "pustynie gorące",
+            "tundra"
+          ],
+          "answer": [
+            "wilgotne lasy równikowe",
+            "sawanny",
+            "pustynie gorące",
+            "lasy liściaste i mieszane",
+            "tajga",
+            "tundra",
+            "pustynie lodowe"
+          ],
+          "explanation": "Schemat pokazuje kolejność od wilgotnych lasów równikowych przez sawanny, pustynie gorące, roślinność śródziemnomorską, lasy, tajgę, tundrę do pustyń lodowych."
+        },
+        {
+          "id": "R04_HARD_07",
+          "section": "Super trudne",
+          "type": "multi_select",
+          "prompt": "Zaznacz zdania prawdziwe o Himalajach według podręcznika.",
+          "options": [
+            "Mount Everest ma 8848 m n.p.m.",
+            "w najwyższych partiach pada prawie wyłącznie śnieg",
+            "występują tam lodowce górskie",
+            "piętra roślinności są jednakowe po obu stronach gór",
+            "Szerpowie mieszkają wyłącznie na poziomie morza",
+            "Himalaje leżą w Afryce"
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ],
+          "image": "r04_pietra_roslinnosci_himalaje.jpg",
+          "explanation": "Himalaje mają najwyższe szczyty Ziemi, lodowce górskie i wyraźne piętra roślinności szczególnie na stokach południowych."
+        },
+        {
+          "id": "R04_HARD_08",
+          "section": "Super trudne",
+          "type": "odd_one_out",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: Reinhold Messner, Jerzy Kukuczka, Mount Everest, makia.",
+          "options": null,
+          "answer": "makia",
+          "explanation": "Messner, Kukuczka i Mount Everest występują w ciekawostce lub opisie Himalajów, a makia dotyczy strefy śródziemnomorskiej."
+        },
+        {
+          "id": "R04_HARD_09",
+          "section": "Super trudne",
+          "type": "riddle",
+          "prompt": "Lądolód pokrywający niemal cały kontynent występuje przede wszystkim na...",
+          "options": null,
+          "answer": "Antarktydzie",
+          "altAnswers": [
+            "Antarktyda",
+            "Antarktydzie"
+          ],
+          "explanation": "Antarktyda jest przykładem obszaru pustyń lodowych pokrytego lądolodem."
+        },
+        {
+          "id": "R04_HARD_10",
+          "section": "Super trudne",
+          "type": "scenario",
+          "prompt": "Badacz porównuje dwa miejsca w tej samej strefie klimatycznej. Jedno leży przy oceanie, drugie głęboko we wnętrzu kontynentu. W którym miejscu zimy będą zwykle łagodniejsze?",
+          "options": [
+            "przy oceanie",
+            "we wnętrzu kontynentu",
+            "zawsze w miejscu wyżej położonym",
+            "zawsze tam, gdzie są pustynie gorące"
+          ],
+          "answer": 0,
+          "explanation": "Bliskość mórz i oceanów łagodzi zimy, dlatego łagodniejsze zimy występują przy wybrzeżu."
+        }
+      ],
+      "kidPrompts": {
+        "R04_POG_01": "Co to jest pogoda?",
+        "R04_POG_03": "Co pokazuje klimatogram?",
+        "R04_STR_01": "Jak układają się strefy klimatyczne?",
+        "R04_LAS_02": "Czy w lesie równikowym są cztery pory roku?",
+        "R04_SPS_01": "Co łączy sawannę i step?",
+        "R04_SRO_03": "Jak nazywają się śródziemnomorskie zarośla?",
+        "R04_TTG_07": "Co dzieje się z temperaturą wysoko w górach?"
+      },
+      "visuals": [
+        {
+          "file": "r04/01_pogoda_klimat_i_klimatogram.jpg",
+          "title": "Pogoda klimat i klimatogram",
+          "kind": "infografika"
+        },
+        {
+          "file": "r04/02_strefy_klimatyczne_i_krajobrazowe_ziemi.jpg",
+          "title": "Strefy klimatyczne i krajobrazowe Ziemi",
+          "kind": "infografika"
+        },
+        {
+          "file": "r04/03_lasy_swiata.jpg",
+          "title": "Lasy świata",
+          "kind": "infografika"
+        }
+      ]
+    }
+  ],
+  "images": [
+    "r01_barwy_hipsometryczne.jpg",
+    "r01_elementy_mapy_schemat.jpg",
+    "r01_orientowanie_mapy.jpg",
+    "r01_podzialka_liniowa.jpg",
+    "r01_poziomice_wzniesienie.jpg",
+    "r02_jaskinia_krasowa.jpg",
+    "r02_jeziora_mazurskie.jpg",
+    "r02_kopalnia_halda.jpg",
+    "r02_pasy_rzezby_polski.jpg",
+    "r02_pietra_roslinnosci_tatr.jpg",
+    "r02_tatry_wysokie.jpg",
+    "r02_warszawa_panorama.jpg",
+    "r02_wawoz_lessowy.jpg",
+    "r02_wydmy_plaza.jpg",
+    "r03_bieguny_everest_row_marianski.jpg",
+    "r03_globus_os_ziemska.jpg",
+    "r03_karawela_ocean.jpg",
+    "r03_kontynenty_oceany_mapa.jpg",
+    "r03_magellan_ciesnina.jpg",
+    "r03_siatka_geograficzna.jpg",
+    "r03_wodospady_wiktorii.jpg",
+    "r04_klimatogram_schemat.jpg",
+    "r04_makia_roslinnosc.jpg",
+    "r04_pietra_roslinnosci_himalaje.jpg",
+    "r04_pustynia_oaza_wydmy.jpg",
+    "r04_sawanna_pora_sucha.jpg",
+    "r04_strefy_krajobrazowe_pas.jpg",
+    "r04_tajga_tundra_porownanie.jpg",
+    "r04_wilgotny_las_warstwy.jpg"
+  ]
+}

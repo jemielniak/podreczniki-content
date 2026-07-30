@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "levels": [
     {
       "id": "sp5",
@@ -128,8 +128,8 @@
       "cover": "img/biologia-puls-zycia-5-klasa/cover.png",
       "chapterCount": 5,
       "bundleUrl": "bundles/biologia-puls-zycia-5-klasa.json",
-      "bundleVersion": 1,
-      "bundleHash": "a1a18761444c57a40630c46f4a8a6c272d30fb4bf910e7a12d83595a3a19e4bd",
+      "bundleVersion": 2,
+      "bundleHash": "7f558cb82e72b989a377d38e9196a5e5452c88126799986bc11720acfbf13663",
       "entitlementId": "companion_biologia_puls_zycia_5_klasa",
       "offeringId": "companion_biologia_puls_zycia_5_klasa",
       "freeFirstChapter": true
@@ -158,8 +158,8 @@
       "cover": "img/historia-5-wczoraj-i-dzis/cover.png",
       "chapterCount": 7,
       "bundleUrl": "bundles/historia-5-wczoraj-i-dzis.json",
-      "bundleVersion": 1,
-      "bundleHash": "cf87103639f5edfb3762592de40a3e648bd876294ae35be6fa8bc4bba82d158d",
+      "bundleVersion": 2,
+      "bundleHash": "e6983eb3f2eaf5ba0516dd29827107d5325f6f693c70921fe0544bf707f0d075",
       "entitlementId": "companion_historia_5_wczoraj_i_dzis",
       "offeringId": "companion_historia_5_wczoraj_i_dzis",
       "freeFirstChapter": true
@@ -237,6 +237,36 @@
       "bundleHash": "24674658653e674e5e6c65e2d1f750d69bd5cdcad38935a7d6144990b6635605",
       "entitlementId": "companion_geografia_bez_tajemnic_5",
       "offeringId": "companion_geografia_bez_tajemnic_5",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "planeta-nowa-5",
+      "levelId": "sp5",
+      "subjectId": "geografia",
+      "title": "Planeta Nowa 5",
+      "publisher": "Nowa Era",
+      "cover": "img/planeta-nowa-5/cover.png",
+      "chapterCount": 4,
+      "bundleUrl": "bundles/planeta-nowa-5.json",
+      "bundleVersion": 1,
+      "bundleHash": "e2356b7b3321048e5fadb00a75906b908ce651bc31d9235d42ed7f15704571d3",
+      "entitlementId": "companion_planeta_nowa_5",
+      "offeringId": "companion_planeta_nowa_5",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "to-nasz-swiat-geografia-5",
+      "levelId": "sp5",
+      "subjectId": "geografia",
+      "title": "To nasz świat. Geografia 5",
+      "publisher": "GWO",
+      "cover": "img/to-nasz-swiat-geografia-5/cover.png",
+      "chapterCount": 6,
+      "bundleUrl": "bundles/to-nasz-swiat-geografia-5.json",
+      "bundleVersion": 1,
+      "bundleHash": "72c9fc27d1ed4bd2480afa344daf1ca847cef48955a8ae1bddbf478731b2cbbd",
+      "entitlementId": "companion_to_nasz_swiat_geografia_5",
+      "offeringId": "companion_to_nasz_swiat_geografia_5",
       "freeFirstChapter": true
     }
   ]
