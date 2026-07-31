@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "levels": [
     {
       "id": "sp5",
@@ -267,6 +267,21 @@
       "bundleHash": "72c9fc27d1ed4bd2480afa344daf1ca847cef48955a8ae1bddbf478731b2cbbd",
       "entitlementId": "companion_to_nasz_swiat_geografia_5",
       "offeringId": "companion_to_nasz_swiat_geografia_5",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "planeta-nowa-6",
+      "levelId": "sp6",
+      "subjectId": "geografia",
+      "title": "Planeta Nowa 6",
+      "publisher": "Nowa Era",
+      "cover": "img/planeta-nowa-6/cover.png",
+      "chapterCount": 5,
+      "bundleUrl": "bundles/planeta-nowa-6.json",
+      "bundleVersion": 1,
+      "bundleHash": "5b37b8f088f1ccc3dd3a975f66f64e92d5c02fd68228edbc09602847fce6f17e",
+      "entitlementId": "companion_planeta_nowa_6",
+      "offeringId": "companion_planeta_nowa_6",
       "freeFirstChapter": true
     }
   ]
