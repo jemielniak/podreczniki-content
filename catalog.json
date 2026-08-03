@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "levels": [
     {
       "id": "sp5",
@@ -282,6 +282,21 @@
       "bundleHash": "5b37b8f088f1ccc3dd3a975f66f64e92d5c02fd68228edbc09602847fce6f17e",
       "entitlementId": "companion_planeta_nowa_6",
       "offeringId": "companion_planeta_nowa_6",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "historia-6-wsip",
+      "levelId": "sp6",
+      "subjectId": "historia",
+      "title": "Historia 6 WSiP",
+      "publisher": "",
+      "cover": "img/historia-6-wsip/cover.png",
+      "chapterCount": 6,
+      "bundleUrl": "bundles/historia-6-wsip.json",
+      "bundleVersion": 1,
+      "bundleHash": "acc2f72df5d3c1a3ebbea22ca30d45b522225c1b486f8b48f5608e5b436e515c",
+      "entitlementId": "companion_historia_6_wsip",
+      "offeringId": "companion_historia_6_wsip",
       "freeFirstChapter": true
     }
   ]
