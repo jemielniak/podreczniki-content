@@ -1,8 +1,8 @@
 {
   "id": "historia-5-wczoraj-i-dzis",
   "title": "Historia 5 Wczoraj i dziś",
-  "version": 2,
-  "contentHash": "e6983eb3f2eaf5ba0516dd29827107d5325f6f693c70921fe0544bf707f0d075",
+  "version": 3,
+  "contentHash": "95246314748d0a101bba5cfb6d879f41ca2169386be8884f910f74b2df1bc373",
   "bookConfig": {
     "id": "historia-5-wczoraj-i-dzis",
     "title": "Historia 5 Wczoraj i dziś",
@@ -39,7 +39,7 @@
           "id": "R01_ZYC_01",
           "section": "Życie pierwszych ludzi",
           "type": "single_choice",
-          "prompt": "Gdzie według podręcznika żyli najstarsi przodkowie człowieka współczesnego?",
+          "prompt": "Gdzie żyli najstarsi przodkowie człowieka współczesnego?",
           "options": [
             "w Afryce",
             "w Australii",
@@ -753,7 +753,7 @@
           "id": "R01_IZR_10",
           "section": "W starożytnym Izraelu",
           "type": "single_choice",
-          "prompt": "Czym jest Tora według podręcznika?",
+          "prompt": "Czym jest Tora?",
           "options": [
             "pierwszymi pięcioma najważniejszymi księgami Biblii hebrajskiej",
             "zbiorem praw Hammurabiego",
@@ -1398,7 +1398,7 @@
           "id": "R02_ATE_02",
           "section": "Demokratyczne Ateny",
           "type": "multi_select",
-          "prompt": "Zaznacz zajęcia i uprawy typowe dla mieszkańców Hellady według podręcznika.",
+          "prompt": "Zaznacz zajęcia i uprawy typowe dla mieszkańców Hellady.",
           "options": [
             "uprawa oliwek",
             "uprawa winorośli",
@@ -1551,7 +1551,7 @@
           "id": "R02_ATE_11",
           "section": "Demokratyczne Ateny",
           "type": "multi_select",
-          "prompt": "Jakie sprawy mogły być omawiane na ateńskim zgromadzeniu ludowym według podręcznika?",
+          "prompt": "Jakie sprawy mogły być omawiane na ateńskim zgromadzeniu ludowym?",
           "options": [
             "wypowiedzenie wojny",
             "zawarcie pokoju",
@@ -2001,7 +2001,7 @@
           "id": "R02_KUL_01",
           "section": "Kultura starożytnej Grecji",
           "type": "multi_select",
-          "prompt": "Zaznacz dziedziny kultury i aktywności, które według podręcznika szczególnie rozwinęli Grecy.",
+          "prompt": "Zaznacz dziedziny kultury i aktywności, które szczególnie rozwinęli Grecy.",
           "options": [
             "malarstwo wazowe",
             "rzeźba",
@@ -2202,7 +2202,7 @@
           "id": "R02_KUL_12",
           "section": "Kultura starożytnej Grecji",
           "type": "scenario",
-          "prompt": "Zawodnik zwycięża w starożytnych igrzyskach w Olimpii. Jaką symboliczną nagrodę otrzymuje według podręcznika?",
+          "prompt": "Zawodnik zwycięża w starożytnych igrzyskach w Olimpii. Jaką symboliczną nagrodę otrzymuje?",
           "options": [
             "wieniec z gałązek drzewa oliwnego",
             "złotą koronę królewską",
@@ -2928,7 +2928,7 @@
           "id": "R03_IMP_03",
           "section": "Imperium Rzymskie",
           "type": "multi_select",
-          "prompt": "Zaznacz ziemie, które według podręcznika znalazły się pod panowaniem Rzymu do I wieku n.e.",
+          "prompt": "Zaznacz ziemie, które znalazły się pod panowaniem Rzymu do I wieku n.e.",
           "explanation": "Do I wieku n.e. Rzymianie opanowali między innymi Grecję, Egipt, Syrię, Hiszpanię, Galię i Brytanię.",
           "options": [
             "Grecja",
@@ -3482,7 +3482,7 @@
           "id": "R03_CHR_03",
           "section": "Początki chrześcijaństwa",
           "type": "true_false",
-          "prompt": "Według podręcznika Jezus został około 33 roku n.e. skazany na śmierć przez ukrzyżowanie.",
+          "prompt": "Jezus został około 33 roku n.e. skazany na śmierć przez ukrzyżowanie.",
           "explanation": "Śmierć Jezusa przez ukrzyżowanie około 33 roku n.e. podręcznik łączy z początkami chrześcijaństwa.",
           "options": null,
           "answer": true
@@ -3617,7 +3617,7 @@
           "id": "R03_BUR_01",
           "section": "Bursztynowy szlak",
           "type": "single_choice",
-          "prompt": "Czym jest bursztyn według podręcznika?",
+          "prompt": "Czym jest bursztyn?",
           "explanation": "Bursztyn to skamieniała żywica drzew iglastych.",
           "options": [
             "skamieniała żywica drzew iglastych",
@@ -3868,7 +3868,7 @@
           "id": "R03_HARD_04",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Jesteś rzymskim obywatelem w V wieku p.n.e. Chcesz, aby przepisy nie zależały tylko od pamięci i zwyczaju, lecz były dostępne dla wszystkich. Gdzie zgodnie z podręcznikiem należało wystawić spisane prawa?",
+          "prompt": "Jesteś rzymskim obywatelem w V wieku p.n.e. Chcesz, aby przepisy nie zależały tylko od pamięci i zwyczaju, lecz były dostępne dla wszystkich. Gdzie należało wystawić spisane prawa?",
           "explanation": "Prawo XII tablic wystawiono na Forum Romanum, aby każdy mógł zapoznać się z obowiązującymi przepisami.",
           "options": [
             "na Forum Romanum",
@@ -4262,7 +4262,7 @@
           "id": "R04_ARA_04",
           "section": "Arabowie i początki islamu",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy należące do pięciu filarów islamu według podręcznika.",
+          "prompt": "Zaznacz elementy należące do pięciu filarów islamu.",
           "options": [
             "publiczne wyznanie wiary",
             "modlitwa pięć razy dziennie",
@@ -6846,7 +6846,7 @@
           "id": "R06_ZAN_10",
           "section": "Zanim powstała Polska",
           "type": "scenario",
-          "prompt": "Archeolog bada kamienne kręgi w Odrach na Kaszubach. Zgodnie z podręcznikiem są one pozostałością po plemionach żyjących na ziemiach polskich przed przybyciem Słowian. O jakie plemiona chodzi?",
+          "prompt": "Archeolog bada kamienne kręgi w Odrach na Kaszubach. Są one pozostałością po plemionach żyjących na ziemiach polskich przed przybyciem Słowian. O jakie plemiona chodzi?",
           "options": [
             "Gotów",
             "Polan",
@@ -6926,7 +6926,7 @@
           "id": "R06_MIE_03",
           "section": "Mieszko I i początki Polski",
           "type": "multi_select",
-          "prompt": "Które ziemie lub plemiona podporządkował sobie Mieszko I według podręcznika?",
+          "prompt": "Które ziemie lub plemiona podporządkował sobie Mieszko I?",
           "options": [
             "Pomorzan",
             "Wiślan",
@@ -7402,7 +7402,7 @@
           "id": "R06_KRY_07",
           "section": "Kryzys i odbudowa państwa",
           "type": "multi_select",
-          "prompt": "Które ziemie odzyskał lub miał pod swoją władzą Kazimierz Odnowiciel według podręcznika?",
+          "prompt": "Które ziemie odzyskał lub miał pod swoją władzą Kazimierz Odnowiciel?",
           "options": [
             "Wielkopolska",
             "Małopolska",
@@ -8965,7 +8965,7 @@
           "options": null,
           "answer": false,
           "image": "r07_krzyzacy_malbork.jpg",
-          "explanation": "Według podręcznika Malbork nie został zdobyty zbrojnie; Polacy wykupili go od wojsk najemnych, którym Krzyżacy zalegali z żołdem."
+          "explanation": "Malbork nie został zdobyty zbrojnie; Polacy wykupili go od wojsk najemnych, którym Krzyżacy zalegali z żołdem."
         },
         {
           "id": "R07_JAG_07",
@@ -9278,7 +9278,7 @@
           "id": "R07_HARD_04",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz ziemie, które według podręcznika pozostały poza granicami państwa odbudowanego przez Władysława Łokietka.",
+          "prompt": "Zaznacz ziemie, które pozostały poza granicami państwa odbudowanego przez Władysława Łokietka.",
           "options": [
             "Pomorze Gdańskie",
             "księstwa śląskie",

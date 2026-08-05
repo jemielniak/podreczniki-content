@@ -1,8 +1,8 @@
 {
   "id": "geografia-bez-tajemnic-6",
   "title": "Geografia bez tajemnic. Klasa 6",
-  "version": 1,
-  "contentHash": "ea0b4d68efa820137aac395f5ada9a9c5ec7af03d0c6e09659038e0247ff06cc",
+  "version": 2,
+  "contentHash": "075a568dad9a0c4091443355fea4d219e082471af1e056eb62318adf81f4253a",
   "bookConfig": {
     "id": "geografia-bez-tajemnic-6",
     "title": "Geografia bez tajemnic. Klasa 6",
@@ -2295,7 +2295,7 @@
           "id": "R02_HARD_08",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Przekraczasz międzynarodową linię zmiany daty z zachodu na wschód. Co dzieje się z datą według podręcznika?",
+          "prompt": "Przekraczasz międzynarodową linię zmiany daty z zachodu na wschód. Co dzieje się z datą?",
           "options": [
             "zyskujesz jeden dzień",
             "tracisz jeden dzień",

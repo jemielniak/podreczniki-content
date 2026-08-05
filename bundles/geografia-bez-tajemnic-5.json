@@ -1,8 +1,8 @@
 {
   "id": "geografia-bez-tajemnic-5",
   "title": "Geografia bez tajemnic. Klasa 5",
-  "version": 1,
-  "contentHash": "24674658653e674e5e6c65e2d1f750d69bd5cdcad38935a7d6144990b6635605",
+  "version": 2,
+  "contentHash": "053b0be1e62f7a2e3816d07ff041bec0660d7ce3d8d2e16fae51c7590d3f23c7",
   "bookConfig": {
     "id": "geografia-bez-tajemnic-5",
     "title": "Geografia bez tajemnic. Klasa 5",
@@ -1615,7 +1615,7 @@
           "id": "R02_NAD_06",
           "section": "Krajobraz nadmorski",
           "type": "fill_in",
-          "prompt": "Najniżej położony punkt Polski według podręcznika znajduje się we wsi __________ i ma wysokość __________ m n.p.m.",
+          "prompt": "Najniżej położony punkt Polski znajduje się we wsi __________ i ma wysokość __________ m n.p.m.",
           "options": null,
           "answer": [
             "Marzęcino",
@@ -1963,7 +1963,7 @@
           "id": "R02_NIZ_01",
           "section": "Niziny środkowej Polski",
           "type": "single_choice",
-          "prompt": "Która kraina jest największą niziną w Polsce według podręcznika?",
+          "prompt": "Która kraina jest największą niziną w Polsce?",
           "options": [
             "Nizina Mazowiecka",
             "Nizina Śląska",
@@ -4558,7 +4558,7 @@
           "id": "R04_LAS_01",
           "section": "Lasy strefy umiarkowanej",
           "type": "single_choice",
-          "prompt": "W których częściach świata występują lasy strefy umiarkowanej według podręcznika?",
+          "prompt": "W których częściach świata występują lasy strefy umiarkowanej?",
           "options": [
             "W Europie, Azji i Ameryce Północnej",
             "Wyłącznie w Amazonii",

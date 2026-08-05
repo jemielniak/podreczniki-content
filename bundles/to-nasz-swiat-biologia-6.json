@@ -1,8 +1,8 @@
 {
   "id": "to-nasz-swiat-biologia-6",
   "title": "To nasz świat Biologia 6",
-  "version": 1,
-  "contentHash": "4a5ca9d8cf2d6de2b028a1cd9b822a8417a02676e9709b99ecd8e9ad4ef6d78e",
+  "version": 2,
+  "contentHash": "23599d1d86fea986bb434fcfd403ab14d385d30c9d1a590cc59f008fc120987c",
   "bookConfig": {
     "id": "to-nasz-swiat-biologia-6",
     "title": "To nasz świat Biologia 6",
@@ -1866,7 +1866,7 @@
           "id": "R02_PIE_04",
           "section": "Pierścienice",
           "type": "single_choice",
-          "prompt": "Ile mniej więcej pierścieni ma ciało dżdżownicy według podręcznika?",
+          "prompt": "Ile mniej więcej pierścieni ma ciało dżdżownicy?",
           "image": "r02_dzdzownica_budowa.jpg",
           "options": [
             "około 100",
@@ -2037,7 +2037,7 @@
           "id": "R02_PRO_01",
           "section": "Profilaktyka pasożytów",
           "type": "single_choice",
-          "prompt": "Jak najczęściej dochodzi do zakażenia tasiemcem według podręcznika?",
+          "prompt": "Jak najczęściej dochodzi do zakażenia tasiemcem?",
           "options": [
             "Po zjedzeniu surowego zakażonego mięsa",
             "Po wejściu do czystej rzeki",
@@ -5754,7 +5754,7 @@
           "id": "R05_PTR_11",
           "section": "Rozmnażanie i znaczenie ptaków",
           "type": "fill_in",
-          "prompt": "Według podręcznika ptaki zjadają rocznie __________ mln ton __________, w tym wiele uznawanych za szkodniki.",
+          "prompt": "Ptaki zjadają rocznie __________ mln ton __________, w tym wiele uznawanych za szkodniki.",
           "options": null,
           "answer": [
             "400-500",

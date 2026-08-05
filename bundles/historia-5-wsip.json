@@ -1,8 +1,8 @@
 {
   "id": "historia-5-wsip",
   "title": "Historia 5 WSiP",
-  "version": 1,
-  "contentHash": "6d98d47b1e07ffabfacb7dd39f12d458fd1827697ab522634a979e1a0b08289b",
+  "version": 2,
+  "contentHash": "1da7e5d4202a16d8c869d99969132fc396039b771fad30017553c21c06d208fb",
   "bookConfig": {
     "id": "historia-5-wsip",
     "title": "Historia 5 WSiP",
@@ -759,7 +759,7 @@
           "id": "R01_IZR_06",
           "section": "Starożytny Izrael",
           "type": "match",
-          "prompt": "Połącz postać z jej rolą w dziejach Izraela według podręcznika.",
+          "prompt": "Połącz postać z jej rolą w dziejach Izraela.",
           "options": null,
           "left": [
             "Abraham",
@@ -2458,7 +2458,7 @@
           "id": "R02_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Jak Grecy według podręcznika określali 429 rok p.n.e., czyli rok śmierci Peryklesa?",
+          "prompt": "Jak Grecy określali 429 rok p.n.e., czyli rok śmierci Peryklesa?",
           "options": [
             "4 rok 87 olimpiady",
             "1 rok 1 olimpiady",
@@ -5824,7 +5824,7 @@
           "id": "R05_KOS_05",
           "section": "Kościół, zakony i kultura",
           "type": "multi_select",
-          "prompt": "Zaznacz dziedziny wykładane na średniowiecznych uniwersytetach według podręcznika.",
+          "prompt": "Zaznacz dziedziny wykładane na średniowiecznych uniwersytetach.",
           "options": [
             "teologia",
             "filozofia",
@@ -6526,7 +6526,7 @@
           "id": "R06_NAR_02",
           "section": "Narodziny państwa polskiego",
           "type": "multi_select",
-          "prompt": "Zaznacz sprawy, o których według podręcznika decydowano na wiecu.",
+          "prompt": "Zaznacz sprawy, o których decydowano na wiecu.",
           "options": [
             "Rozpoczęcie wojny",
             "Budowa grodu",
@@ -7288,7 +7288,7 @@
           "id": "R06_KRZ_09",
           "section": "Panowanie Bolesława Krzywoustego",
           "type": "multi_select",
-          "prompt": "Zaznacz ziemie wchodzące w skład dzielnicy senioralnej według podręcznika.",
+          "prompt": "Zaznacz ziemie wchodzące w skład dzielnicy senioralnej.",
           "options": [
             "Małopolska",
             "Ziemia sieradzka i łęczycka",
@@ -7565,7 +7565,7 @@
           "id": "R06_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Które państwo podbiło państwo Wiślan według podręcznika?",
+          "prompt": "Które państwo podbiło państwo Wiślan?",
           "options": [
             "Państwo Wielkomorawskie",
             "Ruś Kijowska",
@@ -7968,7 +7968,7 @@
           "id": "R07_RDZ_10",
           "section": "Rozbicie dzielnicowe",
           "type": "single_choice",
-          "prompt": "Co według podręcznika dawało Mongołom szczególną przewagę militarną?",
+          "prompt": "Co dawało Mongołom szczególną przewagę militarną?",
           "options": [
             "Świetnie zorganizowane konne oddziały łuczników",
             "Sieć zamków z czerwonej cegły",

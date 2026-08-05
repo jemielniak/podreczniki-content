@@ -1,8 +1,8 @@
 {
   "id": "historia-6-wsip",
   "title": "Historia 6 WSiP",
-  "version": 1,
-  "contentHash": "acc2f72df5d3c1a3ebbea22ca30d45b522225c1b486f8b48f5608e5b436e515c",
+  "version": 2,
+  "contentHash": "517395abe483ced1548acb7e5654a85819e18fd257077b326cb44d3b90a6a757",
   "bookConfig": {
     "id": "historia-6-wsip",
     "title": "Historia 6 WSiP",
@@ -373,7 +373,7 @@
           "id": "R01_KOG_10",
           "section": "Konsekwencje wielkich odkryć geograficznych",
           "type": "single_choice",
-          "prompt": "Kto według podręcznika był jednym z pierwszych obrońców Indian i doprowadził do wydania w 1542 roku zakazu brania ich w niewolę w koloniach hiszpańskich?",
+          "prompt": "Kto był jednym z pierwszych obrońców Indian i doprowadził do wydania w 1542 roku zakazu brania ich w niewolę w koloniach hiszpańskich?",
           "image": "r01_handel_niewolnikami.jpg",
           "options": [
             "Bartolomé de Las Casas",
@@ -493,7 +493,7 @@
           "id": "R01_ODR_07",
           "section": "Kultura odrodzenia we Włoszech",
           "type": "single_choice",
-          "prompt": "Co według podręcznika oznacza określenie człowiek renesansu?",
+          "prompt": "Co oznacza określenie człowiek renesansu?",
           "options": [
             "osobę o dużej wiedzy i wielu zainteresowaniach",
             "osobę, która nie umie czytać po łacinie",
@@ -2052,7 +2052,7 @@
           "id": "R02_KUL_01",
           "section": "Wiele narodów i kultura renesansu",
           "type": "single_choice",
-          "prompt": "Jak duże było terytorium Rzeczypospolitej po unii z 1569 roku według podręcznika?",
+          "prompt": "Jak duże było terytorium Rzeczypospolitej po unii z 1569 roku?",
           "options": [
             "Około 800 tysięcy kilometrów kwadratowych",
             "Około 80 tysięcy kilometrów kwadratowych",

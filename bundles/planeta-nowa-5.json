@@ -1,8 +1,8 @@
 {
   "id": "planeta-nowa-5",
   "title": "Planeta Nowa 5",
-  "version": 1,
-  "contentHash": "e2356b7b3321048e5fadb00a75906b908ce651bc31d9235d42ed7f15704571d3",
+  "version": 2,
+  "contentHash": "65eab11c83948636b0c84cd8cb4749ab25de2b5dbead7bb492423fc0416f8a27",
   "bookConfig": {
     "id": "planeta-nowa-5",
     "title": "Planeta Nowa 5",
@@ -4716,7 +4716,7 @@
               "845 mm"
             ]
           ],
-          "explanation": "Podręcznik pokazuje obliczenia: 47,6 : 12 ≈ 4,0°C oraz suma opadów 845 mm."
+          "explanation": "Podręcznik pokazuje obliczenia: 47,6: 12 ≈ 4,0°C oraz suma opadów 845 mm."
         },
         {
           "id": "R04_HARD_03",
@@ -4799,7 +4799,7 @@
           "id": "R04_HARD_07",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz zdania prawdziwe o Himalajach według podręcznika.",
+          "prompt": "Zaznacz zdania prawdziwe o Himalajach.",
           "options": [
             "Mount Everest ma 8848 m n.p.m.",
             "w najwyższych partiach pada prawie wyłącznie śnieg",
