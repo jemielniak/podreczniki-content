@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "levels": [
     {
       "id": "sp5",
@@ -297,6 +297,21 @@
       "bundleHash": "acc2f72df5d3c1a3ebbea22ca30d45b522225c1b486f8b48f5608e5b436e515c",
       "entitlementId": "companion_historia_6_wsip",
       "offeringId": "companion_historia_6_wsip",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "geografia-bez-tajemnic-6",
+      "levelId": "sp6",
+      "subjectId": "geografia",
+      "title": "Geografia bez tajemnic. Klasa 6",
+      "publisher": "WSiP",
+      "cover": "img/geografia-bez-tajemnic-6/cover.png",
+      "chapterCount": 5,
+      "bundleUrl": "bundles/geografia-bez-tajemnic-6.json",
+      "bundleVersion": 1,
+      "bundleHash": "ea0b4d68efa820137aac395f5ada9a9c5ec7af03d0c6e09659038e0247ff06cc",
+      "entitlementId": "companion_geografia_bez_tajemnic_6",
+      "offeringId": "companion_geografia_bez_tajemnic_6",
       "freeFirstChapter": true
     }
   ]
