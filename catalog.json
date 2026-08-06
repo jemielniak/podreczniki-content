@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "levels": [
     {
       "id": "sp5",
@@ -312,6 +312,21 @@
       "bundleHash": "075a568dad9a0c4091443355fea4d219e082471af1e056eb62318adf81f4253a",
       "entitlementId": "companion_geografia_bez_tajemnic_6",
       "offeringId": "companion_geografia_bez_tajemnic_6",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "to-nasz-swiat-geografia-6",
+      "levelId": "sp6",
+      "subjectId": "geografia",
+      "title": "To nasz świat. Geografia 6",
+      "publisher": "GWO",
+      "cover": "img/to-nasz-swiat-geografia-6/cover.png",
+      "chapterCount": 5,
+      "bundleUrl": "bundles/to-nasz-swiat-geografia-6.json",
+      "bundleVersion": 1,
+      "bundleHash": "04a30e07679531f0d6e9a3aef4ffe3c0ecb2aab7c6f43813ae2bd8efa05bd401",
+      "entitlementId": "companion_to_nasz_swiat_geografia_6",
+      "offeringId": "companion_to_nasz_swiat_geografia_6",
       "freeFirstChapter": true
     }
   ]
