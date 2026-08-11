@@ -1,8 +1,8 @@
 {
   "id": "geografia-bez-tajemnic-6",
   "title": "Geografia bez tajemnic. Klasa 6",
-  "version": 3,
-  "contentHash": "ef749add66ed61a403b731da39c91ef0cdaa0da9a5af008216400bb4ab952179",
+  "version": 4,
+  "contentHash": "5a5e450215219a056c6944d893391b3043de2eb2e0ff22279f38da62a0f58ab8",
   "bookConfig": {
     "id": "geografia-bez-tajemnic-6",
     "title": "Geografia bez tajemnic. Klasa 6",
@@ -3061,10 +3061,10 @@
           "id": "R03_ISL_09",
           "section": "Islandia - wyspa ognia",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do zjawisk związanych z Islandią: magma, lawa, gejzer, cytrusy.",
+          "prompt": "Co nie pasuje do zjawisk związanych z Islandią: magma, lawa, gejzer, monsun.",
           "options": null,
-          "answer": "cytrusy",
-          "explanation": "Magma, lawa i gejzer wiążą się z położeniem Islandii na granicy płyt litosfery; cytrusy pojawiają się przy opisie regionu śródziemnomorskiego."
+          "answer": "monsun",
+          "explanation": "Magma, lawa i gejzery wiążą się z położeniem Islandii na granicy płyt litosfery. Monsun to sezonowy wiatr wiejący nad Azją Południową i Południowo-Wschodnią."
         },
         {
           "id": "R03_ISL_10",
@@ -3712,11 +3712,11 @@
           "id": "R03_HARD_07",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do nazw wulkanów lub wysp wulkanicznych: Santoryn, Etna, Eyjafjallajökull, Sagrada Familia.",
+          "prompt": "Co nie pasuje do nazw wulkanów lub wysp wulkanicznych: Santoryn, Etna, Eyjafjallajökull, Mount Everest.",
           "options": null,
-          "answer": "Sagrada Familia",
+          "answer": "Mount Everest",
           "image": "r03_santoryn_wulkan.jpg",
-          "explanation": "Santoryn, Etna i Eyjafjallajökull są związane z wulkanizmem; Sagrada Familia to świątynia w Barcelonie."
+          "explanation": "Santoryn, Etna i Eyjafjallajökull wiążą się z wulkanizmem. Mount Everest jest najwyższą górą świata, ale powstał wskutek fałdowania, a nie działalności wulkanu."
         },
         {
           "id": "R03_HARD_08",
@@ -5574,10 +5574,10 @@
           "id": "R05_CZSL_06",
           "section": "Atrakcje turystyczne Czech i Słowacji",
           "type": "odd_one_out",
-          "prompt": "Wskaż element niepasujący do atrakcji Pragi: Zamek na Hradczanach, Most Karola, Ratusz Staromiejski, Bajkał.",
+          "prompt": "Wskaż element niepasujący do atrakcji Pragi: Zamek na Hradczanach, Most Karola, Ratusz Staromiejski, Zamek Bratysławski.",
           "options": null,
-          "answer": "Bajkał",
-          "explanation": "Zamek na Hradczanach, Most Karola i Ratusz Staromiejski należą do atrakcji Pragi, natomiast Bajkał jest jeziorem w Rosji.",
+          "answer": "Zamek Bratysławski",
+          "explanation": "Zamek na Hradczanach, Most Karola i Ratusz Staromiejski to atrakcje Pragi. Zamek Bratysławski góruje nad Bratysławą - stolicą Słowacji.",
           "image": "r05_praga_zabytki.jpg"
         },
         {
@@ -5760,10 +5760,10 @@
           "id": "R05_UKR_06",
           "section": "Współczesne problemy Ukrainy",
           "type": "odd_one_out",
-          "prompt": "Wskaż element niepasujący do problemów Ukrainy po 1991 roku: korupcja, zależność od Rosji, brak kapitału, Karkonosze.",
+          "prompt": "Wskaż element niepasujący do problemów Ukrainy po 1991 roku: korupcja, zależność od Rosji, brak kapitału, brak dostępu do morza.",
           "options": null,
-          "answer": "Karkonosze",
-          "explanation": "Karkonosze są pasmem górskim w Czechach, a pozostałe elementy należą do problemów Ukrainy po uzyskaniu niepodległości."
+          "answer": "brak dostępu do morza",
+          "explanation": "Korupcja, zależność od Rosji i brak kapitału to problemy Ukrainy po 1991 roku. Braku dostępu do morza Ukraina nie ma - leży nad Morzem Czarnym i Morzem Azowskim."
         },
         {
           "id": "R05_UKR_07",

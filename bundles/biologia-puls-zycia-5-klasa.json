@@ -1,8 +1,8 @@
 {
   "id": "biologia-puls-zycia-5-klasa",
   "title": "Biologia Puls życia 5 klasa",
-  "version": 3,
-  "contentHash": "43f670de74558f30c1ffb1123b221333c30f9cdebbaabd4f375494db780d7c56",
+  "version": 4,
+  "contentHash": "8bc225a71d5bda0ff3a7faee4e4e93633e0df7c9b92093a577e21628eb1b7c60",
   "bookConfig": {
     "id": "biologia-puls-zycia-5-klasa",
     "title": "Biologia Puls życia 5 klasa",
@@ -485,10 +485,10 @@
           "id": "R01_PB_15",
           "section": "Jak poznawać biologię?",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: atlas, film przyrodniczy, edukacyjna strona internetowa, przypadkowa plotka.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: atlas, film przyrodniczy, edukacyjna strona internetowa, komentarz pod filmem.",
           "options": null,
-          "answer": "przypadkowa plotka",
-          "explanation": "Atlas, film przyrodniczy i edukacyjna strona internetowa mogą być źródłem wiedzy biologicznej. Plotka nie jest pewnym źródłem informacji.",
+          "answer": "komentarz pod filmem",
+          "explanation": "Atlas, film przyrodniczy i edukacyjna strona internetowa są przygotowywane przez specjalistów. Komentarz pod filmem może napisać każdy i nikt go nie sprawdza, więc nie jest pewnym źródłem wiedzy.",
           "image": "r01_zrodla_wiedzy.jpg"
         },
         {
@@ -891,10 +891,10 @@
           "id": "R01_ST_08",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: zoologia, botanika, mikrobiologia, mikroskop.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: zoologia, botanika, mikrobiologia, meteorologia.",
           "options": null,
-          "answer": "mikroskop",
-          "explanation": "Trzy pierwsze to dziedziny biologii, a mikroskop to przyrząd."
+          "answer": "meteorologia",
+          "explanation": "Zoologia, botanika i mikrobiologia to dziedziny biologii. Meteorologia również jest nauką, ale zajmuje się pogodą i atmosferą, a nie organizmami."
         },
         {
           "id": "R01_ST_09",
@@ -2301,10 +2301,10 @@
           "id": "R02_ST_18",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: mitochondrium, rybosom, chloroplast, płuca.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: mitochondrium, rybosom, chloroplast, komórka.",
           "options": null,
-          "answer": "płuca",
-          "explanation": "Płuca są narządem wymiany gazowej, a pozostałe nazwy oznaczają składniki komórki."
+          "answer": "komórka",
+          "explanation": "Mitochondrium, rybosom i chloroplast to składniki komórki. Komórka nie jest swoim własnym składnikiem - to całość zbudowana z tych elementów."
         },
         {
           "id": "R02_ST_19",
@@ -5771,10 +5771,10 @@
           "id": "R05_ST_07",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: salwinia pływająca, nerecznica samcza, skrzyp polny, paprotniki.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: salwinia pływająca, nerecznica samcza, skrzyp polny, płonnik pospolity.",
           "options": null,
-          "answer": "paprotniki",
-          "explanation": "Trzy pierwsze nazwy oznaczają konkretne rośliny, a „paprotniki” to nazwa całej grupy roślin."
+          "answer": "płonnik pospolity",
+          "explanation": "Salwinia pływająca, nerecznica samcza i skrzyp polny to paprotniki. Płonnik pospolity jest mchem, czyli należy do innej grupy roślin."
         },
         {
           "id": "R05_ST_08",

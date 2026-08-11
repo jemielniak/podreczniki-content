@@ -1,8 +1,8 @@
 {
   "id": "planeta-nowa-5",
   "title": "Planeta Nowa 5",
-  "version": 3,
-  "contentHash": "eaa3f922eb93b5044df5f80c4d7e33590b2e6bba3640a4d2a72b1830ae70f596",
+  "version": 4,
+  "contentHash": "878a72e731150b3d4a5e28228908554946c9ebbd346a36641b1de3726a91bfb3",
   "bookConfig": {
     "id": "planeta-nowa-5",
     "title": "Planeta Nowa 5",
@@ -125,10 +125,10 @@
           "id": "R01_MAP_06",
           "section": "Mapa i skala",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: tytuł, legenda, skala, termometr.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: tytuł, legenda, skala, spis treści.",
           "options": null,
-          "answer": "termometr",
-          "explanation": "Termometr nie jest podstawowym elementem mapy, a tytuł, legenda i skala są elementami mapy."
+          "answer": "spis treści",
+          "explanation": "Tytuł, legenda i skala to podstawowe elementy mapy. Spis treści jest elementem atlasu lub książki, a nie pojedynczej mapy."
         },
         {
           "id": "R01_MAP_07",
@@ -363,10 +363,10 @@
           "id": "R01_ODL_09",
           "section": "Odległości na mapie i w terenie",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: linijka, nitka, podziałka liniowa, wysokość bezwzględna.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: linijka, nitka, podziałka liniowa, kompas.",
           "options": null,
-          "answer": "wysokość bezwzględna",
-          "explanation": "Wysokość bezwzględna dotyczy ukształtowania terenu, a pozostałe elementy pomagają mierzyć odległości na mapie."
+          "answer": "kompas",
+          "explanation": "Linijka, nitka i podziałka liniowa służą do mierzenia odległości na mapie. Kompas też przydaje się przy mapie, ale wskazuje kierunek, a nie odległość."
         },
         {
           "id": "R01_ODL_10",
@@ -568,10 +568,10 @@
           "id": "R01_UKS_10",
           "section": "Ukształtowanie powierzchni na mapach",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: poziomica, izohipsa, wysokość bezwzględna, linia autobusowa.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: poziomica, izohipsa, wysokość bezwzględna, granica państwa.",
           "options": null,
-          "answer": "linia autobusowa",
-          "explanation": "Linia autobusowa nie służy do przedstawiania ukształtowania powierzchni, a pozostałe pojęcia są z nim związane."
+          "answer": "granica państwa",
+          "explanation": "Poziomica, izohipsa i wysokość bezwzględna dotyczą ukształtowania powierzchni. Granica państwa też jest linią na mapie, ale pokazuje podział polityczny, a nie wysokość terenu."
         },
         {
           "id": "R01_CZY_01",
@@ -935,10 +935,10 @@
           "id": "R01_MIE_09",
           "section": "Powtórka mieszana",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: niziny, wyżyny, góry, przystanki autobusowe.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: niziny, wyżyny, góry, jeziora.",
           "options": null,
-          "answer": "przystanki autobusowe",
-          "explanation": "Niziny, wyżyny i góry to formy ukształtowania powierzchni, a przystanki autobusowe są elementami zagospodarowania lub komunikacji."
+          "answer": "jeziora",
+          "explanation": "Niziny, wyżyny i góry to formy ukształtowania powierzchni, czyli różnice wysokości terenu. Jeziora należą do wód powierzchniowych, a nie do ukształtowania terenu."
         },
         {
           "id": "R01_MIE_10",
@@ -1255,10 +1255,10 @@
           "id": "R02_POD_05",
           "section": "Podstawy krajobrazu",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: pobrzeża, pojezierza, Wyżyny Polskie, klimat.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: pobrzeża, pojezierza, Wyżyny Polskie, pas pustyń.",
           "options": null,
-          "answer": "klimat",
-          "explanation": "Pobrzeża, pojezierza i Wyżyny Polskie to pasy rzeźby terenu, a klimat nie jest pasem rzeźby."
+          "answer": "pas pustyń",
+          "explanation": "Pobrzeża, pojezierza i Wyżyny Polskie to pasy rzeźby terenu w Polsce. Pasa pustyń w Polsce nie ma - nasz klimat jest na to zbyt wilgotny."
         },
         {
           "id": "R02_POD_06",
@@ -1669,10 +1669,10 @@
           "id": "R02_NIW_07",
           "section": "Niziny i Warszawa",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: Sejm, Senat, Prezydent RP, latarnia morska.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: Sejm, Senat, Prezydent RP, Wawel.",
           "options": null,
-          "answer": "latarnia morska",
-          "explanation": "Sejm, Senat i Prezydent RP to organy władzy państwowej mające siedziby w Warszawie, a latarnia morska jest obiektem nadmorskim."
+          "answer": "Wawel",
+          "explanation": "Sejm, Senat i Prezydent RP mają siedziby w Warszawie - dzisiejszej stolicy Polski. Wawel to zamek królewski w Krakowie, dawnej stolicy."
         },
         {
           "id": "R02_NIW_08",
@@ -3731,10 +3731,10 @@
           "id": "R04_POG_08",
           "section": "Pogoda i klimat",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: temperatura powietrza, opady atmosferyczne, ciśnienie atmosferyczne, liczba ludności.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: temperatura powietrza, opady atmosferyczne, ciśnienie atmosferyczne, wysokość nad poziomem morza.",
           "options": null,
-          "answer": "liczba ludności",
-          "explanation": "Liczba ludności nie jest składnikiem pogody."
+          "answer": "wysokość nad poziomem morza",
+          "explanation": "Temperatura, opady i ciśnienie atmosferyczne to składniki pogody - zmieniają się z dnia na dzień. Wysokość nad poziomem morza jest stałą cechą terenu, a nie składnikiem pogody."
         },
         {
           "id": "R04_POG_09",
@@ -3914,10 +3914,10 @@
           "id": "R04_STR_08",
           "section": "Strefy klimatyczne i krajobrazowe",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: tajga, tundra, sawanna, klimatogram.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: tajga, tundra, sawanna, makia.",
           "options": null,
-          "answer": "klimatogram",
-          "explanation": "Tajga, tundra i sawanna to strefy krajobrazowe, a klimatogram jest wykresem klimatycznym."
+          "answer": "makia",
+          "explanation": "Tajga, tundra i sawanna to strefy krajobrazowe. Makia jest tylko formacją roślinną strefy śródziemnomorskiej - nazwą zarośli, a nie całej strefy."
         },
         {
           "id": "R04_STR_09",
@@ -4646,10 +4646,10 @@
           "id": "R04_TTG_11",
           "section": "Tajga, tundra i góry",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: turnia, grań, żleb, sawanna.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: turnia, grań, żleb, delta rzeki.",
           "options": null,
-          "answer": "sawanna",
-          "explanation": "Turnia, grań i żleb to formy rzeźby wysokogórskiej, a sawanna jest strefą krajobrazową."
+          "answer": "delta rzeki",
+          "explanation": "Turnia, grań i żleb to formy rzeźby wysokogórskiej. Delta powstaje na nizinie, u ujścia rzeki do morza, z materiału niesionego przez wodę."
         },
         {
           "id": "R04_TTG_12",
@@ -4820,10 +4820,10 @@
           "id": "R04_HARD_08",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: Reinhold Messner, Jerzy Kukuczka, Mount Everest, makia.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: Reinhold Messner, Jerzy Kukuczka, Mount Everest, Mont Blanc.",
           "options": null,
-          "answer": "makia",
-          "explanation": "Messner, Kukuczka i Mount Everest występują w ciekawostce lub opisie Himalajów, a makia dotyczy strefy śródziemnomorskiej."
+          "answer": "Mont Blanc",
+          "explanation": "Messner, Kukuczka i Mount Everest wiążą się z Himalajami i zdobywaniem ośmiotysięczników. Mont Blanc jest najwyższym szczytem Alp i ma niecałe 5000 m."
         },
         {
           "id": "R04_HARD_09",

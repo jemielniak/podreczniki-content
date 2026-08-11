@@ -1,8 +1,8 @@
 {
   "id": "geografia-bez-tajemnic-5",
   "title": "Geografia bez tajemnic. Klasa 5",
-  "version": 3,
-  "contentHash": "bc7014cdcfd00a562aec90a9df5f7938b5a2186a8642e48458b833c8b01899e7",
+  "version": 4,
+  "contentHash": "0c4db9ea539d445a82e0ddabace5c1beb336af174ed31406eea8a832e8cbd1e7",
   "bookConfig": {
     "id": "geografia-bez-tajemnic-5",
     "title": "Geografia bez tajemnic. Klasa 5",
@@ -131,10 +131,10 @@
           "id": "R01_MAP_06",
           "section": "Mapa źródłem informacji",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: mapa polityczna, mapa drogowa, mapa turystyczna, linijka.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: mapa polityczna, mapa drogowa, mapa turystyczna, mapa ogólnogeograficzna.",
           "options": null,
-          "answer": "linijka",
-          "explanation": "Mapa polityczna, drogowa i turystyczna to przykłady map tematycznych, a linijka jest przyrządem."
+          "answer": "mapa ogólnogeograficzna",
+          "explanation": "Mapa polityczna, drogowa i turystyczna to mapy tematyczne - każda pokazuje wybrane zagadnienie. Mapa ogólnogeograficzna przedstawia ogólny obraz terenu i nie należy do map tematycznych."
         },
         {
           "id": "R01_MAP_07",
@@ -1229,10 +1229,10 @@
           "id": "R01_HARD_08",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: Krzysztof Kolumb, Ferdynand Magellan, James Cook, poziomica.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: Krzysztof Kolumb, Ferdynand Magellan, James Cook, Roald Amundsen.",
           "options": null,
-          "answer": "poziomica",
-          "explanation": "Kolumb, Magellan i Cook to podróżnicy lub odkrywcy, a poziomica jest linią na mapie."
+          "answer": "Roald Amundsen",
+          "explanation": "Kolumb, Magellan i Cook żeglowali w epoce wielkich odkryć geograficznych. Roald Amundsen żył znacznie później - w 1911 roku jako pierwszy dotarł na biegun południowy."
         },
         {
           "id": "R01_HARD_09",
@@ -2071,10 +2071,10 @@
           "id": "R02_NIZ_08",
           "section": "Niziny środkowej Polski",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: wycinanki, stroje ludowe, tańce ludowe, latarnie morskie.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: wycinanki, stroje ludowe, tańce ludowe, hafty kaszubskie.",
           "options": null,
-          "answer": "latarnie morskie",
-          "explanation": "Wycinanki, stroje i tańce ludowe są elementami folkloru Niziny Mazowieckiej, a latarnie morskie należą do krajobrazu nadmorskiego."
+          "answer": "hafty kaszubskie",
+          "explanation": "Wycinanki oraz stroje i tańce ludowe to elementy folkloru Niziny Mazowieckiej. Hafty kaszubskie również należą do kultury ludowej, ale pochodzą z Pomorza."
         },
         {
           "id": "R02_NIZ_09",
@@ -2281,10 +2281,10 @@
           "id": "R02_MIA_08",
           "section": "Krajobraz wielkomiejski",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: metro, tramwaje, gęsta sieć ulic, ruchome wydmy.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: metro, tramwaje, gęsta sieć ulic, wyciąg narciarski.",
           "options": null,
-          "answer": "ruchome wydmy",
-          "explanation": "Metro, tramwaje i gęsta sieć ulic są elementami krajobrazu wielkomiejskiego, a ruchome wydmy występują nad morzem."
+          "answer": "wyciąg narciarski",
+          "explanation": "Metro, tramwaje i gęsta sieć ulic to elementy krajobrazu wielkomiejskiego. Wyciąg narciarski buduje się w górach, a nie w wielkim mieście."
         },
         {
           "id": "R02_MIA_09",
@@ -2755,10 +2755,10 @@
           "id": "R03_SLA_07",
           "section": "Wyżyna Śląska",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: kopalnie, huty, zakłady energetyczne, pola lessowe",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: kopalnie, huty, zakłady energetyczne, rafineria ropy naftowej",
           "options": null,
-          "answer": "pola lessowe",
-          "explanation": "Pola lessowe kojarzą się z krajobrazem rolniczym Wyżyny Lubelskiej, a pozostałe elementy są typowe dla krajobrazu miejsko-przemysłowego."
+          "answer": "rafineria ropy naftowej",
+          "explanation": "Kopalnie, huty i zakłady energetyczne tworzą krajobraz miejsko-przemysłowy Wyżyny Śląskiej. Największa polska rafineria ropy naftowej pracuje w Płocku, na Nizinie Mazowieckiej."
         },
         {
           "id": "R03_SLA_08",
@@ -3784,10 +3784,10 @@
           "id": "R03_MIE_03",
           "section": "Powtórka mieszana",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: Ślązacy, górale podhalańscy, gwara śląska, gwara podhalańska, skamieniałości",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: Ślązacy, górale podhalańscy, gwara śląska, gwara podhalańska, Kaszubi",
           "options": null,
-          "answer": "skamieniałości",
-          "explanation": "Skamieniałości dotyczą skał, a pozostałe elementy odnoszą się do mieszkańców regionów i ich kultury."
+          "answer": "Kaszubi",
+          "explanation": "Ślązacy i górale podhalańscy oraz ich gwary należą do kultury polskich wyżyn i gór. Kaszubi to grupa regionalna z Pomorza, czyli z pasa pobrzeży."
         },
         {
           "id": "R03_MIE_04",
@@ -4212,10 +4212,10 @@
           "id": "R04_STR_06",
           "section": "Strefowość i piętrowość klimatyczno-roślinna",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: sawanna, step, tundra, klimatogram.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: sawanna, step, tundra, rafa koralowa.",
           "options": null,
-          "answer": "klimatogram",
-          "explanation": "Sawanna, step i tundra to formacje roślinne, a klimatogram jest wykresem elementów klimatu."
+          "answer": "rafa koralowa",
+          "explanation": "Sawanna, step i tundra to lądowe formacje roślinne. Rafa koralowa jest ekosystemem morskim zbudowanym przez zwierzęta - koralowce - a nie formacją roślinną."
         },
         {
           "id": "R04_STR_07",
@@ -4475,10 +4475,10 @@
           "id": "R04_ROW_08",
           "section": "Wilgotne lasy równikowe",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: liana, epifit, korzeń podporowy, czarnoziem.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: liana, epifit, korzeń podporowy, kolce zamiast liści.",
           "options": null,
-          "answer": "czarnoziem",
-          "explanation": "Liany, epifity i korzenie podporowe wiążą się z wilgotnym lasem równikowym, a czarnoziem z żyznymi glebami stepów."
+          "answer": "kolce zamiast liści",
+          "explanation": "Liany, epifity i korzenie podporowe to przystosowania roślin wilgotnego lasu równikowego. Kolce zamiast liści mają rośliny pustynne - dzięki temu tracą mniej wody."
         },
         {
           "id": "R04_ROW_09",
@@ -6073,10 +6073,10 @@
           "id": "R05_SRO_06",
           "section": "Krajobraz śródziemnomorski",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: mirt, oleander, wawrzyn, renifer.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: mirt, oleander, wawrzyn, palma kokosowa.",
           "options": null,
-          "answer": "renifer",
-          "explanation": "Mirt, oleander i wawrzyn są roślinami śródziemnomorskimi, a renifer jest zwierzęciem tajgi i tundry."
+          "answer": "palma kokosowa",
+          "explanation": "Mirt, oleander i wawrzyn to rośliny strefy śródziemnomorskiej. Palma kokosowa rośnie na wybrzeżach strefy gorącej i wilgotnej, a nie nad Morzem Śródziemnym."
         },
         {
           "id": "R05_SRO_07",

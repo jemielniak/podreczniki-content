@@ -1,8 +1,8 @@
 {
   "id": "historia-5-gwo",
   "title": "Historia 5 GWO",
-  "version": 3,
-  "contentHash": "d56defb85f8764e41990f79c3f69f8d433d51f3e308f52406f6694bd711bcd7e",
+  "version": 4,
+  "contentHash": "987dc1421564ef38ca027a4041a62183d07205e101410e8c72685dc8ba29d6d6",
   "bookConfig": {
     "id": "historia-5-gwo",
     "title": "Historia 5 GWO",
@@ -413,10 +413,10 @@
           "id": "R01_PAL_12",
           "section": "Paleolit",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: mamut, renifer, koń, piryt.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: mamut, renifer, koń, krowa.",
           "options": null,
-          "answer": "piryt",
-          "explanation": "Piryt to kamień wykorzystywany do rozpalania ognia, a pozostałe elementy to zwierzęta, na które polowano."
+          "answer": "krowa",
+          "explanation": "Na mamuty, renifery i konie polowali łowcy paleolitu. Krowa to zwierzę hodowlane, udomowione dopiero w neolicie z dzikiego tura."
         },
         {
           "id": "R01_NEO_01",
@@ -828,10 +828,10 @@
           "id": "R01_CYW_11",
           "section": "Pierwsze cywilizacje",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: pismo, rolnictwo, rzemiosło, lądolód.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: pismo, rolnictwo, rzemiosło, koczowniczy tryb życia.",
           "options": null,
-          "answer": "lądolód",
-          "explanation": "Pismo, rolnictwo i rzemiosło są cechami cywilizacji, a lądolód należy do opisu warunków paleolitu."
+          "answer": "koczowniczy tryb życia",
+          "explanation": "Pismo, rolnictwo i rzemiosło to cechy pierwszych cywilizacji, które powstały dzięki osiadłemu trybowi życia. Koczowniczy tryb życia - ciągła wędrówka za zwierzyną - był typowy dla czasów sprzed powstania cywilizacji."
         },
         {
           "id": "R01_CYW_12",
@@ -1492,10 +1492,10 @@
           "id": "R02_POL_08",
           "section": "Starożytna Grecja i polis",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: zboże, oliwki, winorośl, piramidy.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: zboże, oliwki, winorośl, ryż.",
           "options": null,
-          "answer": "piramidy",
-          "explanation": "Zboże, oliwki i winorośl wiążą się z uprawami Greków, a piramidy nie należą do tego zestawu."
+          "answer": "ryż",
+          "explanation": "Zboże, oliwki i winorośl to uprawy starożytnych Greków. Ryż wymaga zalewanych pól i gorącego klimatu - w starożytnej Grecji go nie uprawiano."
         },
         {
           "id": "R02_POL_09",
@@ -2374,10 +2374,10 @@
           "id": "R02_MIE_04",
           "section": "Powtórka mieszana",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: zgromadzenie ludowe, rada pięciuset, sąd ludowy, Partenon.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: zgromadzenie ludowe, rada pięciuset, sąd ludowy, eforowie.",
           "options": null,
-          "answer": "Partenon",
-          "explanation": "Pierwsze trzy to instytucje demokracji ateńskiej, a Partenon był świątynią."
+          "answer": "eforowie",
+          "explanation": "Zgromadzenie ludowe, rada pięciuset i sąd ludowy to instytucje demokracji ateńskiej. Eforowie byli urzędnikami w Sparcie, w której demokracji nie było."
         },
         {
           "id": "R02_MIE_05",
@@ -2862,10 +2862,10 @@
           "id": "R03_POC_10",
           "section": "Początki i armia Rzymu",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: hełm, pancerz, tarcza, senat.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: hełm, pancerz, tarcza, rydwan bojowy.",
           "options": null,
-          "answer": "senat",
-          "explanation": "Hełm, pancerz i tarcza to elementy wyposażenia żołnierza, a senat był instytucją polityczną."
+          "answer": "rydwan bojowy",
+          "explanation": "Hełm, pancerz i tarcza należały do wyposażenia rzymskiego legionisty, który walczył pieszo. Rydwanów bojowych Rzymianie w bitwach nie używali - w Rzymie rydwany ścigały się w cyrku."
         },
         {
           "id": "R03_POC_11",
@@ -5515,10 +5515,10 @@
           "id": "R05_FEU_09",
           "section": "Feudalna Europa",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: senior, wasal, lenno, ratusz.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: senior, wasal, lenno, cech rzemieślniczy.",
           "options": null,
-          "answer": "ratusz",
-          "explanation": "Ratusz był budynkiem miejskim, a pozostałe pojęcia dotyczą feudalizmu."
+          "answer": "cech rzemieślniczy",
+          "explanation": "Senior, wasal i lenno opisują zależności feudalne. Cech rzemieślniczy był organizacją rzemieślników jednego fachu w mieście."
         },
         {
           "id": "R05_FEU_10",
@@ -6350,10 +6350,10 @@
           "id": "R05_MIE_04",
           "section": "Powtórka mieszana",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: dziesięcina, pańszczyzna, czynsz, kopia.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: dziesięcina, pańszczyzna, czynsz, myto.",
           "options": null,
-          "answer": "kopia",
-          "explanation": "Kopia była bronią rycerską, a pozostałe pojęcia dotyczą świadczeń chłopskich."
+          "answer": "myto",
+          "explanation": "Dziesięcina, pańszczyzna i czynsz to świadczenia chłopów na rzecz Kościoła i pana. Myto było opłatą pobieraną od kupców za przejazd drogą lub mostem."
         },
         {
           "id": "R05_MIE_05",
@@ -7744,10 +7744,10 @@
           "id": "R06_HARD_05",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: wojna podjazdowa, zasadzki w lasach, unikanie otwartej bitwy, koronacja w 1025 roku.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: wojna podjazdowa, zasadzki w lasach, unikanie otwartej bitwy, walka w szyku falangi.",
           "options": null,
-          "answer": "koronacja w 1025 roku",
-          "explanation": "Pierwsze trzy elementy opisują sposób walki z silniejszym przeciwnikiem; koronacja w 1025 roku dotyczy Chrobrego i nie jest taktyką wojenną."
+          "answer": "walka w szyku falangi",
+          "explanation": "Wojna podjazdowa, zasadzki w lasach i unikanie otwartej bitwy to sposoby walki ze silniejszym najeźdźcą. Falanga - zwarty szyk włóczników - była formacją wojsk starożytnej Grecji."
         },
         {
           "id": "R06_HARD_06",
@@ -8264,10 +8264,10 @@
           "id": "R07_SLA_10",
           "section": "Polska w XIII wieku",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: żelazny pług, nawożenie ziemi, rozwinięta hodowla, rzeź Gdańska.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: żelazny pług, nawożenie ziemi, rozwinięta hodowla, uprawa ziemniaków.",
           "options": null,
-          "answer": "rzeź Gdańska",
-          "explanation": "Rzeź Gdańska dotyczy konfliktu z Krzyżakami, a pozostałe elementy są skutkami rozwoju rolnictwa."
+          "answer": "uprawa ziemniaków",
+          "explanation": "Żelazny pług, nawożenie ziemi i rozwinięta hodowla to średniowieczne nowinki w rolnictwie. Ziemniaki trafiły do Polski z Ameryki dopiero kilkaset lat później."
         },
         {
           "id": "R07_SLA_11",
@@ -10020,10 +10020,10 @@
           "id": "R08_SZL_09",
           "section": "Od rycerstwa do szlachty",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: król, izba senatorska, izba poselska, Zamek Wysoki.",
-          "explanation": "Król, izba senatorska i izba poselska były stanami sejmującymi; Zamek Wysoki to część zamku w Malborku.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: król, izba senatorska, izba poselska, sejmik ziemski.",
+          "explanation": "Król, izba senatorska i izba poselska to trzy stany sejmujące. Sejmik ziemski był lokalnym zjazdem szlachty jednej ziemi - wybierał posłów, ale sam nie był stanem sejmującym.",
           "options": null,
-          "answer": "Zamek Wysoki"
+          "answer": "sejmik ziemski"
         },
         {
           "id": "R08_SZL_10",

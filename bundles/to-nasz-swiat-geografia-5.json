@@ -1,8 +1,8 @@
 {
   "id": "to-nasz-swiat-geografia-5",
   "title": "To nasz świat. Geografia 5",
-  "version": 2,
-  "contentHash": "70f2ace858eead100c1be872ab68af5cbb0af1d91f2aee416e578278d479e859",
+  "version": 3,
+  "contentHash": "d055f7243d89597fe7326c87b5c41739e1eb32c60341e95b47b416b8fe2b5238",
   "bookConfig": {
     "id": "to-nasz-swiat-geografia-5",
     "title": "To nasz świat. Geografia 5",
@@ -96,10 +96,10 @@
           "id": "R01_ZIG_05",
           "section": "Ziemia i globus",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do rzeczy przedstawianych na globusie: lądy, wody, państwa, drakkary.",
+          "prompt": "Co nie pasuje do rzeczy przedstawianych na globusie: lądy, wody, państwa, ulice miast.",
           "options": null,
-          "answer": "drakkary",
-          "explanation": "Na globusie przedstawia się lądy, wody i podział świata na państwa. Drakkary to łodzie wikingów, a nie element globusa."
+          "answer": "ulice miast",
+          "explanation": "Na globusie widać lądy, wody i podział świata na państwa. Ulic miast na globusie się nie pokazuje - globus przedstawia całą Ziemię w bardzo małej skali."
         },
         {
           "id": "R01_ZIG_06",
@@ -1305,10 +1305,10 @@
           "id": "R02_MAP_06",
           "section": "Mapa i plan",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do elementów mapy: legenda, skala, tytuł, rower.",
+          "prompt": "Wskaż, co nie pasuje do elementów mapy: legenda, skala, tytuł, numer strony.",
           "options": null,
-          "answer": "rower",
-          "explanation": "Legenda, skala i tytuł mogą być elementami mapy, a rower nie jest elementem mapy."
+          "answer": "numer strony",
+          "explanation": "Legenda, skala i tytuł to elementy mapy. Numer strony należy do atlasu lub książki, w której mapę wydrukowano."
         },
         {
           "id": "R02_MAP_07",
@@ -1997,10 +1997,10 @@
           "id": "R02_KRA_10",
           "section": "Krajobraz",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do elementów krajobrazu: rzeźba terenu, wody, roślinność, legenda.",
+          "prompt": "Wskaż, co nie pasuje do elementów krajobrazu naturalnego: rzeźba terenu, wody, roślinność, zabudowa.",
           "options": null,
-          "answer": "legenda",
-          "explanation": "Rzeźba terenu, wody i roślinność są elementami krajobrazu, a legenda jest elementem mapy."
+          "answer": "zabudowa",
+          "explanation": "Rzeźba terenu, wody i roślinność to elementy krajobrazu naturalnego. Zabudowa jest dziełem człowieka, więc należy do krajobrazu kulturowego."
         },
         {
           "id": "R02_KRA_11",
@@ -3029,10 +3029,10 @@
           "id": "R03_NIZ_07",
           "section": "Krajobraz nizinny",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do krajobrazu nizinnego: pola uprawne, sady, pastwiska, stalaktyty.",
+          "prompt": "Co nie pasuje do krajobrazu nizinnego: pola uprawne, sady, pastwiska, hale górskie.",
           "options": null,
-          "answer": "stalaktyty",
-          "explanation": "Stalaktyty są formami krasowymi spotykanymi w jaskiniach, a pola uprawne, sady i pastwiska są związane z krajobrazem nizin."
+          "answer": "hale górskie",
+          "explanation": "Pola uprawne, sady i pastwiska są typowe dla krajobrazu nizinnego. Hale górskie to wysoko położone łąki, na których wypasa się owce w górach."
         },
         {
           "id": "R03_NIZ_08",
@@ -4423,10 +4423,10 @@
           "id": "R04_SLA_10",
           "section": "Wyżyna Śląska",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do krajobrazu miejsko-przemysłowego Wyżyny Śląskiej: kopalnie, fabryki, zakłady produkcyjne, wąwozy lessowe.",
-          "explanation": "Wąwozy lessowe są charakterystyczne dla Wyżyny Lubelskiej, a nie dla miejsko-przemysłowego krajobrazu Wyżyny Śląskiej.",
+          "prompt": "Co nie pasuje do krajobrazu miejsko-przemysłowego Wyżyny Śląskiej: kopalnie, fabryki, zakłady produkcyjne, stocznie.",
+          "explanation": "Kopalnie, fabryki i zakłady produkcyjne tworzą krajobraz miejsko-przemysłowy Wyżyny Śląskiej. Stocznie budują statki i leżą nad morzem - w Gdańsku, Gdyni i Szczecinie.",
           "options": null,
-          "answer": "wąwozy lessowe"
+          "answer": "stocznie"
         },
         {
           "id": "R04_SLA_11",
@@ -4747,10 +4747,10 @@
           "id": "R04_LUB_07",
           "section": "Wyżyna Lubelska",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do rolnictwa Wyżyny Lubelskiej: pszenica, rzepak, chmiel, węgiel kamienny.",
-          "explanation": "Węgiel kamienny jest surowcem Wyżyny Śląskiej, a pozostałe elementy to rośliny uprawiane na Wyżynie Lubelskiej.",
+          "prompt": "Co nie pasuje do rolnictwa Wyżyny Lubelskiej: pszenica, rzepak, chmiel, bawełna.",
+          "explanation": "Pszenica, rzepak i chmiel to rośliny uprawiane na Wyżynie Lubelskiej. Bawełna wymaga gorącego klimatu i w Polsce się jej nie uprawia.",
           "options": null,
-          "answer": "węgiel kamienny"
+          "answer": "bawełna"
         },
         {
           "id": "R04_LUB_08",
@@ -5679,10 +5679,10 @@
           "id": "R05_SAW_10",
           "section": "Sawanna",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do sawanny: akacja, baobab, gnu, makia.",
+          "prompt": "Co nie pasuje do sawanny: akacja, baobab, gnu, oliwka.",
           "options": null,
-          "answer": "makia",
-          "explanation": "Makia jest roślinnością krajobrazu śródziemnomorskiego, a akacje, baobaby i gnu są związane z sawanną."
+          "answer": "oliwka",
+          "explanation": "Akacja, baobab i gnu są związane z sawanną. Oliwka to drzewo strefy śródziemnomorskiej."
         },
         {
           "id": "R05_PUS_01",
@@ -6154,10 +6154,10 @@
           "id": "R05_STE_07",
           "section": "Step",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do stepu: trawy, czarnoziemy, jurta, meduza.",
+          "prompt": "Co nie pasuje do stepu: trawy, czarnoziemy, jurta, renifer.",
           "options": null,
-          "answer": "meduza",
-          "explanation": "Meduza jest wymieniona przy Morzu Śródziemnym, a trawy, czarnoziemy i jurty są związane ze stepem."
+          "answer": "renifer",
+          "explanation": "Trawy, czarnoziemy i jurty są związane ze stepem. Renifer żyje w tundrze i tajdze, gdzie żywi się głównie porostami."
         },
         {
           "id": "R05_STE_08",
@@ -7308,10 +7308,10 @@
           "id": "R06_WYL_06",
           "section": "Wylesianie i ochrona",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do przyczyn wylesiania: pola uprawne, zabudowa, pozyskiwanie drewna, cztery pory roku.",
+          "prompt": "Co nie pasuje do przyczyn wylesiania: pola uprawne, zabudowa, pozyskiwanie drewna, zakładanie parków narodowych.",
           "options": null,
-          "answer": "cztery pory roku",
-          "explanation": "Cztery pory roku są cechą klimatu, a nie przyczyną wylesiania."
+          "answer": "zakładanie parków narodowych",
+          "explanation": "Lasy wycina się pod pola uprawne i zabudowę oraz dla pozyskania drewna. Zakładanie parków narodowych działa odwrotnie - chroni lasy przed wycinaniem."
         },
         {
           "id": "R06_WYL_07",
@@ -7548,10 +7548,10 @@
           "id": "R06_HARD_08",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do funkcji roślinności wymienionych przy skutkach wylesiania: pochłanianie dwutlenku węgla, produkcja tlenu, magazynowanie wody, rzadkie mrozy.",
+          "prompt": "Co nie pasuje do funkcji roślinności wymienionych przy skutkach wylesiania: pochłanianie dwutlenku węgla, produkcja tlenu, magazynowanie wody, zwiększanie erozji gleby.",
           "options": null,
-          "answer": "rzadkie mrozy",
-          "explanation": "Roślinność pochłania dwutlenek węgla, produkuje tlen i magazynuje wodę; rzadkie mrozy dotyczą opisu klimatu morskiego, nie funkcji roślinności."
+          "answer": "zwiększanie erozji gleby",
+          "explanation": "Roślinność pochłania dwutlenek węgla, produkuje tlen i magazynuje wodę. Erozji nie zwiększa, tylko ją ogranicza - korzenie wiążą glebę i chronią ją przed spłukiwaniem."
         },
         {
           "id": "R06_HARD_09",

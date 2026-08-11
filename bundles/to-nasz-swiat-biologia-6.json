@@ -1,8 +1,8 @@
 {
   "id": "to-nasz-swiat-biologia-6",
   "title": "To nasz świat Biologia 6",
-  "version": 3,
-  "contentHash": "279a416f68e449bf12a5876412559610874498cd55951e28da6696f5bdf54fe9",
+  "version": 4,
+  "contentHash": "13fdec9caa013a9cb1189ea45386be77ec1fe056e662cacbb83c6e86460e94b9",
   "bookConfig": {
     "id": "to-nasz-swiat-biologia-6",
     "title": "To nasz świat Biologia 6",
@@ -188,10 +188,10 @@
           "id": "R01_SWI_08",
           "section": "Świat zwierząt",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: woda, ląd, powietrze, łuska.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: woda, ląd, powietrze, las liściasty.",
           "options": null,
-          "answer": "łuska",
-          "explanation": "Woda, ląd i powietrze to środowiska życia zwierząt, a łuska jest elementem budowy ciała niektórych zwierząt."
+          "answer": "las liściasty",
+          "explanation": "Woda, ląd i powietrze to trzy podstawowe środowiska życia zwierząt. Las liściasty nie jest osobnym środowiskiem - to jedno z siedlisk w środowisku lądowym."
         },
         {
           "id": "R01_SWI_09",
@@ -4436,10 +4436,10 @@
           "id": "R04_RYB_11",
           "section": "Ryby",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: rekin, płaszczka, szczupak, skrzek.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: rekin, płaszczka, szczupak, delfin.",
           "options": null,
-          "answer": "skrzek",
-          "explanation": "Rekin, płaszczka i szczupak to ryby, a skrzek to jaja płazów."
+          "answer": "delfin",
+          "explanation": "Rekin, płaszczka i szczupak to ryby. Delfin żyje w wodzie i z wyglądu przypomina rybę, ale jest ssakiem - oddycha płucami i rodzi żywe młode."
         },
         {
           "id": "R04_RYB_12",
@@ -5076,10 +5076,10 @@
           "id": "R04_MIE_05",
           "section": "Powtórka mieszana",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: ikra, skrzek, jaja gadów, pióra.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: ikra, skrzek, jaja gadów, poczwarka.",
           "options": null,
-          "answer": "pióra",
-          "explanation": "Ikra, skrzek i jaja gadów dotyczą rozmnażania omawianych grup, a pióra nie dotyczą ryb, płazów ani gadów."
+          "answer": "poczwarka",
+          "explanation": "Ikra, skrzek i jaja gadów to jaja kręgowców - odpowiednio ryb, płazów i gadów. Poczwarka jest stadium rozwoju owadów, a nie jajem."
         },
         {
           "id": "R04_MIE_06",
@@ -6584,10 +6584,10 @@
           "id": "R05_HARD_09",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: promienie UV, pole magnetyczne Ziemi, małżowina uszna, pamięć przestrzenna.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: promienie UV, pole magnetyczne Ziemi, linia boczna, pamięć przestrzenna.",
           "options": null,
-          "answer": "małżowina uszna",
-          "explanation": "Małżowina uszna jest typowa dla ssaków, a pozostałe elementy pojawiły się w ciekawostkach o możliwościach ptaków."
+          "answer": "linia boczna",
+          "explanation": "Ptaki orientują się dzięki widzeniu promieni UV, wyczuwaniu pola magnetycznego Ziemi i pamięci przestrzennej. Linia boczna to narząd zmysłu ryb - wyczuwa ruch i drgania wody."
         },
         {
           "id": "R05_HARD_10",

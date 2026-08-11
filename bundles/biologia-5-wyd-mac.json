@@ -1,8 +1,8 @@
 {
   "id": "biologia-5-wyd-mac",
   "title": "Biologia 5. Wyd. MAC",
-  "version": 4,
-  "contentHash": "8893d562e63772a12687ebad98fdf6a6747b74a819ccae27d1a10614f5152cc5",
+  "version": 5,
+  "contentHash": "6e1c5dcd9f4a1066f92155019869149641021d87656dfa229ddbd57a5b913ec8",
   "bookConfig": {
     "id": "biologia-5-wyd-mac",
     "title": "Biologia 5. Wyd. MAC",
@@ -666,10 +666,10 @@
           "id": "R01_ODD_06",
           "section": "Oddychanie i fermentacja",
           "type": "odd_one_out",
-          "prompt": "Wskaż element, który nie pasuje do pozostałych jako produkt lub efekt fermentacji: kwas mlekowy, alkohol etylowy, dwutlenek węgla, chlorofil.",
+          "prompt": "Wskaż element, który nie pasuje do pozostałych jako produkt lub efekt fermentacji: kwas mlekowy, alkohol etylowy, dwutlenek węgla, tlen.",
           "options": null,
-          "answer": "chlorofil",
-          "explanation": "Kwas mlekowy, alkohol etylowy i dwutlenek węgla są związane z fermentacją. Chlorofil jest barwnikiem fotosyntetycznym."
+          "answer": "tlen",
+          "explanation": "Kwas mlekowy, alkohol etylowy i dwutlenek węgla powstają podczas fermentacji. Tlen nie jest jej produktem - fermentacja zachodzi właśnie bez udziału tlenu, a tlen wydziela się podczas fotosyntezy."
         },
         {
           "id": "R01_ODD_07",
@@ -851,10 +851,10 @@
           "id": "R01_KLW_06",
           "section": "Klasyfikacja i wirusy",
           "type": "odd_one_out",
-          "prompt": "Wskaż pojęcie, które nie jest poziomem klasyfikacji biologicznej: gatunek, rodzaj, rodzina, mikroskop.",
+          "prompt": "Wskaż pojęcie, które nie jest poziomem klasyfikacji biologicznej: gatunek, rodzaj, rodzina, populacja.",
           "options": null,
-          "answer": "mikroskop",
-          "explanation": "Gatunek, rodzaj i rodzina to poziomy klasyfikacji. Mikroskop jest przyrządem do obserwacji."
+          "answer": "populacja",
+          "explanation": "Gatunek, rodzaj i rodzina to kolejne poziomy klasyfikacji biologicznej. Populacja to wszystkie osobniki jednego gatunku żyjące na tym samym terenie - pojęcie z ekologii, a nie poziom klasyfikacji."
         },
         {
           "id": "R01_KLW_07",
@@ -1112,10 +1112,10 @@
           "id": "R01_HARD_08",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż element, który nie pasuje do pozostałych jako pierwiastek ważny dla organizmu: sód, potas, wapń, chloroplast.",
+          "prompt": "Wskaż element, który nie pasuje do pozostałych jako pierwiastek ważny dla organizmu: sód, potas, wapń, glin.",
           "options": null,
-          "answer": "chloroplast",
-          "explanation": "Sód, potas i wapń to pierwiastki. Chloroplast jest organellum komórki roślinnej."
+          "answer": "glin",
+          "explanation": "Sód, potas i wapń są pierwiastkami niezbędnymi organizmom. Glin też jest pierwiastkiem - metalem, z którego robi się folię i puszki - ale organizmy go nie potrzebują."
         },
         {
           "id": "R01_HARD_09",
@@ -1982,10 +1982,10 @@
           "id": "R02_GCZ_07",
           "section": "Grzyby w przyrodzie i u człowieka",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: pieczarki, drożdże, ser brie, malaria.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: pieczarki, drożdże, ser brie, kiszona kapusta.",
           "options": null,
-          "answer": "malaria",
-          "explanation": "Pieczarki, drożdże i ser brie wiążą się z wykorzystaniem grzybów przez człowieka. Malaria jest chorobą wywoływaną przez protista."
+          "answer": "kiszona kapusta",
+          "explanation": "Pieczarki, drożdże i ser brie wiążą się z wykorzystaniem grzybów przez człowieka. Kiszoną kapustę wytwarzają bakterie kwasu mlekowego, a nie grzyby."
         },
         {
           "id": "R02_GCZ_08",
@@ -2472,10 +2472,10 @@
           "id": "R02_HARD_09",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: Penicillium, pędzlak, penicylina, kombu.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: Penicillium, pędzlak, penicylina, streptomycyna.",
           "options": null,
-          "answer": "kombu",
-          "explanation": "Penicillium to łacińska nazwa pędzlaka, od której utworzono nazwę penicylina. Kombu to suszone glony z rzędu listownicowców."
+          "answer": "streptomycyna",
+          "explanation": "Penicillium to łacińska nazwa pędzlaka, od której utworzono nazwę penicyliny. Streptomycyna też jest antybiotykiem, ale wytwarzają ją bakterie promieniowce, a nie pędzlak."
         },
         {
           "id": "R02_HARD_10",
@@ -4667,10 +4667,10 @@
           "id": "R04_ZNAC_08",
           "section": "Znaczenie okrytonasiennych",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do zastosowań roślin okrytonasiennych przez człowieka: pożywienie, pasza, roślina ozdobna, szyszka.",
+          "prompt": "Co nie pasuje do zastosowań roślin okrytonasiennych przez człowieka: pożywienie, pasza, roślina ozdobna, choinka bożonarodzeniowa.",
           "options": null,
-          "answer": "szyszka",
-          "explanation": "Pożywienie, pasza i rośliny ozdobne to zastosowania roślin okrytonasiennych; szyszka nie jest zastosowaniem, lecz organem typowym dla wielu nagonasiennych."
+          "answer": "choinka bożonarodzeniowa",
+          "explanation": "Rośliny okrytonasienne dają pożywienie, paszę dla zwierząt i rośliny ozdobne. Na choinkę ścina się świerki i jodły, czyli rośliny nagonasienne."
         },
         {
           "id": "R04_ZNAC_09",

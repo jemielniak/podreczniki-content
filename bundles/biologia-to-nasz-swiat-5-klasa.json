@@ -1,8 +1,8 @@
 {
   "id": "biologia-to-nasz-swiat-5-klasa",
   "title": "Biologia to nasz świat 5 klasa",
-  "version": 4,
-  "contentHash": "2023b15034c20bdecfbfa69cd8ef0b660e96208699ce17b89e0124df65d12c0d",
+  "version": 5,
+  "contentHash": "caa976f97ff2f0cbe94ab15afc4134905427b420e15eb9dd36bd0499e120a2e5",
   "bookConfig": {
     "id": "biologia-to-nasz-swiat-5-klasa",
     "title": "Biologia to nasz świat 5 klasa",
@@ -134,10 +134,10 @@
           "id": "R01_ORG_06",
           "section": "Organizm i poziomy budowy",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do poziomów budowy organizmu: komórka, tkanka, narząd, skała.",
+          "prompt": "Wskaż, co nie pasuje do poziomów budowy organizmu: komórka, tkanka, narząd, gatunek.",
           "options": null,
-          "answer": "skała",
-          "explanation": "Komórka, tkanka i narząd to poziomy budowy organizmu. Skała jest elementem przyrody nieożywionej, a nie poziomem budowy organizmu."
+          "answer": "gatunek",
+          "explanation": "Komórka, tkanka i narząd to kolejne poziomy budowy organizmu. Gatunek jest jednostką klasyfikacji organizmów, a nie poziomem budowy ciała."
         },
         {
           "id": "R01_ORG_07",
@@ -485,11 +485,11 @@
           "id": "R01_MIK_06",
           "section": "Mikroskop i preparaty",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do elementów mikroskopu: okular, obiektyw, rewolwer, chloroplast.",
+          "prompt": "Wskaż, co nie pasuje do elementów mikroskopu: okular, obiektyw, rewolwer, szkiełko nakrywkowe.",
           "options": null,
-          "answer": "chloroplast",
+          "answer": "szkiełko nakrywkowe",
           "image": "r01_mikroskop_optyczny.jpg",
-          "explanation": "Okular, obiektyw i rewolwer są elementami mikroskopu. Chloroplast jest organellum komórki roślinnej."
+          "explanation": "Okular, obiektyw i rewolwer to części mikroskopu. Szkiełkiem nakrywkowym przykrywa się preparat - należy ono do wyposażenia pracowni, a nie do samego mikroskopu."
         },
         {
           "id": "R01_MIK_07",
@@ -1051,11 +1051,11 @@
           "id": "R01_ODD_06",
           "section": "Oddychanie komórkowe",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do schematu oddychania tlenowego: glukoza, tlen, dwutlenek węgla, chlorofil.",
+          "prompt": "Wskaż, co nie pasuje do schematu oddychania tlenowego: glukoza, tlen, dwutlenek węgla, azot.",
           "options": null,
-          "answer": "chlorofil",
+          "answer": "azot",
           "image": "r01_oddychanie_schemat.jpg",
-          "explanation": "Glukoza, tlen i dwutlenek węgla występują w schemacie oddychania tlenowego. Chlorofil jest barwnikiem potrzebnym do fotosyntezy."
+          "explanation": "Glukoza, tlen i dwutlenek węgla występują w schemacie oddychania tlenowego. Azot stanowi większość powietrza, ale organizmy go nie zużywają - w oddychaniu komórkowym nie bierze udziału."
         },
         {
           "id": "R01_ODD_07",
@@ -1685,10 +1685,10 @@
           "id": "R02_KLU_06",
           "section": "Klucze do oznaczania",
           "type": "odd_one_out",
-          "prompt": "Co nie jest narzędziem do ustalania nazwy organizmu: klucz, atlas, aplikacja, termometr.",
+          "prompt": "Co nie jest narzędziem do ustalania nazwy organizmu: klucz, atlas, aplikacja, mapa turystyczna.",
           "options": null,
-          "answer": "termometr",
-          "explanation": "Klucze, atlasy i aplikacje mogą pomóc w rozpoznawaniu organizmów; termometr służy do pomiaru temperatury."
+          "answer": "mapa turystyczna",
+          "explanation": "Klucz do oznaczania, atlas i aplikacja pomagają ustalić nazwę organizmu. Mapa turystyczna też jest pomocą drukowaną, ale pokazuje teren i szlaki, a nie gatunki."
         },
         {
           "id": "R02_KLU_07",
@@ -4357,10 +4357,10 @@
           "id": "R04_OKR_06",
           "section": "Rośliny okrytonasienne",
           "type": "odd_one_out",
-          "prompt": "Wskaż element niepasujący do form roślin okrytonasiennych: rośliny zielne, krzewinki, drzewa, szyszki.",
+          "prompt": "Wskaż element niepasujący do form roślin okrytonasiennych: rośliny zielne, krzewinki, drzewa, iglaki.",
           "options": null,
-          "answer": "szyszki",
-          "explanation": "Szyszki nie są formą rośliny okrytonasiennej. Formami są między innymi drzewa, krzewy, krzewinki i rośliny zielne."
+          "answer": "iglaki",
+          "explanation": "Formami roślin okrytonasiennych są rośliny zielne, krzewinki, krzewy i drzewa. Iglaki należą do roślin nagonasiennych, więc nie są formą okrytonasiennych."
         },
         {
           "id": "R04_OKR_07",

@@ -1,8 +1,8 @@
 {
   "id": "historia-6-wsip",
   "title": "Historia 6 WSiP",
-  "version": 3,
-  "contentHash": "594ab3fe4c50709039832e5b8f99f79a8c6b695ca777e7140aea2c0cb3c2c869",
+  "version": 4,
+  "contentHash": "d9c78462faea0718caa101c11aa18d319e3010ae6c3121f2b8fa43430c4e98fe",
   "bookConfig": {
     "id": "historia-6-wsip",
     "title": "Historia 6 WSiP",
@@ -1180,10 +1180,10 @@
           "id": "R01_HARD_07",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: 1450, 1455, 1543, Quetzalcoatl.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: 1450, 1455, 1543, 1789.",
           "options": null,
-          "answer": "Quetzalcoatl",
-          "explanation": "1450, 1455 i 1543 to daty ważne dla druku i dzieła Kopernika, a Quetzalcoatl to azteckie bóstwo Zielonego Pierzastego Węża."
+          "answer": "1789",
+          "explanation": "Około 1450 roku Gutenberg wynalazł druk, w 1455 wydrukował Biblię, a w 1543 ukazało się dzieło Kopernika. Rok 1789 to wybuch rewolucji francuskiej - zupełnie inna epoka."
         },
         {
           "id": "R01_HARD_08",
@@ -3659,10 +3659,10 @@
           "id": "R03_BAR_10",
           "section": "Barok i sarmatyzm",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do pozostałych: żupan, kontusz, pas słucki, Bill of Rights.",
+          "prompt": "Co nie pasuje do pozostałych: żupan, kontusz, pas słucki, peruka alonżowa.",
           "options": null,
-          "answer": "Bill of Rights",
-          "explanation": "Żupan, kontusz i pas słucki wiążą się ze strojem sarmackim, a Bill of Rights z ustrojem Anglii."
+          "answer": "peruka alonżowa",
+          "explanation": "Żupan, kontusz i pas słucki tworzyły strój sarmacki polskiej szlachty. Peruka alonżowa była modą zachodnioeuropejską - nosili ją dworzanie Ludwika XIV."
         },
         {
           "id": "R03_HARD_01",

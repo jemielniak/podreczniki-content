@@ -1,8 +1,8 @@
 {
   "id": "historia-5-wczoraj-i-dzis",
   "title": "Historia 5 Wczoraj i dziś",
-  "version": 4,
-  "contentHash": "605623ad40ce569d4c533aa7de97f13941c1150e219846001823e99c804a74d6",
+  "version": 5,
+  "contentHash": "f1271773c49cb91ccc42511728ce7b00c617db0ee7c6c8d1121f25d5327e8ba3",
   "bookConfig": {
     "id": "historia-5-wczoraj-i-dzis",
     "title": "Historia 5 Wczoraj i dziś",
@@ -125,10 +125,10 @@
           "id": "R01_ZYC_06",
           "section": "Życie pierwszych ludzi",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: zbieractwo, myślistwo, rolnictwo, jaskinia.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: zbieractwo, myślistwo, rolnictwo, garncarstwo.",
           "options": null,
-          "answer": "jaskinia",
-          "explanation": "Zbieractwo, myślistwo i rolnictwo to sposoby zdobywania pożywienia, a jaskinia była schronieniem."
+          "answer": "garncarstwo",
+          "explanation": "Zbieractwo, myślistwo i rolnictwo to sposoby zdobywania pożywienia. Garncarstwo jest rzemiosłem - polega na wyrabianiu naczyń z gliny."
         },
         {
           "id": "R01_ZYC_07",
@@ -327,10 +327,10 @@
           "id": "R01_MEZ_07",
           "section": "Miasta-państwa Mezopotamii",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: Sumerowie, Babilończycy, Egipcjanie, Hammurabi.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: Sumerowie, Babilończycy, Asyryjczycy, Egipcjanie.",
           "options": null,
-          "answer": "Hammurabi",
-          "explanation": "Hammurabi był władcą, a pozostałe nazwy oznaczają ludy lub mieszkańców cywilizacji."
+          "answer": "Egipcjanie",
+          "explanation": "Sumerowie, Babilończycy i Asyryjczycy to ludy Mezopotamii - krainy między Eufratem a Tygrysem. Egipcjanie stworzyli swoją cywilizację nad Nilem."
         },
         {
           "id": "R01_MEZ_08",
@@ -1571,10 +1571,10 @@
           "id": "R02_ATE_12",
           "section": "Demokratyczne Ateny",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: Ateny, Sparta, Korynt, amfora.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: Ateny, Sparta, Korynt, Aleksandria.",
           "options": null,
-          "answer": "amfora",
-          "explanation": "Ateny, Sparta i Korynt to greckie polis, natomiast amfora to naczynie."
+          "answer": "Aleksandria",
+          "explanation": "Ateny, Sparta i Korynt to greckie polis - niezależne miasta-państwa. Aleksandrię założył w Egipcie dopiero Aleksander Wielki."
         },
         {
           "id": "R02_SPA_01",
@@ -3412,10 +3412,10 @@
           "id": "R03_DOK_09",
           "section": "Dokonania starożytnych Rzymian",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: Wergiliusz, Horacy, ody, akwedukt.",
-          "explanation": "Wergiliusz, Horacy i ody wiążą się z literaturą, a akwedukt z architekturą i wodociągami.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: Wergiliusz, Horacy, ody, Homer.",
+          "explanation": "Wergiliusz, Horacy i ody wiążą się z literaturą starożytnego Rzymu. Homer był poetą greckim - autorem Iliady i Odysei - i tworzył setki lat wcześniej.",
           "options": null,
-          "answer": "akwedukt"
+          "answer": "Homer"
         },
         {
           "id": "R03_DOK_10",
@@ -4170,10 +4170,10 @@
           "id": "R04_BIZ_10",
           "section": "Bizancjum",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: kopuła, arkady, mozaika, dżihad.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: kopuła, arkady, mozaika, minaret.",
           "options": null,
-          "answer": "dżihad",
-          "explanation": "Kopuła, arkady i mozaika wiążą się ze stylem bizantyjskim, a dżihad z islamem i podbojami Arabów."
+          "answer": "minaret",
+          "explanation": "Kopuła, arkady i mozaika są charakterystyczne dla architektury bizantyjskiej. Minaret - wieża, z której wzywa się na modlitwę - należy do architektury muzułmańskiej."
         },
         {
           "id": "R04_BIZ_11",
@@ -5385,10 +5385,10 @@
           "id": "R05_FEU_06",
           "section": "System feudalny",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: duchowieństwo, rycerstwo, mieszczaństwo, burmistrz, chłopstwo.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: duchowieństwo, rycerstwo, mieszczaństwo, niewolnicy, chłopstwo.",
           "options": null,
-          "answer": "burmistrz",
-          "explanation": "Duchowieństwo, rycerstwo, mieszczaństwo i chłopstwo to stany społeczne, a burmistrz to urząd miejski."
+          "answer": "niewolnicy",
+          "explanation": "Duchowieństwo, rycerstwo, mieszczaństwo i chłopstwo to stany społeczne średniowiecza. Niewolnicy byli grupą społeczną starożytności - w średniowiecznej Europie takiego stanu już nie było."
         },
         {
           "id": "R05_FEU_07",
@@ -5880,10 +5880,10 @@
           "id": "R05_MIA_08",
           "section": "Średniowieczne miasto i wieś",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: rynek, ratusz, sukiennice, barbakan, radło.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: rynek, ratusz, sukiennice, barbakan, folwark.",
           "options": null,
-          "answer": "radło",
-          "explanation": "Radło było narzędziem rolniczym, a pozostałe elementy wiążą się z zabudową miasta."
+          "answer": "folwark",
+          "explanation": "Rynek, ratusz, sukiennice i barbakan należały do zabudowy średniowiecznego miasta. Folwark to gospodarstwo pana na wsi."
         },
         {
           "id": "R05_MIA_09",
@@ -6384,10 +6384,10 @@
           "id": "R05_SZT_12",
           "section": "Sztuka średniowiecza",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: relikwiarz, ołtarz, miniatura, burmistrz, rzeźba.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: relikwiarz, ołtarz, miniatura, portret trumienny, rzeźba.",
           "options": null,
-          "answer": "burmistrz",
-          "explanation": "Relikwiarz, ołtarz, miniatura i rzeźba są związane ze sztuką średniowieczną, a burmistrz z samorządem miejskim."
+          "answer": "portret trumienny",
+          "explanation": "Relikwiarz, ołtarz, miniatura i rzeźba to dzieła sztuki średniowiecznej. Portret trumienny malowano w Polsce w epoce baroku, kilkaset lat później."
         },
         {
           "id": "R05_HARD_01",
@@ -8067,10 +8067,10 @@
           "id": "R06_HARD_06",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: korona, berło, jabłko królewskie, drużyna wojów.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: korona, berło, jabłko królewskie, buława hetmańska.",
           "options": null,
-          "answer": "drużyna wojów",
-          "explanation": "Korona, berło i jabłko królewskie to insygnia królewskie; drużyna wojów była siłą zbrojną władcy."
+          "answer": "buława hetmańska",
+          "explanation": "Korona, berło i jabłko królewskie to insygnia królewskie. Buława była oznaką władzy hetmana - dowódcy wojska, a nie króla."
         },
         {
           "id": "R06_HARD_07",

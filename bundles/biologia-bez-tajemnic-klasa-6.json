@@ -1,8 +1,8 @@
 {
   "id": "biologia-bez-tajemnic-klasa-6",
   "title": "Biologia bez tajemnic klasa 6",
-  "version": 3,
-  "contentHash": "1215f3923392db8fe25675786fe4f5a67d314ea65a908cbac5839b127c9c96d9",
+  "version": 4,
+  "contentHash": "d1c6f1e9bcea2630548f3ad698dc2ee6b4c52904a0528cf1591c2fcafe2d1a2f",
   "bookConfig": {
     "id": "biologia-bez-tajemnic-klasa-6",
     "title": "Biologia bez tajemnic klasa 6",
@@ -3235,11 +3235,11 @@
           "id": "R03_PRZ_13",
           "section": "Przystosowania stawonogów",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do pozostałych: aparat gryzący, aparat ssący, aparat liżący, aparat kłująco-ssący, płetwa ogonowa.",
+          "prompt": "Wskaż, co nie pasuje do pozostałych: aparat gryzący, aparat ssący, aparat liżący, aparat kłująco-ssący, szczękoczułki.",
           "options": null,
-          "answer": "płetwa ogonowa",
+          "answer": "szczękoczułki",
           "image": "r03_aparaty_gebowe_owadow.jpg",
-          "explanation": "Płetwa ogonowa nie jest typem aparatu gębowego owadów."
+          "explanation": "Aparat gryzący, ssący, liżący i kłująco-ssący to typy narządów gębowych owadów. Szczękoczułki są narządami gębowymi pajęczaków, a nie owadów."
         },
         {
           "id": "R03_PRZ_14",

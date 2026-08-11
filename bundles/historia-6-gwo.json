@@ -1,8 +1,8 @@
 {
   "id": "historia-6-gwo",
   "title": "Historia 6 GWO",
-  "version": 1,
-  "contentHash": "b2d6e7e8c5e9b01b47f73b1ac28df2c8b9912550a5c70c4784693ab9b2a3a073",
+  "version": 2,
+  "contentHash": "d8123cf2301999de19dc673052682da2b74a63f4a1b11308be6ec6cf26b29002",
   "bookConfig": {
     "id": "historia-6-gwo",
     "title": "Historia 6 GWO",
@@ -118,10 +118,10 @@
           "id": "R01_ODK_06",
           "section": "Wielkie odkrycia geograficzne",
           "type": "odd_one_out",
-          "prompt": "Wskaż element niepasujący do pozostałych jako pomoc w dalekiej żegludze: karawela, karaka, dokładniejsze mapy, plantacja.",
+          "prompt": "Wskaż element niepasujący do pozostałych jako pomoc w dalekiej żegludze: karawela, karaka, dokładniejsze mapy, silnik parowy.",
           "options": null,
-          "answer": "plantacja",
-          "explanation": "Karawela, karaka i dokładniejsze mapy pomagały w wyprawach oceanicznych. Plantacja to duży obszar zajęty pod uprawę jednej rośliny."
+          "answer": "silnik parowy",
+          "explanation": "Karawele, karaki i dokładniejsze mapy pomagały w wyprawach oceanicznych XV wieku. Silnik parowy wynaleziono ponad trzysta lat później - statki Kolumba pływały wyłącznie pod żaglami."
         },
         {
           "id": "R01_ODK_07",

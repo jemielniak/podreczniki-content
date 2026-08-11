@@ -1,8 +1,8 @@
 {
   "id": "biologia-bez-tajemnic-5-klasa",
   "title": "Biologia bez tajemnic 5 klasa",
-  "version": 6,
-  "contentHash": "97e1beea166250f554e5224c1db94a996bab86da0211bf19d227f28baccc3a31",
+  "version": 7,
+  "contentHash": "1423720c8501c5124f65939c062069544b559f544b9cecc812ae8ffad8d563b3",
   "bookConfig": {
     "id": "biologia-bez-tajemnic-5-klasa",
     "title": "Biologia bez tajemnic 5 klasa",
@@ -538,10 +538,10 @@
           "id": "R01_OBS_05",
           "section": "Obserwacje i dokumentowanie",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do sposobów dokumentowania badań: fotografia, rysunek, tabela, wykres, zapach.",
+          "prompt": "Wskaż, co nie pasuje do sposobów dokumentowania badań: fotografia, rysunek, tabela, wykres, zapamiętanie wyniku.",
           "options": null,
-          "answer": "zapach",
-          "explanation": "Wyniki można dokumentować fotografiami, rysunkami, tabelami i wykresami. Zapach nie jest formą zapisu wyników."
+          "answer": "zapamiętanie wyniku",
+          "explanation": "Fotografia, rysunek, tabela i wykres tworzą trwały zapis, do którego można wrócić. Zapamiętanie wyniku nie jest dokumentowaniem - nie zostaje żaden ślad, który dałoby się sprawdzić."
         },
         {
           "id": "R01_OBS_06",
@@ -860,10 +860,10 @@
           "id": "R01_MET_10",
           "section": "Metoda naukowa",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do elementów metody naukowej: problem badawczy, hipoteza, doświadczenie, wniosek, plotka.",
+          "prompt": "Wskaż, co nie pasuje do elementów metody naukowej: problem badawczy, hipoteza, doświadczenie, wniosek, dopasowanie wyniku do hipotezy.",
           "options": null,
-          "answer": "plotka",
-          "explanation": "Plotka nie jest elementem metody naukowej. Pozostałe pojęcia należą do procesu badawczego."
+          "answer": "dopasowanie wyniku do hipotezy",
+          "explanation": "Metoda naukowa to problem badawczy, hipoteza, doświadczenie i wniosek. Dopasowanie wyniku do hipotezy jest błędem - wynik doświadczenia może hipotezę potwierdzić albo obalić i nie wolno go naginać."
         },
         {
           "id": "R01_MET_11",
@@ -999,10 +999,10 @@
           "id": "R01_MIK_06",
           "section": "Mikroskop i preparaty",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do narzędzi potrzebnych do wykonania preparatu mikroskopowego: szkiełko podstawowe, szkiełko nakrywkowe, pipeta, pęseta, lornetka.",
+          "prompt": "Wskaż, co nie pasuje do narzędzi potrzebnych do wykonania preparatu mikroskopowego: szkiełko podstawowe, szkiełko nakrywkowe, pipeta, pęseta, waga laboratoryjna.",
           "options": null,
-          "answer": "lornetka",
-          "explanation": "Lornetka służy do obserwacji odległych obiektów, a pozostałe narzędzia wykorzystuje się przy przygotowywaniu preparatu mikroskopowego."
+          "answer": "waga laboratoryjna",
+          "explanation": "Szkiełka, pipeta i pęseta są potrzebne przy przygotowywaniu preparatu. Waga laboratoryjna też stoi w pracowni, ale służy do odmierzania masy, a nie do wykonania preparatu."
         },
         {
           "id": "R01_MIK_07",
@@ -2987,10 +2987,10 @@
           "id": "R03_KLA_07",
           "section": "Klasyfikacja organizmów",
           "type": "odd_one_out",
-          "prompt": "Wskaż element, który nie jest jednostką systematyczną: królestwo, rodzina, rodzaj, chloroplast, gatunek.",
+          "prompt": "Wskaż element, który nie jest jednostką systematyczną: królestwo, rodzina, rodzaj, populacja, gatunek.",
           "options": null,
-          "answer": "chloroplast",
-          "explanation": "Chloroplast jest elementem komórki, a pozostałe pojęcia są jednostkami systematycznymi."
+          "answer": "populacja",
+          "explanation": "Królestwo, rodzina, rodzaj i gatunek to jednostki systematyczne. Populacja to osobniki jednego gatunku żyjące na wspólnym terenie - pojęcie z ekologii, a nie jednostka systematyczna."
         },
         {
           "id": "R03_KLA_08",
@@ -4439,10 +4439,10 @@
           "id": "R04_TKA_07",
           "section": "Tkanki roślinne",
           "type": "odd_one_out",
-          "prompt": "Wskaż element niebędący tkanką roślinną: tkanka okrywająca, tkanka przewodząca, tkanka wzmacniająca, liść.",
+          "prompt": "Wskaż element niebędący tkanką roślinną: tkanka okrywająca, tkanka przewodząca, tkanka wzmacniająca, tkanka nerwowa.",
           "options": null,
-          "answer": "liść",
-          "explanation": "Liść jest organem roślinnym, a pozostałe elementy są rodzajami tkanek."
+          "answer": "tkanka nerwowa",
+          "explanation": "Tkanka okrywająca, przewodząca i wzmacniająca to tkanki roślinne. Tkanka nerwowa występuje wyłącznie u zwierząt - rośliny jej nie mają."
         },
         {
           "id": "R04_TKA_08",
