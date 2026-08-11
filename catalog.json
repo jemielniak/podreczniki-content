@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "levels": [
     {
       "id": "sp5",
@@ -83,8 +83,8 @@
       "cover": "img/historia-5-gwo/cover.png",
       "chapterCount": 8,
       "bundleUrl": "bundles/historia-5-gwo.json",
-      "bundleVersion": 2,
-      "bundleHash": "9ab58b57cc2992c5dfef69200b144fa7daa16f377ba2c8c42fba2451a3f5b653",
+      "bundleVersion": 3,
+      "bundleHash": "d56defb85f8764e41990f79c3f69f8d433d51f3e308f52406f6694bd711bcd7e",
       "entitlementId": "companion_historia_5_gwo",
       "offeringId": "companion_historia_5_gwo",
       "freeFirstChapter": true
@@ -98,8 +98,8 @@
       "cover": "img/biologia-5-wyd-mac/cover.png",
       "chapterCount": 4,
       "bundleUrl": "bundles/biologia-5-wyd-mac.json",
-      "bundleVersion": 3,
-      "bundleHash": "68ef30f1d905a99075e894284fe523ce0451fda1b40bc9523a35760e828a3fcd",
+      "bundleVersion": 4,
+      "bundleHash": "8893d562e63772a12687ebad98fdf6a6747b74a819ccae27d1a10614f5152cc5",
       "entitlementId": "companion_biologia_5_wyd_mac",
       "offeringId": "companion_biologia_5_wyd_mac",
       "freeFirstChapter": true
@@ -113,8 +113,8 @@
       "cover": "img/biologia-bez-tajemnic-5-klasa/cover.png",
       "chapterCount": 5,
       "bundleUrl": "bundles/biologia-bez-tajemnic-5-klasa.json",
-      "bundleVersion": 5,
-      "bundleHash": "8228b82dc82a577941b61e1b06607e87cbcec592048404d4373e7fe433328132",
+      "bundleVersion": 6,
+      "bundleHash": "97e1beea166250f554e5224c1db94a996bab86da0211bf19d227f28baccc3a31",
       "entitlementId": "companion_biologia_bez_tajemnic_5_klasa",
       "offeringId": "companion_biologia_bez_tajemnic_5_klasa",
       "freeFirstChapter": true
@@ -128,8 +128,8 @@
       "cover": "img/biologia-puls-zycia-5-klasa/cover.png",
       "chapterCount": 5,
       "bundleUrl": "bundles/biologia-puls-zycia-5-klasa.json",
-      "bundleVersion": 2,
-      "bundleHash": "7f558cb82e72b989a377d38e9196a5e5452c88126799986bc11720acfbf13663",
+      "bundleVersion": 3,
+      "bundleHash": "43f670de74558f30c1ffb1123b221333c30f9cdebbaabd4f375494db780d7c56",
       "entitlementId": "companion_biologia_puls_zycia_5_klasa",
       "offeringId": "companion_biologia_puls_zycia_5_klasa",
       "freeFirstChapter": true
@@ -143,8 +143,8 @@
       "cover": "img/biologia-to-nasz-swiat-5-klasa/cover.png",
       "chapterCount": 4,
       "bundleUrl": "bundles/biologia-to-nasz-swiat-5-klasa.json",
-      "bundleVersion": 3,
-      "bundleHash": "73a799d654bb51692489708049f5b6f1f6e55516b31e63d91a08f7cb6b137270",
+      "bundleVersion": 4,
+      "bundleHash": "2023b15034c20bdecfbfa69cd8ef0b660e96208699ce17b89e0124df65d12c0d",
       "entitlementId": "companion_biologia_to_nasz_swiat_5_klasa",
       "offeringId": "companion_biologia_to_nasz_swiat_5_klasa",
       "freeFirstChapter": true
@@ -158,8 +158,8 @@
       "cover": "img/historia-5-wczoraj-i-dzis/cover.png",
       "chapterCount": 7,
       "bundleUrl": "bundles/historia-5-wczoraj-i-dzis.json",
-      "bundleVersion": 3,
-      "bundleHash": "95246314748d0a101bba5cfb6d879f41ca2169386be8884f910f74b2df1bc373",
+      "bundleVersion": 4,
+      "bundleHash": "605623ad40ce569d4c533aa7de97f13941c1150e219846001823e99c804a74d6",
       "entitlementId": "companion_historia_5_wczoraj_i_dzis",
       "offeringId": "companion_historia_5_wczoraj_i_dzis",
       "freeFirstChapter": true
@@ -173,8 +173,8 @@
       "cover": "img/historia-5-wsip/cover.png",
       "chapterCount": 7,
       "bundleUrl": "bundles/historia-5-wsip.json",
-      "bundleVersion": 2,
-      "bundleHash": "1da7e5d4202a16d8c869d99969132fc396039b771fad30017553c21c06d208fb",
+      "bundleVersion": 3,
+      "bundleHash": "38008f4ba17e4e51b432d6bebabd46b003b88c55d0a76505da577c1c36b65308",
       "entitlementId": "companion_historia_5_wsip",
       "offeringId": "companion_historia_5_wsip",
       "freeFirstChapter": true
@@ -188,8 +188,8 @@
       "cover": "img/biologia-bez-tajemnic-klasa-6/cover.png",
       "chapterCount": 5,
       "bundleUrl": "bundles/biologia-bez-tajemnic-klasa-6.json",
-      "bundleVersion": 2,
-      "bundleHash": "1d915df0e03b0df9594d16b043583d78ce63fb4de842d467e8d176b49256d759",
+      "bundleVersion": 3,
+      "bundleHash": "1215f3923392db8fe25675786fe4f5a67d314ea65a908cbac5839b127c9c96d9",
       "entitlementId": "companion_biologia_bez_tajemnic_klasa_6",
       "offeringId": "companion_biologia_bez_tajemnic_klasa_6",
       "freeFirstChapter": true
@@ -203,8 +203,8 @@
       "cover": "img/to-nasz-swiat-biologia-6/cover.png",
       "chapterCount": 5,
       "bundleUrl": "bundles/to-nasz-swiat-biologia-6.json",
-      "bundleVersion": 2,
-      "bundleHash": "23599d1d86fea986bb434fcfd403ab14d385d30c9d1a590cc59f008fc120987c",
+      "bundleVersion": 3,
+      "bundleHash": "279a416f68e449bf12a5876412559610874498cd55951e28da6696f5bdf54fe9",
       "entitlementId": "companion_to_nasz_swiat_biologia_6",
       "offeringId": "companion_to_nasz_swiat_biologia_6",
       "freeFirstChapter": true
@@ -218,8 +218,8 @@
       "cover": "img/biologia-puls-zycia-6-klasa/cover.png",
       "chapterCount": 5,
       "bundleUrl": "bundles/biologia-puls-zycia-6-klasa.json",
-      "bundleVersion": 1,
-      "bundleHash": "05b7e17cc2350feaaf1ab8dfa810e4092ad7ae01e1494e9d83750eb4f389e5de",
+      "bundleVersion": 2,
+      "bundleHash": "538c8f955aa5bf906db7b1570a784d77e45ffb79958324f8c2e1ca3d9f7aa76f",
       "entitlementId": "companion_biologia_puls_zycia_6_klasa",
       "offeringId": "companion_biologia_puls_zycia_6_klasa",
       "freeFirstChapter": true
@@ -233,8 +233,8 @@
       "cover": "img/geografia-bez-tajemnic-5/cover.png",
       "chapterCount": 5,
       "bundleUrl": "bundles/geografia-bez-tajemnic-5.json",
-      "bundleVersion": 2,
-      "bundleHash": "053b0be1e62f7a2e3816d07ff041bec0660d7ce3d8d2e16fae51c7590d3f23c7",
+      "bundleVersion": 3,
+      "bundleHash": "bc7014cdcfd00a562aec90a9df5f7938b5a2186a8642e48458b833c8b01899e7",
       "entitlementId": "companion_geografia_bez_tajemnic_5",
       "offeringId": "companion_geografia_bez_tajemnic_5",
       "freeFirstChapter": true
@@ -248,8 +248,8 @@
       "cover": "img/planeta-nowa-5/cover.png",
       "chapterCount": 4,
       "bundleUrl": "bundles/planeta-nowa-5.json",
-      "bundleVersion": 2,
-      "bundleHash": "65eab11c83948636b0c84cd8cb4749ab25de2b5dbead7bb492423fc0416f8a27",
+      "bundleVersion": 3,
+      "bundleHash": "eaa3f922eb93b5044df5f80c4d7e33590b2e6bba3640a4d2a72b1830ae70f596",
       "entitlementId": "companion_planeta_nowa_5",
       "offeringId": "companion_planeta_nowa_5",
       "freeFirstChapter": true
@@ -263,8 +263,8 @@
       "cover": "img/to-nasz-swiat-geografia-5/cover.png",
       "chapterCount": 6,
       "bundleUrl": "bundles/to-nasz-swiat-geografia-5.json",
-      "bundleVersion": 1,
-      "bundleHash": "72c9fc27d1ed4bd2480afa344daf1ca847cef48955a8ae1bddbf478731b2cbbd",
+      "bundleVersion": 2,
+      "bundleHash": "70f2ace858eead100c1be872ab68af5cbb0af1d91f2aee416e578278d479e859",
       "entitlementId": "companion_to_nasz_swiat_geografia_5",
       "offeringId": "companion_to_nasz_swiat_geografia_5",
       "freeFirstChapter": true
@@ -278,8 +278,8 @@
       "cover": "img/planeta-nowa-6/cover.png",
       "chapterCount": 5,
       "bundleUrl": "bundles/planeta-nowa-6.json",
-      "bundleVersion": 1,
-      "bundleHash": "5b37b8f088f1ccc3dd3a975f66f64e92d5c02fd68228edbc09602847fce6f17e",
+      "bundleVersion": 2,
+      "bundleHash": "839d81f3cb009bad1e44713e3798c465a0bf3e73cbc6c0deee24c9a81caa0acd",
       "entitlementId": "companion_planeta_nowa_6",
       "offeringId": "companion_planeta_nowa_6",
       "freeFirstChapter": true
@@ -293,8 +293,8 @@
       "cover": "img/historia-6-wsip/cover.png",
       "chapterCount": 6,
       "bundleUrl": "bundles/historia-6-wsip.json",
-      "bundleVersion": 2,
-      "bundleHash": "517395abe483ced1548acb7e5654a85819e18fd257077b326cb44d3b90a6a757",
+      "bundleVersion": 3,
+      "bundleHash": "594ab3fe4c50709039832e5b8f99f79a8c6b695ca777e7140aea2c0cb3c2c869",
       "entitlementId": "companion_historia_6_wsip",
       "offeringId": "companion_historia_6_wsip",
       "freeFirstChapter": true
@@ -308,8 +308,8 @@
       "cover": "img/geografia-bez-tajemnic-6/cover.png",
       "chapterCount": 5,
       "bundleUrl": "bundles/geografia-bez-tajemnic-6.json",
-      "bundleVersion": 2,
-      "bundleHash": "075a568dad9a0c4091443355fea4d219e082471af1e056eb62318adf81f4253a",
+      "bundleVersion": 3,
+      "bundleHash": "ef749add66ed61a403b731da39c91ef0cdaa0da9a5af008216400bb4ab952179",
       "entitlementId": "companion_geografia_bez_tajemnic_6",
       "offeringId": "companion_geografia_bez_tajemnic_6",
       "freeFirstChapter": true
@@ -323,10 +323,25 @@
       "cover": "img/to-nasz-swiat-geografia-6/cover.png",
       "chapterCount": 5,
       "bundleUrl": "bundles/to-nasz-swiat-geografia-6.json",
-      "bundleVersion": 1,
-      "bundleHash": "04a30e07679531f0d6e9a3aef4ffe3c0ecb2aab7c6f43813ae2bd8efa05bd401",
+      "bundleVersion": 2,
+      "bundleHash": "c89224cda948c15c7eafe1ac5064158f908314410e1d3e68decb53155ae68898",
       "entitlementId": "companion_to_nasz_swiat_geografia_6",
       "offeringId": "companion_to_nasz_swiat_geografia_6",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "historia-6-gwo",
+      "levelId": "sp6",
+      "subjectId": "historia",
+      "title": "Historia 6 GWO",
+      "publisher": "",
+      "cover": "img/historia-6-gwo/cover.png",
+      "chapterCount": 6,
+      "bundleUrl": "bundles/historia-6-gwo.json",
+      "bundleVersion": 1,
+      "bundleHash": "b2d6e7e8c5e9b01b47f73b1ac28df2c8b9912550a5c70c4784693ab9b2a3a073",
+      "entitlementId": "companion_historia_6_gwo",
+      "offeringId": "companion_historia_6_gwo",
       "freeFirstChapter": true
     }
   ]

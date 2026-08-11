@@ -1,8 +1,8 @@
 {
   "id": "to-nasz-swiat-biologia-6",
   "title": "To nasz świat Biologia 6",
-  "version": 2,
-  "contentHash": "23599d1d86fea986bb434fcfd403ab14d385d30c9d1a590cc59f008fc120987c",
+  "version": 3,
+  "contentHash": "279a416f68e449bf12a5876412559610874498cd55951e28da6696f5bdf54fe9",
   "bookConfig": {
     "id": "to-nasz-swiat-biologia-6",
     "title": "To nasz świat Biologia 6",
@@ -37,7 +37,7 @@
           "id": "R01_SWI_01",
           "section": "Świat zwierząt",
           "type": "single_choice",
-          "prompt": "W jakich środowiskach, według rozdziału, występują zwierzęta?",
+          "prompt": "W jakich środowiskach występują zwierzęta?",
           "options": [
             "Tylko w wodzie i na lądzie",
             "W wodzie, na lądzie, w powietrzu i wewnątrz innych organizmów",
@@ -56,7 +56,7 @@
           "prompt": "Dorosłe koralowce prowadzą osiadły tryb życia.",
           "options": null,
           "answer": true,
-          "explanation": "Osiadły tryb życia oznacza, że dorosłe osobniki spędzają życie w jednym miejscu, przytwierdzone do podłoża; rozdział podaje jako przykład koralowce."
+          "explanation": "Osiadły tryb życia oznacza, że dorosłe osobniki spędzają życie w jednym miejscu, przytwierdzone do podłoża; podaje się jako przykład koralowce."
         },
         {
           "id": "R01_SWI_03",
@@ -117,7 +117,7 @@
           "id": "R01_SWI_06",
           "section": "Świat zwierząt",
           "type": "match",
-          "prompt": "Połącz rodzaj cudzożywności z przykładem z rozdziału.",
+          "prompt": "Połącz rodzaj cudzożywności z przykładem.",
           "options": null,
           "left": [
             "padlinożerca",
@@ -141,7 +141,7 @@
             "saprobiont": "dżdżownica"
           },
           "image": "r01_rodzaje_cudzozywnosci.jpg",
-          "explanation": "Rozdział pokazuje m.in. sępa jako padlinożercę, pszczołę miodną jako roślinożercę, srokę jako wszystkożercę, kleszcza jako pasożyta i dżdżownicę jako saprobionta."
+          "explanation": "Pokazuje się m.in. sępa jako padlinożercę, pszczołę miodną jako roślinożercę, srokę jako wszystkożercę, kleszcza jako pasożyta i dżdżownicę jako saprobionta."
         },
         {
           "id": "R01_SWI_07",
@@ -182,7 +182,7 @@
             ]
           },
           "image": "r01_rodzaje_cudzozywnosci.jpg",
-          "explanation": "Przykłady odpowiadają zestawieniu rodzajów cudzożywności w rozdziale."
+          "explanation": "Przykłady odpowiadają zestawieniu rodzajów cudzożywności."
         },
         {
           "id": "R01_SWI_08",
@@ -250,7 +250,7 @@
             "układ narządów",
             "organizm"
           ],
-          "explanation": "Hierarchia pokazana w rozdziale prowadzi od komórki zwierzęcej do całego organizmu."
+          "explanation": "Hierarchia prowadzi od komórki zwierzęcej do całego organizmu."
         },
         {
           "id": "R01_POD_01",
@@ -352,7 +352,7 @@
             "kręgowe": "mają sztywny szkielet wewnętrzny"
           },
           "image": "r01_podzial_krolestwa_zwierzat.jpg",
-          "explanation": "Opis rozdziału rozróżnia zwierzęta beztkankowe, tkankowe, bezkręgowe i kręgowe."
+          "explanation": "Rozróżnia się zwierzęta beztkankowe, tkankowe, bezkręgowe i kręgowe."
         },
         {
           "id": "R01_POD_06",
@@ -395,7 +395,7 @@
             ]
           },
           "image": "r01_podzial_krolestwa_zwierzat.jpg",
-          "explanation": "W rozdziale bezkręgowce i kręgowce są dwiema głównymi grupami zwierząt tkankowych."
+          "explanation": "Bezkręgowce i kręgowce są dwiema głównymi grupami zwierząt tkankowych."
         },
         {
           "id": "R01_POD_07",
@@ -433,7 +433,7 @@
             "Nadecznik stawowy"
           ],
           "image": "r01_gabka_budowa.jpg",
-          "explanation": "Rozdział podaje nadecznika stawowego jako przykład gąbki słodkowodnej występującej w Polsce."
+          "explanation": "Podaje się nadecznika stawowego jako przykład gąbki słodkowodnej występującej w Polsce."
         },
         {
           "id": "R01_POD_10",
@@ -443,13 +443,13 @@
           "options": null,
           "answer": true,
           "image": "r01_podzial_krolestwa_zwierzat.jpg",
-          "explanation": "Te grupy są w rozdziale wymienione po stronie bezkręgowców."
+          "explanation": "Te grupy są wymienione po stronie bezkręgowców."
         },
         {
           "id": "R01_POD_11",
           "section": "Podział zwierząt",
           "type": "single_choice",
-          "prompt": "Do której grupy kręgowców należy niedźwiedź brunatny pokazany w rozdziale?",
+          "prompt": "Do której grupy kręgowców należy niedźwiedź brunatny?",
           "options": [
             "ryby",
             "płazy",
@@ -588,7 +588,7 @@
             "walcowaty": "wydłużone komórki przypominające walec"
           },
           "image": "r01_nablonki_rodzaje.jpg",
-          "explanation": "W rozdziale wyróżniono nabłonki płaskie, sześcienne i walcowate według kształtu komórek."
+          "explanation": "Wyróżniono nabłonki płaskie, sześcienne i walcowate według kształtu komórek."
         },
         {
           "id": "R01_NIM_07",
@@ -702,7 +702,7 @@
           "id": "R01_LNE_02",
           "section": "Tkanka łączna i nerwowa",
           "type": "multi_select",
-          "prompt": "Zaznacz rodzaje tkanki łącznej wymienione w rozdziale.",
+          "prompt": "Zaznacz rodzaje tkanki łącznej.",
           "options": [
             "chrzęstna",
             "kostna",
@@ -971,7 +971,7 @@
           "prompt": "Większość zwierząt to organizmy tkankowe.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podkreśla, że większość zwierząt ma tkanki, a wśród nich wyróżnia się bezkręgowce i kręgowce."
+          "explanation": "Większość zwierząt ma tkanki, a wśród nich wyróżnia się bezkręgowce i kręgowce."
         },
         {
           "id": "R01_MIE_05",
@@ -1150,7 +1150,7 @@
               "bialek kurczliwych"
             ]
           ],
-          "explanation": "W rozdziale prążki opisano jako wynik regularnego ułożenia białek kurczliwych."
+          "explanation": "Prążki opisano jako wynik regularnego ułożenia białek kurczliwych."
         },
         {
           "id": "R01_HARD_04",
@@ -1302,7 +1302,7 @@
           "id": "R01_HARD_12",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz pary tkanka — miejsce występowania zgodne z rozdziałem.",
+          "prompt": "Zaznacz poprawne pary tkanka — miejsce występowania.",
           "options": [
             "nabłonkowa — wierzchnia warstwa skóry",
             "mięśniowa gładka — ściany naczyń krwionośnych i przewodu pokarmowego",
@@ -1399,7 +1399,7 @@
           "prompt": "Większość płazińców to pasożyty żyjące wewnątrz innych organizmów.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wskazuje, że większość płazińców prowadzi pasożytniczy tryb życia wewnątrz żywicieli."
+          "explanation": "Większość płazińców prowadzi pasożytniczy tryb życia wewnątrz żywicieli."
         },
         {
           "id": "R02_PLA_03",
@@ -1421,7 +1421,7 @@
           "id": "R02_PLA_04",
           "section": "Płazińce",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy budowy ciała płazińców opisane w podręczniku.",
+          "prompt": "Zaznacz cechy budowy ciała płazińców.",
           "options": [
             "ciało podłużne",
             "ciało spłaszczone",
@@ -1505,7 +1505,7 @@
           "id": "R02_PLA_08",
           "section": "Płazińce",
           "type": "single_choice",
-          "prompt": "Czym tasiemiec uzbrojony różni się od tasiemca nieuzbrojonego według schematu z podręcznika?",
+          "prompt": "Czym tasiemiec uzbrojony różni się od tasiemca nieuzbrojonego według schematu?",
           "image": "r02_tasiemiec_budowa.jpg",
           "options": [
             "Ma haczyki i przyssawki na główce",
@@ -1671,13 +1671,13 @@
               "czlowieka"
             ]
           ],
-          "explanation": "Podręcznik podkreśla, że większość nicieni to pasożyty wewnętrzne roślin i zwierząt, także człowieka."
+          "explanation": "Większość nicieni to pasożyty wewnętrzne roślin i zwierząt, także człowieka."
         },
         {
           "id": "R02_NIC_05",
           "section": "Nicienie",
           "type": "single_choice",
-          "prompt": "Który nicień został podany w podręczniku jako pasożyt człowieka?",
+          "prompt": "Który nicień został jako pasożyt człowieka?",
           "image": "r02_owsik_budowa.jpg",
           "options": [
             "owsik ludzki",
@@ -1697,7 +1697,7 @@
           "prompt": "Owsik ludzki występuje w jelicie grubym człowieka, głównie u dzieci.",
           "options": null,
           "answer": true,
-          "explanation": "W podręczniku owsik ludzki opisano jako pasożyta jelita grubego, częstego szczególnie u dzieci."
+          "explanation": "Owsik ludzki opisano jako pasożyta jelita grubego, częstego szczególnie u dzieci."
         },
         {
           "id": "R02_NIC_07",
@@ -1733,7 +1733,7 @@
           "id": "R02_NIC_09",
           "section": "Nicienie",
           "type": "multi_select",
-          "prompt": "Wybierz objawy lub skutki obecności owsików opisane w podręczniku.",
+          "prompt": "Wybierz objawy lub skutki obecności owsików.",
           "options": [
             "zaczerwienienie skóry w okolicach odbytu",
             "swędzenie skóry, szczególnie nocą",
@@ -1877,7 +1877,7 @@
             "około 5"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że ciało dżdżownicy składa się z około 100 pierścieni."
+          "explanation": "Ciało dżdżownicy składa się z około 100 pierścieni."
         },
         {
           "id": "R02_PIE_05",
@@ -1961,7 +1961,7 @@
           "id": "R02_PIE_09",
           "section": "Pierścienice",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy pijawki opisane w podręczniku.",
+          "prompt": "Zaznacz cechy pijawki.",
           "image": "r02_pijawka_budowa.jpg",
           "options": [
             "przyssawki na pierwszym i ostatnim segmencie",
@@ -2069,7 +2069,7 @@
             2,
             3
           ],
-          "explanation": "Podręcznik zaleca jedzenie mięsa ze znanego, przebadanego źródła oraz unikanie mięsa surowego i niedogotowanego."
+          "explanation": "Zaleca się jedzenie mięsa ze znanego, przebadanego źródła oraz unikanie mięsa surowego i niedogotowanego."
         },
         {
           "id": "R02_PRO_03",
@@ -2222,7 +2222,7 @@
           "prompt": "Utrzymywanie toalety w czystości należy do sposobów zapobiegania zakażeniu owsikami.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wymienia czystość toalety jako jedną z zasad higieny pomagających uniknąć owsicy."
+          "explanation": "Wymienia się czystość toalety jako jedną z zasad higieny pomagających uniknąć owsicy."
         },
         {
           "id": "R02_PRO_12",
@@ -2301,7 +2301,7 @@
           "id": "R02_POR_03",
           "section": "Porównanie bezkręgowców",
           "type": "single_choice",
-          "prompt": "Które dwie grupy obejmują pasożyty wewnętrzne opisane w podręczniku?",
+          "prompt": "Które dwie grupy obejmują pasożyty wewnętrzne?",
           "options": [
             "płazińce i nicienie",
             "płazińce i pierścienice",
@@ -2317,7 +2317,7 @@
           "id": "R02_POR_04",
           "section": "Porównanie bezkręgowców",
           "type": "multi_select",
-          "prompt": "Zaznacz przykłady zwierząt wolno żyjących opisanych w rozdziale.",
+          "prompt": "Zaznacz przykłady zwierząt wolno żyjących.",
           "options": [
             "wypławek biały",
             "nicienie glebowe",
@@ -2331,7 +2331,7 @@
             1,
             2
           ],
-          "explanation": "W rozdziale jako wolno żyjące opisano m.in. wypławka, niektóre nicienie glebowe i dżdżownice; pijawki też należą do pierścienic, choć wiele z nich jest pasożytami zewnętrznymi."
+          "explanation": "Jako wolno żyjące opisano m.in. wypławka, niektóre nicienie glebowe i dżdżownice; pijawki też należą do pierścienic, choć wiele z nich jest pasożytami zewnętrznymi."
         },
         {
           "id": "R02_POR_05",
@@ -2340,7 +2340,7 @@
           "prompt": "Płazińce, nicienie i pierścienice należą do bezkręgowców.",
           "options": null,
           "answer": true,
-          "explanation": "Cały rozdział omawia te trzy grupy jako zwierzęta bezkręgowe."
+          "explanation": "Wszystkie trzy grupy to zwierzęta bezkręgowe."
         },
         {
           "id": "R02_POR_06",
@@ -2477,7 +2477,7 @@
           "id": "R02_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który płaziniec opisany w rozdziale może osiągać do 10 m długości?",
+          "prompt": "Który płaziniec może osiągać do 10 m długości?",
           "options": [
             "tasiemiec nieuzbrojony",
             "tasiemiec uzbrojony",
@@ -2487,13 +2487,13 @@
             "pijawka"
           ],
           "answer": 0,
-          "explanation": "W rozdziale podano, że tasiemiec nieuzbrojony może osiągać do 10 m długości."
+          "explanation": "Tasiemiec nieuzbrojony może osiągać do 10 m długości."
         },
         {
           "id": "R02_HARD_02",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który płaziniec opisany w rozdziale osiąga zwykle 2–4 m długości?",
+          "prompt": "Który płaziniec osiąga zwykle 2–4 m długości?",
           "options": [
             "tasiemiec uzbrojony",
             "tasiemiec nieuzbrojony",
@@ -2503,7 +2503,7 @@
             "rurówka"
           ],
           "answer": 0,
-          "explanation": "W rozdziale wskazano, że tasiemiec uzbrojony osiąga 2–4 m długości."
+          "explanation": "Tasiemiec uzbrojony osiąga 2–4 m długości."
         },
         {
           "id": "R02_HARD_03",
@@ -2528,13 +2528,13 @@
             "C. elegans",
             "c elegans"
           ],
-          "explanation": "Podręcznik podaje jako ciekawostkę gatunek Caenorhabditis elegans."
+          "explanation": "Podaje się jako ciekawostkę gatunek Caenorhabditis elegans."
         },
         {
           "id": "R02_HARD_05",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Do czego mogą być wykorzystywane pożyteczne nicienie w rolnictwie według rozdziału?",
+          "prompt": "Do czego mogą być wykorzystywane pożyteczne nicienie w rolnictwie?",
           "options": [
             "do zwalczania szkodników upraw",
             "do zapylania kwiatów",
@@ -2544,13 +2544,13 @@
             "do badania mięsa przez weterynarza"
           ],
           "answer": 0,
-          "explanation": "W rozdziale podano, że nicienie mogą być używane do zwalczania szkodników upraw, głównie owadów."
+          "explanation": "Nicienie mogą być używane do zwalczania szkodników upraw, głównie owadów."
         },
         {
           "id": "R02_HARD_06",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż etapy przygotowania hodowli nicieni zgodnie z opisem w rozdziale.",
+          "prompt": "Ułóż etapy przygotowania hodowli nicieni zgodnie z opisem.",
           "options": null,
           "items": [
             "dodaj drożdże, rozgniecionego banana i porcję startową nicieni",
@@ -2570,7 +2570,7 @@
           "id": "R02_HARD_07",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz korzyści wynikające z działalności pierścienic wymienione w rozdziale.",
+          "prompt": "Zaznacz korzyści wynikające z działalności pierścienic.",
           "options": [
             "spulchnianie i użyźnianie gleby",
             "oczyszczanie środowiska",
@@ -2618,7 +2618,7 @@
           "id": "R02_HARD_10",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Podczas porządkowania ogrodu uczeń chce wrzucić do kompostu kości, mięso i nabiał. Co powinien zrobić zgodnie z instrukcją z rozdziału?",
+          "prompt": "Podczas porządkowania ogrodu uczeń chce wrzucić do kompostu kości, mięso i nabiał. Co powinien zrobić zgodnie z instrukcją?",
           "options": [
             "nie wrzucać tych produktów do kompostu",
             "wrzucić je jako odpadki zielone",
@@ -2897,7 +2897,7 @@
           "prompt": "Stonoga murowa ma sto nóg, zgodnie ze swoją nazwą.",
           "options": null,
           "answer": false,
-          "explanation": "W podręczniku podano, że stonoga murowa ma tylko 14 nóg."
+          "explanation": "Stonoga murowa ma tylko 14 nóg."
         },
         {
           "id": "R03_SKO_03",
@@ -2921,7 +2921,7 @@
           "id": "R03_SKO_04",
           "section": "Skorupiaki",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy budowy raka opisane w podręczniku.",
+          "prompt": "Zaznacz elementy budowy raka.",
           "options": [
             "2 pary czułków",
             "5 par odnóży krocznych",
@@ -3046,7 +3046,7 @@
           "prompt": "Większość skorupiaków pobiera tlen z wody skrzelami.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że większość skorupiaków ma skrzela, którymi pobiera tlen z wody."
+          "explanation": "Większość skorupiaków ma skrzela, którymi pobiera tlen z wody."
         },
         {
           "id": "R03_PAJ_01",
@@ -3109,10 +3109,10 @@
           "id": "R03_PAJ_04",
           "section": "Pajęczaki",
           "type": "true_false",
-          "prompt": "Spośród wymienianych w rozdziale pajęczaków tylko pająki przędą sieci.",
+          "prompt": "Spośród pajęczaków tylko pająki przędą sieci.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podkreśla, że spośród kosarzy, pająków, roztoczy i skorpionów tylko pająki przędą sieci."
+          "explanation": "Spośród kosarzy, pająków, roztoczy i skorpionów tylko pająki przędą sieci."
         },
         {
           "id": "R03_PAJ_05",
@@ -3169,7 +3169,7 @@
           "id": "R03_PAJ_08",
           "section": "Pajęczaki",
           "type": "scenario",
-          "prompt": "Dziecko chce dotknąć nieznanego pająka znalezionego w ogrodzie. Które uzasadnienie ostrożności najlepiej pasuje do informacji z podręcznika?",
+          "prompt": "Dziecko chce dotknąć nieznanego pająka znalezionego w ogrodzie. Które uzasadnienie ostrożności najlepiej pasuje do informacji?",
           "options": [
             "Wiele pajęczaków ma gruczoły jadowe.",
             "Pająki mają skrzela i mogą wciągnąć do wody.",
@@ -3249,7 +3249,7 @@
           "id": "R03_OWA_02",
           "section": "Owady",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy budowy owadów opisane w rozdziale.",
+          "prompt": "Zaznacz cechy budowy owadów.",
           "options": [
             "ciało podzielone na głowę, tułów i odwłok",
             "trzy pary odnóży krocznych",
@@ -3274,7 +3274,7 @@
           "prompt": "Owady są jedynymi bezkręgowcami zdolnymi do aktywnego lotu.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że owady to jedyne bezkręgowce zdolne do aktywnego lotu."
+          "explanation": "Owady to jedyne bezkręgowce zdolne do aktywnego lotu."
         },
         {
           "id": "R03_OWA_04",
@@ -3299,7 +3299,7 @@
           "id": "R03_OWA_05",
           "section": "Owady",
           "type": "match",
-          "prompt": "Połącz typ odnóża owada z przykładem z podręcznika.",
+          "prompt": "Połącz typ odnóża owada z przykładem.",
           "options": null,
           "left": [
             "odnóże skoczne",
@@ -3349,7 +3349,7 @@
               "motyl zorzynka rzeżuchowiec"
             ]
           },
-          "explanation": "Podręcznik pokazuje aparat gryzący u szerszenia, kłująco-ssący u komara i ssący u motyla.",
+          "explanation": "Pokazuje się aparat gryzący u szerszenia, kłująco-ssący u komara i ssący u motyla.",
           "image": "r03_odnoza_aparaty_owadow.jpg"
         },
         {
@@ -3698,7 +3698,7 @@
               "owady"
             ]
           ],
-          "explanation": "W rozdziale jako główne grupy stawonogów wymieniono skorupiaki, pajęczaki i owady."
+          "explanation": "Jako główne grupy stawonogów wymieniono skorupiaki, pajęczaki i owady."
         },
         {
           "id": "R03_POW_06",
@@ -3777,7 +3777,7 @@
             "slimaki",
             "ślimaki lądowe i wodne"
           ],
-          "explanation": "Podręcznik podaje, że ślimaki są najliczniejszą grupą mięczaków."
+          "explanation": "Ślimaki są najliczniejszą grupą mięczaków."
         },
         {
           "id": "R03_HARD_01",
@@ -3823,7 +3823,7 @@
           "prompt": "Najedzona samica kleszcza pospolitego może osiągnąć długość 10–12 mm.",
           "options": null,
           "answer": true,
-          "explanation": "Ilustracja w rozdziale podaje, że najedzona samica kleszcza ma około 10–12 mm."
+          "explanation": "Ilustracja podaje, że najedzona samica kleszcza ma około 10–12 mm."
         },
         {
           "id": "R03_HARD_04",
@@ -3867,7 +3867,7 @@
             "paśnik niszczyciel": "chrząszcz podobny do szerszenia",
             "zaleszczotek książkowy": "pajęczak spotykany w starych książkach, ulach lub pod korą"
           },
-          "explanation": "Rozdział pokazuje przykłady upodabniania się owadów do groźniejszych gatunków oraz zaleszczotka podobnego do skorpiona.",
+          "explanation": "Pokazuje się przykłady upodabniania się owadów do groźniejszych gatunków oraz zaleszczotka podobnego do skorpiona.",
           "image": "r03_pszczola_osa_szerszen_trzmiel.jpg"
         },
         {
@@ -3883,7 +3883,7 @@
           "id": "R03_HARD_07",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Ktoś twierdzi, że każdy pajęczak jest pająkiem. Który przykład z rozdziału najprościej pokazuje, że to nieprawda?",
+          "prompt": "Ktoś twierdzi, że każdy pajęczak jest pająkiem. Który przykład najprościej pokazuje, że to nieprawda?",
           "options": [
             "kleszcz pospolity",
             "tygrzyk paskowany",
@@ -3900,7 +3900,7 @@
           "id": "R03_HARD_08",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj organizmy do sposobu odżywiania opisanego w rozdziale.",
+          "prompt": "Przyporządkuj organizmy do sposobu odżywiania.",
           "options": null,
           "items": [
             "pąkle",
@@ -4052,7 +4052,7 @@
           "id": "R04_KRG_02",
           "section": "Kręgowce",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy, które według rozdziału składają się na szkielet kręgowców.",
+          "prompt": "Zaznacz elementy, które składają się na szkielet kręgowców.",
           "options": [
             "czaszka",
             "kręgosłup",
@@ -4065,7 +4065,7 @@
             1,
             2
           ],
-          "explanation": "W rozdziale podano, że na szkielet kręgowców składają się m.in. czaszka, kręgosłup i kości kończyn."
+          "explanation": "Na szkielet kręgowców składają się m.in. czaszka, kręgosłup i kości kończyn."
         },
         {
           "id": "R04_KRG_03",
@@ -4075,7 +4075,7 @@
           "options": null,
           "answer": true,
           "image": "r04_szkielet_kregowca.jpg",
-          "explanation": "To prawda: podręcznik podaje taki plan budowy ciała większości kręgowców."
+          "explanation": "To prawda: podaje się taki plan budowy ciała większości kręgowców."
         },
         {
           "id": "R04_KRG_04",
@@ -4110,7 +4110,7 @@
             "kręgowce",
             "kregowce"
           ],
-          "explanation": "W rozdziale wymieniono ryby, płazy, gady, ptaki i ssaki jako grupy należące do kręgowców."
+          "explanation": "Wymieniono ryby, płazy, gady, ptaki i ssaki jako grupy należące do kręgowców."
         },
         {
           "id": "R04_KRG_06",
@@ -4342,7 +4342,7 @@
               "narybkiem"
             ]
           ],
-          "explanation": "W rozdziale podano, że jaja ryb to ikra, a młode rybki to narybek."
+          "explanation": "Jaja ryb to ikra, a młode rybki to narybek."
         },
         {
           "id": "R04_RYB_07",
@@ -4402,7 +4402,7 @@
           "id": "R04_RYB_10",
           "section": "Ryby",
           "type": "sort",
-          "prompt": "Przyporządkuj ryby lub grupy ryb do sposobu odżywiania podanego w rozdziale.",
+          "prompt": "Przyporządkuj ryby lub grupy ryb do sposobu odżywiania.",
           "options": null,
           "items": [
             "szczupak",
@@ -4430,7 +4430,7 @@
               "śledzie"
             ]
           },
-          "explanation": "W podręczniku jako przykłady podano m.in. szczupaka jako drapieżnika, amura jako roślinożercę, karpia jako wszystkożercę i śledzie jako żywiące się planktonem."
+          "explanation": "Jako przykłady podano m.in. szczupaka jako drapieżnika, amura jako roślinożercę, karpia jako wszystkożercę i śledzie jako żywiące się planktonem."
         },
         {
           "id": "R04_RYB_11",
@@ -4445,7 +4445,7 @@
           "id": "R04_RYB_12",
           "section": "Ryby",
           "type": "multi_select",
-          "prompt": "Zaznacz przykłady znaczenia ryb wymienione w rozdziale.",
+          "prompt": "Zaznacz przykłady znaczenia ryb.",
           "options": [
             "są źródłem pokarmu dla ludzi i zwierząt",
             "regulują liczbę organizmów wodnych",
@@ -4691,13 +4691,13 @@
           "options": null,
           "answer": true,
           "image": "r04_cykl_rozwojowy_zaby.jpg",
-          "explanation": "To prawda: tak opisano kijanki w rozdziale."
+          "explanation": "To prawda: tak opisano kijanki."
         },
         {
           "id": "R04_PLA_12",
           "section": "Płazy",
           "type": "single_choice",
-          "prompt": "Co jest głównym pokarmem dorosłych płazów według rozdziału?",
+          "prompt": "Co jest głównym pokarmem dorosłych płazów?",
           "options": [
             "bezkręgowce",
             "wyłącznie plankton",
@@ -4713,7 +4713,7 @@
           "id": "R04_PLA_13",
           "section": "Płazy",
           "type": "multi_select",
-          "prompt": "Zaznacz zagrożenia dla płazów opisane w rozdziale.",
+          "prompt": "Zaznacz zagrożenia dla płazów.",
           "options": [
             "giną pod kołami pojazdów",
             "szkodzą im środki używane w rolnictwie",
@@ -4762,7 +4762,7 @@
           "id": "R04_GAD_02",
           "section": "Gady",
           "type": "multi_select",
-          "prompt": "Zaznacz wspólne cechy gadów opisane w rozdziale.",
+          "prompt": "Zaznacz wspólne cechy gadów.",
           "options": [
             "zmiennocieplność",
             "gruba i sucha skóra",
@@ -4920,7 +4920,7 @@
           "id": "R04_GAD_10",
           "section": "Gady",
           "type": "single_choice",
-          "prompt": "Który wąż jest jedynym jadowitym wężem występującym w Polsce według rozdziału?",
+          "prompt": "Który wąż jest jedynym jadowitym wężem występującym w Polsce?",
           "options": [
             "żmija zygzakowata",
             "zaskroniec zwyczajny",
@@ -4930,7 +4930,7 @@
             "gawial gangesowy"
           ],
           "answer": 0,
-          "explanation": "W podręczniku wskazano żmiję zygzakowatą jako jedynego jadowitego węża występującego w Polsce."
+          "explanation": "Wskazano żmiję zygzakowatą jako jedynego jadowitego węża występującego w Polsce."
         },
         {
           "id": "R04_GAD_11",
@@ -4945,7 +4945,7 @@
           "id": "R04_GAD_12",
           "section": "Gady",
           "type": "multi_select",
-          "prompt": "Zaznacz znaczenie gadów wymienione w rozdziale.",
+          "prompt": "Zaznacz znaczenie gadów.",
           "options": [
             "stanowią pokarm dla ludzi i niektórych zwierząt",
             "regulują liczbę zwierząt, na które polują",
@@ -4966,7 +4966,7 @@
           "id": "R04_GAD_13",
           "section": "Gady",
           "type": "scenario",
-          "prompt": "W chłodny jesienno-zimowy okres jaszczurka ukrywa się w szczelinie skał i ogranicza aktywność. Jak nazywa się taki stan opisany w rozdziale?",
+          "prompt": "W chłodny jesienno-zimowy okres jaszczurka ukrywa się w szczelinie skał i ogranicza aktywność. Jak nazywa się taki stan?",
           "options": [
             "odrętwienie",
             "tarło",
@@ -4983,13 +4983,13 @@
           "prompt": "Wszystkie gady występujące w Polsce są objęte ochroną.",
           "options": null,
           "answer": true,
-          "explanation": "To prawda: rozdział podaje, że wszystkie gady w Polsce są pod ochroną."
+          "explanation": "To prawda: wszystkie gady w Polsce są pod ochroną."
         },
         {
           "id": "R04_MIE_01",
           "section": "Powtórka mieszana",
           "type": "sort",
-          "prompt": "Przyporządkuj grupy kręgowców do środowiska lub trybu życia dominującego w rozdziale.",
+          "prompt": "Przyporządkuj grupy kręgowców do środowiska lub trybu życia dominującego.",
           "options": null,
           "items": [
             "ryby",
@@ -5018,7 +5018,7 @@
           "id": "R04_MIE_02",
           "section": "Powtórka mieszana",
           "type": "match",
-          "prompt": "Połącz grupę kręgowców z typowym sposobem rozmnażania opisanym w rozdziale.",
+          "prompt": "Połącz grupę kręgowców z typowym sposobem rozmnażania.",
           "options": null,
           "left": [
             "ryby",
@@ -5057,7 +5057,7 @@
           "id": "R04_MIE_04",
           "section": "Powtórka mieszana",
           "type": "multi_select",
-          "prompt": "Zaznacz grupy kręgowców zmiennocieplnych omawiane w rozdziale.",
+          "prompt": "Zaznacz grupy kręgowców zmiennocieplnych.",
           "options": [
             "ryby",
             "płazy",
@@ -5070,7 +5070,7 @@
             1,
             2
           ],
-          "explanation": "W rozdziale jako zmiennocieplne wskazano ryby, płazy i gady."
+          "explanation": "Jako zmiennocieplne wskazano ryby, płazy i gady."
         },
         {
           "id": "R04_MIE_05",
@@ -5079,7 +5079,7 @@
           "prompt": "Wskaż, co nie pasuje do pozostałych: ikra, skrzek, jaja gadów, pióra.",
           "options": null,
           "answer": "pióra",
-          "explanation": "Ikra, skrzek i jaja gadów dotyczą rozmnażania omawianych grup, a pióra nie są tematem rozdziału o rybach, płazach i gadach."
+          "explanation": "Ikra, skrzek i jaja gadów dotyczą rozmnażania omawianych grup, a pióra nie dotyczą ryb, płazów ani gadów."
         },
         {
           "id": "R04_MIE_06",
@@ -5145,7 +5145,7 @@
           "id": "R04_MIE_10",
           "section": "Powtórka mieszana",
           "type": "sequence",
-          "prompt": "Ułóż grupy w kolejności od najbardziej związanej z wodą do najbardziej związanej z lądem według materiału z rozdziału.",
+          "prompt": "Ułóż grupy w kolejności od najbardziej związanej z wodą do najbardziej związanej z lądem według materiału.",
           "options": null,
           "items": [
             "gady",
@@ -5188,7 +5188,7 @@
           "id": "R04_HARD_03",
           "section": "Super trudne",
           "type": "riddle",
-          "prompt": "Substancja określona w rozdziale jako tłuszcz z rybiej wątroby to...",
+          "prompt": "Substancja określona jako tłuszcz z rybiej wątroby to...",
           "options": null,
           "answer": "tran",
           "altAnswers": [
@@ -5200,7 +5200,7 @@
           "id": "R04_HARD_04",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Co odróżnia padalca zwyczajnego od węży według rozdziału?",
+          "prompt": "Co odróżnia padalca zwyczajnego od węży?",
           "options": [
             "Ma powieki i małą, słabo oddzieloną od tułowia głowę",
             "Ma skrzela i płetwy",
@@ -5260,7 +5260,7 @@
           "id": "R04_HARD_07",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz przykład zwierzęcia z informacją podaną w rozdziale.",
+          "prompt": "Połącz przykład zwierzęcia z informacją.",
           "options": null,
           "left": [
             "najeżka",
@@ -5280,7 +5280,7 @@
             "żółw błotny": "jedyny gatunek żółwia naturalnie występujący w Polsce",
             "zaskroniec zwyczajny": "ma żółte plamki za skroniami i dobrze pływa"
           },
-          "explanation": "Rozdział podaje charakterystyczne informacje o wybranych gatunkach ryb, płazów i gadów."
+          "explanation": "Podaje się charakterystyczne informacje o wybranych gatunkach ryb, płazów i gadów."
         },
         {
           "id": "R04_HARD_08",
@@ -5495,7 +5495,7 @@
           "prompt": "Najwięcej gatunków ptaków żyje w okolicach równika.",
           "options": null,
           "answer": true,
-          "explanation": "W podręczniku wskazano, że najwięcej gatunków ptaków występuje w okolicach równika, gdzie środowiska są bardzo różnorodne."
+          "explanation": "Najwięcej gatunków ptaków występuje w okolicach równika, gdzie środowiska są bardzo różnorodne."
         },
         {
           "id": "R05_PTL_10",
@@ -5604,7 +5604,7 @@
           "prompt": "Wszystkie ptaki są jajorodne i zachodzi u nich zapłodnienie wewnętrzne.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że wszystkie ptaki są jajorodne, a do zapłodnienia dochodzi wewnątrz ciała samicy."
+          "explanation": "Wszystkie ptaki są jajorodne, a do zapłodnienia dochodzi wewnątrz ciała samicy."
         },
         {
           "id": "R05_PTR_04",
@@ -5632,7 +5632,7 @@
           "id": "R05_PTR_05",
           "section": "Rozmnażanie i znaczenie ptaków",
           "type": "sort",
-          "prompt": "Przyporządkuj przykładowe ptaki do środowisk pokazanych w podręczniku.",
+          "prompt": "Przyporządkuj przykładowe ptaki do środowisk.",
           "options": null,
           "items": [
             "wróbel domowy",
@@ -5662,7 +5662,7 @@
             ]
           },
           "image": "r05_ptaki_srodowiska_polski.jpg",
-          "explanation": "W podręczniku podano przykłady ptaków żyjących w polskich miastach, na wsi i w lesie."
+          "explanation": "Podano przykłady ptaków żyjących w polskich miastach, na wsi i w lesie."
         },
         {
           "id": "R05_PTR_06",
@@ -5703,7 +5703,7 @@
           "id": "R05_PTR_08",
           "section": "Rozmnażanie i znaczenie ptaków",
           "type": "single_choice",
-          "prompt": "Co oznacza słowo birdwatching użyte w podręczniku?",
+          "prompt": "Co oznacza słowo birdwatching?",
           "options": [
             "obserwowanie ptaków",
             "hodowanie ptaków na mięso",
@@ -5786,7 +5786,7 @@
           "id": "R05_SSB_01",
           "section": "Ssaki – środowisko i budowa",
           "type": "single_choice",
-          "prompt": "Co najbardziej wyróżnia ssaki spośród kręgowców opisanych w rozdziale?",
+          "prompt": "Co najbardziej wyróżnia ssaki spośród kręgowców?",
           "options": [
             "karmienie młodych mlekiem",
             "składanie jaj z wapienną skorupką",
@@ -5803,7 +5803,7 @@
           "id": "R05_SSB_02",
           "section": "Ssaki – środowisko i budowa",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy typowe dla ssaków wymienione w podręczniku.",
+          "prompt": "Zaznacz cechy typowe dla ssaków.",
           "options": [
             "stałocieplność",
             "włosy lub sierść",
@@ -5855,7 +5855,7 @@
           "id": "R05_SSB_05",
           "section": "Ssaki – środowisko i budowa",
           "type": "sort",
-          "prompt": "Przyporządkuj ssaki do trybu życia opisanego w podręczniku.",
+          "prompt": "Przyporządkuj ssaki do trybu życia.",
           "options": null,
           "items": [
             "lis pospolity",
@@ -5907,7 +5907,7 @@
           "id": "R05_SSB_07",
           "section": "Ssaki – środowisko i budowa",
           "type": "multi_select",
-          "prompt": "Zaznacz ssaki, które w podręczniku podano jako przykłady zapadające w sen zimowy.",
+          "prompt": "Zaznacz ssaki, które podano jako przykłady zapadające w sen zimowy.",
           "options": [
             "niedźwiedzie",
             "borsuki",
@@ -5986,7 +5986,7 @@
           "options": null,
           "answer": true,
           "image": "r05_tropy_ssakow.jpg",
-          "explanation": "Podręcznik odróżnia tropy, czyli odciski łap, od śladów będących oznakami aktywności zwierząt."
+          "explanation": "Odróżnia się tropy, czyli odciski łap, od śladów będących oznakami aktywności zwierząt."
         },
         {
           "id": "R05_SSB_12",
@@ -6027,7 +6027,7 @@
           "prompt": "Prawie wszystkie ssaki są żyworodne, czyli rodzą swoje potomstwo.",
           "options": null,
           "answer": true,
-          "explanation": "W podręczniku podano, że prawie wszystkie ssaki są żyworodne; wyjątkami są między innymi dziobaki i kolczatki."
+          "explanation": "Prawie wszystkie ssaki są żyworodne; wyjątkami są między innymi dziobaki i kolczatki."
         },
         {
           "id": "R05_SSR_03",
@@ -6121,7 +6121,7 @@
             ]
           },
           "image": "r05_ssaki_srodowiska.jpg",
-          "explanation": "W rozdziale pokazano przykłady ssaków latających, wodnych i nadrzewnych lub szybujących."
+          "explanation": "Pokazano przykłady ssaków latających, wodnych i nadrzewnych lub szybujących."
         },
         {
           "id": "R05_SSR_07",
@@ -6146,13 +6146,13 @@
           "prompt": "Dziobaki i kolczatki są endemitami występującymi tylko w Australii i Nowej Gwinei.",
           "options": null,
           "answer": true,
-          "explanation": "W podręczniku wskazano, że dziobaki i kolczatki występują tylko w Australii i Nowej Gwinei."
+          "explanation": "Dziobaki i kolczatki występują tylko w Australii i Nowej Gwinei."
         },
         {
           "id": "R05_SSR_09",
           "section": "Rozmnażanie i różnorodność ssaków",
           "type": "multi_select",
-          "prompt": "Zaznacz przykłady wykorzystania ssaków przez człowieka wymienione w rozdziale.",
+          "prompt": "Zaznacz przykłady wykorzystania ssaków przez człowieka.",
           "options": [
             "źródło mleka, skór i sierści",
             "praca na polu i w transporcie",
@@ -6212,7 +6212,7 @@
               "długa"
             ]
           ],
-          "explanation": "W podręczniku porównano krótką ciążę u myszy z prawie dwuletnią ciążą u słonia."
+          "explanation": "Porównano krótką ciążę u myszy z prawie dwuletnią ciążą u słonia."
         },
         {
           "id": "R05_MIE_01",
@@ -6254,7 +6254,7 @@
           "id": "R05_MIE_02",
           "section": "Powtórka mieszana",
           "type": "match",
-          "prompt": "Połącz cechę z grupą zwierząt, z którą w rozdziale jest najmocniej związana.",
+          "prompt": "Połącz cechę z grupą zwierząt, z którą jest najmocniej związana.",
           "options": null,
           "left": [
             "pióra",
@@ -6277,7 +6277,7 @@
             "sierść": "pokrycie ciała większości ssaków",
             "rogowy dziób": "okrywa bezzębne szczęki ptaka"
           },
-          "explanation": "Rozdział porównuje przystosowania ptaków i ssaków oraz pokazuje, czym się różnią."
+          "explanation": "Porównuje się przystosowania ptaków i ssaków oraz pokazuje, czym się różnią."
         },
         {
           "id": "R05_MIE_03",
@@ -6308,7 +6308,7 @@
           "id": "R05_MIE_04",
           "section": "Powtórka mieszana",
           "type": "single_choice",
-          "prompt": "Które dwie grupy kręgowców opisane w rozdziale są stałocieplne?",
+          "prompt": "Które dwie grupy kręgowców są stałocieplne?",
           "options": [
             "ptaki i ssaki",
             "ryby i płazy",
@@ -6324,7 +6324,7 @@
           "id": "R05_MIE_05",
           "section": "Powtórka mieszana",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy wspólne ptaków i ssaków z podsumowania rozdziału.",
+          "prompt": "Zaznacz cechy wspólne ptaków i ssaków.",
           "options": [
             "stałocieplność",
             "należą do kręgowców",
@@ -6399,7 +6399,7 @@
           "id": "R05_MIE_10",
           "section": "Powtórka mieszana",
           "type": "match",
-          "prompt": "Połącz znaczenie z grupą zwierząt, której przykład podano w rozdziale.",
+          "prompt": "Połącz znaczenie z grupą zwierząt, której przykład podano.",
           "options": null,
           "left": [
             "zapylanie roślin przez kolibry",
@@ -6441,7 +6441,7 @@
           "prompt": "Pierwsze pióra pojawiły się już u dinozaurów, ale nie przypominały piór ptasich i nie były związane z lataniem.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wyjaśnia, że pierwotne pióra dinozaurów były inne niż pióra ptaków i nie służyły do latania."
+          "explanation": "Pierwotne pióra dinozaurów były inne niż pióra ptaków i nie służyły do latania."
         },
         {
           "id": "R05_HARD_01",
@@ -6473,7 +6473,7 @@
             "sęp"
           ],
           "answer": 0,
-          "explanation": "Podręcznik wskazuje kruka jako rekordzistę pod względem liczby neuronów w małym mózgu."
+          "explanation": "Wskazuje się kruka jako rekordzistę pod względem liczby neuronów w małym mózgu."
         },
         {
           "id": "R05_HARD_03",
@@ -6482,7 +6482,7 @@
           "prompt": "Wiele ptaków dostrzega promieniowanie UV, a niektóre potrafią dostrzegać pole magnetyczne Ziemi.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że ptaki widzą inaczej niż ludzie i część z nich korzysta z informacji o polu magnetycznym Ziemi."
+          "explanation": "Ptaki widzą inaczej niż ludzie i część z nich korzysta z informacji o polu magnetycznym Ziemi."
         },
         {
           "id": "R05_HARD_04",
@@ -6524,7 +6524,7 @@
             "kszyk": "wykrywanie zdobyczy czułym dziobem",
             "burzyki i oceanniki": "wracanie do gniazd z morskich wędrówek dzięki zapachowi"
           },
-          "explanation": "Ciekawostki w rozdziale pokazują, że ptaki wykorzystują różne zmysły i zdolności do orientacji oraz zdobywania pokarmu."
+          "explanation": "Ciekawostki pokazują, że ptaki wykorzystują różne zmysły i zdolności do orientacji oraz zdobywania pokarmu."
         },
         {
           "id": "R05_HARD_06",
@@ -6548,7 +6548,7 @@
           "id": "R05_HARD_07",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz zmysły lub zdolności ptaków opisane w ciekawostkach rozdziału.",
+          "prompt": "Zaznacz zmysły lub zdolności ptaków.",
           "options": [
             "dostrzeganie promieni UV",
             "bardzo dobry słuch",
@@ -6578,7 +6578,7 @@
             "sokół wędrowny"
           ],
           "answer": 0,
-          "explanation": "W podręczniku podano, że modraszki wykorzystują zapach uszkodzonych pędów sosen do wyszukiwania owadów."
+          "explanation": "Modraszki wykorzystują zapach uszkodzonych pędów sosen do wyszukiwania owadów."
         },
         {
           "id": "R05_HARD_09",
@@ -6593,7 +6593,7 @@
           "id": "R05_HARD_10",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż zwierzęta od najmniejszego do największego według przykładów i opisów z rozdziału.",
+          "prompt": "Ułóż zwierzęta od najmniejszego do największego według przykładów i opisów.",
           "options": null,
           "items": [
             "szarytka morska",
@@ -6607,7 +6607,7 @@
             "szarytka morska",
             "słoń afrykański"
           ],
-          "explanation": "Rozdział podaje przykłady od bardzo małej ryjówki etruskiej, przez niewielkiego kanczyla i szarytkę, po najcięższego lądowego słonia afrykańskiego."
+          "explanation": "Podaje się przykłady od bardzo małej ryjówki etruskiej, przez niewielkiego kanczyla i szarytkę, po najcięższego lądowego słonia afrykańskiego."
         }
       ],
       "kidPrompts": {
@@ -6615,7 +6615,7 @@
         "R05_PTR_06": "Co zrobić, gdy znajdziesz zdrowego podlota blisko gniazda?",
         "R05_SSB_01": "Po czym najłatwiej poznać ssaki?",
         "R05_SSR_05": "Czego potrzebuje mały ssak po urodzeniu?",
-        "R05_MIE_04": "Które zwierzęta z rozdziału są stałocieplne?"
+        "R05_MIE_04": "Które zwierzęta są stałocieplne?"
       },
       "visuals": [
         {

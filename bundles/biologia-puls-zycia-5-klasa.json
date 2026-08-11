@@ -1,8 +1,8 @@
 {
   "id": "biologia-puls-zycia-5-klasa",
   "title": "Biologia Puls życia 5 klasa",
-  "version": 2,
-  "contentHash": "7f558cb82e72b989a377d38e9196a5e5452c88126799986bc11720acfbf13663",
+  "version": 3,
+  "contentHash": "43f670de74558f30c1ffb1123b221333c30f9cdebbaabd4f375494db780d7c56",
   "bookConfig": {
     "id": "biologia-puls-zycia-5-klasa",
     "title": "Biologia Puls życia 5 klasa",
@@ -774,7 +774,7 @@
               "wyraz"
             ]
           ],
-          "explanation": "W podręczniku podano, że bios znaczy życie, a logos - słowo."
+          "explanation": "Bios znaczy życie, a logos - słowo."
         },
         {
           "id": "R01_ST_03",
@@ -867,7 +867,7 @@
           "id": "R01_ST_07",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Które nazwy są dziedzinami biologii wymienionymi w rozdziale?",
+          "prompt": "Które nazwy są dziedzinami biologii?",
           "options": [
             "zoologia",
             "botanika",
@@ -885,7 +885,7 @@
             4,
             5
           ],
-          "explanation": "W rozdziale wymieniono zoologię, botanikę, mikrobiologię, anatomię, fizjologię i ekologię. Geometria nie jest dziedziną biologii."
+          "explanation": "Wymieniono zoologię, botanikę, mikrobiologię, anatomię, fizjologię i ekologię. Geometria nie jest dziedziną biologii."
         },
         {
           "id": "R01_ST_08",
@@ -1030,7 +1030,7 @@
             2,
             4
           ],
-          "explanation": "Rozdział wymienia ogród botaniczny, ogród zoologiczny, muzeum przyrodnicze i zajęcia terenowe. Parking sam w sobie nie jest takim miejscem."
+          "explanation": "Wymienia się ogród botaniczny, ogród zoologiczny, muzeum przyrodnicze i zajęcia terenowe. Parking sam w sobie nie jest takim miejscem."
         },
         {
           "id": "R01_ST_15",
@@ -1108,7 +1108,7 @@
           "id": "R01_ST_19",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj obiekty do mikroskopu optycznego albo elektronowego zgodnie z rozdziałem.",
+          "prompt": "Przyporządkuj obiekty do mikroskopu optycznego albo elektronowego.",
           "options": null,
           "items": [
             "komórki cebuli",
@@ -1132,7 +1132,7 @@
               "bakterie"
             ]
           },
-          "explanation": "W rozdziale mikroskop optyczny służy do oglądania komórek i wielu większych obiektów, a elektronowy - do wyjątkowo małych, takich jak wirusy i bakterie."
+          "explanation": "Mikroskop optyczny służy do oglądania komórek i wielu większych obiektów, a elektronowy - do wyjątkowo małych, takich jak wirusy i bakterie."
         },
         {
           "id": "R01_ST_20",
@@ -1141,7 +1141,7 @@
           "prompt": "Niektóre mikroskopy elektronowe potrafią dać obraz przestrzenny.",
           "options": null,
           "answer": true,
-          "explanation": "To prawda. W rozdziale napisano, że niektóre mikroskopy elektronowe umożliwiają uzyskanie obrazu przestrzennego."
+          "explanation": "To prawda. Niektóre mikroskopy elektronowe umożliwiają uzyskanie obrazu przestrzennego."
         }
       ],
       "kidPrompts": {
@@ -1791,7 +1791,7 @@
           "id": "R02_CU_04",
           "section": "Cudzożywność",
           "type": "multi_select",
-          "prompt": "Wybierz trzy główne grupy organizmów cudzożywnych z podręcznika.",
+          "prompt": "Wybierz trzy główne grupy organizmów cudzożywnych.",
           "options": [
             "zjadające inne organizmy",
             "pasożyty",
@@ -1803,7 +1803,7 @@
             1,
             2
           ],
-          "explanation": "W podręczniku organizmy cudzożywne podzielono na zjadające inne organizmy, pasożyty i odżywiające się szczątkami.",
+          "explanation": "Organizmy cudzożywne podzielono na zjadające inne organizmy, pasożyty i odżywiające się szczątkami.",
           "image": "r02_cudzozywnosc_podzial.jpg"
         },
         {
@@ -2287,7 +2287,7 @@
           "id": "R02_ST_17",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który element występuje we wszystkich typach komórek omawianych w rozdziale?",
+          "prompt": "Który element występuje we wszystkich typach komórek?",
           "options": [
             "Błona komórkowa",
             "Chloroplast",
@@ -2412,7 +2412,7 @@
             "Wyłącznie badaniem wirusów"
           ],
           "answer": 1,
-          "explanation": "W podręczniku systematyka jest przedstawiona jako dział biologii zajmujący się opisywaniem, nazywaniem i klasyfikowaniem organizmów."
+          "explanation": "Systematyka jest przedstawiona jako dział biologii zajmujący się opisywaniem, nazywaniem i klasyfikowaniem organizmów."
         },
         {
           "id": "SYS_02",
@@ -2496,7 +2496,7 @@
             "nukleinowego",
             "białek"
           ],
-          "explanation": "Podręcznik opisuje wirusa jako cząstkę z kwasem nukleinowym i otoczką białkową.",
+          "explanation": "Opisuje się wirusa jako cząstkę z kwasem nukleinowym i otoczką białkową.",
           "image": "r03_schemat_wirusa.jpg",
           "altAnswers": [
             [
@@ -2519,7 +2519,7 @@
           "prompt": "Bakterie są organizmami jednokomórkowymi i bezjądrowymi.",
           "options": null,
           "answer": true,
-          "explanation": "Tak opisano bakterie w podręczniku."
+          "explanation": "Tak opisano bakterie."
         },
         {
           "id": "WB_04",
@@ -2562,7 +2562,7 @@
               "salmonelloza"
             ]
           },
-          "explanation": "Taki podział pojawia się w podsumowaniu rozdziału.",
+          "explanation": "Taki podział pojawia się.",
           "items": [
             "grypa",
             "odra",
@@ -2593,7 +2593,7 @@
             "przez krew": "borelioza lub AIDS",
             "droga płciowa": "AIDS"
           },
-          "explanation": "W podręczniku opisano cztery główne drogi rozprzestrzeniania się drobnoustrojów.",
+          "explanation": "Opisano cztery główne drogi rozprzestrzeniania się drobnoustrojów.",
           "left": [
             "droga kropelkowa",
             "droga pokarmowa",
@@ -2638,7 +2638,7 @@
             1,
             2
           ],
-          "explanation": "Podręcznik wymienia te zastosowania jako pożyteczne.",
+          "explanation": "Wymienia się te zastosowania jako pożyteczne.",
           "image": "r03_bakterie_dobre_i_zle.jpg"
         },
         {
@@ -2653,7 +2653,7 @@
             "Drożdże"
           ],
           "answer": 0,
-          "explanation": "W rozdziale podkreślono rolę pałeczek okrężnicy."
+          "explanation": "Podkreślono rolę pałeczek okrężnicy."
         },
         {
           "id": "WB_10",
@@ -2685,7 +2685,7 @@
             "Gruźlica"
           ],
           "answer": 1,
-          "explanation": "Podręcznik łączy salmonellozę z zakażeniem przez pokarm, np. z surowymi jajami."
+          "explanation": "Łączy się salmonellozę z zakażeniem przez pokarm, np. z surowymi jajami."
         },
         {
           "id": "PRO_01",
@@ -2699,7 +2699,7 @@
             "Zawsze bezbarwne"
           ],
           "answer": 2,
-          "explanation": "W rozdziale omówiono oba typy protistów."
+          "explanation": "Omówiono oba typy protistów."
         },
         {
           "id": "PRO_02",
@@ -2730,7 +2730,7 @@
             "euglena": "ma chloroplasty i witkę",
             "listownica": "jest protistem wielokomórkowym żyjącym w morzu"
           },
-          "explanation": "To trzy najważniejsze przykłady z rozdziału.",
+          "explanation": "To trzy najważniejsze przykłady.",
           "left": [
             "pantofelek",
             "euglena",
@@ -2764,7 +2764,7 @@
             "Nigdy"
           ],
           "answer": 1,
-          "explanation": "Podręcznik podaje, że przy braku światła euglena staje się cudzożywna."
+          "explanation": "Przy braku światła euglena staje się cudzożywna."
         },
         {
           "id": "PRO_06",
@@ -2889,7 +2889,7 @@
             "grzybnią",
             "strzępek"
           ],
-          "explanation": "To podstawowe pojęcia z rozdziału o grzybach.",
+          "explanation": "To podstawowe pojęcia o grzybach.",
           "altAnswers": [
             [
               "grzybnią",
@@ -2946,7 +2946,7 @@
           "prompt": "Drożdże mogą oddychać tlenowo lub przeprowadzać fermentację.",
           "options": null,
           "answer": true,
-          "explanation": "To ważny przykład z podręcznika."
+          "explanation": "To ważny przykład."
         },
         {
           "id": "GRZ_06",
@@ -3098,7 +3098,7 @@
             "Grzyby pleśniowe"
           ],
           "answer": 3,
-          "explanation": "W rozdziale o grzybach pokazano pleśń na wilgotnych ścianach."
+          "explanation": "O grzybach pokazano pleśń na wilgotnych ścianach."
         },
         {
           "id": "MIX_04",
@@ -3134,7 +3134,7 @@
           "prompt": "Zagadka: Nie jest organizmem, ale namnaża się tylko w komórkach. To...",
           "options": null,
           "answer": "wirus",
-          "explanation": "To opis wirusa z początku rozdziału.",
+          "explanation": "To opis wirusa.",
           "altAnswers": [
             "wirus",
             "wirusa",
@@ -3985,7 +3985,7 @@
           "id": "R04_KR_09",
           "section": "Korzeń - organ podziemny rośliny",
           "type": "multi_select",
-          "prompt": "Wybierz przekształcenia korzeni opisane w rozdziale.",
+          "prompt": "Wybierz przekształcenia korzeni.",
           "options": [
             "korzenie spichrzowe",
             "korzenie podporowe",
@@ -4176,7 +4176,7 @@
           "id": "R04_PE_09",
           "section": "Pęd. Budowa i funkcje łodygi",
           "type": "multi_select",
-          "prompt": "Wybierz przekształcenia łodygi opisane w rozdziale.",
+          "prompt": "Wybierz przekształcenia łodygi.",
           "options": [
             "bulwy",
             "kłącza",
@@ -4289,7 +4289,7 @@
             "Liść mięty"
           ],
           "answer": 0,
-          "explanation": "Liść złożony składa się z kilku blaszek liściowych na wspólnym ogonku. W rozdziale takim przykładem jest kasztanowiec.",
+          "explanation": "Liść złożony składa się z kilku blaszek liściowych na wspólnym ogonku. Takim przykładem jest kasztanowiec.",
           "image": "r04_lisc_prosty_zlozony.jpg"
         },
         {
@@ -4325,7 +4325,7 @@
           "prompt": "U większości roślin aparaty szparkowe znajdują się po spodniej stronie blaszki liściowej.",
           "options": null,
           "answer": true,
-          "explanation": "To prawda. W rozdziale podano, że u większości roślin aparaty szparkowe są po spodniej stronie blaszki liściowej."
+          "explanation": "To prawda. U większości roślin aparaty szparkowe są po spodniej stronie blaszki liściowej."
         },
         {
           "id": "R04_LI_08",
@@ -4345,7 +4345,7 @@
           "id": "R04_LI_09",
           "section": "Liść - wytwórnia pokarmu",
           "type": "multi_select",
-          "prompt": "Wybierz przekształcenia liści opisane w rozdziale.",
+          "prompt": "Wybierz przekształcenia liści.",
           "options": [
             "liście czepne",
             "liście spichrzowe",
@@ -4530,7 +4530,7 @@
             2,
             3
           ],
-          "explanation": "W strefie wydłużania komórki głównie zwiększają swoje rozmiary, a nie dzielą się. Pozostałe trzy zdania są zgodne z rozdziałem."
+          "explanation": "W strefie wydłużania komórki głównie zwiększają swoje rozmiary, a nie dzielą się. Pozostałe trzy zdania są prawdziwe."
         },
         {
           "id": "R04_ST_07",
@@ -4744,7 +4744,7 @@
               "miękisz"
             ]
           ],
-          "explanation": "W rozdziale podano, że aparaty szparkowe są zwykle po spodniej stronie blaszki, a wnętrze liścia wypełnia tkanka miękiszowa z chloroplastami."
+          "explanation": "Aparaty szparkowe są zwykle po spodniej stronie blaszki, a wnętrze liścia wypełnia tkanka miękiszowa z chloroplastami."
         },
         {
           "id": "R04_ST_17",
@@ -5166,7 +5166,7 @@
           "id": "R05_NG_04",
           "section": "Nagonasienne",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy sosny zwyczajnej opisane w rozdziale.",
+          "prompt": "Zaznacz cechy sosny zwyczajnej.",
           "options": [
             "Ma pień okryty grubą korą",
             "Jej igły wyrastają po dwa obok siebie",
@@ -5570,7 +5570,7 @@
           "id": "R05_ZN_03",
           "section": "Znaczenie i przegląd roślin okrytonasiennych",
           "type": "single_choice",
-          "prompt": "Które rośliny są podane w rozdziale jako przykłady używane do produkcji leków lub kosmetyków?",
+          "prompt": "Które rośliny są jako przykłady używane do produkcji leków lub kosmetyków?",
           "options": [
             "Mięta i rumianek",
             "Sosna i świerk",

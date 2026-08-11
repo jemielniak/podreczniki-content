@@ -1,8 +1,8 @@
 {
   "id": "planeta-nowa-5",
   "title": "Planeta Nowa 5",
-  "version": 2,
-  "contentHash": "65eab11c83948636b0c84cd8cb4749ab25de2b5dbead7bb492423fc0416f8a27",
+  "version": 3,
+  "contentHash": "eaa3f922eb93b5044df5f80c4d7e33590b2e6bba3640a4d2a72b1830ae70f596",
   "bookConfig": {
     "id": "planeta-nowa-5",
     "title": "Planeta Nowa 5",
@@ -37,7 +37,7 @@
           "id": "R01_MAP_01",
           "section": "Mapa i skala",
           "type": "single_choice",
-          "prompt": "Czym jest mapa według rozdziału?",
+          "prompt": "Czym jest mapa?",
           "options": [
             "Zdjęciem krajobrazu z boku",
             "Obrazem powierzchni Ziemi lub jej fragmentu widzianym z góry",
@@ -106,7 +106,7 @@
               "powierzchniowe."
             ]
           ],
-          "explanation": "W rozdziale wyróżniono znaki punktowe, liniowe i powierzchniowe."
+          "explanation": "Wyróżniono znaki punktowe, liniowe i powierzchniowe."
         },
         {
           "id": "R01_MAP_05",
@@ -619,7 +619,7 @@
           "id": "R01_CZY_03",
           "section": "Czytamy mapę najbliższej okolicy",
           "type": "multi_select",
-          "prompt": "Zaznacz zalety map cyfrowych wymienione w rozdziale.",
+          "prompt": "Zaznacz zalety map cyfrowych.",
           "options": [
             "można je dowolnie powiększać i pomniejszać",
             "można wybierać wyświetlane informacje",
@@ -798,7 +798,7 @@
             "legenda": "zestawienie znaków kartograficznych i ich wyjaśnień",
             "poziomica": "linia łącząca punkty na tej samej wysokości nad poziomem morza"
           },
-          "explanation": "W rozdziale zdefiniowano mapę, skalę, legendę i poziomicę jako podstawowe pojęcia pracy z mapą."
+          "explanation": "Zdefiniowano mapę, skalę, legendę i poziomicę jako podstawowe pojęcia pracy z mapą."
         },
         {
           "id": "R01_MIE_03",
@@ -813,7 +813,7 @@
           "id": "R01_MIE_04",
           "section": "Powtórka mieszana",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje zgodne z rozdziałem.",
+          "prompt": "Zaznacz prawdziwe informacje.",
           "options": [
             "Mapa jest obrazem widzianym z góry i przedstawionym w pomniejszeniu.",
             "Skalę można zapisać w postaci liczbowej, mianowanej i jako podziałkę liniową.",
@@ -828,7 +828,7 @@
             2,
             3
           ],
-          "explanation": "Rozdział wyjaśnia między innymi definicję mapy, rodzaje skali, użycie nitki i znaczenie poziomic."
+          "explanation": "Wyjaśnia się między innymi definicję mapy, rodzaje skali, użycie nitki i znaczenie poziomic."
         },
         {
           "id": "R01_MIE_05",
@@ -929,7 +929,7 @@
               "obiekty w terenie"
             ]
           },
-          "explanation": "Pojęcia z rozdziału można pogrupować według tego, czy dotyczą elementów mapy, pomiaru odległości, ukształtowania terenu czy orientowania mapy."
+          "explanation": "Pojęcia można pogrupować według tego, czy dotyczą elementów mapy, pomiaru odległości, ukształtowania terenu czy orientowania mapy."
         },
         {
           "id": "R01_MIE_09",
@@ -1206,7 +1206,7 @@
           "id": "R02_POD_02",
           "section": "Podstawy krajobrazu",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy krajobrazu wymienione w podręczniku.",
+          "prompt": "Zaznacz elementy krajobrazu.",
           "options": [
             "ukształtowanie powierzchni",
             "wody powierzchniowe",
@@ -1230,7 +1230,7 @@
           "prompt": "Krajobraz kulturowy został przekształcony przez człowieka.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik przeciwstawia krajobraz kulturowy krajobrazowi naturalnemu."
+          "explanation": "Przeciwstawia się krajobraz kulturowy krajobrazowi naturalnemu."
         },
         {
           "id": "R02_POD_04",
@@ -1415,7 +1415,7 @@
           "options": null,
           "answer": true,
           "image": "r02_wydmy_plaza.jpg",
-          "explanation": "Podręcznik podaje, że stałe przewiewanie piasku powoduje przemieszczanie się wydm."
+          "explanation": "Stałe przewiewanie piasku powoduje przemieszczanie się wydm."
         },
         {
           "id": "R02_POP_04",
@@ -1543,7 +1543,7 @@
           "id": "R02_POP_10",
           "section": "Pobrzeża i pojezierza",
           "type": "scenario",
-          "prompt": "Rodzina planuje wakacje z żeglarstwem i kajakarstwem na szlaku wielu połączonych jezior. Który region z rozdziału najlepiej pasuje do takiego planu?",
+          "prompt": "Rodzina planuje wakacje z żeglarstwem i kajakarstwem na szlaku wielu połączonych jezior. Który region najlepiej pasuje do takiego planu?",
           "options": [
             "Pojezierze Mazurskie",
             "Wyżyna Śląska",
@@ -1601,7 +1601,7 @@
           "options": null,
           "answer": true,
           "image": "r02_warszawa_panorama.jpg",
-          "explanation": "Podręcznik podaje, że Warszawa leży w centralnej części kraju, po obu brzegach Wisły."
+          "explanation": "Warszawa leży w centralnej części kraju, po obu brzegach Wisły."
         },
         {
           "id": "R02_NIW_04",
@@ -1626,7 +1626,7 @@
           "id": "R02_NIW_05",
           "section": "Niziny i Warszawa",
           "type": "match",
-          "prompt": "Połącz warszawski obiekt z opisem z rozdziału.",
+          "prompt": "Połącz warszawski obiekt z opisem.",
           "options": null,
           "left": [
             "Stare Miasto",
@@ -1647,7 +1647,7 @@
             "Stadion Narodowy": "arena wydarzeń sportowych i kulturalnych"
           },
           "image": "r02_warszawa_panorama.jpg",
-          "explanation": "Rozdział przedstawia kilka znanych atrakcji Warszawy."
+          "explanation": "Przedstawia się kilka znanych atrakcji Warszawy."
         },
         {
           "id": "R02_NIW_06",
@@ -1783,7 +1783,7 @@
           "options": null,
           "answer": true,
           "image": "r02_kopalnia_halda.jpg",
-          "explanation": "Podręcznik definiuje hałdy jako wzniesienia z odpadów przemysłowych."
+          "explanation": "Definiuje się hałdy jako wzniesienia z odpadów przemysłowych."
         },
         {
           "id": "R02_WSL_04",
@@ -1826,7 +1826,7 @@
             "Szlak Zabytków Techniki": "zabytkowe obiekty przemysłowe",
             "Park Śląski": "teren zielony na obszarach przekształconych"
           },
-          "explanation": "Rozdział łączy Śląsk z górnictwem, gwarą śląską, Barbórką i Szlakiem Zabytków Techniki."
+          "explanation": "Łączy się Śląsk z górnictwem, gwarą śląską, Barbórką i Szlakiem Zabytków Techniki."
         },
         {
           "id": "R02_WSL_06",
@@ -1848,7 +1848,7 @@
           "id": "R02_WSL_07",
           "section": "Wyżyny Śląska i Lubelska",
           "type": "multi_select",
-          "prompt": "Zaznacz rośliny uprawiane na Wyżynie Lubelskiej wymienione w podręczniku.",
+          "prompt": "Zaznacz rośliny uprawiane na Wyżynie Lubelskiej.",
           "options": [
             "pszenica",
             "buraki cukrowe",
@@ -1918,7 +1918,7 @@
           "id": "R02_WSL_10",
           "section": "Wyżyny Śląska i Lubelska",
           "type": "scenario",
-          "prompt": "Rolnik szuka miejsca z żyznymi glebami brunatnymi i czarnoziemami, gdzie można uprawiać pszenicę, buraki cukrowe, tytoń i chmiel. Która kraina z rozdziału pasuje najlepiej?",
+          "prompt": "Rolnik szuka miejsca z żyznymi glebami brunatnymi i czarnoziemami, gdzie można uprawiać pszenicę, buraki cukrowe, tytoń i chmiel. Która kraina pasuje najlepiej?",
           "options": [
             "Wyżyna Lubelska",
             "Wybrzeże Słowińskie",
@@ -2154,7 +2154,7 @@
             2,
             3
           ],
-          "explanation": "Wszystkie poprawne pary łączą obiekt lub zjawisko z regionem wskazanym w rozdziale."
+          "explanation": "Wszystkie poprawne pary łączą obiekt lub zjawisko z regionem."
         },
         {
           "id": "R02_HARD_03",
@@ -2188,7 +2188,7 @@
           "id": "R02_HARD_05",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz liczbę z informacją z rozdziału.",
+          "prompt": "Połącz liczbę z informacją.",
           "options": null,
           "left": [
             "2499 m n.p.m.",
@@ -2402,8 +2402,8 @@
           "id": "R03_ZIE_04",
           "section": "Ziemia i globus",
           "type": "single_choice",
-          "prompt": "Ile w przybliżeniu lat istnieje Ziemia według tekstu rozdziału?",
-          "explanation": "W rozdziale podano, że Ziemia istnieje około 4,5 miliarda lat.",
+          "prompt": "Ile w przybliżeniu lat istnieje Ziemia?",
+          "explanation": "Ziemia istnieje około 4,5 miliarda lat.",
           "options": [
             "około 4,5 mln lat",
             "około 45 mln lat",
@@ -2509,8 +2509,8 @@
           "id": "R03_ZIE_11",
           "section": "Ziemia i globus",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje zgodne z opisem Ziemi w rozdziale.",
-          "explanation": "Rozdział podkreśla kulisty kształt Ziemi, jej obrót wokół osi oraz spłaszczenie na biegunach.",
+          "prompt": "Zaznacz informacje zgodne z opisem Ziemi.",
+          "explanation": "Podkreśla się kulisty kształt Ziemi, jej obrót wokół osi oraz spłaszczenie na biegunach.",
           "options": [
             "Ziemia obraca się wokół własnej osi",
             "Ziemia jest idealnym sześcianem",
@@ -2583,7 +2583,7 @@
           "section": "Siatka geograficzna i półkule",
           "type": "true_false",
           "prompt": "Wszystkie południki mają taką samą długość.",
-          "explanation": "W rozdziale podano, że południki są równej długości.",
+          "explanation": "Południki są równej długości.",
           "options": null,
           "answer": true
         },
@@ -2624,7 +2624,7 @@
           "section": "Siatka geograficzna i półkule",
           "type": "multi_select",
           "prompt": "Zaznacz równoleżniki, którym nadano własne nazwy.",
-          "explanation": "W rozdziale wymieniono równik, dwa zwrotniki i dwa koła podbiegunowe.",
+          "explanation": "Wymieniono równik, dwa zwrotniki i dwa koła podbiegunowe.",
           "options": [
             "równik",
             "zwrotnik Raka",
@@ -2778,8 +2778,8 @@
           "id": "R03_KON_01",
           "section": "Kontynenty i oceany",
           "type": "single_choice",
-          "prompt": "Ile kontynentów wyróżnia się na Ziemi w rozdziale?",
-          "explanation": "Rozdział wymienia siedem kontynentów.",
+          "prompt": "Ile kontynentów wyróżnia się na Ziemi?",
+          "explanation": "Wymienia się siedem kontynentów.",
           "options": [
             "pięć",
             "sześć",
@@ -2795,7 +2795,7 @@
           "id": "R03_KON_02",
           "section": "Kontynenty i oceany",
           "type": "multi_select",
-          "prompt": "Zaznacz kontynenty wymienione w rozdziale.",
+          "prompt": "Zaznacz kontynenty.",
           "explanation": "Wśród siedmiu kontynentów są między innymi Azja, Afryka, Europa i Australia.",
           "options": [
             "Azja",
@@ -2816,7 +2816,7 @@
           "id": "R03_KON_03",
           "section": "Kontynenty i oceany",
           "type": "single_choice",
-          "prompt": "Ile oceanów wchodzi w skład oceanu światowego według rozdziału?",
+          "prompt": "Ile oceanów wchodzi w skład oceanu światowego?",
           "explanation": "Ocean światowy jest umownie podzielony na pięć oceanów.",
           "options": [
             "trzy",
@@ -2866,7 +2866,7 @@
           "section": "Kontynenty i oceany",
           "type": "true_false",
           "prompt": "Europa i Azja w rzeczywistości tworzą jeden wielki kontynent nazywany Eurazją.",
-          "explanation": "Podręcznik zaznacza, że Europę i Azję dzieli się umownie ze względów historycznych i kulturowych.",
+          "explanation": "Europę i Azję dzieli się umownie ze względów historycznych i kulturowych.",
           "options": null,
           "answer": true
         },
@@ -2975,7 +2975,7 @@
           "section": "Kontynenty i oceany",
           "type": "true_false",
           "prompt": "Kontynenty zajmują większą powierzchnię na półkuli północnej niż na półkuli południowej.",
-          "explanation": "Pod mapą w rozdziale podano, że rozmieszczenie kontynentów nie jest równomierne i więcej lądów znajduje się na półkuli północnej.",
+          "explanation": "Pod mapą podano, że rozmieszczenie kontynentów nie jest równomierne i więcej lądów znajduje się na półkuli północnej.",
           "options": null,
           "answer": true,
           "image": "r03_kontynenty_oceany_mapa.jpg"
@@ -2997,7 +2997,7 @@
           "id": "R03_ODK_01",
           "section": "Wielkie odkrycia geograficzne",
           "type": "single_choice",
-          "prompt": "Kto według rozdziału był jednym z pierwszych wielkich podróżników i odkrywców wnętrza Azji?",
+          "prompt": "Kto był jednym z pierwszych wielkich podróżników i odkrywców wnętrza Azji?",
           "explanation": "Marco Polo odbył wieloletnią wyprawę w głąb Azji.",
           "options": [
             "Marco Polo",
@@ -3014,7 +3014,7 @@
           "section": "Wielkie odkrycia geograficzne",
           "type": "fill_in",
           "prompt": "Wyprawa Marca Polo w głąb Azji trwała od roku __________ do roku __________.",
-          "explanation": "W rozdziale podano lata 1271-1295.",
+          "explanation": "Podano lata 1271-1295.",
           "options": null,
           "answer": [
             "1271",
@@ -3052,7 +3052,7 @@
           "section": "Wielkie odkrycia geograficzne",
           "type": "multi_select",
           "prompt": "Które towary zaczęto sprowadzać z Azji dzięki poznaniu odległych państw przez Europejczyków?",
-          "explanation": "W rozdziale wymieniono przyprawy: pieprz, cynamon, goździki i gałkę muszkatołową.",
+          "explanation": "Wymieniono przyprawy: pieprz, cynamon, goździki i gałkę muszkatołową.",
           "options": [
             "pieprz",
             "cynamon",
@@ -3171,7 +3171,7 @@
           "section": "Wielkie odkrycia geograficzne",
           "type": "match",
           "prompt": "Połącz podróżnika z dokonaniem.",
-          "explanation": "Każdy z tych podróżników jest w rozdziale powiązany z innym etapem poznawania świata.",
+          "explanation": "Każdy z tych podróżników jest powiązany z innym etapem poznawania świata.",
           "options": null,
           "left": [
             "Marco Polo",
@@ -3298,7 +3298,7 @@
           "section": "Badacze i podróże nowożytne",
           "type": "true_false",
           "prompt": "Magellan zginął na Filipinach.",
-          "explanation": "Rozdział podaje, że Magellan zginął w walce z tubylcami na Filipinach.",
+          "explanation": "Magellan zginął w walce z tubylcami na Filipinach.",
           "options": null,
           "answer": true
         },
@@ -3322,8 +3322,8 @@
           "id": "R03_BAD_06",
           "section": "Badacze i podróże nowożytne",
           "type": "single_choice",
-          "prompt": "Kto odkrył Australię w 1605 roku według rozdziału?",
-          "explanation": "Rozdział wskazuje holenderskiego żeglarza Willema Janszoona.",
+          "prompt": "Kto odkrył Australię w 1605 roku?",
+          "explanation": "Wskazuje się holenderskiego żeglarza Willema Janszoona.",
           "options": [
             "Willem Janszoon",
             "James Cook",
@@ -3339,7 +3339,7 @@
           "section": "Badacze i podróże nowożytne",
           "type": "match",
           "prompt": "Połącz badacza z dokonaniem.",
-          "explanation": "Rozdział zestawia tych badaczy z odkryciami w Afryce i wyprawami polarnymi.",
+          "explanation": "Zestawia się tych badaczy z odkryciami w Afryce i wyprawami polarnymi.",
           "options": null,
           "left": [
             "David Livingstone",
@@ -3475,7 +3475,7 @@
           "section": "Super trudne",
           "type": "true_false",
           "prompt": "James Cook przekroczył oba koła podbiegunowe.",
-          "explanation": "W rozdziale podano, że James Cook przekroczył oba koła podbiegunowe.",
+          "explanation": "James Cook przekroczył oba koła podbiegunowe.",
           "options": null,
           "answer": true
         },
@@ -3483,8 +3483,8 @@
           "id": "R03_HARD_05",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz obiekt geograficzny z podróżnikiem, którego dotyczy w rozdziale.",
-          "explanation": "Każdy obiekt pojawia się w rozdziale przy opisie innej wyprawy lub odkrycia.",
+          "prompt": "Połącz obiekt geograficzny z podróżnikiem, którego dotyczy.",
+          "explanation": "Każdy obiekt pojawia się przy opisie innej wyprawy lub odkrycia.",
           "options": null,
           "left": [
             "góry Pamir",
@@ -3635,7 +3635,7 @@
           "id": "R04_POG_02",
           "section": "Pogoda i klimat",
           "type": "multi_select",
-          "prompt": "Zaznacz składniki pogody wymienione w podręczniku.",
+          "prompt": "Zaznacz składniki pogody.",
           "options": [
             "temperatura powietrza",
             "zachmurzenie",
@@ -3676,7 +3676,7 @@
           "prompt": "Klimat danego miejsca można określić na podstawie obserwacji pogody prowadzonych przez 30 lat lub dłużej.",
           "options": null,
           "answer": true,
-          "explanation": "W podręczniku podano, że pomiary prowadzone przez 30 lat lub dłużej pozwalają określić klimat."
+          "explanation": "Pomiary prowadzone przez 30 lat lub dłużej pozwalają określić klimat."
         },
         {
           "id": "R04_POG_05",
@@ -3824,7 +3824,7 @@
             1,
             2
           ],
-          "explanation": "Podręcznik wskazuje ukształtowanie powierzchni oraz odległość od mórz i oceanów jako ważne czynniki różnicujące klimat."
+          "explanation": "Wskazuje się ukształtowanie powierzchni oraz odległość od mórz i oceanów jako ważne czynniki różnicujące klimat."
         },
         {
           "id": "R04_STR_04",
@@ -3926,7 +3926,7 @@
           "prompt": "Układ stref krajobrazowych jest mniej regularny niż układ stref klimatycznych.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podkreśla, że strefy krajobrazowe nie układają się tak regularnie jak klimatyczne."
+          "explanation": "Strefy krajobrazowe nie układają się tak regularnie jak klimatyczne."
         },
         {
           "id": "R04_STR_10",
@@ -4006,7 +4006,7 @@
             2,
             3
           ],
-          "explanation": "W podręczniku przy lasach równikowych pojawiają się między innymi małpy, ptaki, tapiry i jaguary."
+          "explanation": "Przy lasach równikowych pojawiają się między innymi małpy, ptaki, tapiry i jaguary."
         },
         {
           "id": "R04_LAS_05",
@@ -4102,7 +4102,7 @@
           "prompt": "Strefa lasów liściastych i mieszanych występuje przede wszystkim w Ameryce Północnej, Europie i Azji.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wskazuje te trzy kontynenty jako główne obszary lasów liściastych i mieszanych."
+          "explanation": "Wskazuje się te trzy kontynenty jako główne obszary lasów liściastych i mieszanych."
         },
         {
           "id": "R04_LAS_10",
@@ -4143,7 +4143,7 @@
           "id": "R04_SPS_03",
           "section": "Sawanny, stepy i pustynie",
           "type": "multi_select",
-          "prompt": "Zaznacz rośliny charakterystyczne dla sawanny wymienione w rozdziale.",
+          "prompt": "Zaznacz rośliny charakterystyczne dla sawanny.",
           "options": [
             "trawy",
             "baobaby",
@@ -4453,7 +4453,7 @@
             "turystyka": "ważne zajęcie mieszkańców",
             "rolnictwo": "uprawa m.in. oliwek i winorośli"
           },
-          "explanation": "Klimat, makia, turystyka i rolnictwo są głównymi elementami opisu tej strefy w podręczniku."
+          "explanation": "Klimat, makia, turystyka i rolnictwo są głównymi elementami opisu tej strefy."
         },
         {
           "id": "R04_TTG_01",
@@ -4469,7 +4469,7 @@
             "tylko równikowej"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że tajga i tundra występują tylko na półkuli północnej."
+          "explanation": "Tajga i tundra występują tylko na półkuli północnej."
         },
         {
           "id": "R04_TTG_02",
@@ -4620,13 +4620,13 @@
             "Mount Everest",
             "Everest"
           ],
-          "explanation": "Podręcznik podaje, że najwyższym szczytem jest Mount Everest."
+          "explanation": "Najwyższym szczytem jest Mount Everest."
         },
         {
           "id": "R04_TTG_10",
           "section": "Tajga, tundra i góry",
           "type": "multi_select",
-          "prompt": "Zaznacz zajęcia Szerpów wymienione w rozdziale.",
+          "prompt": "Zaznacz zajęcia Szerpów.",
           "options": [
             "hodowla jaków, owiec i kóz",
             "uprawa roślin na niższych wysokościach",
@@ -4682,7 +4682,7 @@
           "id": "R04_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Dla Oslo najcieplejszym miesiącem na klimatogramie w podręczniku jest lipiec. Jaki miesiąc jest najzimniejszy?",
+          "prompt": "Dla Oslo najcieplejszym miesiącem na klimatogramie jest lipiec. Jaki miesiąc jest najzimniejszy?",
           "options": [
             "luty",
             "styczeń",
@@ -4716,13 +4716,13 @@
               "845 mm"
             ]
           ],
-          "explanation": "Podręcznik pokazuje obliczenia: 47,6: 12 ≈ 4,0°C oraz suma opadów 845 mm."
+          "explanation": "Pokazuje się obliczenia: 47,6: 12 ≈ 4,0°C oraz suma opadów 845 mm."
         },
         {
           "id": "R04_HARD_03",
           "section": "Super trudne",
           "type": "true_false",
-          "prompt": "W Oslo najwyższa miesięczna suma opadów w przykładzie z podręcznika przypada na październik.",
+          "prompt": "W Oslo najwyższa miesięczna suma opadów w przykładzie przypada na październik.",
           "options": null,
           "answer": true,
           "explanation": "W opisie klimatogramu Oslo podano najwyższe opady w październiku."
@@ -4741,7 +4741,7 @@
             "step — piętro śnieżne"
           ],
           "answer": 0,
-          "explanation": "Podręcznik porównuje pustynie lodowe z piętrem śnieżnym, tundrę z piętrem górskich łąk, a tajgę z piętrem lasów iglastych."
+          "explanation": "Porównuje się pustynie lodowe z piętrem śnieżnym, tundrę z piętrem górskich łąk, a tajgę z piętrem lasów iglastych."
         },
         {
           "id": "R04_HARD_05",
@@ -4773,7 +4773,7 @@
           "id": "R04_HARD_06",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż krajobrazy od równika ku biegunowi na półkuli północnej zgodnie z uproszczonym schematem z podręcznika.",
+          "prompt": "Ułóż krajobrazy od równika ku biegunowi na półkuli północnej zgodnie z uproszczonym schematem.",
           "options": null,
           "items": [
             "tajga",

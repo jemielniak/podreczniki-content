@@ -1,8 +1,8 @@
 {
   "id": "biologia-puls-zycia-6-klasa",
   "title": "Biologia Puls życia 6",
-  "version": 1,
-  "contentHash": "05b7e17cc2350feaaf1ab8dfa810e4092ad7ae01e1494e9d83750eb4f389e5de",
+  "version": 2,
+  "contentHash": "538c8f955aa5bf906db7b1570a784d77e45ffb79958324f8c2e1ca3d9f7aa76f",
   "bookConfig": {
     "id": "biologia-puls-zycia-6-klasa",
     "title": "Biologia Puls życia 6",
@@ -33,7 +33,7 @@
           "id": "R01_KRO_01",
           "section": "Królestwo zwierząt",
           "type": "single_choice",
-          "prompt": "Która cecha jest wspólna dla wszystkich zwierząt opisanych w rozdziale?",
+          "prompt": "Która cecha jest wspólna dla wszystkich zwierząt?",
           "options": [
             "Są cudzożywne",
             "Mają chloroplasty",
@@ -50,7 +50,7 @@
           "id": "R01_KRO_02",
           "section": "Królestwo zwierząt",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy komórek zwierzęcych wymienione w rozdziale.",
+          "prompt": "Zaznacz cechy komórek zwierzęcych.",
           "options": [
             "Mają jądro komórkowe",
             "Nie mają chloroplastów",
@@ -92,7 +92,7 @@
           "id": "R01_KRO_04",
           "section": "Królestwo zwierząt",
           "type": "match",
-          "prompt": "Połącz poziom organizacji z przykładem z rozdziału.",
+          "prompt": "Połącz poziom organizacji z przykładem.",
           "options": null,
           "left": [
             "komórka",
@@ -112,7 +112,7 @@
             "narząd": "serce",
             "układ narządów": "układ krwionośny"
           },
-          "explanation": "Rozdział pokazuje hierarchię na przykładzie komórki mięśniowej serca, tkanki mięśniowej serca, serca i układu krwionośnego."
+          "explanation": "Pokazuje się hierarchię na przykładzie komórki mięśniowej serca, tkanki mięśniowej serca, serca i układu krwionośnego."
         },
         {
           "id": "R01_KRO_05",
@@ -174,7 +174,7 @@
             "Parzydełkowce"
           ],
           "answer": 0,
-          "explanation": "W rozdziale ryby opisano jako kręgowce o zwykle opływowym kształcie ciała, wyposażone w płetwy i łuski.",
+          "explanation": "Ryby opisano jako kręgowce o zwykle opływowym kształcie ciała, wyposażone w płetwy i łuski.",
           "image": "r01_grupy_kregowcow.jpg"
         },
         {
@@ -228,7 +228,7 @@
             "ptaki": "kończyny przednie przekształcone w skrzydła i pióra",
             "ssaki": "włosy i karmienie potomstwa mlekiem"
           },
-          "explanation": "Każda z tych grup kręgowców ma charakterystyczne cechy budowy wymienione w rozdziale."
+          "explanation": "Każda z tych grup kręgowców ma charakterystyczne cechy budowy."
         },
         {
           "id": "R01_KRO_11",
@@ -279,7 +279,7 @@
           "id": "R01_NAB_02",
           "section": "Tkanka nabłonkowa",
           "type": "multi_select",
-          "prompt": "Zaznacz główne zadania nabłonków wymienione w rozdziale.",
+          "prompt": "Zaznacz główne zadania nabłonków.",
           "options": [
             "Ochrona ciała przed drobnymi uszkodzeniami",
             "Wchłanianie różnych substancji",
@@ -344,7 +344,7 @@
             "jednowarstwowy walcowaty": "wnętrze jelita cienkiego",
             "wielowarstwowy płaski": "zewnętrzna warstwa skóry"
           },
-          "explanation": "Rozdział podaje przykłady występowania czterech typów nabłonków w płucach, nerkach, jelicie cienkim i skórze.",
+          "explanation": "Podaje się przykłady występowania czterech typów nabłonków w płucach, nerkach, jelicie cienkim i skórze.",
           "image": "r01_nablonki_rodzaje.jpg"
         },
         {
@@ -395,7 +395,7 @@
           "prompt": "Nabłonki wielowarstwowe występują wyłącznie u zwierząt kręgowych.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że nabłonki jednowarstwowe występują u wszystkich zwierząt, a wielowarstwowe wyłącznie u kręgowców."
+          "explanation": "Nabłonki jednowarstwowe występują u wszystkich zwierząt, a wielowarstwowe wyłącznie u kręgowców."
         },
         {
           "id": "R01_NAB_10",
@@ -615,7 +615,7 @@
           "prompt": "Osłonka aksonu chroni go i zwiększa szybkość przesyłania impulsu nerwowego.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wyjaśnia, że osłonka chroni akson i zwiększa szybkość przesyłania impulsu nerwowego."
+          "explanation": "Osłonka chroni akson i zwiększa szybkość przesyłania impulsu nerwowego."
         },
         {
           "id": "R01_MIN_10",
@@ -644,7 +644,7 @@
           "id": "R01_MIN_12",
           "section": "Tkanka mięśniowa i nerwowa",
           "type": "sequence",
-          "prompt": "Ułóż drogę impulsu nerwowego przez opisaną w rozdziale komórkę nerwową.",
+          "prompt": "Ułóż drogę impulsu nerwowego przez komórkę nerwową.",
           "options": null,
           "items": [
             "akson",
@@ -680,7 +680,7 @@
           "id": "R01_LAC_02",
           "section": "Tkanka łączna i krew",
           "type": "multi_select",
-          "prompt": "Zaznacz rodzaje tkanki łącznej wymienione w rozdziale.",
+          "prompt": "Zaznacz rodzaje tkanki łącznej.",
           "options": [
             "Tkanka chrzęstna",
             "Tkanka kostna",
@@ -695,7 +695,7 @@
             2,
             3
           ],
-          "explanation": "W rozdziale wymieniono między innymi tkankę chrzęstną, kostną, tłuszczową i krew jako rodzaje tkanki łącznej.",
+          "explanation": "Wymieniono między innymi tkankę chrzęstną, kostną, tłuszczową i krew jako rodzaje tkanki łącznej.",
           "image": "r01_tkanka_laczna_typy.jpg"
         },
         {
@@ -839,7 +839,7 @@
           "prompt": "Osocze krwi składa się w 90% z wody.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że osocze jest głównym składnikiem krwi i składa się w 90% z wody."
+          "explanation": "Osocze jest głównym składnikiem krwi i składa się w 90% z wody."
         },
         {
           "id": "R01_LAC_11",
@@ -890,7 +890,7 @@
           "prompt": "Każda komórka gąbki może przekształcić się w komórkę innego typu, co wiąże się z ich dużą zdolnością regeneracji.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wyjaśnia, że komórki gąbek mogą zmieniać typ, dzięki czemu gąbki potrafią odbudować cały organizm nawet z mikroskopijnych fragmentów ciała."
+          "explanation": "Komórki gąbek mogą zmieniać typ, dzięki czemu gąbki potrafią odbudować cały organizm nawet z mikroskopijnych fragmentów ciała."
         },
         {
           "id": "R01_HARD_03",
@@ -932,7 +932,7 @@
           "id": "R01_HARD_05",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz nabłonek z funkcją podaną w rozdziale.",
+          "prompt": "Połącz nabłonek z funkcją.",
           "options": null,
           "left": [
             "jednowarstwowy płaski",
@@ -952,7 +952,7 @@
             "jednowarstwowy walcowaty": "wydziela enzymy trawienne",
             "wielowarstwowy płaski": "chroni przed drobnymi uszkodzeniami i drobnoustrojami"
           },
-          "explanation": "Przykłady funkcji nabłonków w rozdziale dotyczą pęcherzyków płucnych, kanalików nerkowych, jelita cienkiego i skóry."
+          "explanation": "Przykłady funkcji nabłonków dotyczą pęcherzyków płucnych, kanalików nerkowych, jelita cienkiego i skóry."
         },
         {
           "id": "R01_HARD_06",
@@ -1014,7 +1014,7 @@
               "komórki parzydełkowe"
             ]
           },
-          "explanation": "Nabłonki wielowarstwowe oraz czaszka i kręgosłup są w rozdziale powiązane z kręgowcami, a pancerz raka, muszla ślimaka i komórki parzydełkowe z bezkręgowcami."
+          "explanation": "Nabłonki wielowarstwowe oraz czaszka i kręgosłup są powiązane z kręgowcami, a pancerz raka, muszla ślimaka i komórki parzydełkowe z bezkręgowcami."
         },
         {
           "id": "R01_HARD_09",
@@ -1058,13 +1058,13 @@
             "serce",
             "układ krwionośny"
           ],
-          "explanation": "Przykład w rozdziale pokazuje przejście od komórki mięśniowej serca przez tkankę i narząd do układu krwionośnego."
+          "explanation": "Przykład pokazuje przejście od komórki mięśniowej serca przez tkankę i narząd do układu krwionośnego."
         },
         {
           "id": "R01_HARD_12",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz składniki osocza krwi wymienione w rozdziale.",
+          "prompt": "Zaznacz składniki osocza krwi.",
           "options": [
             "Woda",
             "Sole mineralne",
@@ -1159,7 +1159,7 @@
           "prompt": "Parzydełkowce żyją wyłącznie w środowisku wodnym.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podkreślono, że parzydełkowce żyją wyłącznie w wodzie, głównie w morzach i oceanach."
+          "explanation": "Parzydełkowce żyją wyłącznie w wodzie, głównie w morzach i oceanach."
         },
         {
           "id": "R02_PAR_03",
@@ -1285,13 +1285,13 @@
           "prompt": "Koralowce żyją tylko w wodach słonych i występują wyłącznie w postaci polipów.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale zapisano, że koralowce żyją tylko w wodach słonych i występują wyłącznie jako polipy."
+          "explanation": "Koralowce żyją tylko w wodach słonych i występują wyłącznie jako polipy."
         },
         {
           "id": "R02_PAR_11",
           "section": "Parzydełkowce",
           "type": "multi_select",
-          "prompt": "Zaznacz przykłady znaczenia parzydełkowców podane w rozdziale.",
+          "prompt": "Zaznacz przykłady znaczenia parzydełkowców.",
           "options": [
             "Koralowce budują rafy koralowe",
             "Meduzy są pożywieniem w niektórych krajach",
@@ -1359,7 +1359,7 @@
           "prompt": "Zdecydowana większość płazińców to pasożyty żyjące w narządach wewnętrznych zwierząt kręgowych.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że większość płazińców to pasożyty narządów wewnętrznych kręgowców, między innymi jelita cienkiego."
+          "explanation": "Większość płazińców to pasożyty narządów wewnętrznych kręgowców, między innymi jelita cienkiego."
         },
         {
           "id": "R02_PLA_03",
@@ -1499,7 +1499,7 @@
           "id": "R02_PLA_11",
           "section": "Płazińce",
           "type": "scenario",
-          "prompt": "Ktoś zjadł surowe lub niedogotowane mięso zawierające wągry. Jakiej choroby dotyczy to zagrożenie opisane w rozdziale?",
+          "prompt": "Ktoś zjadł surowe lub niedogotowane mięso zawierające wągry. Jakiej choroby dotyczy to zagrożenie?",
           "options": [
             "Tasiemczycy",
             "Owsicy",
@@ -1562,7 +1562,7 @@
             1,
             2
           ],
-          "explanation": "W rozdziale wymieniono glistę ludzką, owsika ludzkiego i włośnia spiralnego jako nicienie pasożytujące u człowieka."
+          "explanation": "Wymieniono glistę ludzką, owsika ludzkiego i włośnia spiralnego jako nicienie pasożytujące u człowieka."
         },
         {
           "id": "R02_NIC_03",
@@ -1594,7 +1594,7 @@
           "id": "R02_NIC_05",
           "section": "Nicienie",
           "type": "sequence",
-          "prompt": "Ułóż etapy rozwoju glisty ludzkiej zgodnie z opisem w rozdziale.",
+          "prompt": "Ułóż etapy rozwoju glisty ludzkiej zgodnie z opisem.",
           "options": null,
           "items": [
             "Larwy wędrują przez narządy ciała",
@@ -1666,7 +1666,7 @@
           "id": "R02_NIC_09",
           "section": "Nicienie",
           "type": "scenario",
-          "prompt": "Dziecko odczuwa silne swędzenie okolic odbytu nasilające się nocą, źle śpi i ma trudności z koncentracją. Która choroba pasuje do tego opisu z rozdziału?",
+          "prompt": "Dziecko odczuwa silne swędzenie okolic odbytu nasilające się nocą, źle śpi i ma trudności z koncentracją. Która choroba pasuje do tego opisu?",
           "options": [
             "Owsica",
             "Glistnica",
@@ -1695,7 +1695,7 @@
           "id": "R02_NIC_11",
           "section": "Nicienie",
           "type": "multi_select",
-          "prompt": "Zaznacz sposoby zapobiegania chorobom wywoływanym przez nicienie podane w rozdziale.",
+          "prompt": "Zaznacz sposoby zapobiegania chorobom wywoływanym przez nicienie.",
           "options": [
             "Mycie rąk po powrocie do domu i po toalecie",
             "Dokładne mycie owoców i warzyw",
@@ -1793,7 +1793,7 @@
           "id": "R02_PIE_04",
           "section": "Pierścienice",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy budowy dżdżownicy opisane w rozdziale.",
+          "prompt": "Zaznacz elementy budowy dżdżownicy.",
           "options": [
             "Pęki szczecinek ułatwiające poruszanie",
             "Warstwa śluzu chroniąca ciało",
@@ -1868,7 +1868,7 @@
           "id": "R02_PIE_09",
           "section": "Pierścienice",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy pijawki lekarskiej opisane w rozdziale.",
+          "prompt": "Zaznacz cechy pijawki lekarskiej.",
           "options": [
             "Ma dwie przyssawki",
             "Nie ma wyodrębnionej głowy",
@@ -1882,7 +1882,7 @@
             2,
             4
           ],
-          "explanation": "Pijawka ma przyssawki, nie ma głowy i żywi się krwią, a w rozdziale podano, że pijawka lekarska osiąga około 15 cm długości.",
+          "explanation": "Pijawka ma przyssawki, nie ma głowy i żywi się krwią, a podano, że pijawka lekarska osiąga około 15 cm długości.",
           "image": "r02_nereida_i_pijawka.jpg"
         },
         {
@@ -1908,7 +1908,7 @@
           "prompt": "Nereida różnokolorowa żyje na dnie mórz, także Morza Bałtyckiego.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział opisuje nereidę jako morską pierścienicę żyjącą na dnie mórz, również w Morzu Bałtyckim."
+          "explanation": "Opisuje się nereidę jako morską pierścienicę żyjącą na dnie mórz, również w Morzu Bałtyckim."
         },
         {
           "id": "R02_PIE_12",
@@ -2011,7 +2011,7 @@
           "answer": [
             "2 m"
           ],
-          "explanation": "W rozdziale podano, że tasiemiec uzbrojony osiąga około 2 m długości.",
+          "explanation": "Tasiemiec uzbrojony osiąga około 2 m długości.",
           "altAnswers": [
             [
               "2 m",
@@ -2098,7 +2098,7 @@
           "id": "R02_HARD_10",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz pierścienicę z cechą liczbową podaną w rozdziale.",
+          "prompt": "Połącz pierścienicę z cechą liczbową.",
           "options": null,
           "left": [
             "dżdżownica ziemna",
@@ -2115,7 +2115,7 @@
             "pijawka lekarska": "osiąga 15 cm długości",
             "robak palolo": "osiąga około 40 cm długości"
           },
-          "explanation": "Rozdział podaje liczby dla kilku pierścienic: dżdżownica ma około 100 segmentów, pijawka lekarska 15 cm, a palolo około 40 cm.",
+          "explanation": "Podaje się liczby dla kilku pierścienic: dżdżownica ma około 100 segmentów, pijawka lekarska 15 cm, a palolo około 40 cm.",
           "image": "r02_nereida_i_pijawka.jpg"
         },
         {
@@ -2445,7 +2445,7 @@
           "id": "R03_CST_12",
           "section": "Cechy stawonogów",
           "type": "single_choice",
-          "prompt": "Który przedstawiciel stawonogów jest w rozdziale podany jako największy na świecie?",
+          "prompt": "Który przedstawiciel stawonogów jest podany jako największy na świecie?",
           "options": [
             "krab olbrzymi",
             "stonoga murowa",
@@ -2455,7 +2455,7 @@
             "homar europejski"
           ],
           "answer": 0,
-          "explanation": "W rozdziale jako największy stawonóg opisany jest krab olbrzymi żyjący na dnie Oceanu Spokojnego."
+          "explanation": "Jako największy stawonóg opisany jest krab olbrzymi żyjący na dnie Oceanu Spokojnego."
         },
         {
           "id": "R03_SKO_01",
@@ -2958,7 +2958,7 @@
           "id": "R03_PAJ_05",
           "section": "Pajęczaki",
           "type": "match",
-          "prompt": "Połącz pajęczaka z cechą opisaną w rozdziale.",
+          "prompt": "Połącz pajęczaka z cechą.",
           "options": null,
           "left": [
             "topik",
@@ -3067,7 +3067,7 @@
           "id": "R03_PAJ_11",
           "section": "Pajęczaki",
           "type": "single_choice",
-          "prompt": "Jakie oczy mają pająki według opisu w rozdziale?",
+          "prompt": "Jakie oczy mają pająki według opisu?",
           "options": [
             "od dwóch do ośmiu oczu prostych",
             "dwa oczy złożone",
@@ -3101,7 +3101,7 @@
           "section": "Mięczaki",
           "type": "single_choice",
           "image": "r03_grupy_mieczakow.jpg",
-          "prompt": "Który zestaw zawiera trzy grupy mięczaków opisane w rozdziale?",
+          "prompt": "Który zestaw zawiera trzy grupy mięczaków?",
           "options": [
             "ślimaki małże i głowonogi",
             "owady skorupiaki i pajęczaki",
@@ -3120,13 +3120,13 @@
           "prompt": "Mięczaki mają miękkie i niesegmentowane ciało.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział opisuje mięczaki jako zwierzęta o delikatnym, miękkim i niesegmentowanym ciele."
+          "explanation": "Opisuje się mięczaki jako zwierzęta o delikatnym, miękkim i niesegmentowanym ciele."
         },
         {
           "id": "R03_MIE_03",
           "section": "Mięczaki",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy mięczaków wymienione w rozdziale.",
+          "prompt": "Zaznacz cechy mięczaków.",
           "options": [
             "miękkie ciało",
             "segmentowane ciało z odnóżami",
@@ -3271,7 +3271,7 @@
           "id": "R03_MIE_10",
           "section": "Mięczaki",
           "type": "true_false",
-          "prompt": "Wszystkie głowonogi opisane w rozdziale są drapieżnikami.",
+          "prompt": "Wszystkie głowonogi są drapieżnikami.",
           "options": null,
           "answer": true,
           "explanation": "Głowonogi prowadzą aktywny tryb życia i polują na inne zwierzęta, między innymi ryby i skorupiaki."
@@ -3298,7 +3298,7 @@
           "section": "Mięczaki",
           "type": "scenario",
           "image": "r03_osmiornica_budowa.jpg",
-          "prompt": "Zagrożony głowonóg uwalnia ciemną substancję, która zmniejsza przejrzystość wody. Który przykład z rozdziału tak postępuje?",
+          "prompt": "Zagrożony głowonóg uwalnia ciemną substancję, która zmniejsza przejrzystość wody. Który przykład tak postępuje?",
           "options": [
             "mątwa",
             "winniczek",
@@ -3360,7 +3360,7 @@
           "id": "R03_HARD_04",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz organizm lub grupę z rolą w przyrodzie opisaną w rozdziale.",
+          "prompt": "Połącz organizm lub grupę z rolą w przyrodzie.",
           "options": null,
           "left": [
             "kryl",
@@ -3380,7 +3380,7 @@
             "owady glebowe": "udział w tworzeniu próchnicy",
             "małże": "filtrowanie drobnych cząstek pokarmu z wody"
           },
-          "explanation": "W rozdziale podkreślono, że bezkręgowce te uczestniczą w sieciach pokarmowych i w oczyszczaniu środowiska."
+          "explanation": "Bezkręgowce te uczestniczą w sieciach pokarmowych i w oczyszczaniu środowiska."
         },
         {
           "id": "R03_HARD_05",
@@ -3451,7 +3451,7 @@
           "id": "R03_HARD_09",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj grupy zwierząt do typowego środowiska życia według podsumowania rozdziału.",
+          "prompt": "Przyporządkuj grupy zwierząt do typowego środowiska życia.",
           "options": null,
           "items": [
             "skorupiaki",
@@ -3538,7 +3538,7 @@
             "pajęczaki": "brak czułków i cztery pary odnóży",
             "mięczaki": "miękkie niesegmentowane ciało"
           },
-          "explanation": "Tabela podsumowująca rozdział porównuje stawonogi z mięczakami i wskazuje najważniejsze cechy rozpoznawcze każdej grupy."
+          "explanation": "Tabela podsumowująca porównuje się stawonogi z mięczakami i wskazuje najważniejsze cechy rozpoznawcze każdej grupy."
         }
       ],
       "kidPrompts": {},
@@ -3805,7 +3805,7 @@
           "prompt": "Ryby mogą żyć samotnie albo tworzyć duże stada zwane ławicami.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podano, że ryby żyją samotnie lub skupiają się w duże stada, które nazywamy ławicami."
+          "explanation": "Ryby żyją samotnie lub skupiają się w duże stada, które nazywamy ławicami."
         },
         {
           "id": "R04_ZRY_04",
@@ -3856,7 +3856,7 @@
             "makrela": "żyje w ławicach",
             "rekin wielorybi": "łagodny planktonożerca"
           },
-          "explanation": "Przykłady z rozdziału pokazują różne sposoby polowania, obrony i życia ryb."
+          "explanation": "Przykłady pokazują różne sposoby polowania, obrony i życia ryb."
         },
         {
           "id": "R04_ZRY_06",
@@ -3872,7 +3872,7 @@
             "oba rodzaje tylko z karpi"
           ],
           "answer": 0,
-          "explanation": "W rozdziale podano, że kawior czerwony pozyskuje się z łososi, a czarny z jesiotrów."
+          "explanation": "Kawior czerwony pozyskuje się z łososi, a czarny z jesiotrów."
         },
         {
           "id": "R04_ZRY_07",
@@ -4076,7 +4076,7 @@
           "id": "R04_ZPL_01",
           "section": "Płazy - różnorodność i ochrona",
           "type": "single_choice",
-          "prompt": "Jakie trzy główne grupy płazów wyróżniono w rozdziale?",
+          "prompt": "Jakie trzy główne grupy płazów wyróżniono?",
           "options": [
             "ogoniaste, bezogonowe i beznogie",
             "jajorodne, żyworodne i łuskonośne",
@@ -4131,7 +4131,7 @@
           "prompt": "Wszystkie płazy żyjące w Polsce podlegają ochronie gatunkowej.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że ochronie gatunkowej podlegają wszystkie płazy w Polsce."
+          "explanation": "Ochronie gatunkowej podlegają wszystkie płazy w Polsce."
         },
         {
           "id": "R04_ZPL_04",
@@ -4158,7 +4158,7 @@
           "id": "R04_ZPL_05",
           "section": "Płazy - różnorodność i ochrona",
           "type": "match",
-          "prompt": "Połącz płaza z cechą opisaną w rozdziale.",
+          "prompt": "Połącz płaza z cechą.",
           "options": null,
           "image": "r04_plazy_w_polsce.jpg",
           "left": [
@@ -4236,7 +4236,7 @@
             "ropucha aga",
             "aga"
           ],
-          "explanation": "W rozdziale opisano przykład ropuchy olbrzymiej, która zamiast zwalczyć szkodniki zaczęła się gwałtownie rozprzestrzeniać."
+          "explanation": "Opisano przykład ropuchy olbrzymiej, która zamiast zwalczyć szkodniki zaczęła się gwałtownie rozprzestrzeniać."
         },
         {
           "id": "R04_ZPL_09",
@@ -4261,7 +4261,7 @@
             "bezkręgowce"
           ],
           "answer": 2,
-          "explanation": "W rozdziale podano, że gady są pierwszą grupą kręgowców w pełni przystosowaną do życia na lądzie."
+          "explanation": "Gady są pierwszą grupą kręgowców w pełni przystosowaną do życia na lądzie."
         },
         {
           "id": "R04_GAD_02",
@@ -4292,7 +4292,7 @@
           "prompt": "Gady, podobnie jak płazy, spotykamy na wszystkich kontynentach z wyjątkiem Antarktydy.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wskazuje, że gady występują na wszystkich kontynentach poza Antarktydą."
+          "explanation": "Gady występują na wszystkich kontynentach poza Antarktydą."
         },
         {
           "id": "R04_GAD_04",
@@ -4360,7 +4360,7 @@
           "id": "R04_GAD_07",
           "section": "Gady - życie na lądzie",
           "type": "scenario",
-          "prompt": "W klimacie umiarkowanym temperatura otoczenia spada bardzo nisko. Gady przestają być aktywne i przeczekują ten okres. Jak nazywa się taki stan opisany w rozdziale?",
+          "prompt": "W klimacie umiarkowanym temperatura otoczenia spada bardzo nisko. Gady przestają być aktywne i przeczekują ten okres. Jak nazywa się taki stan?",
           "options": [
             "odrętwienie",
             "tarło",
@@ -4379,7 +4379,7 @@
           "prompt": "U wszystkich gatunków gadów występuje zapłodnienie wewnętrzne.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że u wszystkich gadów zapłodnienie odbywa się wewnątrz organizmu samicy."
+          "explanation": "U wszystkich gadów zapłodnienie odbywa się wewnątrz organizmu samicy."
         },
         {
           "id": "R04_GAD_09",
@@ -4405,7 +4405,7 @@
           "id": "R04_ZGA_01",
           "section": "Gady - różnorodność i znaczenie",
           "type": "single_choice",
-          "prompt": "Który zestaw zawiera cztery podstawowe grupy gadów wymienione w rozdziale?",
+          "prompt": "Który zestaw zawiera cztery podstawowe grupy gadów?",
           "options": [
             "jaszczurki, węże, żółwie i krokodyle",
             "żaby, ropuchy, kumaki i rzekotki",
@@ -4523,7 +4523,7 @@
           "id": "R04_ZGA_06",
           "section": "Gady - różnorodność i znaczenie",
           "type": "scenario",
-          "prompt": "Ktoś chce zabić beznogą jaszczurkę, bo myli ją z wężem. O którym gadzie z rozdziału mowa?",
+          "prompt": "Ktoś chce zabić beznogą jaszczurkę, bo myli ją z wężem. O którym gadzie mowa?",
           "options": [
             "padalec zwyczajny",
             "zaskroniec zwyczajny",
@@ -4611,7 +4611,7 @@
           "id": "R04_HARD_02",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj grupy zwierząt do typu zapłodnienia opisanego w rozdziale.",
+          "prompt": "Przyporządkuj grupy zwierząt do typu zapłodnienia.",
           "options": null,
           "items": [
             "większość ryb",
@@ -4655,7 +4655,7 @@
           "id": "R04_HARD_04",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Która para zakresów temperatur jest zgodna z przykładami z rozdziału?",
+          "prompt": "Która para zakresów temperatur jest zgodna z przykładami?",
           "options": [
             "ustniczek 22-26°C, dorsz 2-7°C",
             "ustniczek 2-7°C, dorsz 22-26°C",
@@ -4803,7 +4803,7 @@
           "prompt": "Ryby, płazy i gady są kręgowcami zmiennocieplnymi.",
           "options": null,
           "answer": true,
-          "explanation": "Wszystkie trzy grupy należą do kręgowców zmiennocieplnych omawianych w rozdziale."
+          "explanation": "Wszystkie trzy grupy należą do kręgowców zmiennocieplnych."
         },
         {
           "id": "R04_HARD_13",
@@ -4825,7 +4825,7 @@
           "id": "R04_HARD_14",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który zestaw zawiera wyłącznie sposoby ochrony ryb opisane w rozdziale?",
+          "prompt": "Który zestaw zawiera wyłącznie sposoby ochrony ryb?",
           "options": [
             "ochrona gatunkowa, okresy ochronne, limity połowów i ochrona miejsc tarła",
             "osuszanie jezior, łowienie w okresie tarła i niszczenie miejsc zimowania",
@@ -4896,7 +4896,7 @@
           "id": "R05_PTL_01",
           "section": "Ptaki: budowa i lot",
           "type": "single_choice",
-          "prompt": "Która cecha jest wspólna wszystkim ptakom według rozdziału?",
+          "prompt": "Która cecha jest wspólna wszystkim ptakom?",
           "options": [
             "Mają pióra",
             "Mają futro",
@@ -4912,7 +4912,7 @@
           "id": "R05_PTL_02",
           "section": "Ptaki: budowa i lot",
           "type": "multi_select",
-          "prompt": "Zaznacz przystosowania ptaków do lotu opisane w rozdziale.",
+          "prompt": "Zaznacz przystosowania ptaków do lotu.",
           "options": [
             "Kończyny przednie przekształcone w skrzydła",
             "Opływowy kształt ciała",
@@ -4936,7 +4936,7 @@
           "prompt": "Stałocieplność oznacza zdolność utrzymywania stałej temperatury ciała niezależnie od temperatury otoczenia.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale stałocieplność zdefiniowano właśnie jako utrzymywanie stałej temperatury ciała mimo zmian temperatury otoczenia."
+          "explanation": "Stałocieplność zdefiniowano właśnie jako utrzymywanie stałej temperatury ciała mimo zmian temperatury otoczenia."
         },
         {
           "id": "R05_PTL_04",
@@ -5013,7 +5013,7 @@
           "id": "R05_PTL_08",
           "section": "Ptaki: budowa i lot",
           "type": "scenario",
-          "prompt": "Uczeń obserwuje ptaka, który unosi się w powietrzu prawie bez poruszania skrzydłami. Który przykład z rozdziału najlepiej pasuje do takiego lotu?",
+          "prompt": "Uczeń obserwuje ptaka, który unosi się w powietrzu prawie bez poruszania skrzydłami. Który przykład najlepiej pasuje do takiego lotu?",
           "options": [
             "myszołów",
             "koliber",
@@ -5023,7 +5023,7 @@
             "perkoz"
           ],
           "answer": 0,
-          "explanation": "W rozdziale podano, że myszołowy mogą unosić się w powietrzu niemal bez poruszania skrzydłami."
+          "explanation": "Myszołowy mogą unosić się w powietrzu niemal bez poruszania skrzydłami."
         },
         {
           "id": "R05_PTL_09",
@@ -5117,7 +5117,7 @@
           "id": "R05_ZPT_01",
           "section": "Ptaki: różnorodność i znaczenie",
           "type": "single_choice",
-          "prompt": "Która para ptaków jest w rozdziale podana jako przykład ptaków nielotnych?",
+          "prompt": "Która para ptaków jest podana jako przykład ptaków nielotnych?",
           "options": [
             "pingwin i struś",
             "jaskółka i koliber",
@@ -5127,7 +5127,7 @@
             "kaczka i łabędź"
           ],
           "answer": 0,
-          "explanation": "Rozdział wskazuje pingwiny i strusie jako skrajne przykłady przystosowań, u których pojawia się brak zdolności do lotu.",
+          "explanation": "Wskazuje się pingwiny i strusie jako skrajne przykłady przystosowań, u których pojawia się brak zdolności do lotu.",
           "image": "r05_ptaki_nielotne.jpg"
         },
         {
@@ -5161,7 +5161,7 @@
           "id": "R05_ZPT_03",
           "section": "Ptaki: różnorodność i znaczenie",
           "type": "multi_select",
-          "prompt": "Zaznacz funkcje ptaków w przyrodzie opisane w rozdziale.",
+          "prompt": "Zaznacz funkcje ptaków w przyrodzie.",
           "options": [
             "Regulują liczebność organizmów",
             "Rozsiewają nasiona roślin",
@@ -5191,7 +5191,7 @@
             "do kucia dziupli"
           ],
           "answer": 0,
-          "explanation": "W rozdziale tak opisano dziób łabędzia, który dzięki listewkom odcedza z wody pokarm, głównie roślinny.",
+          "explanation": "Tak opisano dziób łabędzia, który dzięki listewkom odcedza z wody pokarm, głównie roślinny.",
           "image": "r05_dzioby_ptakow.jpg"
         },
         {
@@ -5201,7 +5201,7 @@
           "prompt": "Czaple mają cechy ptaków brodzących w wodzie, na przykład długą szyję i długie cienkie nogi.",
           "options": null,
           "answer": true,
-          "explanation": "Czaple są w rozdziale opisane jako ptaki brodzące w wodzie w poszukiwaniu pokarmu."
+          "explanation": "Czaple są opisane jako ptaki brodzące w wodzie w poszukiwaniu pokarmu."
         },
         {
           "id": "R05_ZPT_06",
@@ -5238,14 +5238,14 @@
           "id": "R05_ZPT_08",
           "section": "Ptaki: różnorodność i znaczenie",
           "type": "riddle",
-          "prompt": "Jak nazywa się gatunek ptaka, który według rozdziału uszkadza owoce w sadach, na przykład czereśnie?",
+          "prompt": "Jak nazywa się gatunek ptaka, który uszkadza owoce w sadach, na przykład czereśnie?",
           "options": null,
           "answer": "szpak",
           "altAnswers": [
             "szpak",
             "szpaki"
           ],
-          "explanation": "W rozdziale wskazano szpaki jako ptaki, które uszkadzają owoce w sadach."
+          "explanation": "Wskazano szpaki jako ptaki, które uszkadzają owoce w sadach."
         },
         {
           "id": "R05_ZPT_09",
@@ -5284,7 +5284,7 @@
           "id": "R05_ZPT_10",
           "section": "Ptaki: różnorodność i znaczenie",
           "type": "single_choice",
-          "prompt": "Jaką prędkość podczas ucieczki może osiągać struś według rozdziału?",
+          "prompt": "Jaką prędkość podczas ucieczki może osiągać struś?",
           "options": [
             "około 70 km/godz.",
             "około 10 km/godz.",
@@ -5323,7 +5323,7 @@
           "prompt": "Ptaki drapieżne mogą pomagać człowiekowi, ponieważ zjadają szkodniki pól uprawnych, sadów i lasów.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że ptaki drapieżne zjadają między innymi owady, myszy i inne gryzonie, czyli organizmy szkodzące uprawom."
+          "explanation": "Ptaki drapieżne zjadają między innymi owady, myszy i inne gryzonie, czyli organizmy szkodzące uprawom."
         },
         {
           "id": "R05_SSB_01",
@@ -5346,7 +5346,7 @@
           "id": "R05_SSB_02",
           "section": "Ssaki: budowa i środowisko",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy budowy lub funkcje skóry charakterystyczne dla ssaków opisane w rozdziale.",
+          "prompt": "Zaznacz elementy budowy lub funkcje skóry charakterystyczne dla ssaków.",
           "options": [
             "Włosy wyrastające ze skóry",
             "Komórki wydzielające łój",
@@ -5371,7 +5371,7 @@
           "prompt": "Ssaki, podobnie jak ptaki, są zwierzętami stałocieplnymi.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podkreśla, że ssaki są stałocieplne, dlatego mogą żyć w różnych środowiskach na wszystkich kontynentach."
+          "explanation": "Ssaki są stałocieplne, dlatego mogą żyć w różnych środowiskach na wszystkich kontynentach."
         },
         {
           "id": "R05_SSB_04",
@@ -5410,7 +5410,7 @@
               "nietoperz"
             ]
           },
-          "explanation": "Rozdział podaje przykłady ssaków naziemnych, nadrzewnych, podziemnych, wodnych oraz aktywnie latających.",
+          "explanation": "Podaje się przykłady ssaków naziemnych, nadrzewnych, podziemnych, wodnych oraz aktywnie latających.",
           "image": "r05_srodowiska_ssakow.jpg"
         },
         {
@@ -5482,7 +5482,7 @@
           "id": "R05_SSB_08",
           "section": "Ssaki: budowa i środowisko",
           "type": "scenario",
-          "prompt": "Zwierzę ma przednie kończyny przekształcone w płetwy i jest ssakiem żyjącym w wodzie. Która grupa z rozdziału najlepiej pasuje do tego opisu?",
+          "prompt": "Zwierzę ma przednie kończyny przekształcone w płetwy i jest ssakiem żyjącym w wodzie. Która grupa najlepiej pasuje do tego opisu?",
           "options": [
             "ssaki wodne",
             "ptaki nielotne",
@@ -5536,7 +5536,7 @@
           "id": "R05_SSB_12",
           "section": "Ssaki: budowa i środowisko",
           "type": "single_choice",
-          "prompt": "Jaki jest największy ssak wodny i zarazem największy ssak na Ziemi według rozdziału?",
+          "prompt": "Jaki jest największy ssak wodny i zarazem największy ssak na Ziemi?",
           "options": [
             "płetwal błękitny",
             "delfin",
@@ -5546,7 +5546,7 @@
             "żubr"
           ],
           "answer": 0,
-          "explanation": "W rozdziale podano, że największym ssakiem wodnym i zarazem największym ssakiem na Ziemi jest płetwal błękitny."
+          "explanation": "Największym ssakiem wodnym i zarazem największym ssakiem na Ziemi jest płetwal błękitny."
         },
         {
           "id": "R05_ZSS_01",
@@ -5568,7 +5568,7 @@
           "id": "R05_ZSS_02",
           "section": "Ssaki: odżywianie i znaczenie",
           "type": "multi_select",
-          "prompt": "Zaznacz przykłady pozytywnego znaczenia ssaków dla człowieka opisane w rozdziale.",
+          "prompt": "Zaznacz przykłady pozytywnego znaczenia ssaków dla człowieka.",
           "options": [
             "Dostarczają mięsa, mleka, skór i wełny",
             "Służą jako środek transportu",
@@ -5619,7 +5619,7 @@
           "prompt": "Wśród dorosłych ssaków spotykamy głównie gatunki wszystkożerne.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wskazuje, że wśród dorosłych ssaków najczęstsze są gatunki wszystkożerne, a mniej liczne są typowo roślinożerne i typowo mięsożerne."
+          "explanation": "Wśród dorosłych ssaków najczęstsze są gatunki wszystkożerne, a mniej liczne są typowo roślinożerne i typowo mięsożerne."
         },
         {
           "id": "R05_ZSS_05",
@@ -5648,7 +5648,7 @@
           "id": "R05_ZSS_06",
           "section": "Ssaki: odżywianie i znaczenie",
           "type": "riddle",
-          "prompt": "Jaki ssak opisany w rozdziale potrafi biec w pościgu za ofiarą z prędkością około 120 km/godz.?",
+          "prompt": "Jaki ssak potrafi biec w pościgu za ofiarą z prędkością około 120 km/godz.?",
           "options": null,
           "answer": "gepard",
           "altAnswers": [
@@ -5694,7 +5694,7 @@
           "id": "R05_ZSS_08",
           "section": "Ssaki: odżywianie i znaczenie",
           "type": "scenario",
-          "prompt": "Rolnik zauważa, że myszy niszczą jego zapasy żywności. Jak rozdział klasyfikuje takie działanie ssaków?",
+          "prompt": "Rolnik zauważa, że myszy niszczą jego zapasy żywności. Jak klasyfikuje się takie działanie ssaków?",
           "options": [
             "jako negatywne znaczenie ssaków dla człowieka",
             "jako zapylanie kwiatów",
@@ -5719,7 +5719,7 @@
           "id": "R05_ZSS_10",
           "section": "Ssaki: odżywianie i znaczenie",
           "type": "single_choice",
-          "prompt": "Które ssaki wymieniono w rozdziale jako przenoszące wirusa wścieklizny?",
+          "prompt": "Które ssaki wymieniono jako przenoszące wirusa wścieklizny?",
           "options": [
             "lisy, borsuki, nietoperze, psy i koty",
             "kury, kaczki, gęsi i indyki",
@@ -5729,13 +5729,13 @@
             "żurawie, pawie i altanniki"
           ],
           "answer": 0,
-          "explanation": "Rozdział podaje, że wirusa wścieklizny mogą przenosić lisy, borsuki, nietoperze, psy i koty."
+          "explanation": "Wirusa wścieklizny mogą przenosić lisy, borsuki, nietoperze, psy i koty."
         },
         {
           "id": "R05_ZSS_11",
           "section": "Ssaki: odżywianie i znaczenie",
           "type": "sequence",
-          "prompt": "Ułóż drogę nasiona rozsiewanego przez sarnę zgodnie z opisem w rozdziale.",
+          "prompt": "Ułóż drogę nasiona rozsiewanego przez sarnę zgodnie z opisem.",
           "options": null,
           "items": [
             "nasiono zostaje usunięte z kałem",
@@ -5758,13 +5758,13 @@
           "prompt": "Niektóre wieloryby nie mają typowych zębów, lecz fiszbiny służące do odcedzania drobnych skorupiaków z wody.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wyjaśnia, że u niektórych wielorybów fiszbiny zastępują zęby i umożliwiają odcedzanie drobnych morskich skorupiaków."
+          "explanation": "U niektórych wielorybów fiszbiny zastępują zęby i umożliwiają odcedzanie drobnych morskich skorupiaków."
         },
         {
           "id": "R05_OCH_01",
           "section": "Ochrona zwierząt stałocieplnych",
           "type": "multi_select",
-          "prompt": "Zaznacz działania człowieka zagrażające ptakom wymienione w rozdziale.",
+          "prompt": "Zaznacz działania człowieka zagrażające ptakom.",
           "options": [
             "Wycinka lasów i usuwanie zadrzewień śródpolnych",
             "Osuszanie terenów podmokłych",
@@ -5788,13 +5788,13 @@
           "prompt": "Ropa naftowa niszczy pióra, przez co ptaki mogą mieć trudności z lataniem, zdobywaniem pożywienia i utrzymywaniem temperatury ciała.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podkreślono, że ropa niszczy pióra i utrudnia ptakom podstawowe czynności życiowe."
+          "explanation": "Ropa niszczy pióra i utrudnia ptakom podstawowe czynności życiowe."
         },
         {
           "id": "R05_OCH_03",
           "section": "Ochrona zwierząt stałocieplnych",
           "type": "single_choice",
-          "prompt": "Które działanie jest sposobem ochrony ptaków opisanym w rozdziale?",
+          "prompt": "Które działanie jest sposobem ochrony ptaków?",
           "options": [
             "zakładanie skrzynek lęgowych",
             "zwiększanie liczby przezroczystych ekranów",
@@ -5811,7 +5811,7 @@
           "id": "R05_OCH_04",
           "section": "Ochrona zwierząt stałocieplnych",
           "type": "match",
-          "prompt": "Połącz zagrożenie z grupą zwierząt, której dotyczy w rozdziale.",
+          "prompt": "Połącz zagrożenie z grupą zwierząt, której dotyczy.",
           "options": null,
           "left": [
             "wycieki ropy naftowej",
@@ -5861,7 +5861,7 @@
           "id": "R05_OCH_06",
           "section": "Ochrona zwierząt stałocieplnych",
           "type": "scenario",
-          "prompt": "Zima jest wyjątkowo surowa, a zwierzętom brakuje pokarmu. Które działanie ochronne pojawia się w rozdziale zarówno przy ptakach, jak i ssakach?",
+          "prompt": "Zima jest wyjątkowo surowa, a zwierzętom brakuje pokarmu. Które działanie ochronne pojawia się zarówno przy ptakach, jak i ssakach?",
           "options": [
             "dokarmianie",
             "zwiększanie wycinki drzew",
@@ -5871,7 +5871,7 @@
             "przenoszenie wirusa wścieklizny"
           ],
           "answer": 0,
-          "explanation": "Przy szczególnie surowych zimach rozdział wskazuje dokarmianie jako pomoc dla ptaków i ssaków."
+          "explanation": "Przy szczególnie surowych zimach wskazuje się dokarmianie jako pomoc dla ptaków i ssaków."
         },
         {
           "id": "R05_OCH_07",
@@ -5929,13 +5929,13 @@
             "ochrona gatunkowa",
             "gatunkowa"
           ],
-          "explanation": "Rozdział wskazuje, że rzadkie lub zagrożone gatunki obejmuje się ochroną gatunkową."
+          "explanation": "Rzadkie lub zagrożone gatunki obejmuje się ochroną gatunkową."
         },
         {
           "id": "R05_OCH_10",
           "section": "Ochrona zwierząt stałocieplnych",
           "type": "single_choice",
-          "prompt": "Co jest największym zagrożeniem dla ssaków według rozdziału?",
+          "prompt": "Co jest największym zagrożeniem dla ssaków?",
           "options": [
             "niszczenie obszarów ich występowania",
             "brak piór",
@@ -5974,13 +5974,13 @@
           "prompt": "Ochrona ptaków i ssaków polega między innymi na dbaniu o miejsca, w których te zwierzęta żyją.",
           "options": null,
           "answer": true,
-          "explanation": "Podsumowanie rozdziału wskazuje ochronę miejsc występowania jako wspólny sposób ochrony ptaków i ssaków."
+          "explanation": "Wskazuje się ochronę miejsc występowania jako wspólny sposób ochrony ptaków i ssaków."
         },
         {
           "id": "R05_HARD_01",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Badacz śledzi trasę bociana białego lecącego z Europy do Afryki. Jaki zakres długości takiej drogi podaje rozdział?",
+          "prompt": "Badacz śledzi trasę bociana białego lecącego z Europy do Afryki. Jaki zakres długości takiej drogi podaje się?",
           "options": [
             "od 2 tys. do 10 tys. km",
             "od 20 km do 100 km",
@@ -6045,7 +6045,7 @@
           "id": "R05_HARD_04",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje o pingwinie cesarskim zgodne z tekstem w rozdziale.",
+          "prompt": "Zaznacz informacje o pingwinie cesarskim zgodne z tekstem.",
           "options": [
             "Samica składa w zimie jedno jajo",
             "Samiec ogrzewa jajo na stopach fałdem brzusznym",
@@ -6104,7 +6104,7 @@
           "id": "R05_HARD_08",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz grupę ssaków z cechą uzębienia opisaną w rozdziale.",
+          "prompt": "Połącz grupę ssaków z cechą uzębienia.",
           "options": null,
           "left": [
             "ssaki drapieżne",
@@ -6172,7 +6172,7 @@
               "skok około 8 m"
             ]
           },
-          "explanation": "Wśród rekordzistów ssaków Polski rozdział wymienia żubra, ryjówkę, zająca szaraka i kozicę z tymi właśnie wartościami."
+          "explanation": "Wśród rekordzistów ssaków Polski wymienia się żubra, ryjówkę, zająca szaraka i kozicę z tymi właśnie wartościami."
         },
         {
           "id": "R05_HARD_11",
@@ -6194,7 +6194,7 @@
           "id": "R05_HARD_12",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz pary organizm i rola zgodne z podsumowaniem rozdziału.",
+          "prompt": "Zaznacz pary organizm i rola zgodne.",
           "options": [
             "kolibry biorą udział w zapylaniu kwiatów",
             "niektóre nietoperze biorą udział w zapylaniu kwiatów",

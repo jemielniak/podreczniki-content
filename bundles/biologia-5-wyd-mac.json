@@ -1,8 +1,8 @@
 {
   "id": "biologia-5-wyd-mac",
   "title": "Biologia 5. Wyd. MAC",
-  "version": 3,
-  "contentHash": "68ef30f1d905a99075e894284fe523ce0451fda1b40bc9523a35760e828a3fcd",
+  "version": 4,
+  "contentHash": "8893d562e63772a12687ebad98fdf6a6747b74a819ccae27d1a10614f5152cc5",
   "bookConfig": {
     "id": "biologia-5-wyd-mac",
     "title": "Biologia 5. Wyd. MAC",
@@ -103,7 +103,7 @@
           "prompt": "Budowa komórkowa jest wspólną cechą wszystkich organizmów.",
           "options": null,
           "answer": true,
-          "explanation": "W podręczniku podkreślono, że wszystkie organizmy są zbudowane z komórek."
+          "explanation": "Wszystkie organizmy są zbudowane z komórek."
         },
         {
           "id": "R01_ORG_05",
@@ -231,13 +231,13 @@
             "mitochondrium",
             "mitochondria"
           ],
-          "explanation": "Mitochondria są w podręczniku porównane do małych elektrowni komórki."
+          "explanation": "Mitochondria są porównane do małych elektrowni komórki."
         },
         {
           "id": "R01_ORG_11",
           "section": "Cechy organizmów i komórki",
           "type": "odd_one_out",
-          "prompt": "Wskaż pierwiastek, który nie należy do pierwiastków biogennych wymienionych w rozdziale: węgiel, wodór, tlen, złoto.",
+          "prompt": "Wskaż pierwiastek, który nie należy do pierwiastków biogennych: węgiel, wodór, tlen, złoto.",
           "options": null,
           "answer": "złoto",
           "explanation": "Do pierwiastków biogennych zaliczono węgiel, wodór, tlen, azot, siarkę i fosfor. Złoto nie znalazło się na tej liście."
@@ -307,7 +307,7 @@
           "prompt": "Szkolne mikroskopy świetlne umożliwiają oglądanie obiektów w powiększeniu od około 100 do 1200 razy.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje taki zakres powiększeń dla mikroskopów świetlnych używanych w pracowniach szkolnych."
+          "explanation": "Podaje się taki zakres powiększeń dla mikroskopów świetlnych używanych w pracowniach szkolnych."
         },
         {
           "id": "R01_MIK_04",
@@ -357,23 +357,11 @@
         {
           "id": "R01_MIK_06",
           "section": "Mikroskop i doświadczenia",
-          "type": "multi_select",
-          "prompt": "Zaznacz materiały potrzebne do wykonania prostego preparatu mikroskopowego.",
-          "options": [
-            "szkiełko podstawowe",
-            "szkiełko nakrywkowe",
-            "kropla wody",
-            "obserwowany obiekt",
-            "rewolwer mikroskopu",
-            "futro niedźwiedzia"
-          ],
-          "answer": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "explanation": "Do wykonania preparatu potrzeba szkiełka podstawowego, szkiełka nakrywkowego, kropli wody i obserwowanego obiektu."
+          "type": "odd_one_out",
+          "prompt": "Wskaż to, co nie jest potrzebne do wykonania prostego preparatu mikroskopowego: szkiełko podstawowe, szkiełko nakrywkowe, kropla wody, rewolwer mikroskopu.",
+          "options": null,
+          "answer": "rewolwer mikroskopu",
+          "explanation": "Preparat wykonuje się ze szkiełka podstawowego, szkiełka nakrywkowego, kropli wody i obserwowanego obiektu. Rewolwer należy do mikroskopu - służy do zmiany obiektywu, a nie do przygotowania preparatu."
         },
         {
           "id": "R01_MIK_07",
@@ -393,10 +381,10 @@
           "id": "R01_MIK_08",
           "section": "Mikroskop i doświadczenia",
           "type": "odd_one_out",
-          "prompt": "Wskaż element, który nie jest częścią mikroskopu świetlnego: okular, obiektyw, kondensor, pajęczyna.",
+          "prompt": "Wskaż element, który nie jest częścią mikroskopu świetlnego: okular, kondensor, śruba mikrometryczna, szalka Petriego.",
           "options": null,
-          "answer": "pajęczyna",
-          "explanation": "Okular, obiektyw i kondensor to elementy mikroskopu. Pajęczyna może być obiektem przyrodniczym, ale nie jest częścią mikroskopu."
+          "answer": "szalka Petriego",
+          "explanation": "Okular, kondensor i śruba mikrometryczna to części mikroskopu. Szalka Petriego to naczynie laboratoryjne - przydaje się w pracowni, ale mikroskop jej nie ma."
         },
         {
           "id": "R01_MIK_09",
@@ -600,7 +588,7 @@
             "ściana komórkowa"
           ],
           "answer": 0,
-          "explanation": "W rozdziale wskazano, że podstawowe źródło energii stanowią cukry."
+          "explanation": "Podstawowe źródło energii stanowią cukry."
         },
         {
           "id": "R01_ODD_02",
@@ -743,7 +731,7 @@
           "prompt": "Z tej samej ilości cukru fermentacja daje mniej energii niż oddychanie tlenowe.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wyjaśnia, że fermentacja uwalnia tylko część energii zmagazynowanej w cukrze."
+          "explanation": "Fermentacja uwalnia tylko część energii zmagazynowanej w cukrze."
         },
         {
           "id": "R01_ODD_11",
@@ -797,7 +785,7 @@
             ]
           ],
           "image": "r01_drzewo_zycia.jpg",
-          "explanation": "Podręcznik przedstawia organizmy jako jedną wielką rodzinę pochodzącą od wspólnego przodka."
+          "explanation": "Przedstawia się organizmy jako jedną wielką rodzinę pochodzącą od wspólnego przodka."
         },
         {
           "id": "R01_KLW_03",
@@ -826,31 +814,18 @@
         {
           "id": "R01_KLW_04",
           "section": "Klasyfikacja i wirusy",
-          "type": "multi_select",
-          "prompt": "Zaznacz królestwa organizmów wymienione w rozdziale.",
-          "options": [
-            "rośliny",
-            "zwierzęta",
-            "grzyby",
-            "bakterie",
-            "protisty",
-            "wirusy"
-          ],
-          "answer": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
+          "type": "odd_one_out",
+          "prompt": "Wskaż to, co nie jest królestwem organizmów: rośliny, zwierzęta, grzyby, bakterie, wirusy.",
+          "options": null,
+          "answer": "wirusy",
           "image": "r01_drzewo_zycia.jpg",
-          "explanation": "W rozdziale wyróżniono pięć królestw: rośliny, zwierzęta, grzyby, bakterie i protisty."
+          "explanation": "Królestwa to rośliny, zwierzęta, grzyby, bakterie i protisty. Wirusy nie są królestwem ani organizmami - nie mają budowy komórkowej i namnażają się tylko w komórce gospodarza."
         },
         {
           "id": "R01_KLW_05",
           "section": "Klasyfikacja i wirusy",
           "type": "match",
-          "prompt": "Połącz królestwo lub grupę z cechą opisaną w rozdziale.",
+          "prompt": "Połącz królestwo lub grupę z cechą.",
           "options": null,
           "left": [
             "bakterie",
@@ -860,13 +835,13 @@
           ],
           "right": [
             "nie mają jądra komórkowego",
-            "cudzożywne organizmy wielokomórkowe o tkankach",
+            "cudzożywne organizmy wielokomórkowe posiadające tkanki",
             "mogą być samożywne lub cudzożywne",
             "wytwarzają pokarm w fotosyntezie"
           ],
           "answer": {
             "bakterie": "nie mają jądra komórkowego",
-            "zwierzęta": "cudzożywne organizmy wielokomórkowe o tkankach",
+            "zwierzęta": "cudzożywne organizmy wielokomórkowe posiadające tkanki",
             "protisty": "mogą być samożywne lub cudzożywne",
             "rośliny": "wytwarzają pokarm w fotosyntezie"
           },
@@ -923,7 +898,7 @@
           "id": "R01_KLW_10",
           "section": "Klasyfikacja i wirusy",
           "type": "multi_select",
-          "prompt": "Zaznacz drogi zakażenia wirusami opisane w rozdziale.",
+          "prompt": "Zaznacz drogi zakażenia wirusami.",
           "options": [
             "bezpośredni kontakt z chorym",
             "droga powietrzno-kropelkowa",
@@ -964,13 +939,13 @@
           "prompt": "Wirus HIV atakuje i niszczy białe krwinki, osłabiając zdolność organizmu do walki z chorobami.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że HIV niszczy białe krwinki i ogranicza zdolność organizmu do obrony przed chorobami."
+          "explanation": "HIV niszczy białe krwinki i ogranicza zdolność organizmu do obrony przed chorobami."
         },
         {
           "id": "R01_KLW_13",
           "section": "Klasyfikacja i wirusy",
           "type": "match",
-          "prompt": "Połącz chorobę lub wirusa z opisem z rozdziału.",
+          "prompt": "Połącz chorobę lub wirusa z opisem.",
           "options": null,
           "left": [
             "wścieklizna",
@@ -990,7 +965,7 @@
             "AIDS": "choroba wywoływana przez HIV",
             "półpasiec": "może pojawić się po uaktywnieniu wirusa ospy wietrznej"
           },
-          "explanation": "Rozdział omawia przykłady chorób wirusowych i sposoby ich przenoszenia."
+          "explanation": "To przykłady chorób wirusowych i sposobów ich przenoszenia."
         },
         {
           "id": "R01_HARD_01",
@@ -1019,7 +994,7 @@
           "id": "R01_HARD_02",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz sposoby zdobywania wiedzy biologicznej opisane w rozdziale.",
+          "prompt": "Zaznacz sposoby zdobywania wiedzy biologicznej.",
           "options": [
             "doświadczenia",
             "obserwacje",
@@ -1054,7 +1029,7 @@
           "id": "R01_HARD_04",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj związki chemiczne do głównej roli opisanej w rozdziale.",
+          "prompt": "Przyporządkuj związki chemiczne do głównej roli.",
           "options": null,
           "items": [
             "białka",
@@ -1088,7 +1063,7 @@
           "id": "R01_HARD_05",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz pierwiastek ważny dla aktywnych osób z informacją z rozdziału.",
+          "prompt": "Połącz pierwiastek ważny dla aktywnych osób z informacją.",
           "options": null,
           "left": [
             "sód",
@@ -1117,13 +1092,13 @@
           "prompt": "Zbyt niski poziom ferrytyny może wskazywać na niedobór żelaza.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wyjaśnia, że ferrytyna odpowiada za magazynowanie żelaza, a jej zbyt niski poziom wskazuje na niedobór tego pierwiastka."
+          "explanation": "Ferrytyna odpowiada za magazynowanie żelaza, a jej zbyt niski poziom wskazuje na niedobór tego pierwiastka."
         },
         {
           "id": "R01_HARD_07",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Według rozdziału w ciele człowieka znajduje się około 30 bilionów komórek, a około 25 bilionów to krwinki czerwone. Który wniosek najlepiej wynika z tych danych?",
+          "prompt": "W ciele człowieka znajduje się około 30 bilionów komórek, a około 25 bilionów to krwinki czerwone. Który wniosek najlepiej wynika z tych danych?",
           "options": [
             "krwinki czerwone stanowią bardzo dużą część komórek ciała",
             "komórek nerwowych jest dokładnie 25 bilionów",
@@ -1258,7 +1233,7 @@
           "id": "R02_BAK_01",
           "section": "Bakterie - budowa i życie",
           "type": "single_choice",
-          "prompt": "Która cecha najlepiej opisuje bakterie przedstawione w rozdziale?",
+          "prompt": "Która cecha najlepiej opisuje bakterie?",
           "options": [
             "mikroskopijne organizmy jednokomórkowe bez jądra komórkowego",
             "wielokomórkowe rośliny z chloroplastami",
@@ -1277,7 +1252,7 @@
           "prompt": "Bakterie mogą żyć tylko w wodzie i glebie.",
           "options": null,
           "answer": false,
-          "explanation": "To fałsz. W rozdziale podano, że bakterie żyją także na powierzchni ciała i wewnątrz innych organizmów, czyli wszędzie tam, gdzie mają pokarm i odpowiednie warunki."
+          "explanation": "To fałsz. Bakterie żyją także na powierzchni ciała i wewnątrz innych organizmów, czyli wszędzie tam, gdzie mają pokarm i odpowiednie warunki."
         },
         {
           "id": "R02_BAK_03",
@@ -1365,7 +1340,7 @@
           "id": "R02_BAK_07",
           "section": "Bakterie - budowa i życie",
           "type": "scenario",
-          "prompt": "Otwierasz konserwę, ale wieczko jest wybrzuszone. Co według rozdziału należy zrobić z taką puszką?",
+          "prompt": "Otwierasz konserwę, ale wieczko jest wybrzuszone. Co należy zrobić z taką puszką?",
           "options": [
             "bezwzględnie ją wyrzucić",
             "podgrzać i zjeść od razu",
@@ -1412,7 +1387,7 @@
           "id": "R02_BAK_10",
           "section": "Bakterie - budowa i życie",
           "type": "sort",
-          "prompt": "Przyporządkuj elementy do typu komórki, w którym występują według porównania z rozdziału.",
+          "prompt": "Przyporządkuj elementy do typu komórki, w którym występują według porównania.",
           "options": null,
           "items": [
             "cytoplazma",
@@ -1463,7 +1438,7 @@
           "prompt": "Niektóre bakterie mogą oddychać tlenowo, a przy niedoborze tlenu przeprowadzać fermentację.",
           "options": null,
           "answer": true,
-          "explanation": "To prawda. Rozdział podaje, że część bakterii dostosowuje sposób oddychania do warunków otoczenia."
+          "explanation": "To prawda. Część bakterii dostosowuje sposób oddychania do warunków otoczenia."
         },
         {
           "id": "R02_BCZ_01",
@@ -1486,7 +1461,7 @@
           "id": "R02_BCZ_02",
           "section": "Bakterie w przyrodzie i u człowieka",
           "type": "multi_select",
-          "prompt": "Zaznacz pożyteczne znaczenie bakterii lub sinic opisane w rozdziale.",
+          "prompt": "Zaznacz pożyteczne znaczenie bakterii lub sinic.",
           "options": [
             "rozkład martwej materii organicznej",
             "wytwarzanie tlenu przez sinice",
@@ -1500,7 +1475,7 @@
             2
           ],
           "image": "r02_rola_saprofitow.jpg",
-          "explanation": "Rozdział podaje, że bakterie saprofityczne uczestniczą w rozkładzie martwej materii, a sinice wytwarzają tlen i są pokarmem dla innych organizmów."
+          "explanation": "Bakterie saprofityczne uczestniczą w rozkładzie martwej materii, a sinice wytwarzają tlen i są pokarmem dla innych organizmów."
         },
         {
           "id": "R02_BCZ_03",
@@ -1531,7 +1506,7 @@
               "sery"
             ]
           ],
-          "explanation": "W rozdziale jako przykłady produktów spożywczych uzyskiwanych dzięki bakteriom podano kiszoną kapustę i sery."
+          "explanation": "Jako przykłady produktów spożywczych uzyskiwanych dzięki bakteriom podano kiszoną kapustę i sery."
         },
         {
           "id": "R02_BCZ_05",
@@ -1563,7 +1538,7 @@
           "id": "R02_BCZ_06",
           "section": "Bakterie w przyrodzie i u człowieka",
           "type": "scenario",
-          "prompt": "Uczeń przyjmuje antybiotyk. Dlaczego rozdział zaleca wtedy dobrej jakości jogurty lub probiotyki?",
+          "prompt": "Uczeń przyjmuje antybiotyk. Dlaczego zaleca się wtedy dobrej jakości jogurty lub probiotyki?",
           "options": [
             "pomagają przywrócić pożyteczne bakterie",
             "zastępują wszystkie szczepienia",
@@ -1609,13 +1584,13 @@
             "salmonelloza": "pałeczka salmonelli"
           },
           "image": "r02_drogi_zakazen.jpg",
-          "explanation": "W rozdziale wymieniono laseczki tężca, krętki boreliozy, prątki gruźlicy i pałeczki salmonelli jako przyczyny odpowiednich chorób."
+          "explanation": "Wymieniono laseczki tężca, krętki boreliozy, prątki gruźlicy i pałeczki salmonelli jako przyczyny odpowiednich chorób."
         },
         {
           "id": "R02_BCZ_09",
           "section": "Bakterie w przyrodzie i u człowieka",
           "type": "sort",
-          "prompt": "Przyporządkuj choroby do typowych dróg zakażenia opisanych w rozdziale.",
+          "prompt": "Przyporządkuj choroby do typowych dróg zakażenia.",
           "options": null,
           "items": [
             "salmonelloza",
@@ -1653,7 +1628,7 @@
           "prompt": "Szczepienia są ważne w zapobieganiu tężcowi.",
           "options": null,
           "answer": true,
-          "explanation": "To prawda. Rozdział podaje, że w zapobieganiu tężcowi szczepienia są bardzo ważne."
+          "explanation": "To prawda. W zapobieganiu tężcowi szczepienia są bardzo ważne."
         },
         {
           "id": "R02_BCZ_11",
@@ -1682,7 +1657,7 @@
             "usunąć wszystkie organizmy pionierskie"
           ],
           "answer": 0,
-          "explanation": "Rozdział opisuje wprowadzanie odpowiednio dobranych bakterii, które wykorzystują pochodne ropy jako źródło węgla i energii albo przekształcają metale ciężkie w mniej szkodliwe związki."
+          "explanation": "Opisuje się wprowadzanie odpowiednio dobranych bakterii, które wykorzystują pochodne ropy jako źródło węgla i energii albo przekształcają metale ciężkie w mniej szkodliwe związki."
         },
         {
           "id": "R02_GRB_01",
@@ -1714,7 +1689,7 @@
           "id": "R02_GRB_03",
           "section": "Grzyby - budowa i rozmnażanie",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy komórek grzybów opisane w rozdziale.",
+          "prompt": "Zaznacz cechy komórek grzybów.",
           "options": [
             "zawierają jądro komórkowe",
             "mają ścianę komórkową z chityny",
@@ -1756,7 +1731,7 @@
           "id": "R02_GRB_05",
           "section": "Grzyby - budowa i rozmnażanie",
           "type": "match",
-          "prompt": "Połącz przykład grzyba z opisem z rozdziału.",
+          "prompt": "Połącz przykład grzyba z opisem.",
           "options": null,
           "left": [
             "drożdże",
@@ -1897,7 +1872,7 @@
           "prompt": "Grzyby pozbawione dostępu do tlenu mogą przeprowadzać fermentację alkoholową.",
           "options": null,
           "answer": true,
-          "explanation": "To prawda. Rozdział podaje, że grzyby mające dostęp do powietrza oddychają tlenowo, a bez tlenu mogą przeprowadzać fermentację alkoholową."
+          "explanation": "To prawda. Grzyby mające dostęp do powietrza oddychają tlenowo, a bez tlenu mogą przeprowadzać fermentację alkoholową."
         },
         {
           "id": "R02_GCZ_01",
@@ -1957,7 +1932,7 @@
           "id": "R02_GCZ_04",
           "section": "Grzyby w przyrodzie i u człowieka",
           "type": "true_false",
-          "prompt": "Porosty proszkowate wskazują na najczystsze powietrze spośród trzech typów porostów opisanych w rozdziale.",
+          "prompt": "Porosty proszkowate wskazują na najczystsze powietrze spośród trzech typów porostów.",
           "options": null,
           "answer": false,
           "image": "r02_typy_porostow.jpg",
@@ -1984,13 +1959,13 @@
             "porosty listkowate": "tworzą liście przylegające do podłoża",
             "porosty proszkowate": "przypominają proszek"
           },
-          "explanation": "Rozdział odróżnia porosty krzaczkowate, listkowate i proszkowate po ich wyglądzie."
+          "explanation": "Odróżnia się porosty krzaczkowate, listkowate i proszkowate po ich wyglądzie."
         },
         {
           "id": "R02_GCZ_06",
           "section": "Grzyby w przyrodzie i u człowieka",
           "type": "scenario",
-          "prompt": "Na korze drzew w parku widzisz liczne porosty krzaczkowate. Co można wnioskować na podstawie rozdziału?",
+          "prompt": "Na korze drzew w parku widzisz liczne porosty krzaczkowate. Co można z tego wywnioskować?",
           "options": [
             "poziom dwutlenku siarki jest niski",
             "powietrze jest silnie zanieczyszczone siarką",
@@ -2046,7 +2021,7 @@
           "id": "R02_GCZ_09",
           "section": "Grzyby w przyrodzie i u człowieka",
           "type": "single_choice",
-          "prompt": "Z jakim odkryciem opisanym w rozdziale wiąże się pędzlak Penicillium?",
+          "prompt": "Z jakim odkryciem wiąże się pędzlak Penicillium?",
           "options": [
             "z penicyliną",
             "z insuliną bakteryjną",
@@ -2066,7 +2041,7 @@
           "prompt": "Niektóre grzyby pasożytnicze wywołują choroby roślin uprawnych.",
           "options": null,
           "answer": true,
-          "explanation": "To prawda. W rozdziale podano, że grzyby pasożytnicze są przyczyną chorób wielu roślin uprawnych i strat w rolnictwie."
+          "explanation": "To prawda. Grzyby pasożytnicze są przyczyną chorób wielu roślin uprawnych i strat w rolnictwie."
         },
         {
           "id": "R02_GCZ_11",
@@ -2085,7 +2060,7 @@
           "id": "R02_GCZ_12",
           "section": "Grzyby w przyrodzie i u człowieka",
           "type": "scenario",
-          "prompt": "Po treningu ktoś długo chodzi w nieprzewiewnych butach, a stopy pozostają spocone. Jakie ryzyko opisuje rozdział?",
+          "prompt": "Po treningu ktoś długo chodzi w nieprzewiewnych butach, a stopy pozostają spocone. Jakie ryzyko opisuje się?",
           "options": [
             "rozwój grzybicy",
             "zakażenie boreliozą przez kleszcza",
@@ -2095,13 +2070,13 @@
             "powstanie porostów krzaczkowatych"
           ],
           "answer": 0,
-          "explanation": "Długo wilgotna skóra i nieprzewiewne buty sprzyjają grzybicy. Rozdział zaleca utrzymywanie skóry w czystości i suchości oraz regularną zmianę skarpet."
+          "explanation": "Długo wilgotna skóra i nieprzewiewne buty sprzyjają grzybicy. Zaleca się utrzymywanie skóry w czystości i suchości oraz regularną zmianę skarpet."
         },
         {
           "id": "R02_PRO_01",
           "section": "Protisty",
           "type": "single_choice",
-          "prompt": "Jaka cecha jest wspólna dla wszystkich protistów według rozdziału?",
+          "prompt": "Jaka cecha jest wspólna dla wszystkich protistów?",
           "options": [
             "obecność jądra komórkowego",
             "brak jądra komórkowego",
@@ -2140,7 +2115,7 @@
           "prompt": "Większość protistów żyje w wodzie.",
           "options": null,
           "answer": true,
-          "explanation": "To prawda. Rozdział rozpoczyna opis protistów od stwierdzenia, że większość z nich żyje w wodzie."
+          "explanation": "To prawda. Większość protistów żyje w wodzie."
         },
         {
           "id": "R02_PRO_04",
@@ -2189,7 +2164,7 @@
             "świdrowiec gambijski": "jednokomórkowy pasożyt wywołujący śpiączkę afrykańską"
           },
           "image": "r02_protisty_roznorodnosc.jpg",
-          "explanation": "W rozdziale podano przykłady bardzo różnych protistów, od jednokomórkowych okrzemek po wielokomórkowy morszcz."
+          "explanation": "Podano przykłady bardzo różnych protistów, od jednokomórkowych okrzemek po wielokomórkowy morszcz."
         },
         {
           "id": "R02_PRO_06",
@@ -2310,7 +2285,7 @@
           "id": "R02_PRO_12",
           "section": "Protisty",
           "type": "scenario",
-          "prompt": "Pod mikroskopem widać jednokomórkowego cudzożywnego protista z dwoma jądrami komórkowymi. Co to najpewniej za organizm z rozdziału?",
+          "prompt": "Pod mikroskopem widać jednokomórkowego cudzożywnego protista z dwoma jądrami komórkowymi. Co to najpewniej za organizm?",
           "options": [
             "pantofelek",
             "morszcz",
@@ -2327,7 +2302,7 @@
           "id": "R02_HARD_01",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz poprawne pary choroba - sposób profilaktyki podane w podsumowaniu rozdziału.",
+          "prompt": "Zaznacz poprawne pary choroba - sposób profilaktyki.",
           "options": [
             "tężec - szczepionka",
             "salmonelloza - zasady higieny",
@@ -2371,7 +2346,7 @@
             "gruźlica": "prątek gruźlicy"
           },
           "image": "r02_mapa_malarii.jpg",
-          "explanation": "Rozdział opisuje zarówno choroby bakteryjne, jak i protistowe, wraz z ich sprawcami."
+          "explanation": "Opisuje się zarówno choroby bakteryjne, jak i protistowe, wraz z ich sprawcami."
         },
         {
           "id": "R02_HARD_03",
@@ -2387,7 +2362,7 @@
             "pantofelek"
           ],
           "answer": 0,
-          "explanation": "W rozdziale podano, że lambliozę, czyli giardiozę, wywołuje lamblia jelitowa."
+          "explanation": "Lambliozę, czyli giardiozę, wywołuje lamblia jelitowa."
         },
         {
           "id": "R02_HARD_04",
@@ -2420,7 +2395,7 @@
             ]
           ],
           "image": "r02_szalka_fleminga.jpg",
-          "explanation": "Rozdział podaje datę 3 września 1928 roku dla obserwacji Fleminga oraz 1940 rok dla eksperymentu Howarda Floreya."
+          "explanation": "Podaje się datę 3 września 1928 roku dla obserwacji Fleminga oraz 1940 rok dla eksperymentu Howarda Floreya."
         },
         {
           "id": "R02_HARD_06",
@@ -2464,7 +2439,7 @@
           "id": "R02_HARD_08",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj cechy do królestw porównanych w podsumowaniu rozdziału.",
+          "prompt": "Przyporządkuj cechy do królestw.",
           "options": null,
           "items": [
             "brak jądra komórkowego",
@@ -2529,13 +2504,13 @@
             "owocnik": "część grzybni wytwarzająca zarodniki",
             "toksyna": "substancja trująca"
           },
-          "explanation": "Te pojęcia pojawiają się w rozdziale jako ważne terminy: mikoryza, przetrwalnik, gameta, owocnik i toksyna."
+          "explanation": "Te pojęcia pojawiają się jako ważne terminy: mikoryza, przetrwalnik, gameta, owocnik i toksyna."
         },
         {
           "id": "R02_HARD_11",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "W środowisku jest mało tlenu. Które dwa organizmy z rozdziału mogą w takich warunkach uzyskiwać energię dzięki fermentacji?",
+          "prompt": "W środowisku jest mało tlenu. Które dwa organizmy mogą w takich warunkach uzyskiwać energię dzięki fermentacji?",
           "options": [
             "bakterie i grzyby",
             "wyłącznie porosty krzaczkowate",
@@ -2545,7 +2520,7 @@
             "toksoplazma i kot"
           ],
           "answer": 0,
-          "explanation": "Rozdział podaje, że niektóre bakterie przeprowadzają fermentację, a grzyby pozbawione tlenu mogą przeprowadzać fermentację alkoholową."
+          "explanation": "Niektóre bakterie przeprowadzają fermentację, a grzyby pozbawione tlenu mogą przeprowadzać fermentację alkoholową."
         },
         {
           "id": "R02_HARD_12",
@@ -2719,7 +2694,7 @@
           "id": "R03_RTK_06",
           "section": "Rośliny i tkanki roślinne",
           "type": "multi_select",
-          "prompt": "Zaznacz wytwory skórki opisane w rozdziale.",
+          "prompt": "Zaznacz wytwory skórki.",
           "options": [
             "aparaty szparkowe",
             "włośniki",
@@ -2948,7 +2923,7 @@
           "prompt": "Wskaż roślinę, która nie jest mchem: płonnik pospolity, torfowiec kończysty, merzyk fałdowany, sosna zwyczajna.",
           "options": null,
           "answer": "sosna zwyczajna",
-          "explanation": "Sosna zwyczajna jest rośliną nagonasienną, a pozostałe przykłady to mchy wymienione w rozdziale."
+          "explanation": "Sosna zwyczajna jest rośliną nagonasienną, a pozostałe przykłady to mchy."
         },
         {
           "id": "R03_MCH_10",
@@ -3014,7 +2989,7 @@
           "prompt": "Rozwijający się młody liść paproci może przypominać kształtem laskę św. Mikołaja, czyli pastorał.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale opisano, że młody rozwijający się liść paproci jest zwinięty i przypomina pastorał."
+          "explanation": "Młody rozwijający się liść paproci jest zwinięty i przypomina pastorał."
         },
         {
           "id": "R03_PSW_04",
@@ -3139,7 +3114,7 @@
           "prompt": "Węgiel kamienny powstał ze szczątków dawnych paproci, skrzypów i widłaków.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wskazuje, że przed milionami lat rośliny te tworzyły bujne lasy, a z ich szczątków powstał węgiel kamienny."
+          "explanation": "Przed milionami lat rośliny te tworzyły bujne lasy, a z ich szczątków powstał węgiel kamienny."
         },
         {
           "id": "R03_NAG_01",
@@ -3171,7 +3146,7 @@
           "id": "R03_NAG_03",
           "section": "Rośliny nagonasienne",
           "type": "multi_select",
-          "prompt": "Zaznacz organy wytwarzane przez rośliny nagonasienne według rozdziału.",
+          "prompt": "Zaznacz organy wytwarzane przez rośliny nagonasienne.",
           "options": [
             "korzenie",
             "łodygi",
@@ -3242,7 +3217,7 @@
           "id": "R03_NAG_06",
           "section": "Rośliny nagonasienne",
           "type": "scenario",
-          "prompt": "Na gałązce sosny zauważasz małe czerwone szyszeczki. Według opisu z rozdziału co one tworzą?",
+          "prompt": "Na gałązce sosny zauważasz małe czerwone szyszeczki. Co one tworzą?",
           "options": [
             "kwiatostany żeńskie",
             "pędy letnie skrzypu",
@@ -3327,7 +3302,7 @@
           "id": "R03_ZNA_02",
           "section": "Znaczenie nagonasiennych",
           "type": "multi_select",
-          "prompt": "Zaznacz rośliny nagonasienne naturalnie występujące w Polsce wymienione w rozdziale.",
+          "prompt": "Zaznacz rośliny nagonasienne naturalnie występujące w Polsce.",
           "options": [
             "sosna zwyczajna",
             "świerk pospolity",
@@ -3348,7 +3323,7 @@
           "id": "R03_ZNA_03",
           "section": "Znaczenie nagonasiennych",
           "type": "match",
-          "prompt": "Połącz gatunek nagonasienny z cechą wskazaną w rozdziale lub kluczu.",
+          "prompt": "Połącz gatunek nagonasienny z cechą lub kluczu.",
           "options": null,
           "left": [
             "modrzew europejski",
@@ -3378,7 +3353,7 @@
           "prompt": "Drewno sosnowe jest wykorzystywane w stolarstwie, ponieważ łatwo poddaje się obróbce.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje drewno sosnowe jako przykład surowca chętnie wykorzystywanego w stolarstwie."
+          "explanation": "Podaje się drewno sosnowe jako przykład surowca chętnie wykorzystywanego w stolarstwie."
         },
         {
           "id": "R03_ZNA_05",
@@ -3406,7 +3381,7 @@
           "id": "R03_ZNA_06",
           "section": "Znaczenie nagonasiennych",
           "type": "scenario",
-          "prompt": "Oznaczasz drzewo z miękkimi igłami zebranymi w pęczki, które opadają na zimę. Do jakiego gatunku prowadzi klucz z rozdziału?",
+          "prompt": "Oznaczasz drzewo z miękkimi igłami zebranymi w pęczki, które opadają na zimę. Do jakiego gatunku prowadzi klucz?",
           "options": [
             "modrzew europejski",
             "cis pospolity",
@@ -3463,10 +3438,10 @@
           "id": "R03_ZNA_09",
           "section": "Znaczenie nagonasiennych",
           "type": "odd_one_out",
-          "prompt": "Wskaż przykład, który nie jest typem boru sosnowego z rozdziału: bór sosnowy świeży, bór sosnowy suchy, bór sosnowy bagienny, sad jabłoniowy.",
+          "prompt": "Wskaż przykład, który nie jest typem boru sosnowego: bór sosnowy świeży, bór sosnowy suchy, bór sosnowy bagienny, sad jabłoniowy.",
           "options": null,
           "answer": "sad jabłoniowy",
-          "explanation": "Sad jabłoniowy nie jest borem sosnowym. Rozdział opisuje bór sosnowy świeży, suchy i bagienny."
+          "explanation": "Sad jabłoniowy nie jest borem sosnowym. Opisuje się bór sosnowy świeży, suchy i bagienny."
         },
         {
           "id": "R03_ZNA_10",
@@ -3510,7 +3485,7 @@
           "id": "R03_HARD_02",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy zbudowane w rozdziale z martwych komórek.",
+          "prompt": "Zaznacz elementy zbudowane z martwych komórek.",
           "options": [
             "korek",
             "drewno",
@@ -3606,7 +3581,7 @@
           "prompt": "Salwinia pływająca jest przykładem paproci żyjącej w środowisku wodnym.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podano salwinię pływającą jako nieliczny przykład paproci spotykanej w stawach i wolno płynących rzekach."
+          "explanation": "Podano salwinię pływającą jako nieliczny przykład paproci spotykanej w stawach i wolno płynących rzekach."
         },
         {
           "id": "R03_HARD_08",
@@ -3615,7 +3590,7 @@
           "prompt": "Wskaż roślinę, która nie jest paprocią: pióropusznik strusi, języcznik zwyczajny, długosz królewski, skrzyp polny.",
           "options": null,
           "answer": "skrzyp polny",
-          "explanation": "Skrzyp polny należy do skrzypów, a pióropusznik strusi, języcznik zwyczajny i długosz królewski to paprocie wymienione w rozdziale."
+          "explanation": "Skrzyp polny należy do skrzypów, a pióropusznik strusi, języcznik zwyczajny i długosz królewski to paprocie."
         },
         {
           "id": "R03_HARD_09",
@@ -3680,7 +3655,7 @@
           "id": "R03_HARD_12",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz typ boru lub lasu z rośliną albo cechą wskazaną w rozdziale.",
+          "prompt": "Połącz typ boru lub lasu z rośliną albo cechą.",
           "options": null,
           "left": [
             "bór sosnowy świeży",
@@ -3700,7 +3675,7 @@
             "bór sosnowy bagienny": "borówka bagienna i bagno zwyczajne",
             "las świerkowy": "częste występowanie w górach"
           },
-          "explanation": "Rozdział opisuje różne bory i lasy iglaste: sosnowe świeże, suche, bagienne oraz świerkowe występujące często w górach.",
+          "explanation": "Opisuje się różne bory i lasy iglaste: sosnowe świeże, suche, bagienne oraz świerkowe występujące często w górach.",
           "image": "r03_bor_sosnowy.jpg"
         }
       ],
@@ -3837,7 +3812,7 @@
           "id": "R04_CHAR_05",
           "section": "Charakterystyka i organy",
           "type": "multi_select",
-          "prompt": "Zaznacz przystosowania roślin okrytonasiennych do środowiska suchego opisane w rozdziale.",
+          "prompt": "Zaznacz przystosowania roślin okrytonasiennych do środowiska suchego.",
           "options": [
             "drobne i nieliczne liście",
             "fotosynteza zachodząca w zielonych łodygach",
@@ -4033,7 +4008,7 @@
           "id": "R04_ROZM_04",
           "section": "Rozmnażanie i kwiaty",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy roślin wiatropylnych opisane w rozdziale.",
+          "prompt": "Zaznacz cechy roślin wiatropylnych.",
           "options": [
             "uwalniają bardzo duże ilości pyłku",
             "pyłek przenosi wiatr",
@@ -4274,7 +4249,7 @@
           "id": "R04_NAS_06",
           "section": "Nasiona i owoce",
           "type": "multi_select",
-          "prompt": "Zaznacz sposoby rozsiewania nasion z udziałem zwierząt opisane w rozdziale.",
+          "prompt": "Zaznacz sposoby rozsiewania nasion z udziałem zwierząt.",
           "options": [
             "zwierzę zjada słodki owoc i usuwa nasiona z odchodami",
             "sójka lub wiewiórka zakopuje żołędzie na zapas",
@@ -4496,7 +4471,7 @@
           "id": "R04_DRZ_08",
           "section": "Drzewa liściaste",
           "type": "riddle",
-          "prompt": "Jak nazywają się owoce dębów opisanych w rozdziale?",
+          "prompt": "Jak nazywają się owoce dębów?",
           "options": null,
           "answer": "żołędzie",
           "altAnswers": [
@@ -4512,7 +4487,7 @@
           "id": "R04_DRZ_09",
           "section": "Drzewa liściaste",
           "type": "match",
-          "prompt": "Połącz gatunek drzewa z cechą wymienioną w rozdziale.",
+          "prompt": "Połącz gatunek drzewa z cechą.",
           "options": null,
           "left": [
             "kasztanowiec pospolity",
@@ -4535,7 +4510,7 @@
             "buk zwyczajny": "orzeszki ukryte w kolczastej łupinie",
             "klon jesionolistny": "liście pierzastozłożone o 3-7 listkach"
           },
-          "explanation": "Rozdział podaje charakterystyczne cechy wybranych gatunków drzew liściastych spotykanych w Polsce.",
+          "explanation": "Podaje się charakterystyczne cechy wybranych gatunków drzew liściastych spotykanych w Polsce.",
           "image": "r04_drzewa_lisciaste.jpg"
         },
         {
@@ -4563,14 +4538,14 @@
           "prompt": "Rośliny okrytonasienne tworzą większość środowisk życia dla innych organizmów.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podano, że okrytonasienne tworzą m.in. łąki, zarośla, szuwary, lasy liściaste i wilgotne lasy równikowe.",
+          "explanation": "Okrytonasienne tworzą m.in. łąki, zarośla, szuwary, lasy liściaste i wilgotne lasy równikowe.",
           "image": "r04_laka_las.jpg"
         },
         {
           "id": "R04_ZNAC_02",
           "section": "Znaczenie okrytonasiennych",
           "type": "multi_select",
-          "prompt": "Zaznacz środowiska tworzone głównie przez rośliny okrytonasienne według rozdziału.",
+          "prompt": "Zaznacz środowiska tworzone głównie przez rośliny okrytonasienne.",
           "options": [
             "łąki",
             "zarośla nadrzeczne",
@@ -4632,14 +4607,14 @@
             "elementy dekoracyjne": "rośliny w parkach, ogrodach i doniczkach",
             "materiały": "wiklina, bawełna, korek i drewno"
           },
-          "explanation": "Rozdział pokazuje, że człowiek wykorzystuje rośliny okrytonasienne jako żywność, paszę, ozdobę, źródło materiałów i substancji chemicznych.",
+          "explanation": "Człowiek wykorzystuje rośliny okrytonasienne jako żywność, paszę, ozdobę, źródło materiałów i substancji chemicznych.",
           "image": "r04_zastosowania_roslin.jpg"
         },
         {
           "id": "R04_ZNAC_05",
           "section": "Znaczenie okrytonasiennych",
           "type": "multi_select",
-          "prompt": "Zaznacz materiały uzyskiwane z roślin okrytonasiennych wymienione w rozdziale.",
+          "prompt": "Zaznacz materiały uzyskiwane z roślin okrytonasiennych.",
           "options": [
             "wiklina",
             "bawełna",
@@ -4757,7 +4732,7 @@
           "id": "R04_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Ile gatunków roślin okrytonasiennych podano w rozdziale jako poznanych przez naukę?",
+          "prompt": "Ile gatunków roślin okrytonasiennych podano jako poznanych przez naukę?",
           "options": [
             "ponad 320 tysięcy",
             "około 36 tysięcy",
@@ -4767,18 +4742,18 @@
             "ponad 115 tysięcy"
           ],
           "answer": 0,
-          "explanation": "W rozdziale napisano, że z około 360 tysięcy poznanych gatunków roślin ponad 320 tysięcy stanowią okrytonasienne."
+          "explanation": "Z około 360 tysięcy poznanych gatunków roślin ponad 320 tysięcy stanowią okrytonasienne."
         },
         {
           "id": "R04_HARD_02",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje o rekordowych roślinach zgodne z rozdziałem.",
+          "prompt": "Zaznacz prawdziwe informacje o rekordowych roślinach.",
           "options": [
             "Najwyższymi roślinami okrytonasiennymi są eukaliptusy królewskie",
             "Rekordowy eukaliptus królewski ma ponad 99 metrów",
             "Najwyższe drzewo świata to nagonasienna sekwoja wieczniezielona",
-            "Najwyższe drzewo Europy opisane w rozdziale rośnie w Portugalii",
+            "Najwyższe drzewo Europy rośnie w Portugalii",
             "Najwyższym drzewem świata jest eukaliptus różnobarwny"
           ],
           "answer": [
@@ -4787,14 +4762,14 @@
             2,
             3
           ],
-          "explanation": "Rozdział odróżnia rekordowe okrytonasienne eukaliptusy od nagonasiennej sekwoi wieczniezielonej, która jest najwyższym drzewem świata.",
+          "explanation": "Odróżnia się rekordowe okrytonasienne eukaliptusy od nagonasiennej sekwoi wieczniezielonej, która jest najwyższym drzewem świata.",
           "image": "r04_rekordowe_rosliny.jpg"
         },
         {
           "id": "R04_HARD_03",
           "section": "Super trudne",
           "type": "fill_in",
-          "prompt": "Najwyższe drzewo Europy opisane w rozdziale to eukaliptus __________ rosnący w __________.",
+          "prompt": "Najwyższe drzewo Europy to eukaliptus __________ rosnący w __________.",
           "options": null,
           "answer": [
             "różnobarwny",
@@ -4810,7 +4785,7 @@
               "Portugalia"
             ]
           ],
-          "explanation": "W rozdziale podano, że najwyższe drzewo Europy to eukaliptus różnobarwny rosnący w Portugalii.",
+          "explanation": "Najwyższe drzewo Europy to eukaliptus różnobarwny rosnący w Portugalii.",
           "image": "r04_rekordowe_rosliny.jpg"
         },
         {
@@ -4837,14 +4812,14 @@
             "brylancik niebieskogardły": "koliber",
             "nietoperz wieprzoryjek meksykański": "ssak zapylający kwiaty"
           },
-          "explanation": "Rozdział pokazuje różne zwierzęta zapylające: owady, ptaki i ssaki.",
+          "explanation": "Pokazuje się różne zwierzęta zapylające: owady, ptaki i ssaki.",
           "image": "r04_zapylacze_swiata.jpg"
         },
         {
           "id": "R04_HARD_05",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Której barwy pszczoły nie rozróżniają według ciekawostki w rozdziale?",
+          "prompt": "Której barwy pszczoły nie rozróżniają według ciekawostki?",
           "options": [
             "czerwonej",
             "żółtej",
@@ -4864,7 +4839,7 @@
           "prompt": "Pszczoły mają ogromne znaczenie dla rolnictwa, bo bez ich zapylania wiele roślin uprawnych nie wytworzyłoby owoców i nasion.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podkreśla, że pszczoły zapylają kwiaty roślin uprawnych, co umożliwia powstawanie owoców i nasion.",
+          "explanation": "Pszczoły zapylają kwiaty roślin uprawnych, co umożliwia powstawanie owoców i nasion.",
           "image": "r04_zapylacze_swiata.jpg"
         },
         {
@@ -4888,7 +4863,7 @@
           "id": "R04_HARD_08",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz zwierzę z miejscem wskazanym w rozdziale do odnalezienia na mapie.",
+          "prompt": "Połącz zwierzę z miejscem do odnalezienia na mapie.",
           "options": null,
           "left": [
             "brylancik niebieskogardły",
@@ -4905,13 +4880,13 @@
             "wari czarno-biały": "Madagaskar",
             "wieprzoryjek meksykański": "Meksyk"
           },
-          "explanation": "Rozdział zachęca do znalezienia na mapie miejsc występowania tych zwierząt: Ekwadoru, Madagaskaru i Meksyku."
+          "explanation": "Zachęca się do znalezienia na mapie miejsc występowania tych zwierząt: Ekwadoru, Madagaskaru i Meksyku."
         },
         {
           "id": "R04_HARD_09",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Która roślina wytwarza największe nasiona świata opisane w rozdziale?",
+          "prompt": "Która roślina wytwarza największe nasiona świata?",
           "options": [
             "lodicja seszelska",
             "brzoza brodawkowata",
@@ -4952,7 +4927,7 @@
           "id": "R04_HARD_11",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz zasady przygotowania plakatu informacyjnego wymienione w rozdziale.",
+          "prompt": "Zaznacz zasady przygotowania plakatu informacyjnego.",
           "options": [
             "najpierw ustalić temat i tytuł",
             "w środkowej części przedstawić podstawowe dane",
@@ -4972,7 +4947,7 @@
           "id": "R04_HARD_12",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do odmian kapusty warzywnej pokazanych w rozdziale: brokuł, kalafior, jarmuż, marchew.",
+          "prompt": "Co nie pasuje do odmian kapusty warzywnej: brokuł, kalafior, jarmuż, marchew.",
           "options": null,
           "answer": "marchew",
           "explanation": "Brokuł, kalafior i jarmuż zostały pokazane jako odmiany kapusty warzywnej, natomiast marchew nie należy do tej grupy.",

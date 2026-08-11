@@ -1,8 +1,8 @@
 {
   "id": "historia-6-wsip",
   "title": "Historia 6 WSiP",
-  "version": 2,
-  "contentHash": "517395abe483ced1548acb7e5654a85819e18fd257077b326cb44d3b90a6a757",
+  "version": 3,
+  "contentHash": "594ab3fe4c50709039832e5b8f99f79a8c6b695ca777e7140aea2c0cb3c2c869",
   "bookConfig": {
     "id": "historia-6-wsip",
     "title": "Historia 6 WSiP",
@@ -58,7 +58,7 @@
           "image": "r01_karawela_na_morzu.jpg",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podkreśla, że dzięki trójkątnym żaglom karawele lepiej manewrowały przy zmiennych wiatrach."
+          "explanation": "Dzięki trójkątnym żaglom karawele lepiej manewrowały przy zmiennych wiatrach."
         },
         {
           "id": "R01_WOG_03",
@@ -205,7 +205,7 @@
           "prompt": "Od początku wypraw europejskim żeglarzom i władcom przyświecał także cel nawracania rdzennej ludności na chrześcijaństwo.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wskazuje, że obok bogactw i podporządkowania nowych ziem ważnym celem było nawracanie miejscowej ludności na chrześcijaństwo."
+          "explanation": "Obok bogactw i podporządkowania nowych ziem ważnym celem było nawracanie miejscowej ludności na chrześcijaństwo."
         },
         {
           "id": "R01_KOG_02",
@@ -276,7 +276,7 @@
               "slonca"
             ]
           ],
-          "explanation": "Podręcznik podaje, że państwo Inków liczyło ponad 8 mln mieszkańców, a władcom przypisywano pochodzenie od boga Słońca."
+          "explanation": "Państwo Inków liczyło ponad 8 mln mieszkańców, a władcom przypisywano pochodzenie od boga Słońca."
         },
         {
           "id": "R01_KOG_06",
@@ -330,7 +330,7 @@
             "Stanisław Hozjusz"
           ],
           "answer": 0,
-          "explanation": "Podręcznik opisuje Hernána Cortésa jako konkwistadora, który w latach 1519-1521 podbił imperium Azteków i po wylądowaniu nakazał spalenie okrętów."
+          "explanation": "Opisuje się Hernána Cortésa jako konkwistadora, który w latach 1519-1521 podbił imperium Azteków i po wylądowaniu nakazał spalenie okrętów."
         },
         {
           "id": "R01_KOG_09",
@@ -401,7 +401,7 @@
             "kontrreformacja"
           ],
           "answer": 0,
-          "explanation": "Podręcznik określa epokę od XV do schyłku XVI wieku mianem odrodzenia lub renesansu."
+          "explanation": "Określa się epokę od XV do schyłku XVI wieku mianem odrodzenia lub renesansu."
         },
         {
           "id": "R01_ODR_02",
@@ -460,7 +460,7 @@
             "Michał Anioł": "freski w Kaplicy Sykstyńskiej i kopuła Bazyliki św. Piotra",
             "Rafael Santi": "Szkoła ateńska i obrazy Madonny z Dzieciątkiem"
           },
-          "explanation": "Leonardo, Michał Anioł i Rafael Santi to najważniejsi artyści włoskiego renesansu opisani w podręczniku."
+          "explanation": "Leonardo, Michał Anioł i Rafael Santi to najważniejsi artyści włoskiego renesansu."
         },
         {
           "id": "R01_ODR_05",
@@ -518,7 +518,7 @@
           "id": "R01_ODR_09",
           "section": "Kultura odrodzenia we Włoszech",
           "type": "scenario",
-          "prompt": "Jesteś XV-wiecznym władcą Florencji z rodu Medyceuszy. Zasłynąłeś jako mecenas, a na twoim dworze pracował młody Michał Anioł. Jak cię nazwano w podręczniku?",
+          "prompt": "Jesteś XV-wiecznym władcą Florencji z rodu Medyceuszy. Zasłynąłeś jako mecenas, a na twoim dworze pracował młody Michał Anioł. Jak cię nazwano?",
           "options": [
             "Wawrzyniec Wspaniały",
             "Jan Gutenberg",
@@ -553,13 +553,13 @@
           "prompt": "Na przełomie XV i XVI wieku kultura renesansowa oraz humanizm zaczęły rozprzestrzeniać się w większości krajów europejskich.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wskazuje, że zjawisko to było związane m.in. z podróżami do Włoch i kontaktami z tamtejszymi humanistami."
+          "explanation": "Zjawisko to było związane m.in. z podróżami do Włoch i kontaktami z tamtejszymi humanistami."
         },
         {
           "id": "R01_HUM_02",
           "section": "Humanizm i przewrót kopernikański",
           "type": "single_choice",
-          "prompt": "Komu podręcznik przypisuje wynalazek ruchomej czcionki drukarskiej zastosowany około 1450 roku?",
+          "prompt": "Komu przypisuje się wynalazek ruchomej czcionki drukarskiej zastosowany około 1450 roku?",
           "image": "r01_drukarnia_gutenberga.jpg",
           "options": [
             "Janowi Gutenbergowi",
@@ -576,7 +576,7 @@
           "id": "R01_HUM_03",
           "section": "Humanizm i przewrót kopernikański",
           "type": "sequence",
-          "prompt": "Ułóż etapy pracy drukarskiej w kolejności opisanej w podręczniku.",
+          "prompt": "Ułóż etapy pracy drukarskiej w kolejności.",
           "image": "r01_drukarnia_gutenberga.jpg",
           "options": null,
           "items": [
@@ -637,7 +637,7 @@
           "id": "R01_HUM_06",
           "section": "Humanizm i przewrót kopernikański",
           "type": "multi_select",
-          "prompt": "Zaznacz poglądy i działania Erazma z Rotterdamu opisane w rozdziale.",
+          "prompt": "Zaznacz poglądy i działania Erazma z Rotterdamu.",
           "options": [
             "potępiał wojny",
             "nawoływał do tolerancji wobec osób innego wyznania niż katolickie",
@@ -772,7 +772,7 @@
           "id": "R01_REF_04",
           "section": "Reformacja",
           "type": "multi_select",
-          "prompt": "Zaznacz poglądy lub postulaty Marcina Lutra opisane w rozdziale.",
+          "prompt": "Zaznacz poglądy lub postulaty Marcina Lutra.",
           "image": "r01_wystapienie_lutra.jpg",
           "options": [
             "krytyka sprzedaży odpustów",
@@ -803,13 +803,13 @@
             "przeniosło stolicę reformacji do Tenochtitlan"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podkreśla, że tłumaczenie Biblii dokonane przez Lutra położyło podstawy pod rozwój nowożytnego literackiego języka niemieckiego."
+          "explanation": "Tłumaczenie Biblii dokonane przez Lutra położyło podstawy pod rozwój nowożytnego literackiego języka niemieckiego."
         },
         {
           "id": "R01_REF_06",
           "section": "Reformacja",
           "type": "sort",
-          "prompt": "Przyporządkuj cechy do Kościoła katolickiego albo ewangelickiego według opisu z rozdziału.",
+          "prompt": "Przyporządkuj cechy do Kościoła katolickiego albo ewangelickiego według opisu.",
           "options": null,
           "items": [
             "uznawanie władzy papieża",
@@ -921,7 +921,7 @@
           "id": "R01_KAT_02",
           "section": "Reforma katolicka",
           "type": "multi_select",
-          "prompt": "Zaznacz ważniejsze reformy soboru trydenckiego wymienione w podręczniku.",
+          "prompt": "Zaznacz ważniejsze reformy soboru trydenckiego.",
           "image": "r01_sobor_trydencki.jpg",
           "options": [
             "zakładanie seminariów duchownych",
@@ -982,7 +982,7 @@
           "prompt": "Na Indeksie ksiąg zakazanych umieszczono wkrótce dzieło Mikołaja Kopernika O obrotach sfer niebieskich.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że na indeksie znalazło się m.in. dzieło Mikołaja Kopernika O obrotach sfer niebieskich."
+          "explanation": "Na indeksie znalazło się m.in. dzieło Mikołaja Kopernika O obrotach sfer niebieskich."
         },
         {
           "id": "R01_KAT_06",
@@ -1052,7 +1052,7 @@
             1,
             2
           ],
-          "explanation": "Podręcznik wskazuje zarówno negatywne skutki, takie jak wojny i podziały, jak i pozytywny rozwój idei tolerancji religijnej."
+          "explanation": "Wskazuje się zarówno negatywne skutki, takie jak wojny i podziały, jak i pozytywny rozwój idei tolerancji religijnej."
         },
         {
           "id": "R01_KAT_10",
@@ -1105,7 +1105,7 @@
           "id": "R01_HARD_03",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz osobę z określeniem lub rolą podaną w rozdziale.",
+          "prompt": "Połącz osobę z określeniem lub rolą.",
           "options": null,
           "left": [
             "Erazm z Rotterdamu",
@@ -1125,7 +1125,7 @@
             "Bartolomé de Las Casas": "jeden z pierwszych obrońców Indian",
             "Lucas Cranach starszy": "malarz reformacji"
           },
-          "explanation": "Rozdział używa tych określeń przy omawianiu humanizmu, reformy katolickiej, kolonizacji oraz reformacji."
+          "explanation": "Używa się tych określeń przy omawianiu humanizmu, reformy katolickiej, kolonizacji oraz reformacji."
         },
         {
           "id": "R01_HARD_04",
@@ -1174,7 +1174,7 @@
           "image": "r01_zbor_kalwinski.jpg",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wskazuje, że kalwiniści bardziej niż luteranie ograniczyli hierarchię kościelną, znosząc urzędy biskupów, a ich zbory miały surowy wystrój."
+          "explanation": "Kalwiniści bardziej niż luteranie ograniczyli hierarchię kościelną, znosząc urzędy biskupów, a ich zbory miały surowy wystrój."
         },
         {
           "id": "R01_HARD_07",
@@ -1189,7 +1189,7 @@
           "id": "R01_HARD_08",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz osoby, które według rozdziału działały w związku z reformą katolicką lub katolicką odnową.",
+          "prompt": "Zaznacz osoby, które działały w związku z reformą katolicką lub katolicką odnową.",
           "options": [
             "Stanisław Hozjusz",
             "Ignacy Loyola",
@@ -1502,7 +1502,7 @@
           "prompt": "Rzeczpospolita Obojga Narodów utworzona w 1569 roku przetrwała ponad dwieście lat, do schyłku XVIII wieku.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podkreśla, że państwo powstałe po unii lubelskiej przetrwało ponad dwieście lat, aż do końca XVIII wieku."
+          "explanation": "Państwo powstałe po unii lubelskiej przetrwało ponad dwieście lat, aż do końca XVIII wieku."
         },
         {
           "id": "R02_SEJ_01",
@@ -1554,7 +1554,7 @@
           "prompt": "W Polsce XVI-XVIII wieku konstytucja oznaczała pojedynczą ustawę, a nie koniecznie całościowy opis ustroju państwa.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wyjaśnia, że w dawnej Polsce konstytucją nazywano pojedynczą ustawę sejmową."
+          "explanation": "W dawnej Polsce konstytucją nazywano pojedynczą ustawę sejmową."
         },
         {
           "id": "R02_SEJ_04",
@@ -1744,7 +1744,7 @@
           "id": "R02_WOJ_03",
           "section": "Wojny i polityka nad Bałtykiem",
           "type": "multi_select",
-          "prompt": "Zaznacz państwa zaangażowane w konflikt o dominację nad Morzem Bałtyckim opisany w rozdziale.",
+          "prompt": "Zaznacz państwa zaangażowane w konflikt o dominację nad Morzem Bałtyckim.",
           "options": [
             "Szwecja",
             "Dania",
@@ -1908,7 +1908,7 @@
           "id": "R02_GOS_03",
           "section": "Gospodarka i folwarki",
           "type": "multi_select",
-          "prompt": "Zaznacz towary eksportowane z Rzeczypospolitej lub jej ziem w XVI wieku według rozdziału.",
+          "prompt": "Zaznacz towary eksportowane z Rzeczypospolitej lub jej ziem w XVI wieku.",
           "options": [
             "zboże",
             "drewno",
@@ -2071,7 +2071,7 @@
           "prompt": "W dawnej Rzeczypospolitej Polacy stanowili mniej niż połowę całej ludności państwa.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podkreśla wielonarodowy charakter państwa: Polacy stanowili mniej niż połowę ludności, a jeszcze mniej liczni byli Litwini."
+          "explanation": "Podkreśla się wielonarodowy charakter państwa: Polacy stanowili mniej niż połowę ludności, a jeszcze mniej liczni byli Litwini."
         },
         {
           "id": "R02_KUL_03",
@@ -2109,7 +2109,7 @@
             "katolicyzm ormiański"
           ],
           "answer": 0,
-          "explanation": "Podręcznik wskazuje, że pewna część szlachty w XVI wieku przyjęła kalwinizm."
+          "explanation": "Pewna część szlachty w XVI wieku przyjęła kalwinizm."
         },
         {
           "id": "R02_KUL_05",
@@ -2202,7 +2202,7 @@
           "id": "R02_KUL_10",
           "section": "Wiele narodów i kultura renesansu",
           "type": "single_choice",
-          "prompt": "Czym wyróżniał się Mikołaj Rej według rozdziału?",
+          "prompt": "Czym wyróżniał się Mikołaj Rej?",
           "options": [
             "Z dumą pisał swoje utwory wyłącznie po polsku",
             "Założył Zamość i Akademię Zamojską",
@@ -2277,7 +2277,7 @@
             "dziadkiem"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że Albrecht Hohenzollern był siostrzeńcem polskiego króla Zygmunta Starego."
+          "explanation": "Albrecht Hohenzollern był siostrzeńcem polskiego króla Zygmunta Starego."
         },
         {
           "id": "R02_HARD_02",
@@ -2377,7 +2377,7 @@
             "rozejm w Jamie Zapolskim"
           ],
           "image": "r02_stefan_batory.jpg",
-          "explanation": "Kolejność wskazana w rozdziale to kampania połocka w 1579 roku, wielkołucka w 1580 roku, pskowska w latach 1580-1581 i rozejm w Jamie Zapolskim w 1582 roku."
+          "explanation": "Kolejność to kampania połocka w 1579 roku, wielkołucka w 1580 roku, pskowska w latach 1580-1581 i rozejm w Jamie Zapolskim w 1582 roku."
         },
         {
           "id": "R02_HARD_08",
@@ -2422,7 +2422,7 @@
           "id": "R02_HARD_10",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz poglądy lub cechy przypisywane w rozdziale braciom polskim albo jednemu z ich odłamów.",
+          "prompt": "Zaznacz poglądy lub cechy przypisywane braciom polskim albo jednemu z ich odłamów.",
           "options": [
             "Odrzucenie dogmatu o Trójcy Świętej",
             "Potępienie przemocy i wojen przez jeden z odłamów",
@@ -2444,7 +2444,7 @@
           "id": "R02_HARD_11",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz postać z informacją z rozdziału.",
+          "prompt": "Połącz postać z informacją.",
           "options": null,
           "left": [
             "Stanisław Murzynowski",
@@ -2506,7 +2506,7 @@
           "prompt": "W sprowadzaniu włoskich artystów na dwór królewski ważną rolę odegrała Bona Sforza, żona Zygmunta Starego i matka Zygmunta Augusta.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wskazuje, że w rozwoju renesansu na dworze królewskim ważną rolę odegrali ostatni Jagiellonowie oraz Bona Sforza."
+          "explanation": "W rozwoju renesansu na dworze królewskim ważną rolę odegrali ostatni Jagiellonowie oraz Bona Sforza."
         }
       ],
       "kidPrompts": {}
@@ -2537,7 +2537,7 @@
           "id": "R03_EUR_01",
           "section": "Europa Zachodnia",
           "type": "single_choice",
-          "prompt": "Kogo podręcznik nazywa architektem potęgi Francji w XVII wieku?",
+          "prompt": "Kogo nazywa się architektem potęgi Francji w XVII wieku?",
           "options": [
             "Armanda de Richelieu",
             "Olivera Cromwella",
@@ -2586,7 +2586,7 @@
           "id": "R03_EUR_04",
           "section": "Europa Zachodnia",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy władcy absolutnego opisane w rozdziale.",
+          "prompt": "Zaznacz cechy władcy absolutnego.",
           "options": [
             "Stanowi prawa bez przyzwolenia stanów",
             "Nakłada nowe podatki bez zgody stanów",
@@ -2746,7 +2746,7 @@
           "prompt": "Od 1573 roku królowie Rzeczypospolitej byli wybierani przez szlachtę w wolnej elekcji.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podkreśla, że od 1573 roku aż do upadku państwa wszyscy polscy królowie byli władcami elekcyjnymi."
+          "explanation": "Od 1573 roku aż do upadku państwa wszyscy polscy królowie byli władcami elekcyjnymi."
         },
         {
           "id": "R03_WAZ_03",
@@ -2877,7 +2877,7 @@
           "id": "R03_WAZ_09",
           "section": "Wazowie i wojny z Rosją",
           "type": "sort",
-          "prompt": "Przyporządkuj postacie do państwa lub spraw, z którymi są w rozdziale najmocniej związane.",
+          "prompt": "Przyporządkuj postacie do państwa lub spraw, z którymi są najmocniej związane.",
           "options": null,
           "items": [
             "Zygmunt III Waza",
@@ -2933,7 +2933,7 @@
           "prompt": "Kozacy wywodzili się głównie z chłopstwa lub drobnej szlachty, wyznawali prawosławie i posługiwali się językiem ruskim.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik tak opisuje społeczne, religijne i językowe cechy Kozaków na Zaporożu."
+          "explanation": "Opisuje się społeczne, religijne i językowe cechy Kozaków na Zaporożu."
         },
         {
           "id": "R03_KOZ_03",
@@ -3342,7 +3342,7 @@
           "id": "R03_TUR_04",
           "section": "Wojny z Turcją",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy husarii opisane w rozdziale.",
+          "prompt": "Zaznacz cechy husarii.",
           "options": [
             "Była najcięższą i najsłynniejszą formacją wojskową Rzeczypospolitej",
             "Zmasowaną szarżą rozbijała szeregi przeciwnika",
@@ -3443,7 +3443,7 @@
           "id": "R03_TUR_09",
           "section": "Wojny z Turcją",
           "type": "sort",
-          "prompt": "Przyporządkuj formacje do sposobu walki opisanego w rozdziale.",
+          "prompt": "Przyporządkuj formacje do sposobu walki.",
           "options": null,
           "items": [
             "husaria",
@@ -3493,7 +3493,7 @@
             "Holandia"
           ],
           "answer": 0,
-          "explanation": "Podręcznik wskazuje Włochy jako miejsce narodzin kolejnej po renesansie epoki sztuki, literatury i muzyki."
+          "explanation": "Wskazuje się Włochy jako miejsce narodzin kolejnej po renesansie epoki sztuki, literatury i muzyki."
         },
         {
           "id": "R03_BAR_02",
@@ -3525,7 +3525,7 @@
           "id": "R03_BAR_04",
           "section": "Barok i sarmatyzm",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy sztuki barokowej opisane w rozdziale.",
+          "prompt": "Zaznacz cechy sztuki barokowej.",
           "options": [
             "Formy pełne ruchu",
             "Dążenie do realistycznego przedstawienia ciała i natury",
@@ -3763,7 +3763,7 @@
           "id": "R03_HARD_06",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz układ pokojowy lub rozejm ze skutkiem opisanym w rozdziale.",
+          "prompt": "Połącz układ pokojowy lub rozejm ze skutkiem.",
           "options": null,
           "left": [
             "Polanów 1634",
@@ -3789,7 +3789,7 @@
           "id": "R03_HARD_07",
           "section": "Super trudne",
           "type": "true_false",
-          "prompt": "Według ramki z podręcznika Władysław Siciński w 1652 roku od razu zerwał cały sejm na samym początku obrad.",
+          "prompt": "Według ramki Władysław Siciński w 1652 roku od razu zerwał cały sejm na samym początku obrad.",
           "options": null,
           "answer": false,
           "explanation": "Ramka wyjaśnia, że Siciński zawetował przedłużenie obrad poza określony prawem czas; dopiero później zaczęto zrywać sejmy coraz częściej i nawet na początku obrad."
@@ -3849,7 +3849,7 @@
           "id": "R03_HARD_11",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy kultury sarmatyzmu opisane w rozdziale.",
+          "prompt": "Zaznacz cechy kultury sarmatyzmu.",
           "options": [
             "Pochwała złotej wolności szlacheckiej",
             "Przywiązanie do rodzimych instytucji politycznych",
@@ -3926,7 +3926,7 @@
           "id": "R04_OSW_02",
           "section": "Kultura oświecenia",
           "type": "multi_select",
-          "prompt": "Zaznacz hasła i wartości kojarzone w rozdziale z oświeceniem.",
+          "prompt": "Zaznacz hasła i wartości kojarzone z oświeceniem.",
           "options": [
             "wiara w potęgę rozumu",
             "postęp",
@@ -3950,7 +3950,7 @@
           "prompt": "Wielka encyklopedia francuska była wydawana prawie 30 lat i liczyła 35 tomów.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że Wielka encyklopedia francuska powstawała przez prawie 30 lat, była dziełem wielu autorów i liczyła 35 tomów."
+          "explanation": "Wielka encyklopedia francuska powstawała przez prawie 30 lat, była dziełem wielu autorów i liczyła 35 tomów."
         },
         {
           "id": "R04_OSW_04",
@@ -4009,7 +4009,7 @@
             "Karol Ludwik Monteskiusz": "trójpodział władz",
             "Jean-Jacques Rousseau": "prawo ludu do wyboru ustroju"
           },
-          "explanation": "Wolter kojarzony jest w rozdziale z wiarą w postęp, Monteskiusz z trójpodziałem władz, a Rousseau z prawem ludu do wyboru ustroju i sympatią do republiki."
+          "explanation": "Wolter kojarzony jest z wiarą w postęp, Monteskiusz z trójpodziałem władz, a Rousseau z prawem ludu do wyboru ustroju i sympatią do republiki."
         },
         {
           "id": "R04_OSW_07",
@@ -4102,7 +4102,7 @@
             "pierwszy lot balonem braci Montgolfier",
             "pierwsza bateria"
           ],
-          "explanation": "Tabela w rozdziale podaje kolejno: siewnik w 1701 roku, piorunochron w 1752 roku, udoskonalony silnik parowy w 1769 roku, pierwszy lot balonem braci Montgolfier w 1783 roku i pierwszą baterię w 1799 roku."
+          "explanation": "Podaje się kolejno: siewnik w 1701 roku, piorunochron w 1752 roku, udoskonalony silnik parowy w 1769 roku, pierwszy lot balonem braci Montgolfier w 1783 roku i pierwszą baterię w 1799 roku."
         },
         {
           "id": "R04_OSW_12",
@@ -4111,7 +4111,7 @@
           "prompt": "Rokoko rozwinęło się w pierwszej połowie XVIII wieku, a klasycyzm w drugiej połowie tego stulecia.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wskazuje, że rokoko było stylem pierwszej połowy XVIII wieku, natomiast klasycyzm pojawił się w architekturze, sztuce i muzyce w drugiej połowie wieku."
+          "explanation": "Rokoko było stylem pierwszej połowy XVIII wieku, natomiast klasycyzm pojawił się w architekturze, sztuce i muzyce w drugiej połowie wieku."
         },
         {
           "id": "R04_ABO_01",
@@ -4159,7 +4159,7 @@
           "id": "R04_ABO_04",
           "section": "Absolutyzm oświecony",
           "type": "multi_select",
-          "prompt": "Zaznacz filary państwa pruskiego opisane w rozdziale.",
+          "prompt": "Zaznacz filary państwa pruskiego.",
           "options": [
             "liczna i dobrze wyćwiczona armia",
             "kompetentna administracja",
@@ -4174,7 +4174,7 @@
             2
           ],
           "image": "r04_fryderyk_ii_i_armia.jpg",
-          "explanation": "Rozdział nazywa filarami państwa pruskiego liczną i wyćwiczoną armię, kompetentną administrację oraz dobrze zorganizowane szkolnictwo."
+          "explanation": "Nazywa się filarami państwa pruskiego liczną i wyćwiczoną armię, kompetentną administrację oraz dobrze zorganizowane szkolnictwo."
         },
         {
           "id": "R04_ABO_05",
@@ -4195,7 +4195,7 @@
           "id": "R04_ABO_06",
           "section": "Absolutyzm oświecony",
           "type": "match",
-          "prompt": "Połącz państwo z dynastią lub władcą wskazanym w rozdziale.",
+          "prompt": "Połącz państwo z dynastią lub władcą.",
           "options": null,
           "left": [
             "Prusy",
@@ -4347,7 +4347,7 @@
             "35"
           ],
           "answer": 0,
-          "explanation": "W rozdziale podano, że w ciągu XVII wieku i w pierwszej połowie XVIII wieku powstało 13 kolonii brytyjskich."
+          "explanation": "W ciągu XVII wieku i w pierwszej połowie XVIII wieku powstało 13 kolonii brytyjskich."
         },
         {
           "id": "R04_USA_02",
@@ -4380,7 +4380,7 @@
           "id": "R04_USA_04",
           "section": "Powstanie Stanów Zjednoczonych",
           "type": "multi_select",
-          "prompt": "Zaznacz przyczyny konfliktu trzynastu kolonii z Wielką Brytanią opisane w rozdziale.",
+          "prompt": "Zaznacz przyczyny konfliktu trzynastu kolonii z Wielką Brytanią.",
           "options": [
             "brak przedstawicieli kolonii w brytyjskim Parlamencie",
             "wysokie cła na towary sprowadzane do kolonii",
@@ -4446,7 +4446,7 @@
           "id": "R04_USA_08",
           "section": "Powstanie Stanów Zjednoczonych",
           "type": "match",
-          "prompt": "Połącz postać z rolą opisaną w rozdziale.",
+          "prompt": "Połącz postać z rolą.",
           "options": null,
           "left": [
             "Benjamin Franklin",
@@ -4562,13 +4562,13 @@
             "Benjamina Franklina"
           ],
           "answer": 0,
-          "explanation": "Rozdział wskazuje na rządy Ludwika XVI z dynastii Burbonów w latach 1774-1792."
+          "explanation": "Wskazuje się na rządy Ludwika XVI z dynastii Burbonów w latach 1774-1792."
         },
         {
           "id": "R04_REW_02",
           "section": "Wielka Rewolucja Francuska",
           "type": "multi_select",
-          "prompt": "Zaznacz przyczyny wybuchu Wielkiej Rewolucji Francuskiej wymienione w rozdziale.",
+          "prompt": "Zaznacz przyczyny wybuchu Wielkiej Rewolucji Francuskiej.",
           "options": [
             "kosztowne wojny i zadłużenie państwa",
             "próby nakładania nowych podatków",
@@ -4606,7 +4606,7 @@
           "prompt": "Stan trzeci obejmował m.in. chłopów i mieszczan, w tym rzemieślników, robotników manufaktur, urzędników, lekarzy, prawników i dziennikarzy.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział definiuje stan trzeci jako najliczniejsze warstwy społeczeństwa: chłopów i różne grupy mieszczaństwa."
+          "explanation": "Definiuje się stan trzeci jako najliczniejsze warstwy społeczeństwa: chłopów i różne grupy mieszczaństwa."
         },
         {
           "id": "R04_REW_05",
@@ -4703,7 +4703,7 @@
           "id": "R04_REW_11",
           "section": "Wielka Rewolucja Francuska",
           "type": "multi_select",
-          "prompt": "Zaznacz grupy, które według rozdziału nie otrzymały prawa wyboru posłów w konstytucyjnej Francji.",
+          "prompt": "Zaznacz grupy, które nie otrzymały prawa wyboru posłów w konstytucyjnej Francji.",
           "options": [
             "kobiety",
             "ludzie nieposiadający własności",
@@ -4811,7 +4811,7 @@
           "prompt": "Jakobini używali terroru wobec tych, których uważali za wrogów rewolucji.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podkreślono, że jakobini prowadzili aresztowania i egzekucje, zwłaszcza w czasie Wielkiego Terroru."
+          "explanation": "Jakobini prowadzili aresztowania i egzekucje, zwłaszcza w czasie Wielkiego Terroru."
         },
         {
           "id": "R04_REP_06",
@@ -4833,7 +4833,7 @@
               "lipiec"
             ]
           ],
-          "explanation": "Rozdział podaje, że Wielki Terror trwał dwa miesiące: od czerwca do lipca 1794 roku."
+          "explanation": "Wielki Terror trwał dwa miesiące: od czerwca do lipca 1794 roku."
         },
         {
           "id": "R04_REP_07",
@@ -4879,7 +4879,7 @@
           "id": "R04_REP_10",
           "section": "Francja republiką",
           "type": "match",
-          "prompt": "Połącz symbol lub instytucję z informacją z rozdziału.",
+          "prompt": "Połącz symbol lub instytucję z informacją.",
           "options": null,
           "left": [
             "trójkolorowa flaga",
@@ -5086,13 +5086,13 @@
           "prompt": "Wskaż postać niepasującą do wojny o niepodległość USA: Benjamin Franklin, Jerzy Waszyngton, Tadeusz Kościuszko, Józef II.",
           "options": null,
           "answer": "Józef II",
-          "explanation": "Józef II był cesarzem z dynastii Habsburgów i reformatorem Austrii, a pozostałe osoby rozdział wiąże z amerykańską niepodległością."
+          "explanation": "Józef II był cesarzem z dynastii Habsburgów i reformatorem Austrii, a pozostałe osoby wiąże się z amerykańską niepodległością."
         },
         {
           "id": "R04_HARD_10",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj grupy do sytuacji prawnej w początkowych Stanach Zjednoczonych według rozdziału.",
+          "prompt": "Przyporządkuj grupy do sytuacji prawnej w początkowych Stanach Zjednoczonych.",
           "options": null,
           "items": [
             "biali mężczyźni",
@@ -5222,7 +5222,7 @@
               "Szwecji"
             ]
           ],
-          "explanation": "Podręcznik podaje, że wojna północna trwała w latach 1700-1721 i toczyła się przede wszystkim między Rosją a Szwecją."
+          "explanation": "Wojna północna trwała w latach 1700-1721 i toczyła się przede wszystkim między Rosją a Szwecją."
         },
         {
           "id": "R05_SAS_04",
@@ -5370,7 +5370,7 @@
             "likwidacja magnaterii"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podkreśla, że za panowania Augusta III największą bolączką było zrywanie sejmów; z czternastu zwołanych do skutku doszedł tylko jeden."
+          "explanation": "Za panowania Augusta III największą bolączką było zrywanie sejmów; z czternastu zwołanych do skutku doszedł tylko jeden."
         },
         {
           "id": "R05_SAS_12",
@@ -5590,7 +5590,7 @@
           "prompt": "Konfederaci barscy uzyskali niewielkie wsparcie od Francji i Turcji, ale ich działania militarne były prowadzone nieudolnie.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podkreśla, że konfederaci otrzymali niewielką pomoc od Francji i Turcji, lecz prowadzili działania nieudolnie."
+          "explanation": "Konfederaci otrzymali niewielką pomoc od Francji i Turcji, lecz prowadzili działania nieudolnie."
         },
         {
           "id": "R05_REF_01",
@@ -5607,13 +5607,13 @@
           ],
           "answer": 0,
           "image": "r05_komisja_edukacji_narodowej.jpg",
-          "explanation": "W 1773 roku sejm rozbiorowy powołał Komisję Edukacji Narodowej, określoną w podręczniku jako pierwsze na świecie ministerstwo oświaty."
+          "explanation": "W 1773 roku sejm rozbiorowy powołał Komisję Edukacji Narodowej, określoną jako pierwsze na świecie ministerstwo oświaty."
         },
         {
           "id": "R05_REF_02",
           "section": "Reformy stanisławowskie",
           "type": "multi_select",
-          "prompt": "Zaznacz działania Komisji Edukacji Narodowej opisane w rozdziale.",
+          "prompt": "Zaznacz działania Komisji Edukacji Narodowej.",
           "options": [
             "odnowienie uniwersytetów w Krakowie i Wilnie",
             "tworzenie nowego typu szkół podstawowych i średnich",
@@ -5654,7 +5654,7 @@
           "id": "R05_REF_04",
           "section": "Reformy stanisławowskie",
           "type": "riddle",
-          "prompt": "Jak nazywała się instytucja określona w podręczniku jako pierwszy w dziejach Polski rząd?",
+          "prompt": "Jak nazywała się instytucja określona jako pierwszy w dziejach Polski rząd?",
           "options": null,
           "answer": "Rada Nieustająca",
           "altAnswers": [
@@ -5783,7 +5783,7 @@
           "id": "R05_REF_11",
           "section": "Reformy stanisławowskie",
           "type": "single_choice",
-          "prompt": "Jaką liczbę mieszkańców przekroczyła Warszawa pod koniec XVIII wieku według rozdziału?",
+          "prompt": "Jaką liczbę mieszkańców przekroczyła Warszawa pod koniec XVIII wieku?",
           "options": [
             "10 tys.",
             "30 tys.",
@@ -5806,7 +5806,7 @@
             "Ojciec sceny polskiej",
             "ojciec sceny polskiej"
           ],
-          "explanation": "Wojciech Bogusławski, wieloletni dyrektor Teatru Narodowego, jest w podręczniku nazwany Ojcem sceny polskiej."
+          "explanation": "Wojciech Bogusławski, wieloletni dyrektor Teatru Narodowego, jest nazwany Ojcem sceny polskiej."
         },
         {
           "id": "R05_KON_01",
@@ -5855,7 +5855,7 @@
           "id": "R05_KON_04",
           "section": "Sejm Wielki i Konstytucja 3 maja",
           "type": "multi_select",
-          "prompt": "Zaznacz osoby wymienione w rozdziale jako ważne przy przygotowaniu Konstytucji 3 maja.",
+          "prompt": "Zaznacz osoby jako ważne przy przygotowaniu Konstytucji 3 maja.",
           "options": [
             "Stanisław August Poniatowski",
             "Stanisław Małachowski",
@@ -5927,7 +5927,7 @@
           "id": "R05_KON_08",
           "section": "Sejm Wielki i Konstytucja 3 maja",
           "type": "single_choice",
-          "prompt": "Które stwierdzenie o Konstytucji 3 maja jest zgodne z rozdziałem?",
+          "prompt": "Które stwierdzenie o Konstytucji 3 maja jest prawdziwe?",
           "options": [
             "Była pierwszą konstytucją uchwaloną w Europie",
             "Była pierwszą konstytucją na świecie",
@@ -5944,7 +5944,7 @@
           "id": "R05_KON_09",
           "section": "Sejm Wielki i Konstytucja 3 maja",
           "type": "multi_select",
-          "prompt": "Zaznacz najważniejsze postanowienia Konstytucji 3 maja wymienione w rozdziale.",
+          "prompt": "Zaznacz najważniejsze postanowienia Konstytucji 3 maja.",
           "options": [
             "zniesienie liberum veto",
             "zniesienie wolnej elekcji",
@@ -6077,7 +6077,7 @@
             2,
             3
           ],
-          "explanation": "Podręcznik wymienia Kościuszkę, Potockiego, Małachowskiego i Kołłątaja wśród obrońców reform, którzy opuścili kraj."
+          "explanation": "Wymienia się Kościuszkę, Potockiego, Małachowskiego i Kołłątaja wśród obrońców reform, którzy opuścili kraj."
         },
         {
           "id": "R05_ROZ_04",
@@ -6271,7 +6271,7 @@
           "id": "R05_HARD_02",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy traktatu trzech czarnych orłów opisane w rozdziale.",
+          "prompt": "Zaznacz elementy traktatu trzech czarnych orłów.",
           "options": [
             "zawarto go w 1732 roku",
             "dotyczył wspólnego kandydata do tronu polskiego",
@@ -6308,13 +6308,13 @@
               "1"
             ]
           ],
-          "explanation": "W rozdziale podano, że za Augusta III z czternastu sejmów do skutku doszedł tylko jeden."
+          "explanation": "Za Augusta III z czternastu sejmów do skutku doszedł tylko jeden."
         },
         {
           "id": "R05_HARD_04",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz nazwisko z mniej oczywistą informacją z rozdziału.",
+          "prompt": "Połącz nazwisko z mniej oczywistą informacją.",
           "options": null,
           "left": [
             "Kazimierz Pułaski",
@@ -6334,16 +6334,16 @@
             "Berek Joselewicz": "dowódca pułku jazdy złożonego z polskich Żydów",
             "Wojciech Bogusławski": "autor dzieła Cud mniemany czyli Krakowiacy i Górale"
           },
-          "explanation": "Rozdział podaje charakterystyczne informacje o każdej z tych postaci, wykraczające poza same daty polityczne."
+          "explanation": "Podaje się charakterystyczne informacje o każdej z tych postaci, wykraczające poza same daty polityczne."
         },
         {
           "id": "R05_HARD_05",
           "section": "Super trudne",
           "type": "true_false",
-          "prompt": "Konstytucja 3 maja była według rozdziału mniej radykalna niż konstytucje amerykańska i francuska, bo nie znosiła całkowicie podziału społeczeństwa na stany.",
+          "prompt": "Konstytucja 3 maja była mniej radykalna niż konstytucje amerykańska i francuska, bo nie znosiła całkowicie podziału społeczeństwa na stany.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik zaznacza, że Konstytucja 3 maja była ogromnym krokiem naprzód, ale nie likwidowała całkowicie tradycyjnego podziału stanowego."
+          "explanation": "Konstytucja 3 maja była ogromnym krokiem naprzód, ale nie likwidowała całkowicie tradycyjnego podziału stanowego."
         },
         {
           "id": "R05_HARD_06",
@@ -6397,7 +6397,7 @@
           "id": "R05_HARD_09",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj dane liczbowe do państwa według tabel z końca rozdziału.",
+          "prompt": "Przyporządkuj dane liczbowe do państwa według tabel.",
           "options": null,
           "items": [
             "armia 150000",
@@ -6453,7 +6453,7 @@
           "id": "R05_HARD_11",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz ziemie lub miasta zabrane przez Prusy w II rozbiorze według rozdziału.",
+          "prompt": "Zaznacz ziemie lub miasta zabrane przez Prusy w II rozbiorze.",
           "options": [
             "Wielkopolska",
             "Kujawy",
@@ -6493,7 +6493,7 @@
               "około 4 mln"
             ]
           ],
-          "explanation": "Rozdział podaje, że po II rozbiorze Rzeczpospolita miała nieco ponad 210 tys. km kw. i około 4 mln mieszkańców."
+          "explanation": "Po II rozbiorze Rzeczpospolita miała nieco ponad 210 tys. km kw. i około 4 mln mieszkańców."
         }
       ],
       "kidPrompts": {}
@@ -6558,7 +6558,7 @@
           "prompt": "Nowa konstytucja po zamachu Napoleona bardziej przypominała dyktaturę jednostki niż rządy republikańskie.",
           "options": null,
           "answer": true,
-          "explanation": "W podręczniku podkreślono, że konstytucja napisana na życzenie Bonapartego dawała realną pełnię władzy pierwszemu konsulowi."
+          "explanation": "Konstytucja napisana na życzenie Bonapartego dawała realną pełnię władzy pierwszemu konsulowi."
         },
         {
           "id": "R06_WLA_04",
@@ -6587,7 +6587,7 @@
           "id": "R06_WLA_05",
           "section": "Droga Napoleona do władzy",
           "type": "multi_select",
-          "prompt": "Zaznacz czynniki, które według rozdziału ułatwiły Napoleonowi objęcie władzy.",
+          "prompt": "Zaznacz czynniki, które ułatwiły Napoleonowi objęcie władzy.",
           "options": [
             "Kłopoty gospodarcze państwa",
             "Konflikty między najwyższymi władzami republiki",
@@ -6639,7 +6639,7 @@
           "id": "R06_WLA_08",
           "section": "Droga Napoleona do władzy",
           "type": "odd_one_out",
-          "prompt": "Wskaż tytuł lub funkcję, która nie pasuje do kariery Napoleona opisanej w rozdziale: generał, pierwszy konsul, cesarz Francuzów, król Francji.",
+          "prompt": "Wskaż tytuł lub funkcję, która nie pasuje do kariery Napoleona: generał, pierwszy konsul, cesarz Francuzów, król Francji.",
           "options": null,
           "answer": "król Francji",
           "explanation": "Napoleon był generałem, pierwszym konsulem i cesarzem Francuzów. Nie był królem Francji."
@@ -6648,7 +6648,7 @@
           "id": "R06_WLA_09",
           "section": "Droga Napoleona do władzy",
           "type": "multi_select",
-          "prompt": "Które zasady wymieniono w rozdziale jako najważniejsze regulacje Kodeksu Napoleona?",
+          "prompt": "Które zasady wymieniono jako najważniejsze regulacje Kodeksu Napoleona?",
           "options": [
             "Równość wobec prawa",
             "Wolność osobista obywateli",
@@ -6769,7 +6769,7 @@
           "options": null,
           "answer": true,
           "image": "r06_bitwa_pod_austerlitz.jpg",
-          "explanation": "Rozdział podaje, że połączone siły austriacko-rosyjskie były liczniejsze niż wojsko francuskie, mimo to zwyciężyła Wielka Armia Napoleona."
+          "explanation": "Połączone siły austriacko-rosyjskie były liczniejsze niż wojsko francuskie, mimo to zwyciężyła Wielka Armia Napoleona."
         },
         {
           "id": "R06_EUR_03",
@@ -6871,7 +6871,7 @@
           "id": "R06_EUR_09",
           "section": "Nowy ład w Europie",
           "type": "match",
-          "prompt": "Połącz państwo lub dynastię ze skutkiem opisanym w rozdziale.",
+          "prompt": "Połącz państwo lub dynastię ze skutkiem.",
           "options": null,
           "left": [
             "Austria po Austerlitz",
@@ -6897,7 +6897,7 @@
           "id": "R06_EUR_10",
           "section": "Nowy ład w Europie",
           "type": "multi_select",
-          "prompt": "Jakie zjawiska charakteryzowały Europę napoleońską według rozdziału?",
+          "prompt": "Jakie zjawiska charakteryzowały Europę napoleońską?",
           "options": [
             "Osadzanie przez Napoleona krewnych na tronach zależnych państw",
             "Wprowadzanie konstytucji wzorowanych na francuskiej",
@@ -6918,7 +6918,7 @@
           "id": "R06_EUR_11",
           "section": "Nowy ład w Europie",
           "type": "scenario",
-          "prompt": "Na karykaturze premier Wielkiej Brytanii William Pitt młodszy i Napoleon dzielą świat. Jaki sens ma ten obraz według podpisu w rozdziale?",
+          "prompt": "Na karykaturze premier Wielkiej Brytanii William Pitt młodszy i Napoleon dzielą świat. Jaki sens ma ten obraz według podpisu?",
           "options": [
             "Drwi z apetytów Wielkiej Brytanii i Francji na panowanie nad światem",
             "Pokazuje faktyczny traktat o pokojowym podziale Europy",
@@ -6942,7 +6942,7 @@
             "koalicja",
             "koalicją"
           ],
-          "explanation": "Rozdział definiuje koalicję jako związek lub porozumienie państw działających we wspólnym celu."
+          "explanation": "Definiuje się koalicję jako związek lub porozumienie państw działających we wspólnym celu."
         },
         {
           "id": "R06_LEG_01",
@@ -6991,7 +6991,7 @@
           "options": null,
           "answer": true,
           "image": "r06_legion_dabrowskiego.jpg",
-          "explanation": "Podręcznik podaje, że oddziały miały rekrutować się głównie z kilku tysięcy Polaków wziętych do niewoli z armii austriackiej."
+          "explanation": "Oddziały miały rekrutować się głównie z kilku tysięcy Polaków wziętych do niewoli z armii austriackiej."
         },
         {
           "id": "R06_LEG_04",
@@ -7072,7 +7072,7 @@
           "prompt": "Na Santo Domingo polscy legioniści mieli tłumić rebelię niewolników przeciw francuskim plantatorom.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podkreśla tragiczny paradoks: żołnierze z hasłem Ludzie wolni są braćmi zostali zmuszeni do walki przeciw powstaniu uciskanej ludności."
+          "explanation": "Podkreśla się tragiczny paradoks: żołnierze z hasłem Ludzie wolni są braćmi zostali zmuszeni do walki przeciw powstaniu uciskanej ludności."
         },
         {
           "id": "R06_LEG_09",
@@ -7097,13 +7097,13 @@
             "Pius VII"
           ],
           "answer": 0,
-          "explanation": "Odezwa przytoczona w rozdziale pochodziła od generała Jana Henryka Dąbrowskiego, twórcy Legionów Polskich."
+          "explanation": "Odezwa pochodziła od generała Jana Henryka Dąbrowskiego, twórcy Legionów Polskich."
         },
         {
           "id": "R06_LEG_11",
           "section": "Legiony i nadzieje Polaków",
           "type": "match",
-          "prompt": "Połącz postać z rolą opisaną w rozdziale.",
+          "prompt": "Połącz postać z rolą.",
           "options": null,
           "left": [
             "Jan Henryk Dąbrowski",
@@ -7177,7 +7177,7 @@
           "id": "R06_KSI_03",
           "section": "Księstwo Warszawskie",
           "type": "multi_select",
-          "prompt": "Zaznacz postanowienia konstytucji Księstwa Warszawskiego wymienione w rozdziale.",
+          "prompt": "Zaznacz postanowienia konstytucji Księstwa Warszawskiego.",
           "options": [
             "Władzę wykonawczą sprawują monarcha i ministrowie",
             "Sejm ma władzę ustawodawczą, ale ograniczone kompetencje",
@@ -7367,7 +7367,7 @@
           "id": "R06_UPA_01",
           "section": "Klęska i ocena Napoleona",
           "type": "single_choice",
-          "prompt": "Które państwo rozdział wskazuje jako najbardziej nieugiętego i jedynego niezwyciężonego przeciwnika Napoleona?",
+          "prompt": "Które państwo wskazuje się jako najbardziej nieugiętego i jedynego niezwyciężonego przeciwnika Napoleona?",
           "options": [
             "Wielką Brytanię",
             "Austrię",
@@ -7438,7 +7438,7 @@
           "id": "R06_UPA_05",
           "section": "Klęska i ocena Napoleona",
           "type": "multi_select",
-          "prompt": "Wybierz przyczyny klęski i zdziesiątkowania Wielkiej Armii podczas odwrotu z Rosji wymienione w rozdziale.",
+          "prompt": "Wybierz przyczyny klęski i zdziesiątkowania Wielkiej Armii podczas odwrotu z Rosji.",
           "options": [
             "Brak żywności",
             "Wyjątkowo ciężka zima",
@@ -7460,7 +7460,7 @@
           "id": "R06_UPA_06",
           "section": "Klęska i ocena Napoleona",
           "type": "single_choice",
-          "prompt": "Jaka część początkowego stanu Wielkiej Armii wróciła z kampanii rosyjskiej według szacunków podanych w rozdziale?",
+          "prompt": "Jaka część początkowego stanu Wielkiej Armii wróciła z kampanii rosyjskiej według szacunków?",
           "options": [
             "Około 20%",
             "Około 30%",
@@ -7470,7 +7470,7 @@
             "Prawie całość"
           ],
           "answer": 0,
-          "explanation": "Rozdział podaje, że z wyprawy rosyjskiej wróciło zaledwie około 20% początkowego stanu całej Wielkiej Armii."
+          "explanation": "Z wyprawy rosyjskiej wróciło zaledwie około 20% początkowego stanu całej Wielkiej Armii."
         },
         {
           "id": "R06_UPA_07",
@@ -7511,7 +7511,7 @@
           "options": null,
           "answer": true,
           "image": "r06_smierc_poniatowskiego_elstera.jpg",
-          "explanation": "Za wierność Napoleon mianował Poniatowskiego marszałkiem Francji; rozdział podkreśla, że był on jedynym nie-Francuzem z tym tytułem."
+          "explanation": "Za wierność Napoleon mianował Poniatowskiego marszałkiem Francji; był on jedynym nie-Francuzem z tym tytułem."
         },
         {
           "id": "R06_UPA_10",
@@ -7539,7 +7539,7 @@
           "id": "R06_UPA_11",
           "section": "Klęska i ocena Napoleona",
           "type": "single_choice",
-          "prompt": "Co oznacza określenie sto dni Napoleona w rozdziale?",
+          "prompt": "Co oznacza określenie sto dni Napoleona?",
           "options": [
             "Ostatni okres panowania od powrotu do Francji do klęski pod Waterloo",
             "Sto dni pobytu Napoleona na Elbie",
@@ -7653,7 +7653,7 @@
           "id": "R06_HARD_05",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Prusy sprzeciwiają się zmianom na mapie Niemiec, tworzą z Wielką Brytanią i Rosją koalicję, po czym ponoszą druzgocącą klęskę w błyskawicznej kampanii. Który rok wskazuje rozdział?",
+          "prompt": "Prusy sprzeciwiają się zmianom na mapie Niemiec, tworzą z Wielką Brytanią i Rosją koalicję, po czym ponoszą druzgocącą klęskę w błyskawicznej kampanii. Który rok wskazuje się?",
           "options": [
             "1806",
             "1804",
@@ -7679,7 +7679,7 @@
           "id": "R06_HARD_07",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Ilu żołnierzom Legionów udało się powrócić z Santo Domingo według rozdziału?",
+          "prompt": "Ilu żołnierzom Legionów udało się powrócić z Santo Domingo?",
           "options": [
             "Około 300",
             "Około 1000",
@@ -7690,7 +7690,7 @@
           ],
           "answer": 0,
           "image": "r06_santo_domingo_legiony.jpg",
-          "explanation": "Rozdział podaje, że zaledwie trzystu żołnierzom udało się powrócić z Santo Domingo."
+          "explanation": "Zaledwie trzystu żołnierzom udało się powrócić z Santo Domingo."
         },
         {
           "id": "R06_HARD_08",
@@ -7752,7 +7752,7 @@
           ],
           "answer": 0,
           "image": "r06_luk_triumfalny_paryz.jpg",
-          "explanation": "Nazwisko Józefa Poniatowskiego widnieje na Łuku Triumfalnym w Paryżu, a rozdział łączy to z jego wiernością Napoleonowi i śmiercią po bitwie pod Lipskiem."
+          "explanation": "Nazwisko Józefa Poniatowskiego widnieje na Łuku Triumfalnym w Paryżu, a łączy się to z jego wiernością Napoleonowi i śmiercią po bitwie pod Lipskiem."
         },
         {
           "id": "R06_HARD_11",

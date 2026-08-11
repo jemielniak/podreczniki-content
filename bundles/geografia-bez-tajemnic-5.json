@@ -1,8 +1,8 @@
 {
   "id": "geografia-bez-tajemnic-5",
   "title": "Geografia bez tajemnic. Klasa 5",
-  "version": 2,
-  "contentHash": "053b0be1e62f7a2e3816d07ff041bec0660d7ce3d8d2e16fae51c7590d3f23c7",
+  "version": 3,
+  "contentHash": "bc7014cdcfd00a562aec90a9df5f7938b5a2186a8642e48458b833c8b01899e7",
   "bookConfig": {
     "id": "geografia-bez-tajemnic-5",
     "title": "Geografia bez tajemnic. Klasa 5",
@@ -37,7 +37,7 @@
           "id": "R01_MAP_01",
           "section": "Mapa źródłem informacji",
           "type": "single_choice",
-          "prompt": "Czym według rozdziału jest mapa?",
+          "prompt": "Czym jest mapa?",
           "options": [
             "Zdjęciem wykonanym wyłącznie z samolotu",
             "Obrazem powierzchni Ziemi lub jej części na płaszczyźnie",
@@ -166,7 +166,7 @@
             "Stare i cyfrowe"
           ],
           "answer": 2,
-          "explanation": "Podręcznik dzieli mapy ze względu na treść na ogólnogeograficzne i tematyczne."
+          "explanation": "Dzieli się mapy ze względu na treść na ogólnogeograficzne i tematyczne."
         },
         {
           "id": "R01_MAP_09",
@@ -384,7 +384,7 @@
             2
           ],
           "image": "r01_podzialka_liniowa.jpg",
-          "explanation": "Podręcznik podaje linijkę, cyrkiel i nitkę jako przydatne sposoby odmierzania odległości na mapie."
+          "explanation": "Podaje się linijkę, cyrkiel i nitkę jako przydatne sposoby odmierzania odległości na mapie."
         },
         {
           "id": "R01_SKA_09",
@@ -887,7 +887,7 @@
           "id": "R01_KON_02",
           "section": "Kontynenty i oceany",
           "type": "single_choice",
-          "prompt": "Który kontynent ma największą powierzchnię według listy w podręczniku?",
+          "prompt": "Który kontynent ma największą powierzchnię według listy?",
           "options": [
             "Europa",
             "Australia",
@@ -906,7 +906,7 @@
           "prompt": "Na Ziemi jest pięć oceanów i siedem kontynentów.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje pięć oceanów i siedem kontynentów."
+          "explanation": "Podaje się pięć oceanów i siedem kontynentów."
         },
         {
           "id": "R01_KON_04",
@@ -990,7 +990,7 @@
           "id": "R01_KON_07",
           "section": "Kontynenty i oceany",
           "type": "single_choice",
-          "prompt": "Jaką wysokość osiągają niziny według definicji z rozdziału?",
+          "prompt": "Jaką wysokość osiągają niziny według definicji?",
           "options": [
             "Do 300 m n.p.m.",
             "Powyżej 300 m n.p.m.",
@@ -1009,7 +1009,7 @@
           "prompt": "Wyżyny są położone powyżej 300 m n.p.m. i mają zwykle małe wysokości względne.",
           "options": null,
           "answer": true,
-          "explanation": "Wyżyny według rozdziału leżą powyżej 300 m n.p.m. i mają zwykle małe, do 300 m, wysokości względne."
+          "explanation": "Wyżyny leżą powyżej 300 m n.p.m. i mają zwykle małe, do 300 m, wysokości względne."
         },
         {
           "id": "R01_KON_09",
@@ -1024,7 +1024,7 @@
           "id": "R01_KON_10",
           "section": "Kontynenty i oceany",
           "type": "sequence",
-          "prompt": "Ułóż kontynenty od największego do najmniejszego zgodnie z listą w podręczniku.",
+          "prompt": "Ułóż kontynenty od największego do najmniejszego zgodnie z listą.",
           "options": null,
           "items": [
             "Europa",
@@ -1044,7 +1044,7 @@
             "Europa",
             "Australia"
           ],
-          "explanation": "Podręcznik szereguje kontynenty według powierzchni: Azja, Afryka, Ameryka Północna, Ameryka Południowa, Antarktyda, Europa, Australia."
+          "explanation": "Szereguje się kontynenty według powierzchni: Azja, Afryka, Ameryka Północna, Ameryka Południowa, Antarktyda, Europa, Australia."
         },
         {
           "id": "R01_KON_11",
@@ -1065,7 +1065,7 @@
           "id": "R01_KON_12",
           "section": "Kontynenty i oceany",
           "type": "match",
-          "prompt": "Połącz podróżnika z trasą lub dokonaniem opisanym w rozdziale.",
+          "prompt": "Połącz podróżnika z trasą lub dokonaniem.",
           "options": null,
           "left": [
             "Wikingowie",
@@ -1091,7 +1091,7 @@
             "Ferdynand Magellan": "Jego statki jako pierwsze opłynęły Ziemię",
             "James Cook": "Ustalił wielkość kontynentu Australii"
           },
-          "explanation": "W rozdziale opisano najważniejszych podróżników i trasy ich wypraw."
+          "explanation": "Opisano najważniejszych podróżników i trasy ich wypraw."
         },
         {
           "id": "R01_HARD_01",
@@ -1232,7 +1232,7 @@
           "prompt": "Wskaż, co nie pasuje do pozostałych: Krzysztof Kolumb, Ferdynand Magellan, James Cook, poziomica.",
           "options": null,
           "answer": "poziomica",
-          "explanation": "Kolumb, Magellan i Cook to podróżnicy lub odkrywcy opisani w rozdziale, a poziomica jest linią na mapie."
+          "explanation": "Kolumb, Magellan i Cook to podróżnicy lub odkrywcy, a poziomica jest linią na mapie."
         },
         {
           "id": "R01_HARD_09",
@@ -1256,7 +1256,7 @@
             "Ferdynand Magellan (1519-1522)",
             "James Cook (1768-1771)"
           ],
-          "explanation": "Daty podane w rozdziale układają się od wypraw wikingów, przez Marco Polo, Kolumba, da Gamę, Magellana, aż po Jamesa Cooka."
+          "explanation": "Daty układają się od wypraw wikingów, przez Marco Polo, Kolumba, da Gamę, Magellana, aż po Jamesa Cooka."
         },
         {
           "id": "R01_HARD_10",
@@ -1335,7 +1335,7 @@
           "id": "R02_ROZ_01",
           "section": "Różnorodność krajobrazów",
           "type": "single_choice",
-          "prompt": "Jak w podręczniku zdefiniowano krajobraz?",
+          "prompt": "Jak zdefiniowano krajobraz?",
           "options": [
             "Tylko lasy i jeziora",
             "To, co widzimy wokół nas",
@@ -1370,7 +1370,7 @@
           "prompt": "W Polsce dominują obszary nizinne.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podkreśla, że większość obszaru Polski to niziny o wysokościach bezwzględnych do 300 m n.p.m."
+          "explanation": "Większość obszaru Polski to niziny o wysokościach bezwzględnych do 300 m n.p.m."
         },
         {
           "id": "R02_ROZ_04",
@@ -1385,7 +1385,7 @@
           "id": "R02_ROZ_05",
           "section": "Różnorodność krajobrazów",
           "type": "multi_select",
-          "prompt": "Zaznacz przykłady elementów naturalnych krajobrazu wymienione w podręczniku.",
+          "prompt": "Zaznacz przykłady elementów naturalnych krajobrazu.",
           "options": [
             "skały",
             "jeziora",
@@ -1417,7 +1417,7 @@
               "300 metrów"
             ]
           ],
-          "explanation": "Granica 300 m n.p.m. odróżnia w podręczniku obszary nizinne od wyżej położonych terenów."
+          "explanation": "Granica 300 m n.p.m. odróżnia obszary nizinne od wyżej położonych terenów."
         },
         {
           "id": "R02_ROZ_07",
@@ -1512,7 +1512,7 @@
               "miejski"
             ]
           },
-          "explanation": "Podręcznik dzieli krajobrazy na naturalne oraz kulturowe, czyli przekształcone przez człowieka."
+          "explanation": "Dzieli się krajobrazy na naturalne oraz kulturowe, czyli przekształcone przez człowieka."
         },
         {
           "id": "R02_ROZ_12",
@@ -1632,7 +1632,7 @@
               "minus 2,2"
             ]
           ],
-          "explanation": "Podręcznik podaje, że najniżej położony punkt Polski leży w Marzęcinie i ma -2,2 m n.p.m."
+          "explanation": "Najniżej położony punkt Polski leży w Marzęcinie i ma -2,2 m n.p.m."
         },
         {
           "id": "R02_NAD_07",
@@ -1771,7 +1771,7 @@
           "id": "R02_POJ_02",
           "section": "Krajobraz pojezierny",
           "type": "single_choice",
-          "prompt": "Które jezioro wskazano w podręczniku jako największe w Polsce?",
+          "prompt": "Które jezioro wskazano jako największe w Polsce?",
           "options": [
             "Śniardwy",
             "Łebsko",
@@ -1799,7 +1799,7 @@
           "prompt": "Szlak Wielkich Jezior Mazurskich prowadzi od Węgorzewa do Rucianego-Nidy.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że żeglugowy szlak prowadzi od Węgorzewa do Rucianego-Nidy i ma 120 km długości."
+          "explanation": "Żeglugowy szlak prowadzi od Węgorzewa do Rucianego-Nidy i ma 120 km długości."
         },
         {
           "id": "R02_POJ_05",
@@ -1904,7 +1904,7 @@
             "Kanał Elbląski": "zabytek techniki z pochylniami",
             "Wilczy Szaniec": "sieć bunkrów z czasów II wojny światowej"
           },
-          "explanation": "Podręcznik wymienia zarówno elementy przyrodnicze Mazur, jak i atrakcje historyczne oraz techniczne."
+          "explanation": "Wymienia się zarówno elementy przyrodnicze Mazur, jak i atrakcje historyczne oraz techniczne."
         },
         {
           "id": "R02_POJ_11",
@@ -1998,7 +1998,7 @@
           "prompt": "Na Nizinie Mazowieckiej charakterystyczne są rozległe równiny, kotliny i szerokie doliny rzeczne.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik opisuje Nizinę Mazowiecką jako obszar mało urozmaicony, z równinami, kotlinami i szerokimi dolinami rzek."
+          "explanation": "Opisuje się Nizinę Mazowiecką jako obszar mało urozmaicony, z równinami, kotlinami i szerokimi dolinami rzek."
         },
         {
           "id": "R02_NIZ_04",
@@ -2013,7 +2013,7 @@
           "id": "R02_NIZ_05",
           "section": "Niziny środkowej Polski",
           "type": "multi_select",
-          "prompt": "Zaznacz duże rzeki Niziny Mazowieckiej wymienione w podręczniku.",
+          "prompt": "Zaznacz duże rzeki Niziny Mazowieckiej.",
           "options": [
             "Wisła",
             "Narew",
@@ -2028,7 +2028,7 @@
             2,
             3
           ],
-          "explanation": "Wśród dużych rzek tego obszaru podręcznik wymienia Wisłę, Narew, Pilicę, Bzurę, Wkrę i Bug."
+          "explanation": "Wśród dużych rzek tego obszaru wymienia się Wisłę, Narew, Pilicę, Bzurę, Wkrę i Bug."
         },
         {
           "id": "R02_NIZ_06",
@@ -2080,7 +2080,7 @@
           "id": "R02_NIZ_09",
           "section": "Niziny środkowej Polski",
           "type": "scenario",
-          "prompt": "Rolnik wybiera miejsce pod sad jabłoniowy. Podręcznik wskazuje, że w okolicy Łowicza i Grójca jest wiele sadów, a z regionu pochodzi większość uprawianych w Polsce jabłek. Którą krainę opisano?",
+          "prompt": "Rolnik wybiera miejsce pod sad jabłoniowy. W okolicy Łowicza i Grójca jest wiele sadów, a z regionu pochodzi większość uprawianych w Polsce jabłek. Którą krainę opisano?",
           "options": [
             "Nizina Mazowiecka",
             "Wybrzeże Słowińskie",
@@ -2209,7 +2209,7 @@
           "prompt": "Krajobraz miejski jest krajobrazem kulturowym, ukształtowanym przez człowieka.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik określa krajobraz miejski jako kulturowy, inaczej antropogeniczny."
+          "explanation": "Określa się krajobraz miejski jako kulturowy, inaczej antropogeniczny."
         },
         {
           "id": "R02_MIA_04",
@@ -2261,7 +2261,7 @@
               "śródmieścia"
             ]
           ],
-          "explanation": "W podręczniku Stare Miasto oznacza najstarszą część miasta, a śródmieście jest jego częścią centralną."
+          "explanation": "Stare Miasto oznacza najstarszą część miasta, a śródmieście jest jego częścią centralną."
         },
         {
           "id": "R02_MIA_07",
@@ -2305,7 +2305,7 @@
           "id": "R02_MIA_10",
           "section": "Krajobraz wielkomiejski",
           "type": "match",
-          "prompt": "Połącz miejsce w Warszawie z opisem z podręcznika.",
+          "prompt": "Połącz miejsce w Warszawie z opisem.",
           "options": null,
           "left": [
             "Stare Miasto",
@@ -2325,7 +2325,7 @@
             "Muzeum Powstania Warszawskiego": "upamiętnia walkę mieszkańców stolicy",
             "Stadion Narodowy": "zbudowany na Euro 2012"
           },
-          "explanation": "Podręcznik przedstawia wybrane miejsca Warszawy i wyjaśnia, z czym są związane."
+          "explanation": "Przedstawia się wybrane miejsca Warszawy i wyjaśnia, z czym są związane."
         },
         {
           "id": "R02_MIA_11",
@@ -2377,13 +2377,13 @@
             "osiedla mieszkaniowe i dzielnice przemysłowe",
             "przedmieścia"
           ],
-          "explanation": "Podręcznik opisuje Stare Miasto jako najstarszą część, śródmieście jako część centralną, dalej osiedla i dzielnice, a na skraju przedmieścia."
+          "explanation": "Opisuje się Stare Miasto jako najstarszą część, śródmieście jako część centralną, dalej osiedla i dzielnice, a na skraju przedmieścia."
         },
         {
           "id": "R02_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Które pasy krajobrazowe podręcznik zalicza do nizin?",
+          "prompt": "Które pasy krajobrazowe zalicza się do nizin?",
           "options": [
             "pobrzeży, pojezierzy, nizin środkowopolskich, kotlin podkarpackich",
             "pobrzeży, wyżyn, gór, kotlin podkarpackich",
@@ -2418,7 +2418,7 @@
           "prompt": "Góry Świętokrzyskie leżą w pasie gór, bo są górami.",
           "options": null,
           "answer": false,
-          "explanation": "Podręcznik zaznacza, że Góry Świętokrzyskie leżą na wyżynach i są częścią Wyżyny Małopolskiej."
+          "explanation": "Góry Świętokrzyskie leżą na wyżynach i są częścią Wyżyny Małopolskiej."
         },
         {
           "id": "R02_HARD_04",
@@ -2427,13 +2427,13 @@
           "prompt": "Łebsko, największe jezioro Wybrzeża Słowińskiego, powstało wskutek podniesienia się poziomu morza i zalania łąk.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik odróżnia Łebsko od części jezior przybrzeżnych odciętych przez mierzeje i wskazuje jego powstanie przez zalanie łąk."
+          "explanation": "Odróżnia się Łebsko od części jezior przybrzeżnych odciętych przez mierzeje i wskazuje jego powstanie przez zalanie łąk."
         },
         {
           "id": "R02_HARD_05",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz rośliny pionierskie wydm wymienione w podręczniku.",
+          "prompt": "Zaznacz rośliny pionierskie wydm.",
           "options": [
             "piaskownica zwyczajna",
             "wydmuchrzyca piaskowa",
@@ -2537,7 +2537,7 @@
             "Kotlina Warszawska": "największa kotlina Niziny Mazowieckiej",
             "Lotnisko Chopina": "największy port lotniczy w Polsce"
           },
-          "explanation": "Pytanie łączy szczegóły z różnych części rozdziału: nad morzem, na Mazurach, Mazowszu i w Warszawie."
+          "explanation": "Pytanie łączy szczegóły: nad morzem, na Mazurach, Mazowszu i w Warszawie."
         },
         {
           "id": "R02_HARD_11",
@@ -2575,7 +2575,7 @@
           "id": "R02_HARD_12",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż wydarzenia lub procesy zgodnie z opisami rozdziału - od przyrodniczego początku po współczesne wykorzystanie terenu.",
+          "prompt": "Ułóż wydarzenia lub procesy - od przyrodniczego początku po współczesne wykorzystanie terenu.",
           "options": null,
           "items": [
             "rozwój turystyki i miast",
@@ -2687,7 +2687,7 @@
               "rośliny"
             ]
           ],
-          "explanation": "Podręcznik wyjaśnia, że węgiel kamienny jest skałą osadową powstałą około 300 milionów lat temu ze szczątków roślin."
+          "explanation": "Węgiel kamienny jest skałą osadową powstałą około 300 milionów lat temu ze szczątków roślin."
         },
         {
           "id": "R03_SLA_03",
@@ -2920,7 +2920,7 @@
               "dno"
             ]
           ],
-          "explanation": "Podręcznik opisuje wąwóz jako wydłużoną, wklęsłą formę terenu o stromych zboczach i płaskim dnie."
+          "explanation": "Opisuje się wąwóz jako wydłużoną, wklęsłą formę terenu o stromych zboczach i płaskim dnie."
         },
         {
           "id": "R03_LUB_05",
@@ -2942,7 +2942,7 @@
           "id": "R03_LUB_06",
           "section": "Wyżyna Lubelska",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy krajobrazu wiejskiego opisane w rozdziale.",
+          "prompt": "Zaznacz cechy krajobrazu wiejskiego.",
           "options": [
             "małe zaludnienie",
             "niska, jednorodzinna i rozproszona zabudowa",
@@ -3061,7 +3061,7 @@
           "id": "R03_LUB_12",
           "section": "Wyżyna Lubelska",
           "type": "scenario",
-          "prompt": "Rolnik gospodaruje na żyznych czarnoziemach Wyżyny Lubelskiej. Który zestaw roślin najlepiej pasuje do upraw o wysokich wymaganiach glebowych wymienionych w rozdziale?",
+          "prompt": "Rolnik gospodaruje na żyznych czarnoziemach Wyżyny Lubelskiej. Który zestaw roślin najlepiej pasuje do upraw o wysokich wymaganiach glebowych?",
           "options": [
             "pszenica, buraki cukrowe, tytoń, chmiel",
             "ryż, kawa, bawełna, herbata",
@@ -3249,7 +3249,7 @@
           "id": "R03_JUR_11",
           "section": "Wyżyna Krakowsko-Częstochowska",
           "type": "multi_select",
-          "prompt": "Zaznacz miejsca, które podręcznik wskazuje jako możliwe do zobaczenia w Ojcowskim Parku Narodowym.",
+          "prompt": "Zaznacz miejsca, które wskazuje się jako możliwe do zobaczenia w Ojcowskim Parku Narodowym.",
           "options": [
             "Brama Krakowska",
             "Dolina Prądnika",
@@ -3291,7 +3291,7 @@
           "id": "R03_TAT_01",
           "section": "Tatry i Podhale",
           "type": "single_choice",
-          "prompt": "Na jakiej wysokości położone są w Polsce obszary górskie według rozdziału?",
+          "prompt": "Na jakiej wysokości położone są w Polsce obszary górskie?",
           "options": [
             "poniżej 100 m n.p.m.",
             "100-300 m n.p.m.",
@@ -3301,7 +3301,7 @@
             "tylko powyżej 2000 m n.p.m."
           ],
           "answer": 3,
-          "explanation": "W podręczniku podano, że góry to obszary położone powyżej 500 m n.p.m."
+          "explanation": "Góry to obszary położone powyżej 500 m n.p.m."
         },
         {
           "id": "R03_TAT_02",
@@ -3420,7 +3420,7 @@
           "id": "R03_TAT_07",
           "section": "Tatry i Podhale",
           "type": "multi_select",
-          "prompt": "Zaznacz prawdziwe cechy pogody w górach opisane w podręczniku.",
+          "prompt": "Zaznacz prawdziwe cechy pogody w górach.",
           "options": [
             "temperatura spada wraz z wysokością",
             "opadów jest więcej wraz z wysokością",
@@ -3492,7 +3492,7 @@
           "id": "R03_TAT_11",
           "section": "Tatry i Podhale",
           "type": "multi_select",
-          "prompt": "Zaznacz organizmy wymienione w rozdziale jako występujące w Tatrach.",
+          "prompt": "Zaznacz organizmy jako występujące w Tatrach.",
           "options": [
             "krokus",
             "goryczka krótkołodygowa",
@@ -3507,7 +3507,7 @@
             2,
             3
           ],
-          "explanation": "W rozdziale pokazano m.in. krokusa, goryczkę, kozicę tatrzańską, niedźwiedzia brunatnego i świstaka tatrzańskiego."
+          "explanation": "Pokazano m.in. krokusa, goryczkę, kozicę tatrzańską, niedźwiedzia brunatnego i świstaka tatrzańskiego."
         },
         {
           "id": "R03_TAT_12",
@@ -3744,13 +3744,13 @@
             "krajobraz krasowy": "Wyżyna Krakowsko-Częstochowska",
             "krajobraz wysokogórski": "Tatry"
           },
-          "explanation": "Rozdział pokazuje różne przykłady krajobrazów: miejsko-przemysłowy, rolniczy, krasowy i wysokogórski."
+          "explanation": "Pokazuje się różne przykłady krajobrazów: miejsko-przemysłowy, rolniczy, krasowy i wysokogórski."
         },
         {
           "id": "R03_MIE_02",
           "section": "Powtórka mieszana",
           "type": "sort",
-          "prompt": "Przyporządkuj skały lub surowce do krain, z którymi są najmocniej związane w rozdziale.",
+          "prompt": "Przyporządkuj skały lub surowce do krain, z którymi są najmocniej związane.",
           "options": null,
           "items": [
             "węgiel kamienny",
@@ -3829,7 +3829,7 @@
           "id": "R03_MIE_06",
           "section": "Powtórka mieszana",
           "type": "multi_select",
-          "prompt": "Zaznacz parki narodowe wymienione w rozdziale.",
+          "prompt": "Zaznacz parki narodowe.",
           "options": [
             "Ojcowski Park Narodowy",
             "Tatrzański Park Narodowy",
@@ -3842,7 +3842,7 @@
             0,
             1
           ],
-          "explanation": "W rozdziale pojawiają się Ojcowski Park Narodowy i Tatrzański Park Narodowy."
+          "explanation": "Pojawiają się Ojcowski Park Narodowy i Tatrzański Park Narodowy."
         },
         {
           "id": "R03_MIE_07",
@@ -3874,7 +3874,7 @@
           "prompt": "W Polsce wyżyny są zwykle położone na wysokości 300-500 m n.p.m., a góry powyżej 500 m n.p.m.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje taki podział wysokościowy wyżyn i gór."
+          "explanation": "Podaje się taki podział wysokościowy wyżyn i gór."
         },
         {
           "id": "R03_MIE_09",
@@ -3910,7 +3910,7 @@
           "id": "R03_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Którą kopalnię w Katowicach pokazano w rozdziale jako przykład kopalni węgla kamiennego?",
+          "prompt": "Którą kopalnię w Katowicach pokazano jako przykład kopalni węgla kamiennego?",
           "options": [
             "Kopalnia „Murcki”",
             "Kopalnia „Bogdanka”",
@@ -3953,13 +3953,13 @@
           "prompt": "Granica między Tatrami Zachodnimi i Tatrami Wysokimi przebiega przez Przełęcz Liliowe niedaleko Kasprowego Wierchu.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wskazuje Przełęcz Liliowe jako granicę między tymi częściami Tatr."
+          "explanation": "Wskazuje się Przełęcz Liliowe jako granicę między tymi częściami Tatr."
         },
         {
           "id": "R03_HARD_04",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Jaki jest najwyższy szczyt polskiej części Tatr Zachodnich według rozdziału?",
+          "prompt": "Jaki jest najwyższy szczyt polskiej części Tatr Zachodnich?",
           "options": [
             "Starorobociański Wierch",
             "Rysy",
@@ -3975,7 +3975,7 @@
           "id": "R03_HARD_05",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz surowiec lub produkt węglowy z przykładem jego wykorzystania podanym w rozdziale.",
+          "prompt": "Połącz surowiec lub produkt węglowy z przykładem jego wykorzystania.",
           "options": null,
           "left": [
             "węgiel kamienny",
@@ -4004,7 +4004,7 @@
           "id": "R03_HARD_06",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz dziedziny, których obiekty tworzą Szlak Zabytków Techniki województwa śląskiego według rozdziału.",
+          "prompt": "Zaznacz dziedziny, których obiekty tworzą Szlak Zabytków Techniki województwa śląskiego.",
           "options": [
             "górnictwo",
             "hutnictwo",
@@ -4137,7 +4137,7 @@
           "prompt": "Strefy klimatyczne i roślinne na Ziemi układają się równoleżnikowo, czyli ze wschodu na zachód.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podkreśla, że strefy klimatyczne i roślinne rozciągają się wzdłuż równoleżników."
+          "explanation": "Strefy klimatyczne i roślinne rozciągają się wzdłuż równoleżników."
         },
         {
           "id": "R04_STR_03",
@@ -4264,7 +4264,7 @@
             "tundra",
             "Tundra"
           ],
-          "explanation": "Taką formację roślinną podręcznik nazywa tundrą."
+          "explanation": "Taką formację roślinną nazywa się tundrą."
         },
         {
           "id": "R04_STR_10",
@@ -4315,7 +4315,7 @@
           "prompt": "Na obszarach o najzimniejszych klimatach na Ziemi nie występują rośliny, a grunt jest stale zamarznięty.",
           "options": null,
           "answer": true,
-          "explanation": "Takie obszary podręcznik opisuje jako pustynie lodowe."
+          "explanation": "Takie obszary opisuje się jako pustynie lodowe."
         },
         {
           "id": "R04_STR_12",
@@ -4347,7 +4347,7 @@
           "id": "R04_ROW_01",
           "section": "Wilgotne lasy równikowe",
           "type": "single_choice",
-          "prompt": "Który zestaw obejmuje trzy główne obszary występowania wilgotnych lasów równikowych wymienione w podręczniku?",
+          "prompt": "Który zestaw obejmuje trzy główne obszary występowania wilgotnych lasów równikowych?",
           "options": [
             "Amazonia, Kotlina Konga, Archipelag Malajski",
             "Sahara, Himalaje, Grenlandia",
@@ -4357,7 +4357,7 @@
             "Amazonia, tundra, tajga"
           ],
           "answer": 0,
-          "explanation": "Podręcznik wskazuje Amazonię, Kotlinę Konga i Archipelag Malajski."
+          "explanation": "Wskazuje się Amazonię, Kotlinę Konga i Archipelag Malajski."
         },
         {
           "id": "R04_ROW_02",
@@ -4390,7 +4390,7 @@
           "id": "R04_ROW_04",
           "section": "Wilgotne lasy równikowe",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy klimatu równikowego opisane w podręczniku.",
+          "prompt": "Zaznacz cechy klimatu równikowego.",
           "options": [
             "Bardzo wysoka wilgotność.",
             "Częste burze.",
@@ -4538,7 +4538,7 @@
           "prompt": "Wilgotne lasy równikowe w różnych częściach świata mają identyczny skład gatunkowy.",
           "options": null,
           "answer": false,
-          "explanation": "Podręcznik zaznacza, że lasy równikowe w różnych częściach świata nie są identyczne pod względem składu gatunkowego."
+          "explanation": "Lasy równikowe w różnych częściach świata nie są identyczne pod względem składu gatunkowego."
         },
         {
           "id": "R04_ROW_12",
@@ -4774,7 +4774,7 @@
               "tajgę"
             ]
           ],
-          "explanation": "Podręcznik odróżnia lasy liściaste i mieszane od lasów iglastych nazywanych tajgą."
+          "explanation": "Odróżnia się lasy liściaste i mieszane od lasów iglastych nazywanych tajgą."
         },
         {
           "id": "R04_SAW_01",
@@ -4916,7 +4916,7 @@
           ],
           "answer": 0,
           "image": "r04_step_jurta_i_pasterstwo.jpg",
-          "explanation": "Ludzi prowadzących koczowniczy, wędrowny tryb życia podręcznik nazywa nomadami."
+          "explanation": "Ludzi prowadzących koczowniczy, wędrowny tryb życia nazywa się nomadami."
         },
         {
           "id": "R04_SAW_09",
@@ -4997,7 +4997,7 @@
           "prompt": "Stepy w Europie zostały w większości przekształcone w pola uprawne.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podkreśla, że europejskie stepy w dużej części zamieniono w pola, m.in. dzięki żyznym czarnoziemom."
+          "explanation": "Europejskie stepy w dużej części zamieniono w pola, m.in. dzięki żyznym czarnoziemom."
         },
         {
           "id": "R04_MIE_01",
@@ -5024,7 +5024,7 @@
             "step": "czarnoziemy i obszary trawiaste"
           },
           "image": "r04_formacje_porownanie.jpg",
-          "explanation": "Powtórka łączy najważniejsze cechy krajobrazów opisanych w rozdziale."
+          "explanation": "Powtórka łączy najważniejsze cechy krajobrazów."
         },
         {
           "id": "R04_MIE_02",
@@ -5066,7 +5066,7 @@
               "jurta"
             ]
           },
-          "explanation": "Każde pojęcie pochodzi z jednej z czterech głównych lekcji rozdziału."
+          "explanation": "Każde pojęcie dotyczy innego z czterech głównych zagadnień."
         },
         {
           "id": "R04_MIE_03",
@@ -5108,7 +5108,7 @@
           "id": "R04_MIE_05",
           "section": "Powtórka mieszana",
           "type": "multi_select",
-          "prompt": "Zaznacz czynniki, które w rozdziale wpływają na zróżnicowanie klimatu i roślinności.",
+          "prompt": "Zaznacz czynniki, które wpływają na zróżnicowanie klimatu i roślinności.",
           "options": [
             "Ilość energii słonecznej docierającej do powierzchni Ziemi.",
             "Temperatura powietrza.",
@@ -5124,7 +5124,7 @@
             3,
             4
           ],
-          "explanation": "Rozdział opisuje wpływ energii słonecznej, temperatury, opadów, wysokości nad poziomem morza oraz położenia względem wybrzeży."
+          "explanation": "Opisuje się wpływ energii słonecznej, temperatury, opadów, wysokości nad poziomem morza oraz położenia względem wybrzeży."
         },
         {
           "id": "R04_MIE_06",
@@ -5223,7 +5223,7 @@
             "lowiectwo",
             "Łowiectwo"
           ],
-          "explanation": "Słowniczek rozdziału definiuje łowiectwo jako zdobywanie pożywienia dzięki polowaniu na zwierzęta."
+          "explanation": "Definiuje się łowiectwo jako zdobywanie pożywienia dzięki polowaniu na zwierzęta."
         },
         {
           "id": "R04_MIE_12",
@@ -5264,7 +5264,7 @@
           "id": "R04_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Które dwa miejsca podręcznik wymienia jako należące do najbardziej suchych na Ziemi?",
+          "prompt": "Które dwa miejsca wymienia się jako należące do najbardziej suchych na Ziemi?",
           "options": [
             "Pustynia Atacama i Antarktyda",
             "Amazonia i Kotlina Konga",
@@ -5396,7 +5396,7 @@
             "żyzność",
             "zyznosc"
           ],
-          "explanation": "Słowniczek rozdziału definiuje tę właściwość jako żyzność gleby."
+          "explanation": "Definiuje się tę właściwość jako żyzność gleby."
         },
         {
           "id": "R04_HARD_09",
@@ -5470,13 +5470,13 @@
               "nomadzi"
             ]
           },
-          "explanation": "To zadanie łączy słowniczek i porównania z kilku miejsc rozdziału."
+          "explanation": "To zadanie łączy pojęcia ze słowniczka z porównaniami."
         },
         {
           "id": "R04_HARD_12",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz nazwę z regionem lub kontynentem wskazanym w rozdziale.",
+          "prompt": "Połącz nazwę z regionem lub kontynentem.",
           "options": null,
           "left": [
             "Amazonia",
@@ -5499,7 +5499,7 @@
             "Serengeti": "wschodnia Afryka",
             "Ułan Bator": "Mongolia"
           },
-          "explanation": "Rozdział podaje przykłady miejsc występowania lasów równikowych, sawann i stepów."
+          "explanation": "Podaje się przykłady miejsc występowania lasów równikowych, sawann i stepów."
         }
       ],
       "kidPrompts": {},
@@ -5581,13 +5581,13 @@
           "prompt": "Zwrotnik Raka przecina Saharę, największą pustynię gorącą świata.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wskazuje Saharę jako największą pustynię gorącą i podaje, że przecina ją zwrotnik Raka."
+          "explanation": "Wskazuje się Saharę jako największą pustynię gorącą i podaje, że przecina ją zwrotnik Raka."
         },
         {
           "id": "R05_PUS_03",
           "section": "Pustynie gorące i lodowe",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy pustyń lodowych opisane w rozdziale.",
+          "prompt": "Zaznacz cechy pustyń lodowych.",
           "options": [
             "leżą za kołami podbiegunowymi",
             "panuje tam skrajnie niska temperatura powietrza",
@@ -5742,7 +5742,7 @@
             "brak światła słonecznego"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podkreśla, że mimo współczesnych sposobów pozyskiwania wody jej brak pozostaje największym ograniczeniem na pustyni gorącej."
+          "explanation": "Mimo współczesnych sposobów pozyskiwania wody jej brak pozostaje największym ograniczeniem na pustyni gorącej."
         },
         {
           "id": "R05_PUS_11",
@@ -5804,7 +5804,7 @@
           "id": "R05_TAJ_03",
           "section": "Tajga i tundra",
           "type": "multi_select",
-          "prompt": "Wskaż rośliny typowe dla tajgi wymienione w rozdziale.",
+          "prompt": "Wskaż rośliny typowe dla tajgi.",
           "options": [
             "świerk",
             "modrzew",
@@ -5845,7 +5845,7 @@
           "id": "R05_TAJ_05",
           "section": "Tajga i tundra",
           "type": "match",
-          "prompt": "Połącz zwierzę z informacją z rozdziału.",
+          "prompt": "Połącz zwierzę z informacją.",
           "options": null,
           "left": [
             "niedźwiedź grizzly",
@@ -5865,7 +5865,7 @@
             "renifer": "zwierzę hodowane przez mieszkańców dalekiej północy",
             "leming": "mały gryzoń spokrewniony z chomikami"
           },
-          "explanation": "Rozdział pokazuje zwierzęta tajgi i tundry oraz ich znaczenie dla mieszkańców północy."
+          "explanation": "Pokazuje się zwierzęta tajgi i tundry oraz ich znaczenie dla mieszkańców północy."
         },
         {
           "id": "R05_TAJ_06",
@@ -5949,13 +5949,13 @@
           "prompt": "Zamarznięte rzeki na Syberii i Alasce bywają wykorzystywane jako zimowe drogi.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że zamarznięte rzeki mogą pełnić funkcję szlaków transportowych, choć jazda po nich jest trudna i niebezpieczna."
+          "explanation": "Zamarznięte rzeki mogą pełnić funkcję szlaków transportowych, choć jazda po nich jest trudna i niebezpieczna."
         },
         {
           "id": "R05_TAJ_11",
           "section": "Tajga i tundra",
           "type": "multi_select",
-          "prompt": "Zaznacz zajęcia ludności tajgi i tundry wymienione w rozdziale.",
+          "prompt": "Zaznacz zajęcia ludności tajgi i tundry.",
           "options": [
             "łowiectwo",
             "chów zwierząt, np. reniferów",
@@ -5983,13 +5983,13 @@
             "tajga",
             "Tajga"
           ],
-          "explanation": "Podręcznik podkreśla, że łączna powierzchnia tajgi na wszystkich kontynentach czyni ją największym lasem świata."
+          "explanation": "Łączna powierzchnia tajgi na wszystkich kontynentach czyni ją największym lasem świata."
         },
         {
           "id": "R05_SRO_01",
           "section": "Krajobraz śródziemnomorski",
           "type": "single_choice",
-          "prompt": "Gdzie występuje klimat śródziemnomorski według rozdziału?",
+          "prompt": "Gdzie występuje klimat śródziemnomorski?",
           "options": [
             "na południu Europy oraz na niewielkich nadmorskich obszarach Afryki, Ameryki Północnej, Azji i Australii",
             "wyłącznie w Polsce i Skandynawii",
@@ -6008,7 +6008,7 @@
           "prompt": "W klimacie śródziemnomorskim nie występuje termiczna zima, ponieważ w chłodnej porze roku średnia miesięczna temperatura powietrza jest wyższa niż 0°C.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział opisuje łagodną, deszczową zimę i brak termicznej zimy w tym klimacie."
+          "explanation": "Opisuje się łagodną, deszczową zimę i brak termicznej zimy w tym klimacie."
         },
         {
           "id": "R05_SRO_03",
@@ -6082,7 +6082,7 @@
           "id": "R05_SRO_07",
           "section": "Krajobraz śródziemnomorski",
           "type": "match",
-          "prompt": "Połącz roślinę uprawianą w regionie Morza Śródziemnego z informacją z rozdziału.",
+          "prompt": "Połącz roślinę uprawianą w regionie Morza Śródziemnego z informacją.",
           "options": null,
           "left": [
             "winogrona",
@@ -6177,7 +6177,7 @@
           "id": "R05_SRO_11",
           "section": "Krajobraz śródziemnomorski",
           "type": "multi_select",
-          "prompt": "Zaznacz walory turystyczne regionu Morza Śródziemnego wymienione w rozdziale.",
+          "prompt": "Zaznacz walory turystyczne regionu Morza Śródziemnego.",
           "options": [
             "słoneczna pogoda",
             "ciepłe morze",
@@ -6201,7 +6201,7 @@
           "prompt": "Makia zajęła miejsce wielu pierwotnych lasów w regionie Morza Śródziemnego po działalności człowieka, między innymi po tworzeniu pastwisk.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wyjaśnia, że pierwotne lasy zostały w znacznej części zniszczone, a ich miejsce zajęła makia."
+          "explanation": "Pierwotne lasy zostały w znacznej części zniszczone, a ich miejsce zajęła makia."
         },
         {
           "id": "R05_HIM_01",
@@ -6217,7 +6217,7 @@
             "Sahara"
           ],
           "answer": 0,
-          "explanation": "Najwyższym szczytem świata jest Mount Everest, którego wysokość podana w rozdziale wynosi 8849 m n.p.m."
+          "explanation": "Najwyższym szczytem świata jest Mount Everest, którego wysokość wynosi 8849 m n.p.m."
         },
         {
           "id": "R05_HIM_02",
@@ -6242,7 +6242,7 @@
               "50 milionów"
             ]
           ],
-          "explanation": "Rozdział podaje wysokość Mount Everestu 8849 m n.p.m. oraz informację, że Himalaje zaczęły powstawać około 50 milionów lat temu."
+          "explanation": "Podaje się wysokość Mount Everestu 8849 m n.p.m. oraz informację, że Himalaje zaczęły powstawać około 50 milionów lat temu."
         },
         {
           "id": "R05_HIM_03",
@@ -6251,7 +6251,7 @@
           "prompt": "Himalaje są jednymi z najmłodszych gór świata, a proces ich wypiętrzania nadal trwa.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik opisuje Himalaje jako młode góry, które nadal rosną."
+          "explanation": "Opisuje się Himalaje jako młode góry, które nadal rosną."
         },
         {
           "id": "R05_HIM_04",
@@ -6305,7 +6305,7 @@
           "id": "R05_HIM_06",
           "section": "Himalaje i ich mieszkańcy",
           "type": "match",
-          "prompt": "Połącz element himalajskiej przyrody z informacją z rozdziału.",
+          "prompt": "Połącz element himalajskiej przyrody z informacją.",
           "options": null,
           "left": [
             "jak",
@@ -6651,7 +6651,7 @@
             2,
             3
           ],
-          "explanation": "Rozdział wspomina chów reniferów, hodowlę jaków oraz owiec i kóz w Himalajach, a także stada koczowników na pustyniach."
+          "explanation": "Wspomina się chów reniferów, hodowlę jaków oraz owiec i kóz w Himalajach, a także stada koczowników na pustyniach."
         },
         {
           "id": "R05_POW_12",
@@ -6690,7 +6690,7 @@
           "id": "R05_HARD_02",
           "section": "Super trudne",
           "type": "true_false",
-          "prompt": "Według rozdziału Mount Everest podnosi się o około 4 mm rocznie.",
+          "prompt": "Mount Everest podnosi się o około 4 mm rocznie.",
           "options": null,
           "answer": true,
           "explanation": "Ta informacja pokazuje, że proces wypiętrzania Himalajów nadal trwa."
@@ -6719,7 +6719,7 @@
               "Azji środkowej"
             ]
           ],
-          "explanation": "Rozdział podaje długość łańcucha himalajskiego oraz jego rolę jako bariery między Azją Południową a Środkową."
+          "explanation": "Podaje się długość łańcucha himalajskiego oraz jego rolę jako bariery między Azją Południową a Środkową."
         },
         {
           "id": "R05_HARD_04",
@@ -6793,7 +6793,7 @@
           "id": "R05_HARD_07",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Grupa osadników chce zbudować stałą wieś na Antarktydzie, argumentując, że ułatwiłoby to życie pracownikom stacji badawczej. Co wynika z treści rozdziału?",
+          "prompt": "Grupa osadników chce zbudować stałą wieś na Antarktydzie, argumentując, że ułatwiłoby to życie pracownikom stacji badawczej. Co wynika?",
           "options": [
             "budowa miast i wsi na Antarktydzie jest zabroniona, aby chronić środowisko przyrodnicze",
             "Antarktyda ma wiele stałych osad rybackich",

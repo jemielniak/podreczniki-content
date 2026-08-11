@@ -1,8 +1,8 @@
 {
   "id": "biologia-bez-tajemnic-5-klasa",
   "title": "Biologia bez tajemnic 5 klasa",
-  "version": 5,
-  "contentHash": "8228b82dc82a577941b61e1b06607e87cbcec592048404d4373e7fe433328132",
+  "version": 6,
+  "contentHash": "97e1beea166250f554e5224c1db94a996bab86da0211bf19d227f28baccc3a31",
   "bookConfig": {
     "id": "biologia-bez-tajemnic-5-klasa",
     "title": "Biologia bez tajemnic 5 klasa",
@@ -81,7 +81,7 @@
           "id": "R01_BIO_04",
           "section": "Biologia jako nauka",
           "type": "multi_select",
-          "prompt": "Zaznacz nauki przyrodnicze wymienione w rozdziale.",
+          "prompt": "Zaznacz nauki przyrodnicze.",
           "options": [
             "Biologia",
             "Chemia",
@@ -97,7 +97,7 @@
             3,
             4
           ],
-          "explanation": "W rozdziale jako nauki przyrodnicze wskazano biologię, chemię, fizykę, geografię i astronomię."
+          "explanation": "Jako nauki przyrodnicze wskazano biologię, chemię, fizykę, geografię i astronomię."
         },
         {
           "id": "R01_BIO_05",
@@ -132,7 +132,7 @@
           "prompt": "Wskaż, co nie pasuje do pozostałych: biologia, chemia, fizyka, historia, astronomia.",
           "options": null,
           "answer": "historia",
-          "explanation": "Biologia, chemia, fizyka i astronomia zostały w rozdziale zaliczone do nauk przyrodniczych, a historia nie."
+          "explanation": "Biologia, chemia, fizyka i astronomia zostały zaliczone do nauk przyrodniczych, a historia nie."
         },
         {
           "id": "R01_BIO_07",
@@ -408,7 +408,7 @@
           "id": "R01_DZI_10",
           "section": "Działy biologii i przyrządy",
           "type": "multi_select",
-          "prompt": "Zaznacz przyrządy znane z lekcji przyrody, które wskazano w rozdziale.",
+          "prompt": "Zaznacz przyrządy znane z lekcji przyrody, które wskazano.",
           "options": [
             "Taśma miernicza",
             "Lornetka",
@@ -424,7 +424,7 @@
             3
           ],
           "image": "r01_przyrzady_badawcze.jpg",
-          "explanation": "W rozdziale pokazano taśmę mierniczą, lornetkę, lupę i mikroskop jako podstawowe przyrządy badawcze."
+          "explanation": "Pokazano taśmę mierniczą, lornetkę, lupę i mikroskop jako podstawowe przyrządy badawcze."
         },
         {
           "id": "R01_DZI_11",
@@ -993,7 +993,7 @@
             ]
           ],
           "image": "r01_mikroskop_budowa.jpg",
-          "explanation": "W rozdziale podano powiększenie do 1000 razy oraz możliwość obserwacji szczegółów o wielkości około 0,0002 mm."
+          "explanation": "Podano powiększenie do 1000 razy oraz możliwość obserwacji szczegółów o wielkości około 0,0002 mm."
         },
         {
           "id": "R01_MIK_06",
@@ -1125,7 +1125,7 @@
           "id": "R01_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Kto po raz pierwszy użył terminu biologia w 1802 roku według informacji w rozdziale?",
+          "prompt": "Kto po raz pierwszy użył terminu biologia w 1802 roku według informacji?",
           "options": [
             "Jean Baptiste Lamarck",
             "Antoni van Leeuwenhoek",
@@ -1135,13 +1135,13 @@
             "Galileusz"
           ],
           "answer": 0,
-          "explanation": "W rozdziale podano, że francuski uczony Jean Baptiste Lamarck użył terminu biologia w 1802 roku."
+          "explanation": "Francuski uczony Jean Baptiste Lamarck użył terminu biologia w 1802 roku."
         },
         {
           "id": "R01_HARD_02",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz dział biologii z dokładnym zakresem badań podanym w rozdziale.",
+          "prompt": "Połącz dział biologii z dokładnym zakresem badań.",
           "options": null,
           "left": [
             "biochemia",
@@ -1187,7 +1187,7 @@
               "wiedza"
             ]
           ],
-          "explanation": "W rozdziale słowo nauka ma dwa znaczenia: proces poznawania oraz rezultat tego procesu, czyli uporządkowaną wiedzę."
+          "explanation": "Słowo nauka ma dwa znaczenia: proces poznawania oraz rezultat tego procesu, czyli uporządkowaną wiedzę."
         },
         {
           "id": "R01_HARD_04",
@@ -1284,7 +1284,7 @@
           "id": "R01_HARD_08",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Jak mały szczegół może być widoczny w nowoczesnym mikroskopie optycznym według rozdziału?",
+          "prompt": "Jak mały szczegół może być widoczny w nowoczesnym mikroskopie optycznym?",
           "options": [
             "Około 0,0002 mm",
             "Około 0,2 mm",
@@ -1295,7 +1295,7 @@
           ],
           "answer": 0,
           "image": "r01_mikroskop_budowa.jpg",
-          "explanation": "Podręcznik podaje, że mikroskop optyczny umożliwia dostrzeżenie szczegółów wielkości około 0,0002 mm."
+          "explanation": "Mikroskop optyczny umożliwia dostrzeżenie szczegółów wielkości około 0,0002 mm."
         },
         {
           "id": "R01_HARD_09",
@@ -1328,7 +1328,7 @@
           "prompt": "Wskaż wartość, która nie opisuje dawnych mikroskopów lub mikroskopu Leeuwenhoeka: rok 1590, rok 1625, powiększenie 60 razy, powiększenie 270 razy, powiększenie 1000 razy.",
           "options": null,
           "answer": "powiększenie 1000 razy",
-          "explanation": "Powiększenie do 1000 razy dotyczy nowoczesnych mikroskopów optycznych. Pozostałe wartości odnoszą się do historii dawnych mikroskopów opisanej w rozdziale."
+          "explanation": "Powiększenie do 1000 razy dotyczy nowoczesnych mikroskopów optycznych. Pozostałe wartości odnoszą się do historii dawnych mikroskopów."
         },
         {
           "id": "R01_HARD_11",
@@ -1375,7 +1375,7 @@
             "5 centymetrów": "wielkość mikroskopu Leeuwenhoeka"
           },
           "image": "r01_mikroskop_historyczny.jpg",
-          "explanation": "Rozdział zestawia te daty i liczby, pokazując rozwój mikroskopii od prostych urządzeń do udoskonalonego mikroskopu Leeuwenhoeka."
+          "explanation": "Zestawia się te daty i liczby, pokazując rozwój mikroskopii od prostych urządzeń do udoskonalonego mikroskopu Leeuwenhoeka."
         },
         {
           "id": "R01_HARD_13",
@@ -1401,7 +1401,7 @@
             "Nie zaobserwowano żadnego wzrostu"
           ],
           "answer": 0,
-          "explanation": "Tabela w rozdziale pokazuje, że po siedmiu dniach cebula w świetle miała liście dłuższe i ciemnozielone, a cebula w ciemności krótsze i bladozielone."
+          "explanation": "Po siedmiu dniach cebula w świetle miała liście dłuższe i ciemnozielone, a cebula w ciemności krótsze i bladozielone."
         }
       ],
       "kidPrompts": {},
@@ -1516,7 +1516,7 @@
           "prompt": "Tkanka jest grupą komórek o podobnej budowie, które pełnią tę samą funkcję.",
           "options": null,
           "answer": true,
-          "explanation": "W podręczniku tkankę zdefiniowano jako grupę podobnie zbudowanych komórek wykonujących tę samą funkcję."
+          "explanation": "Tkankę zdefiniowano jako grupę podobnie zbudowanych komórek wykonujących tę samą funkcję."
         },
         {
           "id": "R02_CECH_05",
@@ -1691,7 +1691,7 @@
             2,
             3
           ],
-          "explanation": "Do najważniejszych pierwiastków budujących organizmy należą węgiel, wodór, azot, tlen, fosfor i siarka. Żelazo i magnez nie znajdują się na tej podstawowej liście w rozdziale."
+          "explanation": "Do najważniejszych pierwiastków budujących organizmy należą węgiel, wodór, azot, tlen, fosfor i siarka. Żelazo i magnez nie znajdują się na tej podstawowej liście."
         },
         {
           "id": "R02_CHEM_03",
@@ -1870,7 +1870,7 @@
           "id": "R02_CHEM_12",
           "section": "Skład chemiczny organizmów",
           "type": "multi_select",
-          "prompt": "Zaznacz funkcje soli mineralnych opisane w rozdziale.",
+          "prompt": "Zaznacz funkcje soli mineralnych.",
           "options": [
             "uczestniczą w procesach zachodzących w komórkach",
             "przechowują całą informację genetyczną",
@@ -2184,7 +2184,7 @@
           "id": "R02_FOTO_04",
           "section": "Fotosynteza",
           "type": "multi_select",
-          "prompt": "Zaznacz czynniki wpływające na przebieg fotosyntezy wymienione w rozdziale.",
+          "prompt": "Zaznacz czynniki wpływające na przebieg fotosyntezy.",
           "options": [
             "światło",
             "dwutlenek węgla",
@@ -2317,7 +2317,7 @@
             "fotosynteza zachodzi tylko w korzeniach"
           ],
           "answer": 0,
-          "explanation": "W zbyt wysokiej temperaturze fotosynteza nie zachodzi prawidłowo. Rozdział podaje, że podobnie jak w bardzo niskiej temperaturze, może się zatrzymać, na przykład powyżej 50 stopni Celsjusza.",
+          "explanation": "W zbyt wysokiej temperaturze fotosynteza nie zachodzi prawidłowo. Podobnie jak w bardzo niskiej temperaturze, może się zatrzymać, na przykład powyżej 50 stopni Celsjusza.",
           "image": "r02_czynniki_fotosyntezy.jpg"
         },
         {
@@ -2327,7 +2327,7 @@
           "prompt": "Niektóre rośliny iglaste mogą prowadzić fotosyntezę w temperaturze poniżej 0 stopni Celsjusza.",
           "options": null,
           "answer": true,
-          "explanation": "Poszczególne gatunki są przystosowane do różnych temperatur; w rozdziale podano, że rośliny iglaste mogą fotosyntetyzować poniżej 0 stopni Celsjusza."
+          "explanation": "Poszczególne gatunki są przystosowane do różnych temperatur; podano, że rośliny iglaste mogą fotosyntetyzować poniżej 0 stopni Celsjusza."
         },
         {
           "id": "R02_ODD_01",
@@ -2577,7 +2577,7 @@
           "id": "R02_HARD_02",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż etapy powstawania organizmów wielokomórkowych zgodnie z opisem ewolucyjnym w rozdziale.",
+          "prompt": "Ułóż etapy powstawania organizmów wielokomórkowych zgodnie z opisem ewolucyjnym.",
           "options": null,
           "items": [
             "specjalizacja grup komórek",
@@ -2614,7 +2614,7 @@
           "id": "R02_HARD_04",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj cechy do typu komórki, dla którego są charakterystyczne w rozdziale.",
+          "prompt": "Przyporządkuj cechy do typu komórki, dla którego są charakterystyczne.",
           "options": null,
           "items": [
             "nić DNA bezpośrednio w cytozolu",
@@ -2775,7 +2775,7 @@
           "id": "R02_HARD_11",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz wszystkie informacje prawdziwe o fermentacji alkoholowej opisanej w rozdziale.",
+          "prompt": "Zaznacz wszystkie informacje prawdziwe o fermentacji alkoholowej.",
           "options": [
             "zachodzi w cytozolu",
             "dostarcza mniej energii niż oddychanie tlenowe",
@@ -2954,7 +2954,7 @@
           "id": "R03_KLA_05",
           "section": "Klasyfikacja organizmów",
           "type": "multi_select",
-          "prompt": "Zaznacz wszystkie królestwa organizmów wymienione w rozdziale.",
+          "prompt": "Zaznacz wszystkie królestwa organizmów.",
           "options": [
             "bakterie",
             "protisty",
@@ -3119,7 +3119,7 @@
           "options": null,
           "answer": false,
           "image": "r03_budowa_wirusa.jpg",
-          "explanation": "Wirus nie ma budowy komórkowej. W rozdziale przedstawiono go jako otoczkę białkową z DNA lub RNA."
+          "explanation": "Wirus nie ma budowy komórkowej. Przedstawiono go jako otoczkę białkową z DNA lub RNA."
         },
         {
           "id": "R03_WIR_05",
@@ -3212,7 +3212,7 @@
             ]
           },
           "image": "r03_drogi_zakazenia_wirusami.jpg",
-          "explanation": "Rozdział przedstawia cztery drogi: kropelkową, przez krew, moczowo-płciową oraz z matki na dziecko podczas ciąży lub porodu."
+          "explanation": "Przedstawia się cztery drogi: kropelkową, przez krew, moczowo-płciową oraz z matki na dziecko podczas ciąży lub porodu."
         },
         {
           "id": "R03_WIR_09",
@@ -3239,7 +3239,7 @@
           "id": "R03_BAK_01",
           "section": "Bakterie",
           "type": "single_choice",
-          "prompt": "Jaki zakres wielkości bakterii podano w rozdziale?",
+          "prompt": "Jaki zakres wielkości bakterii podano?",
           "options": [
             "0,5-10 mikrometrów",
             "80-120 nanometrów",
@@ -3311,13 +3311,13 @@
           "prompt": "W odpowiednich warunkach podział komórki bakterii może następować co 20-30 minut.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że w sprzyjających warunkach bakterie mogą dzielić się co 20-30 minut."
+          "explanation": "W sprzyjających warunkach bakterie mogą dzielić się co 20-30 minut."
         },
         {
           "id": "R03_BAK_06",
           "section": "Bakterie",
           "type": "multi_select",
-          "prompt": "Zaznacz źródła pokarmu bakterii cudzożywnych opisane w rozdziale.",
+          "prompt": "Zaznacz źródła pokarmu bakterii cudzożywnych.",
           "options": [
             "martwe szczątki organizmów",
             "związki uzyskiwane dzięki współpracy z innymi organizmami",
@@ -3456,7 +3456,7 @@
           "id": "R03_PRO_03",
           "section": "Protisty",
           "type": "multi_select",
-          "prompt": "Zaznacz protisty roślinopodobne wymienione w rozdziale.",
+          "prompt": "Zaznacz protisty roślinopodobne.",
           "options": [
             "euglena zielona",
             "morszczyn pęcherzykowaty",
@@ -3796,7 +3796,7 @@
           "id": "R03_ZNA_02",
           "section": "Znaczenie i profilaktyka",
           "type": "single_choice",
-          "prompt": "Jakie witaminy wytwarzają bakterie jelitowe człowieka według rozdziału?",
+          "prompt": "Jakie witaminy wytwarzają bakterie jelitowe człowieka?",
           "options": [
             "witaminy B i K",
             "witaminy A i D",
@@ -3884,7 +3884,7 @@
             "borelioza": "krętki borelii i ukąszenie kleszcza",
             "tężec": "laseczki tężca i zabrudzona rana"
           },
-          "explanation": "Każda z tych chorób ma inny czynnik i typową drogę zakażenia opisane w rozdziale."
+          "explanation": "Każda z tych chorób ma inny czynnik i typową drogę zakażenia."
         },
         {
           "id": "R03_ZNA_06",
@@ -3931,7 +3931,7 @@
           "id": "R03_ZNA_09",
           "section": "Znaczenie i profilaktyka",
           "type": "multi_select",
-          "prompt": "Zaznacz grzyby jadalne pokazane w rozdziale.",
+          "prompt": "Zaznacz grzyby jadalne.",
           "options": [
             "koźlarz czerwony",
             "podgrzybek brunatny",
@@ -3953,7 +3953,7 @@
           "id": "R03_ZNA_10",
           "section": "Znaczenie i profilaktyka",
           "type": "single_choice",
-          "prompt": "Który grzyb został przedstawiony w rozdziale jako trujący?",
+          "prompt": "Który grzyb został jako trujący?",
           "options": [
             "muchomor sromotnikowy",
             "borowik szlachetny",
@@ -4012,7 +4012,7 @@
           "id": "R03_HARD_03",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz królestwo z pełnym zestawem cech przedstawionym w rozdziale.",
+          "prompt": "Połącz królestwo z pełnym zestawem cech.",
           "options": null,
           "left": [
             "bakterie",
@@ -4075,7 +4075,7 @@
               "0.000001"
             ]
           ],
-          "explanation": "W rozdziale podano: 1 mikrometr = 0,001 mm, a 1 nanometr = 0,000001 mm."
+          "explanation": "Podano: 1 mikrometr = 0,001 mm, a 1 nanometr = 0,000001 mm."
         },
         {
           "id": "R03_HARD_06",
@@ -4110,7 +4110,7 @@
           "id": "R03_HARD_07",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz drogi rozprzestrzeniania się wirusów, przy których w rozdziale jako przykład podano AIDS.",
+          "prompt": "Zaznacz drogi rozprzestrzeniania się wirusów, przy których jako przykład podano AIDS.",
           "options": [
             "ciąża i poród",
             "droga moczowo-płciowa",
@@ -4213,7 +4213,7 @@
           "id": "R03_HARD_12",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż grzyb należący w rozdziale do grupy trujących: koźlarz czerwony, borowik szlachetny, goryczak żółciowy, pieprznik jadalny.",
+          "prompt": "Wskaż grzyb należący do grupy trujących: koźlarz czerwony, borowik szlachetny, goryczak żółciowy, pieprznik jadalny.",
           "options": null,
           "answer": "goryczak żółciowy",
           "image": "r03_grzyby_jadalne_trujace.jpg",
@@ -4250,7 +4250,7 @@
           "id": "R03_HARD_14",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz królestwa, w których według rozdziału występują zarówno organizmy jednokomórkowe, jak i wielokomórkowe.",
+          "prompt": "Zaznacz królestwa, w których występują zarówno organizmy jednokomórkowe, jak i wielokomórkowe.",
           "options": [
             "protisty",
             "grzyby",
@@ -4917,7 +4917,7 @@
           "id": "R04_ORG_11",
           "section": "Korzeń, łodyga i liść",
           "type": "multi_select",
-          "prompt": "Zaznacz funkcje liścia wymienione w rozdziale.",
+          "prompt": "Zaznacz funkcje liścia.",
           "options": [
             "fotosynteza",
             "wymiana gazowa",
@@ -4969,7 +4969,7 @@
             "korzenie podporowe": "kukurydza",
             "ssawki": "jemioła"
           },
-          "explanation": "Rozdział podaje te rośliny jako przykłady poszczególnych modyfikacji korzeni.",
+          "explanation": "Podaje się te rośliny jako przykłady poszczególnych modyfikacji korzeni.",
           "image": "r04_modyfikacje_korzeni.jpg"
         },
         {
@@ -5120,7 +5120,7 @@
           "id": "R04_MOD_10",
           "section": "Modyfikacje organów",
           "type": "scenario",
-          "prompt": "Roślina żyje w suchym środowisku. Jej liście przekształciły się w ciernie, które ograniczają utratę wody i chronią przed zjedzeniem. O jakiej roślinie mówi przykład z rozdziału?",
+          "prompt": "Roślina żyje w suchym środowisku. Jej liście przekształciły się w ciernie, które ograniczają utratę wody i chronią przed zjedzeniem. O jakiej roślinie mówi przykład?",
           "options": [
             "kaktus",
             "truskawka",
@@ -5395,7 +5395,7 @@
           "id": "R04_KNO_12",
           "section": "Kwiat, nasiono i owoc",
           "type": "multi_select",
-          "prompt": "Zaznacz przykłady przystosowań owoców do rozsiewania nasion opisane w rozdziale.",
+          "prompt": "Zaznacz przykłady przystosowań owoców do rozsiewania nasion.",
           "options": [
             "aparat lotny mniszka",
             "haczyki owoców ostu",
@@ -5845,7 +5845,7 @@
           "id": "R05_MCH_08",
           "section": "Mchy",
           "type": "multi_select",
-          "prompt": "Zaznacz znaczenie mchów opisane w rozdziale.",
+          "prompt": "Zaznacz znaczenie mchów.",
           "options": [
             "Regulują wilgotność gleby",
             "Są organizmami pionierskimi",
@@ -5887,7 +5887,7 @@
           "id": "R05_MCH_10",
           "section": "Mchy",
           "type": "sort",
-          "prompt": "Przyporządkuj mchy do typowego środowiska podanego w rozdziale.",
+          "prompt": "Przyporządkuj mchy do typowego środowiska.",
           "options": null,
           "items": [
             "płonnik pospolity",
@@ -6166,7 +6166,7 @@
           "id": "R05_PAP_13",
           "section": "Paprociowe, widłakowe i skrzypowe",
           "type": "match",
-          "prompt": "Połącz gatunek z miejscem występowania opisanym w rozdziale.",
+          "prompt": "Połącz gatunek z miejscem występowania.",
           "options": null,
           "left": [
             "nerecznica samcza",
@@ -6368,7 +6368,7 @@
           "id": "R05_NAG_10",
           "section": "Rośliny nagonasienne",
           "type": "single_choice",
-          "prompt": "Jak są ułożone igły sosny zwyczajnej opisanej w rozdziale?",
+          "prompt": "Jak są ułożone igły sosny zwyczajnej?",
           "options": [
             "W pęczkach po dwie",
             "Pojedynczo po jednej",
@@ -6408,7 +6408,7 @@
           "id": "R05_NAG_13",
           "section": "Rośliny nagonasienne",
           "type": "scenario",
-          "prompt": "Dwie sosny rosną w różnych miejscach. Jedna stoi samotnie, druga w gęstym lesie. Które stwierdzenie jest zgodne z rozdziałem?",
+          "prompt": "Dwie sosny rosną w różnych miejscach. Jedna stoi samotnie, druga w gęstym lesie. Które stwierdzenie jest prawdziwe?",
           "options": [
             "Samotna sosna ma koronę rozwiniętą od niższej wysokości",
             "Sosna leśna ma koronę zaczynającą się przy ziemi",
@@ -6567,7 +6567,7 @@
           "id": "R05_OKR_08",
           "section": "Rośliny okrytonasienne",
           "type": "multi_select",
-          "prompt": "Zaznacz znaczenie roślin okrytonasiennych wymienione w rozdziale.",
+          "prompt": "Zaznacz znaczenie roślin okrytonasiennych.",
           "options": [
             "Są składnikiem lasów liściastych i mieszanych",
             "Produkują tlen",
@@ -6699,7 +6699,7 @@
           "id": "R05_HARD_02",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz strukturę z grupą roślin, dla której jest charakterystyczna w tym rozdziale.",
+          "prompt": "Połącz strukturę z grupą roślin, dla której jest charakterystyczna.",
           "options": null,
           "left": [
             "chwytniki",
@@ -6745,7 +6745,7 @@
           "id": "R05_HARD_04",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który przedstawiciel nagonasiennych opisany w rozdziale osiąga wysokość do 45 m i zrzuca igły na zimę?",
+          "prompt": "Który przedstawiciel nagonasiennych osiąga wysokość do 45 m i zrzuca igły na zimę?",
           "options": [
             "modrzew europejski",
             "sosna zwyczajna",
@@ -6851,7 +6851,7 @@
           "id": "R05_HARD_10",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz drzewo z dokładnym opisem owocu podanym w rozdziale.",
+          "prompt": "Połącz drzewo z dokładnym opisem owocu.",
           "options": null,
           "left": [
             "buk zwyczajny",
@@ -6878,7 +6878,7 @@
           "id": "R05_HARD_11",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz rośliny, których nasiona lub owoce mają opisane w rozdziale przystosowania do rozsiewania przez wiatr.",
+          "prompt": "Zaznacz rośliny, których nasiona lub owoce mają przystosowania do rozsiewania przez wiatr.",
           "options": [
             "sosna zwyczajna",
             "wierzba biała",
@@ -6894,7 +6894,7 @@
             3,
             4
           ],
-          "explanation": "Sosna ma nasiona ze skrzydełkiem; wierzba i topola owoce z puchem; klon i brzoza owoce ze skrzydełkami. Jarząb ma czerwone owoce, ale w tym rozdziale nie opisano ich jako wiatrosiewnych.",
+          "explanation": "Sosna ma nasiona ze skrzydełkiem; wierzba i topola owoce z puchem; klon i brzoza owoce ze skrzydełkami. Jarząb ma czerwone owoce, ale nie opisano ich jako wiatrosiewnych.",
           "image": "r05_liscie_i_owoce_drzew.jpg"
         },
         {

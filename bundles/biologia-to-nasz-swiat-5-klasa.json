@@ -1,8 +1,8 @@
 {
   "id": "biologia-to-nasz-swiat-5-klasa",
   "title": "Biologia to nasz świat 5 klasa",
-  "version": 3,
-  "contentHash": "73a799d654bb51692489708049f5b6f1f6e55516b31e63d91a08f7cb6b137270",
+  "version": 4,
+  "contentHash": "2023b15034c20bdecfbfa69cd8ef0b660e96208699ce17b89e0124df65d12c0d",
   "bookConfig": {
     "id": "biologia-to-nasz-swiat-5-klasa",
     "title": "Biologia to nasz świat 5 klasa",
@@ -183,7 +183,7 @@
             ]
           },
           "image": "r01_poziomy_budowy.jpg",
-          "explanation": "W podręczniku liść i system przewodzący są przykładami poziomów budowy roślin, a serce i układ krwionośny przykładami poziomów budowy zwierząt."
+          "explanation": "Liść i system przewodzący są przykładami poziomów budowy roślin, a serce i układ krwionośny przykładami poziomów budowy zwierząt."
         },
         {
           "id": "R01_ORG_09",
@@ -250,7 +250,7 @@
             2,
             3
           ],
-          "explanation": "Do podstawowych związków chemicznych organizmów należą między innymi białka, cukry, tłuszcze i kwasy nukleinowe. W rozdziale wymieniono także sole mineralne i wodę."
+          "explanation": "Do podstawowych związków chemicznych organizmów należą między innymi białka, cukry, tłuszcze i kwasy nukleinowe. Wymieniono także sole mineralne i wodę."
         },
         {
           "id": "R01_CHEM_03",
@@ -362,7 +362,7 @@
           ],
           "answer": 0,
           "image": "r01_funkcje_zwiazkow.jpg",
-          "explanation": "Hemoglobina jest białkiem zawartym we krwi. W rozdziale podano ją jako przykład białka transportującego tlen."
+          "explanation": "Hemoglobina jest białkiem zawartym we krwi. Podano ją jako przykład białka transportującego tlen."
         },
         {
           "id": "R01_CHEM_09",
@@ -391,7 +391,7 @@
           "id": "R01_MIK_01",
           "section": "Mikroskop i preparaty",
           "type": "single_choice",
-          "prompt": "Do czego służy mikroskop optyczny opisany w rozdziale?",
+          "prompt": "Do czego służy mikroskop optyczny?",
           "options": [
             "Do powiększania obrazu bardzo małych obiektów",
             "Do mierzenia temperatury powietrza",
@@ -601,7 +601,7 @@
           "id": "R01_KOM_02",
           "section": "Budowa komórek",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy występujące we wszystkich typach komórek pokazanych w rozdziale.",
+          "prompt": "Zaznacz elementy występujące we wszystkich typach komórek.",
           "options": [
             "błona komórkowa",
             "cytozol",
@@ -764,12 +764,12 @@
           ],
           "right": [
             "chloroplasty i ściana komórkowa",
-            "brak ściany komórkowej w modelu z rozdziału",
+            "brak ściany komórkowej w modelu",
             "substancja jądrowa i często otoczka śluzowa"
           ],
           "answer": {
             "komórka roślinna": "chloroplasty i ściana komórkowa",
-            "komórka zwierzęca": "brak ściany komórkowej w modelu z rozdziału",
+            "komórka zwierzęca": "brak ściany komórkowej w modelu",
             "komórka bakteryjna": "substancja jądrowa i często otoczka śluzowa"
           },
           "image": "r01_model_komorki_bakteryjnej.jpg",
@@ -886,7 +886,7 @@
           "id": "R01_FOT_07",
           "section": "Fotosynteza",
           "type": "scenario",
-          "prompt": "Ta sama roślina w ciepłym i bardzo słonecznym klimacie osiąga większe rozmiary niż w chłodniejszym miejscu. Który wniosek najlepiej pasuje do informacji z rozdziału?",
+          "prompt": "Ta sama roślina w ciepłym i bardzo słonecznym klimacie osiąga większe rozmiary niż w chłodniejszym miejscu. Który wniosek najlepiej pasuje do informacji?",
           "options": [
             "Intensywność fotosyntezy zależy między innymi od światła i temperatury",
             "Fotosynteza zachodzi bez udziału światła",
@@ -944,7 +944,7 @@
           "id": "R01_FOT_10",
           "section": "Fotosynteza",
           "type": "sequence",
-          "prompt": "Ułóż uproszczony przebieg fotosyntezy zgodnie z opisem z rozdziału.",
+          "prompt": "Ułóż uproszczony przebieg fotosyntezy zgodnie z opisem.",
           "options": null,
           "items": [
             "powstają glukoza i tlen",
@@ -1146,7 +1146,7 @@
           "id": "R01_HARD_01",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz związek chemiczny z bardziej szczegółową funkcją podaną w rozdziale.",
+          "prompt": "Połącz związek chemiczny z bardziej szczegółową funkcją.",
           "options": null,
           "left": [
             "białka kurczliwe",
@@ -1167,13 +1167,13 @@
             "sole mineralne": "regulują przebieg procesów życiowych"
           },
           "image": "r01_sklad_chemiczny.jpg",
-          "explanation": "W rozdziale podano przykłady funkcji związków chemicznych: białka kurczliwe odpowiadają za skurcz mięśni, celuloza buduje ściany komórkowe roślin, DNA zawiera informację, a sole mineralne regulują procesy życiowe."
+          "explanation": "Podano przykłady funkcji związków chemicznych: białka kurczliwe odpowiadają za skurcz mięśni, celuloza buduje ściany komórkowe roślin, DNA zawiera informację, a sole mineralne regulują procesy życiowe."
         },
         {
           "id": "R01_HARD_02",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz czynniki, od których według rozdziału zależy intensywność fotosyntezy.",
+          "prompt": "Zaznacz czynniki, od których zależy intensywność fotosyntezy.",
           "options": [
             "ilość światła",
             "ilość dwutlenku węgla",
@@ -1195,7 +1195,7 @@
           "id": "R01_HARD_03",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż etapy obserwacji mikroskopowej zgodnie z instrukcją z rozdziału.",
+          "prompt": "Ułóż etapy obserwacji mikroskopowej zgodnie z instrukcją.",
           "options": null,
           "items": [
             "wyreguluj ostrość śrubą mikrometryczną",
@@ -1298,7 +1298,7 @@
           "options": null,
           "answer": true,
           "image": "r01_fermentacja_drozdzy.jpg",
-          "explanation": "Rozdział podaje, że drożdże przystosowują się do warunków: przy dostępie tlenu oddychają tlenowo, a gdy tlenu brakuje, przeprowadzają fermentację alkoholową."
+          "explanation": "Drożdże przystosowują się do warunków: przy dostępie tlenu oddychają tlenowo, a gdy tlenu brakuje, przeprowadzają fermentację alkoholową."
         },
         {
           "id": "R01_HARD_08",
@@ -1347,7 +1347,7 @@
           "id": "R01_HARD_11",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz organizm lub grupę z typem odżywiania opisanym w rozdziale.",
+          "prompt": "Połącz organizm lub grupę z typem odżywiania.",
           "options": null,
           "left": [
             "rośliny",
@@ -1373,7 +1373,7 @@
           "id": "R01_HARD_12",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Meduza nie ma płuc ani skrzeli, ale według rozdziału może pobierać tlen z otoczenia. Jak to robi?",
+          "prompt": "Meduza nie ma płuc ani skrzeli, ale może pobierać tlen z otoczenia. Jak to robi?",
           "options": [
             "całą powierzchnią ciała",
             "przez chloroplasty",
@@ -1383,7 +1383,7 @@
             "przez wodę wapienną"
           ],
           "answer": 0,
-          "explanation": "Rozdział podaje, że organizmy mogą pobierać tlen różnymi narządami, na przykład płucami lub skrzelami, a meduzy pobierają go całą powierzchnią ciała."
+          "explanation": "Organizmy mogą pobierać tlen różnymi narządami, na przykład płucami lub skrzelami, a meduzy pobierają go całą powierzchnią ciała."
         }
       ],
       "kidPrompts": {},
@@ -1468,10 +1468,10 @@
           "id": "R02_KLA_03",
           "section": "Klasyfikacja organizmów",
           "type": "true_false",
-          "prompt": "Świat organizmów podzielono w podręczniku na trzy domeny i sześć królestw.",
+          "prompt": "Świat organizmów podzielono na trzy domeny i sześć królestw.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podano trzy domeny: archeowce, bakterie i eukarionty, a w nich łącznie sześć królestw.",
+          "explanation": "Podano trzy domeny: archeowce, bakterie i eukarionty, a w nich łącznie sześć królestw.",
           "image": "r02_domeny_krolestwa.jpg"
         },
         {
@@ -1679,7 +1679,7 @@
             1,
             3
           ],
-          "explanation": "Podręcznik podkreśla zasadę ograniczonego zaufania: rozpoznanie trzeba potwierdzić, zwłaszcza gdy organizm mógłby być trujący."
+          "explanation": "Podkreśla się zasadę ograniczonego zaufania: rozpoznanie trzeba potwierdzić, zwłaszcza gdy organizm mógłby być trujący."
         },
         {
           "id": "R02_KLU_06",
@@ -1716,7 +1716,7 @@
           "id": "R02_KLU_08",
           "section": "Klucze do oznaczania",
           "type": "scenario",
-          "prompt": "Aplikacja rozpoznała owoce dzikiej rośliny jako jadalne. Co jest najbezpieczniejszym zachowaniem zgodnym z rozdziałem?",
+          "prompt": "Aplikacja rozpoznała owoce dzikiej rośliny jako jadalne. Co jest najbezpieczniejszym zachowaniem?",
           "options": [
             "Sprawdzić rozpoznanie w innych źródłach i nie jeść bez pewności",
             "Natychmiast spróbować owoców",
@@ -1760,7 +1760,7 @@
           "id": "R02_WIR_01",
           "section": "Wirusy",
           "type": "single_choice",
-          "prompt": "Z czego składa się cząstka wirusa według rozdziału?",
+          "prompt": "Z czego składa się cząstka wirusa?",
           "options": [
             "Z kwasu nukleinowego w otoczce białkowej",
             "Z jądra komórkowego i chloroplastów",
@@ -1780,7 +1780,7 @@
           "prompt": "Wirusy są organizmami, ponieważ samodzielnie wykonują wszystkie czynności życiowe.",
           "options": null,
           "answer": false,
-          "explanation": "Wirusy nie wykonują czynności życiowych i nie mają budowy komórkowej, dlatego w rozdziale nie są uznane za organizmy."
+          "explanation": "Wirusy nie wykonują czynności życiowych i nie mają budowy komórkowej, dlatego nie są uznane za organizmy."
         },
         {
           "id": "R02_WIR_03",
@@ -1867,7 +1867,7 @@
             "otoczka białkowa": "białkowa warstwa otaczająca materiał wirusa",
             "osłonka z wyrostkami": "dodatkowa warstwa obecna u niektórych wirusów"
           },
-          "explanation": "Model wirusa HIV w podręczniku pokazuje kwas nukleinowy, otoczkę białkową oraz osłonkę z wyrostkami.",
+          "explanation": "Model wirusa HIV pokazuje kwas nukleinowy, otoczkę białkową oraz osłonkę z wyrostkami.",
           "image": "r02_model_wirusa.jpg"
         },
         {
@@ -1877,7 +1877,7 @@
           "prompt": "Co nie jest chorobą wirusową: grypa, COVID-19, odra, borelioza.",
           "options": null,
           "answer": "borelioza",
-          "explanation": "Borelioza jest wymieniona w rozdziale jako choroba bakteryjna, a pozostałe choroby są wirusowe."
+          "explanation": "Borelioza jest jako choroba bakteryjna, a pozostałe choroby są wirusowe."
         },
         {
           "id": "R02_WIR_08",
@@ -1931,7 +1931,7 @@
           "id": "R02_BAK_01",
           "section": "Bakterie",
           "type": "single_choice",
-          "prompt": "Gdzie według rozdziału występują bakterie?",
+          "prompt": "Gdzie występują bakterie?",
           "options": [
             "Niemal w każdym środowisku na Ziemi",
             "Wyłącznie w gorących źródłach",
@@ -1950,7 +1950,7 @@
           "prompt": "Bakterie są organizmami jednokomórkowymi.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział opisuje bakterie jako organizmy jednokomórkowe, zwykle mikroskopijne."
+          "explanation": "Opisuje się bakterie jako organizmy jednokomórkowe, zwykle mikroskopijne."
         },
         {
           "id": "R02_BAK_03",
@@ -2023,7 +2023,7 @@
             "krętek": "długa spiralnie skręcona komórka",
             "dwoinka": "dwie połączone komórki"
           },
-          "explanation": "W rozdziale pokazano różne kształty bakterii: ziarenkowce, pałeczki, krętki oraz komórki połączone w pary."
+          "explanation": "Pokazano różne kształty bakterii: ziarenkowce, pałeczki, krętki oraz komórki połączone w pary."
         },
         {
           "id": "R02_BAK_06",
@@ -2032,7 +2032,7 @@
           "prompt": "Co nie jest chorobą bakteryjną: gruźlica, salmonelloza, angina, ospa wietrzna.",
           "options": null,
           "answer": "ospa wietrzna",
-          "explanation": "Ospa wietrzna jest chorobą wirusową, a gruźlica, salmonelloza i angina są w rozdziale przykładami chorób bakteryjnych."
+          "explanation": "Ospa wietrzna jest chorobą wirusową, a gruźlica, salmonelloza i angina są przykładami chorób bakteryjnych."
         },
         {
           "id": "R02_BAK_07",
@@ -2085,7 +2085,7 @@
           "id": "R02_BAK_09",
           "section": "Bakterie",
           "type": "multi_select",
-          "prompt": "Zaznacz sposoby zapobiegania chorobom bakteryjnym opisane w rozdziale.",
+          "prompt": "Zaznacz sposoby zapobiegania chorobom bakteryjnym.",
           "options": [
             "higiena i właściwe przygotowanie pokarmów",
             "szczepienia ochronne",
@@ -2107,7 +2107,7 @@
           "id": "R02_PRO_01",
           "section": "Protisty",
           "type": "single_choice",
-          "prompt": "Jaka cecha jest wspólna dla protistów według rozdziału?",
+          "prompt": "Jaka cecha jest wspólna dla protistów?",
           "options": [
             "Obecność jądra w komórkach",
             "Brak jądra komórkowego",
@@ -2126,7 +2126,7 @@
           "prompt": "Protisty tworzą bardzo zróżnicowaną grupę, której przedstawicieli często więcej dzieli niż łączy.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podkreślono, że protisty nie są blisko spokrewnione i mogą przypominać rośliny, zwierzęta albo grzyby."
+          "explanation": "Protisty nie są blisko spokrewnione i mogą przypominać rośliny, zwierzęta albo grzyby."
         },
         {
           "id": "R02_PRO_03",
@@ -2194,7 +2194,7 @@
             "morszczyn pęcherzykowaty": "wielokomórkowy protist morski",
             "ameba": "porusza się wypustkami komórki"
           },
-          "explanation": "Rozdział opisuje kilka protistów: euglenę, pantofelka, morszczyn, amebę i okrzemki.",
+          "explanation": "Opisuje się kilka protistów: euglenę, pantofelka, morszczyn, amebę i okrzemki.",
           "image": "r02_euglena_pantofelek.jpg"
         },
         {
@@ -2210,7 +2210,7 @@
           "id": "R02_PRO_07",
           "section": "Protisty",
           "type": "scenario",
-          "prompt": "Podróżny jedzie do gorącego kraju, gdzie występuje malaria. Które działanie pomaga ograniczyć ryzyko zakażenia opisane w rozdziale?",
+          "prompt": "Podróżny jedzie do gorącego kraju, gdzie występuje malaria. Które działanie pomaga ograniczyć ryzyko zakażenia?",
           "options": [
             "Stosowanie środków odstraszających komary",
             "Jedzenie surowego mięsa",
@@ -2304,7 +2304,7 @@
           "id": "R02_GRZ_03",
           "section": "Grzyby i porosty",
           "type": "multi_select",
-          "prompt": "Zaznacz miejsca, w których według rozdziału można spotkać grzyby.",
+          "prompt": "Zaznacz miejsca, w których można spotkać grzyby.",
           "options": [
             "w ściółce leśnej",
             "na drewnie i pniach drzew",
@@ -2390,7 +2390,7 @@
           "id": "R02_GRZ_07",
           "section": "Grzyby i porosty",
           "type": "scenario",
-          "prompt": "Drożdże w cieście wykorzystują oddychanie beztlenowe opisane w rozdziale. Jak nazywa się ten proces?",
+          "prompt": "Drożdże w cieście wykorzystują oddychanie beztlenowe. Jak nazywa się ten proces?",
           "options": [
             "fermentacja alkoholowa",
             "fotosynteza",
@@ -2453,7 +2453,7 @@
           "id": "R02_HARD_01",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Które królestwa należą w rozdziale do domeny eukariontów?",
+          "prompt": "Które królestwa należą do domeny eukariontów?",
           "options": [
             "protisty",
             "grzyby",
@@ -2475,7 +2475,7 @@
           "id": "R02_HARD_02",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz domenę z królestwem lub królestwami opisanymi w rozdziale.",
+          "prompt": "Połącz domenę z królestwem lub królestwami.",
           "options": null,
           "left": [
             "archeowce",
@@ -2534,7 +2534,7 @@
           "id": "R02_HARD_05",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Która para cech najlepiej odróżnia grzyby od roślin w rozdziale?",
+          "prompt": "Która para cech najlepiej odróżnia grzyby od roślin?",
           "options": [
             "Brak chloroplastów i cudzożywność",
             "Obecność chloroplastów i samożywność",
@@ -2591,13 +2591,13 @@
           "prompt": "Co nie jest przykładem związanym z grzybami pasożytniczymi lub pleśniowymi: gronkowiec szary, buławinka czerwona, czerniak klonowy, sinice.",
           "options": null,
           "answer": "sinice",
-          "explanation": "Sinice są samożywnymi bakteriami, a pozostałe przykłady w rozdziale dotyczą grzybów wywołujących choroby lub pleśnie."
+          "explanation": "Sinice są samożywnymi bakteriami, a pozostałe przykłady dotyczą grzybów wywołujących choroby lub pleśnie."
         },
         {
           "id": "R02_HARD_09",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Po spacerze w terenie ktoś zauważył kleszcza. Jakie działanie najlepiej pasuje do profilaktyki chorób bakteryjnych opisanej w rozdziale?",
+          "prompt": "Po spacerze w terenie ktoś zauważył kleszcza. Jakie działanie najlepiej pasuje do profilaktyki chorób bakteryjnych?",
           "options": [
             "Noszenie odzieży ochronnej i stosowanie środków odstraszających kleszcze",
             "Celowe chodzenie po wysokiej trawie bez ochrony",
@@ -2642,13 +2642,13 @@
               "grzybica"
             ]
           },
-          "explanation": "Rozdział zestawia choroby wywoływane przez różne czynniki: wirusy, bakterie, protisty pasożytnicze i grzyby."
+          "explanation": "Zestawia się choroby wywoływane przez różne czynniki: wirusy, bakterie, protisty pasożytnicze i grzyby."
         },
         {
           "id": "R02_HARD_11",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz element lub substancję z grupą, dla której jest najbardziej charakterystyczna w rozdziale.",
+          "prompt": "Połącz element lub substancję z grupą, dla której jest najbardziej charakterystyczna.",
           "options": null,
           "left": [
             "kwas nukleinowy w otoczce białkowej",
@@ -2668,7 +2668,7 @@
             "chloroplasty eugleny": "protisty",
             "ściana komórkowa z chityny": "grzyby"
           },
-          "explanation": "Każda z tych cech pomaga odróżniać grupy omawiane w rozdziale: wirusy, bakterie, protisty i grzyby."
+          "explanation": "Każda z tych cech pomaga odróżniać grupy: wirusy, bakterie, protisty i grzyby."
         },
         {
           "id": "R02_HARD_12",
@@ -2718,7 +2718,7 @@
           "prompt": "Brak porostów na drzewach może wskazywać na duże zanieczyszczenie powietrza.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podano, że porosty mogą być wskaźnikiem czystości powietrza, a ich brak na drzewach wskazuje na duże zanieczyszczenie.",
+          "explanation": "Porosty mogą być wskaźnikiem czystości powietrza, a ich brak na drzewach wskazuje na duże zanieczyszczenie.",
           "image": "r02_porost_przekroj.jpg"
         }
       ],
@@ -2783,13 +2783,13 @@
           "prompt": "Większość roślin jest samożywna, ponieważ w procesie fotosyntezy produkuje pokarm.",
           "options": null,
           "answer": true,
-          "explanation": "Rośliny samożywne same wytwarzają pokarm dzięki fotosyntezie. W rozdziale zaznaczono jednak, że istnieją nieliczne wyjątki, np. rośliny pasożytnicze."
+          "explanation": "Rośliny samożywne same wytwarzają pokarm dzięki fotosyntezie. Istnieją nieliczne wyjątki, np. rośliny pasożytnicze."
         },
         {
           "id": "R03_CRO_03",
           "section": "Cechy roślin",
           "type": "multi_select",
-          "prompt": "Zaznacz środowiska wymienione w rozdziale jako miejsca życia roślin.",
+          "prompt": "Zaznacz środowiska jako miejsca życia roślin.",
           "image": "r03_roznorodnosc_roslin.jpg",
           "options": [
             "arktyczna tundra",
@@ -2920,7 +2920,7 @@
             "rośliny nagonasienne"
           ],
           "answer": 0,
-          "explanation": "Rośliny bez tkanki przewodzącej to rośliny nienaczyniowe. W rozdziale jako przykład pokazano mchy."
+          "explanation": "Rośliny bez tkanki przewodzącej to rośliny nienaczyniowe. Jako przykład pokazano mchy."
         },
         {
           "id": "R03_CRO_10",
@@ -2935,7 +2935,7 @@
             "Każda roślina ma nasiona ukryte w owocach."
           ],
           "answer": 0,
-          "explanation": "W rozdziale podano, że nieliczne rośliny nie są samożywne, lecz pobierają wodę i substancje pokarmowe od żywiciela. Takie rośliny są pasożytami."
+          "explanation": "Nieliczne rośliny nie są samożywne, lecz pobierają wodę i substancje pokarmowe od żywiciela. Takie rośliny są pasożytami."
         },
         {
           "id": "R03_TKA_01",
@@ -3009,7 +3009,7 @@
           "image": "r03_tkanki_tworcze.jpg",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podano, że tkanki twórcze boczne występują w zdrewniałych łodygach i korzeniach oraz zwiększają obwód rośliny."
+          "explanation": "Tkanki twórcze boczne występują w zdrewniałych łodygach i korzeniach oraz zwiększają obwód rośliny."
         },
         {
           "id": "R03_TKA_05",
@@ -3203,7 +3203,7 @@
           "id": "R03_MCH_03",
           "section": "Mchy",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy budowy mchu opisane w rozdziale.",
+          "prompt": "Zaznacz elementy budowy mchu.",
           "image": "r03_budowa_mchu.jpg",
           "options": [
             "chwytniki",
@@ -3352,7 +3352,7 @@
           "prompt": "W Polsce występuje około 500 gatunków mchów, a około 200 z nich objęto ochroną prawną.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że w Polsce jest około 500 gatunków mchów, w tym około 200 objętych ochroną."
+          "explanation": "W Polsce jest około 500 gatunków mchów, w tym około 200 objętych ochroną."
         },
         {
           "id": "R03_MCH_12",
@@ -3438,7 +3438,7 @@
           "id": "R03_PWS_03",
           "section": "Paprociowe, widłakowe i skrzypowe",
           "type": "multi_select",
-          "prompt": "Zaznacz wspólne cechy paprociowych, widłakowych i skrzypowych wymienione w rozdziale.",
+          "prompt": "Zaznacz wspólne cechy paprociowych, widłakowych i skrzypowych.",
           "image": "r03_porownanie_zarodnikowych.jpg",
           "options": [
             "rozmnażają się za pomocą zarodników",
@@ -3475,7 +3475,7 @@
               "łyko"
             ]
           ],
-          "explanation": "W rozdziale podkreślono, że tkanka przewodząca obejmuje drewno i łyko."
+          "explanation": "Tkanka przewodząca obejmuje drewno i łyko."
         },
         {
           "id": "R03_PWS_05",
@@ -3534,7 +3534,7 @@
           "prompt": "Wszystkie gatunki widłakowe występujące w Polsce są pod ochroną.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podano, że wszystkie gatunki widłakowe w Polsce są chronione."
+          "explanation": "Wszystkie gatunki widłakowe w Polsce są chronione."
         },
         {
           "id": "R03_PWS_09",
@@ -3623,7 +3623,7 @@
             "skrzyp polny": "skrzypowe",
             "salwinia pływająca": "paprociowe wodne"
           },
-          "explanation": "Rozdział podaje liczne przykłady: paprotka jest paprocią, widłak goździsty należy do widłakowych, skrzyp polny do skrzypowych, a salwinia to paproć wodna."
+          "explanation": "Podaje się liczne przykłady: paprotka jest paprocią, widłak goździsty należy do widłakowych, skrzyp polny do skrzypowych, a salwinia to paproć wodna."
         },
         {
           "id": "R03_PWS_13",
@@ -3643,13 +3643,13 @@
             "szczątki roślin gromadziły się przez bardzo długi czas",
             "ze szczątków powstawały pokłady węgla"
           ],
-          "explanation": "Rozdział wyjaśnia, że wielkie dawne paprocie, widłaki i skrzypy odegrały rolę w powstawaniu pokładów węgla."
+          "explanation": "Wielkie dawne paprocie, widłaki i skrzypy odegrały rolę w powstawaniu pokładów węgla."
         },
         {
           "id": "R03_PWS_14",
           "section": "Paprociowe, widłakowe i skrzypowe",
           "type": "multi_select",
-          "prompt": "Zaznacz znaczenie paprociowych, widłakowych i skrzypowych opisane w rozdziale.",
+          "prompt": "Zaznacz znaczenie paprociowych, widłakowych i skrzypowych.",
           "options": [
             "są składnikiem runa leśnego",
             "są pożywieniem roślinożerców",
@@ -3715,7 +3715,7 @@
           "id": "R03_HARD_04",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy skrzypowych opisane w rozdziale.",
+          "prompt": "Zaznacz cechy skrzypowych.",
           "image": "r03_skrzyp_budowa.jpg",
           "options": [
             "pędy zbudowane z członów",
@@ -4003,7 +4003,7 @@
           "prompt": "Sosna zwyczajna ma sztywne, kłujące igły.",
           "options": null,
           "answer": true,
-          "explanation": "Opis sosny w rozdziale wskazuje, że jej igły są sztywne i kłujące."
+          "explanation": "Opis sosny wskazuje, że jej igły są sztywne i kłujące."
         },
         {
           "id": "R04_NAG_08",
@@ -4155,13 +4155,13 @@
               "zolkną i opadają"
             ]
           ],
-          "explanation": "Rozdział podaje, że igły modrzewia rosną po 20-40, jesienią żółkną i opadają na zimę."
+          "explanation": "Igły modrzewia rosną po 20-40, jesienią żółkną i opadają na zimę."
         },
         {
           "id": "R04_POL_05",
           "section": "Nagonasienne w Polsce",
           "type": "multi_select",
-          "prompt": "Zaznacz rośliny nagonasienne występujące w Polsce wymienione w rozdziale.",
+          "prompt": "Zaznacz rośliny nagonasienne występujące w Polsce.",
           "options": [
             "cis pospolity",
             "jodła pospolita",
@@ -4176,7 +4176,7 @@
             2,
             3
           ],
-          "explanation": "W rozdziale jako nagonasienne występują między innymi cis, jodła, modrzew i świerk. Dąb i lipa są drzewami liściastymi, czyli okrytonasiennymi."
+          "explanation": "Jako nagonasienne występują między innymi cis, jodła, modrzew i świerk. Dąb i lipa są drzewami liściastymi, czyli okrytonasiennymi."
         },
         {
           "id": "R04_POL_06",
@@ -4198,7 +4198,7 @@
             "jałowiec pospolity",
             "jałowiec"
           ],
-          "explanation": "Taką cechę w rozdziale przypisano jałowcowi pospolitemu."
+          "explanation": "Taką cechę przypisano jałowcowi pospolitemu."
         },
         {
           "id": "R04_POL_08",
@@ -4351,7 +4351,7 @@
             "krzewinki": "niskie rośliny krzewiaste",
             "rośliny zielne": "rośliny o miękkich zielonych pędach"
           },
-          "explanation": "W rozdziale wskazano cztery formy okrytonasiennych: drzewa, krzewy, krzewinki i rośliny zielne."
+          "explanation": "Wskazano cztery formy okrytonasiennych: drzewa, krzewy, krzewinki i rośliny zielne."
         },
         {
           "id": "R04_OKR_06",
@@ -4432,7 +4432,7 @@
           "id": "R04_OKR_11",
           "section": "Rośliny okrytonasienne",
           "type": "single_choice",
-          "prompt": "Które określenie nie jest formą roślin okrytonasiennych wymienioną w rozdziale?",
+          "prompt": "Które określenie nie jest formą roślin okrytonasiennych?",
           "options": [
             "drzewa",
             "krzewy",
@@ -4489,7 +4489,7 @@
               "rosliny zielne"
             ]
           ],
-          "explanation": "Rozdział wymienia cztery formy roślin okrytonasiennych: drzewa, krzewy, krzewinki i rośliny zielne."
+          "explanation": "Wymienia się cztery formy roślin okrytonasiennych: drzewa, krzewy, krzewinki i rośliny zielne."
         },
         {
           "id": "R04_ORG_01",
@@ -4547,7 +4547,7 @@
           "id": "R04_ORG_04",
           "section": "Organy, nasiona i rozmnażanie",
           "type": "multi_select",
-          "prompt": "Zaznacz funkcje liścia wymienione w rozdziale.",
+          "prompt": "Zaznacz funkcje liścia.",
           "options": [
             "fotosynteza",
             "wymiana gazowa",
@@ -4699,7 +4699,7 @@
           "id": "R04_ORG_12",
           "section": "Organy, nasiona i rozmnażanie",
           "type": "multi_select",
-          "prompt": "Zaznacz sposoby rozsiewania owoców lub nasion pokazane w rozdziale.",
+          "prompt": "Zaznacz sposoby rozsiewania owoców lub nasion.",
           "image": "r04_sposoby_rozsiewania.jpg",
           "options": [
             "przez wiatr",
@@ -4715,7 +4715,7 @@
             2,
             3
           ],
-          "explanation": "Rozdział pokazuje rozsiewanie przez wiatr, zwierzęta, wodę oraz samorzutne wyrzucanie nasion z owocu."
+          "explanation": "Pokazuje się rozsiewanie przez wiatr, zwierzęta, wodę oraz samorzutne wyrzucanie nasion z owocu."
         },
         {
           "id": "R04_ORG_13",
@@ -4730,7 +4730,7 @@
           "id": "R04_LIS_01",
           "section": "Drzewa liściaste i znaczenie roślin",
           "type": "multi_select",
-          "prompt": "Zaznacz drzewa liściaste wymienione w rozdziale.",
+          "prompt": "Zaznacz drzewa liściaste.",
           "image": "r04_liscie_drzew_lisciastych.jpg",
           "options": [
             "dąb szypułkowy",
@@ -4873,7 +4873,7 @@
           "id": "R04_LIS_09",
           "section": "Drzewa liściaste i znaczenie roślin",
           "type": "riddle",
-          "prompt": "Jak nazywa się drzewo liściaste z rozdziału, którego nazwa gatunkowa brzmi drobnolistna?",
+          "prompt": "Jak nazywa się drzewo liściaste, którego nazwa gatunkowa brzmi drobnolistna?",
           "options": null,
           "answer": "lipa drobnolistna",
           "altAnswers": [
@@ -4918,7 +4918,7 @@
           "id": "R04_HARD_01",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz szczegółowe cechy sosny zwyczajnej podane w rozdziale.",
+          "prompt": "Zaznacz szczegółowe cechy sosny zwyczajnej.",
           "image": "r04_sosna_zwyczajna.jpg",
           "options": [
             "ma sztywne i kłujące igły",
@@ -5013,7 +5013,7 @@
             "cis pospolity": "nasiona z czerwonymi osłonkami",
             "jałowiec pospolity": "kłujące igły po trzy"
           },
-          "explanation": "Te cechy pozwalają rozróżnić polskie rośliny nagonasienne przedstawione w rozdziale."
+          "explanation": "Te cechy pozwalają rozróżnić polskie rośliny nagonasienne."
         },
         {
           "id": "R04_HARD_06",

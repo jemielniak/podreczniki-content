@@ -1,8 +1,8 @@
 {
   "id": "biologia-bez-tajemnic-klasa-6",
   "title": "Biologia bez tajemnic klasa 6",
-  "version": 2,
-  "contentHash": "1d915df0e03b0df9594d16b043583d78ce63fb4de842d467e8d176b49256d759",
+  "version": 3,
+  "contentHash": "1215f3923392db8fe25675786fe4f5a67d314ea65a908cbac5839b127c9c96d9",
   "bookConfig": {
     "id": "biologia-bez-tajemnic-klasa-6",
     "title": "Biologia bez tajemnic klasa 6",
@@ -63,7 +63,7 @@
           "id": "R01_CEZ_03",
           "section": "Cechy zwierząt",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy zwierząt opisane w rozdziale.",
+          "prompt": "Zaznacz cechy zwierząt.",
           "options": [
             "Budowa wielokomórkowa",
             "Obecność chloroplastów",
@@ -103,7 +103,7 @@
               "cudzozywne"
             ]
           ],
-          "explanation": "W rozdziale podkreślono, że zwierzęta mają budowę wielokomórkową i są cudzożywne."
+          "explanation": "Zwierzęta mają budowę wielokomórkową i są cudzożywne."
         },
         {
           "id": "R01_CEZ_05",
@@ -242,7 +242,7 @@
           "prompt": "Zoologia to nauka badająca zwierzęta.",
           "options": null,
           "answer": true,
-          "explanation": "To prawda. W rozdziale zoologia jest zdefiniowana jako nauka badająca zwierzęta."
+          "explanation": "To prawda. Zoologia jest zdefiniowana jako nauka badająca zwierzęta."
         },
         {
           "id": "R01_CEZ_12",
@@ -324,7 +324,7 @@
           "id": "R01_NAB_04",
           "section": "Tkanka nabłonkowa",
           "type": "multi_select",
-          "prompt": "Zaznacz funkcje tkanki nabłonkowej wymienione w rozdziale.",
+          "prompt": "Zaznacz funkcje tkanki nabłonkowej.",
           "options": [
             "Tworzy pokrycie ciała zwierząt",
             "Buduje ściany niektórych narządów wewnętrznych",
@@ -372,7 +372,7 @@
           "prompt": "Wskaż, co nie pasuje do pozostałych: rzęski, zakończenia nerwowe, gruczoły, osocze.",
           "options": null,
           "answer": "osocze",
-          "explanation": "Osocze jest substancją międzykomórkową krwi, a pozostałe elementy mogą być związane z budową lub działaniem nabłonków opisanych w rozdziale."
+          "explanation": "Osocze jest substancją międzykomórkową krwi, a pozostałe elementy mogą być związane z budową lub działaniem nabłonków."
         },
         {
           "id": "R01_NAB_07",
@@ -530,7 +530,7 @@
             ]
           ],
           "image": "r01_krew_skladniki.jpg",
-          "explanation": "Rozdział opisuje krew jako płynną tkankę łączną z krwinkami zawieszonymi w osoczu."
+          "explanation": "Opisuje się krew jako płynną tkankę łączną z krwinkami zawieszonymi w osoczu."
         },
         {
           "id": "R01_LAC_04",
@@ -562,7 +562,7 @@
           "id": "R01_LAC_05",
           "section": "Tkanka łączna",
           "type": "multi_select",
-          "prompt": "Zaznacz składniki krwi opisane w rozdziale.",
+          "prompt": "Zaznacz składniki krwi.",
           "options": [
             "krwinki czerwone",
             "krwinki białe",
@@ -578,7 +578,7 @@
             3
           ],
           "image": "r01_krew_skladniki.jpg",
-          "explanation": "W rozdziale opisano krwinki czerwone, krwinki białe, płytki krwi i osocze."
+          "explanation": "Opisano krwinki czerwone, krwinki białe, płytki krwi i osocze."
         },
         {
           "id": "R01_LAC_06",
@@ -632,7 +632,7 @@
           "options": null,
           "answer": true,
           "image": "r01_tkanka_kostna_i_chrzestna.jpg",
-          "explanation": "To prawda. Rozdział opisuje komórki chrzęstne jako mniej liczne i ułożone po 2-3 w jamkach."
+          "explanation": "To prawda. Opisuje się komórki chrzęstne jako mniej liczne i ułożone po 2-3 w jamkach."
         },
         {
           "id": "R01_LAC_10",
@@ -666,7 +666,7 @@
             "tkanka kostna",
             "tkanka chrzęstna"
           ],
-          "explanation": "Przykłady w rozdziale pokazują, że tkanki łączne tworzą różne struktury i pełnią różne funkcje."
+          "explanation": "Przykłady pokazują, że tkanki łączne tworzą różne struktury i pełnią różne funkcje."
         },
         {
           "id": "R01_LAC_11",
@@ -686,7 +686,7 @@
           "id": "R01_LAC_12",
           "section": "Tkanka łączna",
           "type": "multi_select",
-          "prompt": "Zaznacz funkcje krwi opisane w rozdziale.",
+          "prompt": "Zaznacz funkcje krwi.",
           "options": [
             "Transport tlenu i dwutlenku węgla",
             "Transport składników pokarmowych",
@@ -758,7 +758,7 @@
           "id": "R01_MIN_04",
           "section": "Tkanka mięśniowa i nerwowa",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy komórek mięśniowych opisane w rozdziale.",
+          "prompt": "Zaznacz cechy komórek mięśniowych.",
           "options": [
             "Białka umożliwiające skurcz",
             "Dużo mitochondriów",
@@ -1022,7 +1022,7 @@
           "id": "R01_MIX_05",
           "section": "Powtórka mieszana",
           "type": "multi_select",
-          "prompt": "Zaznacz miejsca lub narządy, w których w rozdziale wskazano tkankę nabłonkową.",
+          "prompt": "Zaznacz miejsca lub narządy, w których wskazano tkankę nabłonkową.",
           "options": [
             "skóra",
             "pęcherzyki płucne",
@@ -1039,7 +1039,7 @@
             4
           ],
           "image": "r01_lokalizacja_tkanek_w_ciele.jpg",
-          "explanation": "Rozdział pokazuje nabłonek m.in. w skórze, pęcherzykach płucnych, kanalikach nerkowych, żołądku i jamie nosowej."
+          "explanation": "Pokazuje się nabłonek m.in. w skórze, pęcherzykach płucnych, kanalikach nerkowych, żołądku i jamie nosowej."
         },
         {
           "id": "R01_MIX_06",
@@ -1048,7 +1048,7 @@
           "prompt": "Wszystkie zwierzęta mają układy narządów.",
           "options": null,
           "answer": false,
-          "explanation": "To fałsz. W rozdziale podano, że nie wszystkie zwierzęta mają taki sam stopień złożoności budowy."
+          "explanation": "To fałsz. Nie wszystkie zwierzęta mają taki sam stopień złożoności budowy."
         },
         {
           "id": "R01_MIX_07",
@@ -1057,7 +1057,7 @@
           "prompt": "Wskaż, co nie pasuje do pozostałych: pęcherzyki płucne, kanaliki nerkowe, skóra, akson.",
           "options": null,
           "answer": "akson",
-          "explanation": "Akson jest częścią neuronu, a pozostałe elementy są miejscami występowania nabłonków opisanych w rozdziale."
+          "explanation": "Akson jest częścią neuronu, a pozostałe elementy są miejscami występowania nabłonków."
         },
         {
           "id": "R01_MIX_08",
@@ -1075,7 +1075,7 @@
               "funkcje."
             ]
           ],
-          "explanation": "Definicja tkanki w rozdziale podkreśla podobną budowę komórek i wspólną funkcję."
+          "explanation": "Definicja tkanki podkreśla podobną budowę komórek i wspólną funkcję."
         },
         {
           "id": "R01_MIX_09",
@@ -1178,7 +1178,7 @@
             "wielowarstwowy płaski"
           ],
           "image": "r01_lokalizacja_tkanek_w_ciele.jpg",
-          "explanation": "Rozdział pokazuje różne nabłonki w różnych miejscach organizmu, m.in. w płucach, nerkach, drogach oddechowych, jamie nosowej, żołądku i skórze."
+          "explanation": "Pokazuje się różne nabłonki w różnych miejscach organizmu, m.in. w płucach, nerkach, drogach oddechowych, jamie nosowej, żołądku i skórze."
         },
         {
           "id": "R01_HARD_02",
@@ -1205,7 +1205,7 @@
           "options": null,
           "answer": true,
           "image": "r01_gabka_beztkankowa.jpg",
-          "explanation": "To prawda. Rozdział opisuje gąbki jako proste zwierzęta beztkankowe o nieregularnym kształcie ciała."
+          "explanation": "To prawda. Opisuje się gąbki jako proste zwierzęta beztkankowe o nieregularnym kształcie ciała."
         },
         {
           "id": "R01_HARD_04",
@@ -1276,7 +1276,7 @@
           "id": "R01_HARD_07",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz nabłonki jednowarstwowe, które w rozdziale opisano z dodatkowymi strukturami lub komórkami między nabłonkowymi.",
+          "prompt": "Zaznacz nabłonki jednowarstwowe, które opisano z dodatkowymi strukturami lub komórkami między nabłonkowymi.",
           "options": [
             "migawkowy",
             "zmysłowy",
@@ -1423,7 +1423,7 @@
           "id": "R02_PLZ_03",
           "section": "Płazińce",
           "type": "multi_select",
-          "prompt": "Zaznacz środowiska, w których według rozdziału mogą występować płazińce.",
+          "prompt": "Zaznacz środowiska, w których mogą występować płazińce.",
           "options": [
             "wody słodkie i słone",
             "wilgotne środowisko lądowe",
@@ -1655,13 +1655,13 @@
           "prompt": "Nicienie mają wyraźnie wyodrębnioną głowę.",
           "options": null,
           "answer": false,
-          "explanation": "W podręczniku podano, że nicienie nie mają wyodrębnionej głowy."
+          "explanation": "Nicienie nie mają wyodrębnionej głowy."
         },
         {
           "id": "R02_NIC_03",
           "section": "Nicienie",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy budowy nicieni opisane w rozdziale.",
+          "prompt": "Zaznacz cechy budowy nicieni.",
           "options": [
             "ciało wypełnione płynem nadającym sprężystość",
             "przewód pokarmowy",
@@ -1707,7 +1707,7 @@
             "Nicienie nigdy nie są pasożytami roślin."
           ],
           "answer": 0,
-          "explanation": "Rozdział podaje przykłady nicieni wolno żyjących oraz pasożytów roślin i zwierząt."
+          "explanation": "Podaje się przykłady nicieni wolno żyjących oraz pasożytów roślin i zwierząt."
         },
         {
           "id": "R02_NIC_06",
@@ -1753,7 +1753,7 @@
           "id": "R02_NIC_08",
           "section": "Nicienie",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy nicieni pasożytniczych wymienione w podręczniku.",
+          "prompt": "Zaznacz cechy nicieni pasożytniczych.",
           "options": [
             "u niektórych prosty aparat czepny w formie warg",
             "oddychanie beztlenowe",
@@ -1778,7 +1778,7 @@
           "prompt": "Większość nicieni pasożytniczych to obojnaki.",
           "options": null,
           "answer": false,
-          "explanation": "W podręczniku zapisano, że większość nicieni pasożytniczych jest rozdzielnopłciowa."
+          "explanation": "Większość nicieni pasożytniczych jest rozdzielnopłciowa."
         },
         {
           "id": "R02_NIC_10",
@@ -2016,7 +2016,7 @@
           "id": "R02_PIE_08",
           "section": "Pierścienice",
           "type": "multi_select",
-          "prompt": "Zaznacz funkcje dżdżownic w przyrodzie i dla człowieka opisane w rozdziale.",
+          "prompt": "Zaznacz funkcje dżdżownic w przyrodzie i dla człowieka.",
           "options": [
             "spulchniają glebę",
             "mieszają warstwy gleby",
@@ -2151,7 +2151,7 @@
           "id": "R02_CHO_02",
           "section": "Choroby pasożytnicze",
           "type": "multi_select",
-          "prompt": "Zaznacz sposoby zapobiegania tasiemczycy opisane w podręczniku.",
+          "prompt": "Zaznacz sposoby zapobiegania tasiemczycy.",
           "options": [
             "unikanie surowego lub niedogotowanego mięsa",
             "niespożywanie mięsa nieprzebadanego i z nieznanego źródła",
@@ -2170,7 +2170,7 @@
           "id": "R02_CHO_03",
           "section": "Choroby pasożytnicze",
           "type": "scenario",
-          "prompt": "Ktoś zjadł surową wołowinę z larwami tasiemca. Którym tasiemcem może się zarazić według rozdziału?",
+          "prompt": "Ktoś zjadł surową wołowinę z larwami tasiemca. Którym tasiemcem może się zarazić?",
           "options": [
             "tasiemcem nieuzbrojonym",
             "tasiemcem uzbrojonym",
@@ -2205,13 +2205,13 @@
           "prompt": "Człowiek może być żywicielem pośrednim dla tasiemca bąblowcowego.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że człowiek może być żywicielem pośrednim tasiemca bąblowcowego."
+          "explanation": "Człowiek może być żywicielem pośrednim tasiemca bąblowcowego."
         },
         {
           "id": "R02_CHO_06",
           "section": "Choroby pasożytnicze",
           "type": "single_choice",
-          "prompt": "W którym narządzie człowieka larwy bąblowca najczęściej tworzą zmiany opisane w podręczniku?",
+          "prompt": "W którym narządzie człowieka larwy bąblowca najczęściej tworzą zmiany?",
           "options": [
             "w wątrobie",
             "w jelicie grubym",
@@ -2247,7 +2247,7 @@
           "id": "R02_CHO_08",
           "section": "Choroby pasożytnicze",
           "type": "single_choice",
-          "prompt": "U kogo według rozdziału owsica występuje zwykle najczęściej?",
+          "prompt": "U kogo owsica występuje zwykle najczęściej?",
           "options": [
             "u dzieci w wieku przedszkolnym i wczesnoszkolnym",
             "u wyłącznie dorosłych hodowców ryb",
@@ -2263,7 +2263,7 @@
           "id": "R02_CHO_09",
           "section": "Choroby pasożytnicze",
           "type": "multi_select",
-          "prompt": "Zaznacz objawy owsicy wymienione w podręczniku.",
+          "prompt": "Zaznacz objawy owsicy.",
           "options": [
             "świąd okolic odbytu, głównie w nocy",
             "problemy ze snem i niepokój",
@@ -2306,7 +2306,7 @@
           "id": "R02_CHO_11",
           "section": "Choroby pasożytnicze",
           "type": "single_choice",
-          "prompt": "Jaki charakterystyczny objaw glistnicy jest opisany w rozdziale?",
+          "prompt": "Jaki charakterystyczny objaw glistnicy jest?",
           "options": [
             "kaszel wywoływany przez larwy wędrujące w organizmie",
             "świąd odbytu głównie w nocy",
@@ -2397,7 +2397,7 @@
           "id": "R02_MIE_03",
           "section": "Powtórka mieszana",
           "type": "multi_select",
-          "prompt": "Które z wymienionych grup mają przewód pokarmowy według podsumowania rozdziału?",
+          "prompt": "Które z wymienionych grup mają przewód pokarmowy?",
           "options": [
             "nicienie",
             "pierścienice",
@@ -2427,7 +2427,7 @@
           "prompt": "Płazińce, nicienie i pierścienice należą do bezkręgowców.",
           "options": null,
           "answer": true,
-          "explanation": "Wszystkie trzy grupy opisane w tym rozdziale to bezkręgowce, czyli zwierzęta bez kręgosłupa."
+          "explanation": "Wszystkie trzy grupy to bezkręgowce, czyli zwierzęta bez kręgosłupa."
         },
         {
           "id": "R02_MIE_06",
@@ -2597,7 +2597,7 @@
             "około 2 km"
           ],
           "answer": 0,
-          "explanation": "W rozdziale podano, że średnia długość jelita cienkiego u dorosłego człowieka wynosi około 6 metrów."
+          "explanation": "Średnia długość jelita cienkiego u dorosłego człowieka wynosi około 6 metrów."
         },
         {
           "id": "R02_HARD_03",
@@ -2622,7 +2622,7 @@
           "prompt": "Caenorhabditis elegans ma według tekstu zawsze dokładnie 959 komórek, a około jedną trzecią z nich stanowią komórki nerwowe.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że ten modelowy nicień jest zbudowany z 959 komórek, z czego około jedną trzecią stanowią komórki nerwowe."
+          "explanation": "Ten modelowy nicień jest zbudowany z 959 komórek, z czego około jedną trzecią stanowią komórki nerwowe."
         },
         {
           "id": "R02_HARD_05",
@@ -2693,7 +2693,7 @@
             "samozapłodnienie": "połączenie gamet wytwarzanych przez ten sam organizm",
             "zapłodnienie krzyżowe": "połączenie gamet między dwoma obojnakami"
           },
-          "explanation": "Słowniczek rozdziału rozróżnia typy rozwoju oraz dwa sposoby zapłodnienia u obojnaków."
+          "explanation": "Rozróżnia się typy rozwoju oraz dwa sposoby zapłodnienia u obojnaków."
         }
       ],
       "kidPrompts": {},
@@ -2775,7 +2775,7 @@
           "prompt": "Stawonogi tworzą jedną z najliczniejszych i najbardziej różnorodnych grup zwierząt.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podano, że opisano ponad milion gatunków stawonogów."
+          "explanation": "Opisano ponad milion gatunków stawonogów."
         },
         {
           "id": "R03_STA_03",
@@ -2817,7 +2817,7 @@
           "id": "R03_STA_04",
           "section": "Stawonogi",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy budowy stawonogów opisane w rozdziale.",
+          "prompt": "Zaznacz cechy budowy stawonogów.",
           "options": [
             "segmentowane ciało",
             "odnóża ze stawami",
@@ -2855,7 +2855,7 @@
           "id": "R03_STA_06",
           "section": "Stawonogi",
           "type": "single_choice",
-          "prompt": "Który zestaw części ciała jest typowy dla pajęczaków i skorupiaków opisanych w rozdziale?",
+          "prompt": "Który zestaw części ciała jest typowy dla pajęczaków i skorupiaków?",
           "options": [
             "głowotułów i odwłok",
             "głowa, noga i worek trzewiowy",
@@ -2931,7 +2931,7 @@
           "id": "R03_STA_10",
           "section": "Stawonogi",
           "type": "multi_select",
-          "prompt": "Zaznacz środowiska życia stawonogów wymienione w rozdziale.",
+          "prompt": "Zaznacz środowiska życia stawonogów.",
           "options": [
             "lądy",
             "morza i oceany",
@@ -3413,7 +3413,7 @@
           "prompt": "Kosarz pospolity jest pajęczakiem, ale nie należy do pająków.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podano, że kosarz jest pajęczakiem, często mylonym z pająkiem, ale pająkiem nie jest."
+          "explanation": "Kosarz jest pajęczakiem, często mylonym z pająkiem, ale pająkiem nie jest."
         },
         {
           "id": "R03_ZNA_08",
@@ -3456,7 +3456,7 @@
           "id": "R03_ZNA_10",
           "section": "Znaczenie stawonogów",
           "type": "multi_select",
-          "prompt": "Zaznacz negatywne znaczenie stawonogów opisane w rozdziale.",
+          "prompt": "Zaznacz negatywne znaczenie stawonogów.",
           "options": [
             "mogą być szkodnikami upraw",
             "mogą przenosić choroby",
@@ -3477,7 +3477,7 @@
           "id": "R03_ZNA_11",
           "section": "Znaczenie stawonogów",
           "type": "match",
-          "prompt": "Połącz owada z jego znaczeniem opisanym w rozdziale.",
+          "prompt": "Połącz owada z jego znaczeniem.",
           "options": null,
           "left": [
             "biedronka siedmiokropka",
@@ -3541,13 +3541,13 @@
               "ujemne"
             ]
           ],
-          "explanation": "W rozdziale opisano zarówno korzyści ze stawonogów, jak i szkody oraz zagrożenia powodowane przez niektóre gatunki."
+          "explanation": "Opisano zarówno korzyści ze stawonogów, jak i szkody oraz zagrożenia powodowane przez niektóre gatunki."
         },
         {
           "id": "R03_MIE_01",
           "section": "Mięczaki",
           "type": "single_choice",
-          "prompt": "Jaka jest wspólna cecha mięczaków wskazana w rozdziale?",
+          "prompt": "Jaka jest wspólna cecha mięczaków?",
           "options": [
             "miękkie ciało",
             "odnóża ze stawami",
@@ -3654,7 +3654,7 @@
           "id": "R03_MIE_06",
           "section": "Mięczaki",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy ślimaków opisane w rozdziale.",
+          "prompt": "Zaznacz cechy ślimaków.",
           "options": [
             "ciało z głowy, nogi i worka trzewiowego",
             "u większości pojedyncza, spiralnie skręcona muszla",
@@ -3728,7 +3728,7 @@
           "options": null,
           "answer": true,
           "image": "r03_malze_budowa.jpg",
-          "explanation": "W rozdziale podano, że małże są jedyną z omawianych grup mięczaków bez głowy."
+          "explanation": "Małże są jedyną z omawianych grup mięczaków bez głowy."
         },
         {
           "id": "R03_MIE_11",
@@ -3903,7 +3903,7 @@
           "id": "R03_MIX_06",
           "section": "Powtórka mieszana",
           "type": "multi_select",
-          "prompt": "Zaznacz organizmy, które według rozdziału mogą mieć znaczenie jako pasożyty człowieka lub zwierząt.",
+          "prompt": "Zaznacz organizmy, które mogą mieć znaczenie jako pasożyty człowieka lub zwierząt.",
           "options": [
             "wesz ludzka",
             "kleszcz pospolity",
@@ -4030,7 +4030,7 @@
           "id": "R03_HARD_01",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Które cechy chitynowego oskórka stawonogów są opisane w rozdziale?",
+          "prompt": "Które cechy chitynowego oskórka stawonogów są?",
           "options": [
             "chroni przed urazami",
             "ogranicza utratę wody na lądzie",
@@ -4111,7 +4111,7 @@
             "perłopław": "wytwarza perły używane do ozdób",
             "roztocza kurzu domowego": "mogą wywoływać alergie"
           },
-          "explanation": "W rozdziale pokazano, że zarówno mięczaki, jak i stawonogi mogą mieć pozytywne i negatywne znaczenie dla człowieka."
+          "explanation": "Zarówno mięczaki, jak i stawonogi mogą mieć pozytywne i negatywne znaczenie dla człowieka."
         },
         {
           "id": "R03_HARD_05",
@@ -4164,14 +4164,14 @@
           "id": "R03_HARD_08",
           "section": "Super trudne",
           "type": "riddle",
-          "prompt": "Największy bezkręgowiec na świecie wymieniony w rozdziale to...",
+          "prompt": "Największy bezkręgowiec na świecie to...",
           "options": null,
           "answer": "kałamarnica olbrzymia",
           "altAnswers": [
             "kałamarnica olbrzymia",
             "kalamarnica olbrzymia"
           ],
-          "explanation": "W rozdziale podano, że do głowonogów należy największy bezkręgowiec świata — kałamarnica olbrzymia."
+          "explanation": "Do głowonogów należy największy bezkręgowiec świata — kałamarnica olbrzymia."
         },
         {
           "id": "R03_HARD_09",
@@ -4194,7 +4194,7 @@
           "id": "R03_HARD_10",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Która informacja najlepiej odróżnia ślimaki lądowe od wodnych w rozdziale?",
+          "prompt": "Która informacja najlepiej odróżnia ślimaki lądowe od wodnych?",
           "options": [
             "lądowe mają narząd działający podobnie do płuca, a wodne mają skrzela",
             "lądowe mają zawsze dwuczęściową muszlę, a wodne nie mają muszli",
@@ -4309,7 +4309,7 @@
           "id": "R04_RYB_03",
           "section": "Ryby",
           "type": "single_choice",
-          "prompt": "W jakich środowiskach występują ryby opisane w rozdziale?",
+          "prompt": "W jakich środowiskach występują ryby?",
           "options": [
             "w wodach słodkich i słonych",
             "wyłącznie w morzach",
@@ -4451,7 +4451,7 @@
           "id": "R04_RYB_11",
           "section": "Ryby",
           "type": "single_choice",
-          "prompt": "Jaki typ rozwoju przechodzą ryby opisane w rozdziale?",
+          "prompt": "Jaki typ rozwoju przechodzą ryby?",
           "options": [
             "rozwój prosty",
             "rozwój złożony z kijanką",
@@ -4478,7 +4478,7 @@
           "id": "R04_ZNA_01",
           "section": "Znaczenie i ochrona",
           "type": "sort",
-          "prompt": "Przyporządkuj ryby do środowiska występowania podanego w rozdziale.",
+          "prompt": "Przyporządkuj ryby do środowiska występowania.",
           "options": null,
           "items": [
             "pstrąg",
@@ -4541,7 +4541,7 @@
             ]
           },
           "image": "r04_roznorodnosc_ryb.jpg",
-          "explanation": "W rozdziale ryby podzielono na roślinożerne, wszystkożerne i mięsożerne zależnie od rodzaju pobieranego pokarmu."
+          "explanation": "Ryby podzielono na roślinożerne, wszystkożerne i mięsożerne zależnie od rodzaju pobieranego pokarmu."
         },
         {
           "id": "R04_ZNA_03",
@@ -4724,7 +4724,7 @@
             "tuńczyk i dorsz"
           ],
           "answer": 0,
-          "explanation": "W rozdziale podano, że łososie, węgorze i trocie spędzają część życia w wodzie słodkiej i część w słonej, a zmiana środowiska jest związana z rozmnażaniem."
+          "explanation": "Łososie, węgorze i trocie spędzają część życia w wodzie słodkiej i część w słonej, a zmiana środowiska jest związana z rozmnażaniem."
         },
         {
           "id": "R04_PLA_01",
@@ -4792,7 +4792,7 @@
           "id": "R04_PLA_04",
           "section": "Płazy",
           "type": "single_choice",
-          "prompt": "Której grupy płazów nie spotyka się w Polsce według rozdziału?",
+          "prompt": "Której grupy płazów nie spotyka się w Polsce?",
           "options": [
             "beznogich",
             "bezogonowych",
@@ -4987,7 +4987,7 @@
           "id": "R04_GAD_03",
           "section": "Gady",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy skóry gadów opisane w rozdziale.",
+          "prompt": "Zaznacz cechy skóry gadów.",
           "options": [
             "jest sucha",
             "jest pokryta łuskami",
@@ -5088,7 +5088,7 @@
             ]
           },
           "image": "r04_gady_podzial.jpg",
-          "explanation": "W rozdziale gady podzielono m.in. na jaszczurki, węże, żółwie i krokodyle."
+          "explanation": "Gady podzielono m.in. na jaszczurki, węże, żółwie i krokodyle."
         },
         {
           "id": "R04_GAD_07",
@@ -5256,7 +5256,7 @@
           "id": "R04_ZPG_03",
           "section": "Płazy i gady: znaczenie",
           "type": "match",
-          "prompt": "Połącz płaza z cechą opisaną w rozdziale.",
+          "prompt": "Połącz płaza z cechą.",
           "options": null,
           "left": [
             "rzekotka drzewna",
@@ -5351,7 +5351,7 @@
           "prompt": "Wszystkie gatunki płazów w Polsce są objęte ochroną ścisłą.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podano, że wszystkie gatunki płazów w Polsce są objęte ochroną ścisłą."
+          "explanation": "Wszystkie gatunki płazów w Polsce są objęte ochroną ścisłą."
         },
         {
           "id": "R04_ZPG_08",
@@ -5612,7 +5612,7 @@
           "id": "R04_MIX_05",
           "section": "Powtórka mieszana",
           "type": "multi_select",
-          "prompt": "Zaznacz grupy kręgowców z tego rozdziału, które są zmiennocieplne.",
+          "prompt": "Zaznacz grupy kręgowców, które są zmiennocieplne.",
           "options": [
             "ryby",
             "płazy",
@@ -5943,7 +5943,7 @@
           "id": "R05_PTA_02",
           "section": "Ptaki",
           "type": "single_choice",
-          "prompt": "Z jaką grupą wymarłych zwierząt wiąże się pochodzenie ptaków opisane w rozdziale?",
+          "prompt": "Z jaką grupą wymarłych zwierząt wiąże się pochodzenie ptaków?",
           "options": [
             "z jedną z grup dinozaurów",
             "z rybami chrzęstnoszkieletowymi",
@@ -5954,13 +5954,13 @@
           ],
           "answer": 0,
           "image": "r05_archeopteryks.jpg",
-          "explanation": "W rozdziale podano, że ptaki najprawdopodobniej wywodzą się od jednej z grup dinozaurów."
+          "explanation": "Ptaki najprawdopodobniej wywodzą się od jednej z grup dinozaurów."
         },
         {
           "id": "R05_PTA_03",
           "section": "Ptaki",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy archeopteryksa podane w rozdziale.",
+          "prompt": "Zaznacz cechy archeopteryksa.",
           "options": [
             "miał skrzydła i pióra",
             "miał ogon, zęby i pazury",
@@ -5992,7 +5992,7 @@
           "id": "R05_PTA_05",
           "section": "Ptaki",
           "type": "multi_select",
-          "prompt": "Zaznacz wspólne cechy ptaków opisane w rozdziale.",
+          "prompt": "Zaznacz wspólne cechy ptaków.",
           "options": [
             "są stałocieplne",
             "mają ciało pokryte piórami",
@@ -6119,7 +6119,7 @@
           "id": "R05_PTA_12",
           "section": "Ptaki",
           "type": "riddle",
-          "prompt": "Najwcześniejszy znany ptak wymieniony w rozdziale to...",
+          "prompt": "Najwcześniejszy znany ptak to...",
           "options": null,
           "answer": "archeopteryks",
           "altAnswers": [
@@ -6127,7 +6127,7 @@
             "Archeopteryks"
           ],
           "image": "r05_archeopteryks.jpg",
-          "explanation": "Archeopteryks to najwcześniejszy znany ptak opisany w rozdziale."
+          "explanation": "Archeopteryks to najwcześniejszy znany ptak."
         },
         {
           "id": "R05_ROP_01",
@@ -6154,7 +6154,7 @@
           "options": null,
           "answer": true,
           "image": "r05_jajo_ptaka_budowa.jpg",
-          "explanation": "W rozdziale podano, że wszystkie ptaki składają jaja."
+          "explanation": "Wszystkie ptaki składają jaja."
         },
         {
           "id": "R05_ROP_03",
@@ -6257,7 +6257,7 @@
           "id": "R05_ROP_07",
           "section": "Rozmnażanie ptaków",
           "type": "single_choice",
-          "prompt": "Który przykład należy do zagniazdowników według rozdziału?",
+          "prompt": "Który przykład należy do zagniazdowników?",
           "options": [
             "kaczki",
             "sokoły",
@@ -6274,7 +6274,7 @@
           "id": "R05_ROP_08",
           "section": "Rozmnażanie ptaków",
           "type": "single_choice",
-          "prompt": "Który przykład należy do gniazdowników według rozdziału?",
+          "prompt": "Który przykład należy do gniazdowników?",
           "options": [
             "dzięcioły",
             "kaczki",
@@ -6371,7 +6371,7 @@
           "id": "R05_ZPT_02",
           "section": "Ptaki: znaczenie i ochrona",
           "type": "match",
-          "prompt": "Połącz ptaka z cechą skrzydeł lub sposobem poruszania się opisanym w rozdziale.",
+          "prompt": "Połącz ptaka z cechą skrzydeł lub sposobem poruszania się.",
           "options": null,
           "left": [
             "albatros wędrowny",
@@ -6395,7 +6395,7 @@
           "id": "R05_ZPT_03",
           "section": "Ptaki: znaczenie i ochrona",
           "type": "match",
-          "prompt": "Połącz dziób z funkcją wynikającą z opisu w rozdziale.",
+          "prompt": "Połącz dziób z funkcją wynikającą z opisu.",
           "options": null,
           "left": [
             "krótki, mocny dziób bogatki",
@@ -6425,7 +6425,7 @@
           "id": "R05_ZPT_04",
           "section": "Ptaki: znaczenie i ochrona",
           "type": "multi_select",
-          "prompt": "Zaznacz znaczenie ptaków w przyrodzie opisane w rozdziale.",
+          "prompt": "Zaznacz znaczenie ptaków w przyrodzie.",
           "options": [
             "regulują liczebność organizmów",
             "rozsiewają nasiona",
@@ -6530,7 +6530,7 @@
           "id": "R05_ZPT_09",
           "section": "Ptaki: znaczenie i ochrona",
           "type": "single_choice",
-          "prompt": "Który ptak opisany w rozdziale odfiltrowuje pokarm z wody szerokim dziobem?",
+          "prompt": "Który ptak odfiltrowuje pokarm z wody szerokim dziobem?",
           "options": [
             "krzyżówka",
             "sokół wędrowny",
@@ -6551,7 +6551,7 @@
           "options": null,
           "answer": true,
           "image": "r05_ochrona_ptakow.jpg",
-          "explanation": "W rozdziale podano, że niewypuszczanie kotów domowych na dwór ogranicza ich polowanie na ptaki i wyjadanie piskląt."
+          "explanation": "Niewypuszczanie kotów domowych na dwór ogranicza ich polowanie na ptaki i wyjadanie piskląt."
         },
         {
           "id": "R05_ZPT_11",
@@ -6597,7 +6597,7 @@
           "id": "R05_SSA_02",
           "section": "Ssaki",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy wspólne ssaków opisane w rozdziale.",
+          "prompt": "Zaznacz cechy wspólne ssaków.",
           "options": [
             "gruczoły mlekowe",
             "skóra pokryta włosami u większości gatunków",
@@ -6795,7 +6795,7 @@
           "id": "R05_RSS_01",
           "section": "Różnorodność ssaków",
           "type": "multi_select",
-          "prompt": "Zaznacz środowiska życia ssaków wymienione w rozdziale.",
+          "prompt": "Zaznacz środowiska życia ssaków.",
           "options": [
             "ląd",
             "siedliska słodkowodne",
@@ -6882,7 +6882,7 @@
           "id": "R05_RSS_05",
           "section": "Różnorodność ssaków",
           "type": "single_choice",
-          "prompt": "Który ssak wymieniony w rozdziale żyje w zimnych rejonach Azji i znosi silny mróz?",
+          "prompt": "Który ssak żyje w zimnych rejonach Azji i znosi silny mróz?",
           "options": [
             "tygrys syberyjski",
             "kangur rudy",
@@ -6941,7 +6941,7 @@
           "id": "R05_RSS_07",
           "section": "Różnorodność ssaków",
           "type": "single_choice",
-          "prompt": "Który opis najlepiej pasuje do roślinożerców według rozdziału?",
+          "prompt": "Który opis najlepiej pasuje do roślinożerców?",
           "options": [
             "mają duże i szerokie zęby przedtrzonowe i trzonowe",
             "mają wyłącznie długie ostre kły",
@@ -6975,7 +6975,7 @@
           "id": "R05_RSS_09",
           "section": "Różnorodność ssaków",
           "type": "scenario",
-          "prompt": "Uczeń obserwuje ssaka, którego kończyny są przekształcone w płetwy i który pływa w morzu. Do którego przykładu z rozdziału najbardziej pasuje ten opis?",
+          "prompt": "Uczeń obserwuje ssaka, którego kończyny są przekształcone w płetwy i który pływa w morzu. Do którego przykładu najbardziej pasuje ten opis?",
           "options": [
             "morświn zwyczajny",
             "kret europejski",
@@ -6996,7 +6996,7 @@
           "options": null,
           "answer": true,
           "image": "r05_uzebienie_ssakow.jpg",
-          "explanation": "W rozdziale podano, że uzębienie wszystkożerców łączy cechy uzębienia roślinożerców i mięsożerców."
+          "explanation": "Uzębienie wszystkożerców łączy cechy uzębienia roślinożerców i mięsożerców."
         },
         {
           "id": "R05_RSS_11",
@@ -7026,7 +7026,7 @@
           "id": "R05_ZSS_01",
           "section": "Ssaki: znaczenie i ochrona",
           "type": "multi_select",
-          "prompt": "Zaznacz znaczenie ssaków w przyrodzie opisane w rozdziale.",
+          "prompt": "Zaznacz znaczenie ssaków w przyrodzie.",
           "options": [
             "regulują liczebność organizmów",
             "rozprzestrzeniają nasiona",
@@ -7177,7 +7177,7 @@
           ],
           "answer": 0,
           "image": "r05_zagrozenia_ssakow.jpg",
-          "explanation": "W rozdziale jako przykład gatunku inwazyjnego podano m.in. szopa pracza."
+          "explanation": "Jako przykład gatunku inwazyjnego podano m.in. szopa pracza."
         },
         {
           "id": "R05_ZSS_08",
@@ -7253,7 +7253,7 @@
           "id": "R05_HARD_01",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz cechę z grupą kręgowców, której najlepiej dotyczy w tym rozdziale.",
+          "prompt": "Połącz cechę z grupą kręgowców, której najlepiej dotyczy.",
           "options": null,
           "left": [
             "pióra",

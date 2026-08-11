@@ -1,8 +1,8 @@
 {
   "id": "historia-5-gwo",
   "title": "Historia 5 GWO",
-  "version": 2,
-  "contentHash": "9ab58b57cc2992c5dfef69200b144fa7daa16f377ba2c8c42fba2451a3f5b653",
+  "version": 3,
+  "contentHash": "d56defb85f8764e41990f79c3f69f8d433d51f3e308f52406f6694bd711bcd7e",
   "bookConfig": {
     "id": "historia-5-gwo",
     "title": "Historia 5 GWO",
@@ -53,7 +53,7 @@
           "id": "R01_CZA_02",
           "section": "Czas i epoki",
           "type": "true_false",
-          "prompt": "W podręczniku wyjaśniono, że roku 0 nie było.",
+          "prompt": "Roku 0 nie było.",
           "options": null,
           "answer": true,
           "explanation": "Na osi czasu po 1 roku p.n.e. następuje 1 rok n.e., bez roku zerowego."
@@ -125,7 +125,7 @@
           "id": "R01_CZA_07",
           "section": "Czas i epoki",
           "type": "multi_select",
-          "prompt": "Zaznacz epoki prehistoryczne wymienione w podręczniku.",
+          "prompt": "Zaznacz epoki prehistoryczne.",
           "options": [
             "starsza epoka kamienia",
             "młodsza epoka kamienia",
@@ -155,7 +155,7 @@
             "średniowiecze",
             "nowożytność"
           ],
-          "explanation": "Podręcznik podaje kolejność: starożytność, średniowiecze, nowożytność."
+          "explanation": "Podaje się kolejność: starożytność, średniowiecze, nowożytność."
         },
         {
           "id": "R01_CZA_09",
@@ -198,7 +198,7 @@
             "historia": "dzieje od wynalezienia pisma",
             "tysiąclecie": "pełne tysiąc lat"
           },
-          "explanation": "Chronologia, prehistoria, historia i tysiąclecie mają w rozdziale odrębne znaczenia."
+          "explanation": "Chronologia, prehistoria, historia i tysiąclecie mają odrębne znaczenia."
         },
         {
           "id": "R01_CZA_11",
@@ -216,7 +216,7 @@
           "prompt": "Podział na epoki jest umowny, bo historycy przyjmują wybrane wydarzenia jako granice epok.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podkreśla, że daty graniczne epok są umowne i mogą być różnie wskazywane."
+          "explanation": "Daty graniczne epok są umowne i mogą być różnie wskazywane."
         },
         {
           "id": "R01_PAL_01",
@@ -248,7 +248,7 @@
             "około 1700 r. p.n.e."
           ],
           "answer": 1,
-          "explanation": "Podręcznik podaje, że ludzie przywędrowali do Europy około 40 tysięcy lat temu."
+          "explanation": "Ludzie przywędrowali do Europy około 40 tysięcy lat temu."
         },
         {
           "id": "R01_PAL_03",
@@ -312,7 +312,7 @@
             "z cegieł suszonych na słońcu"
           ],
           "answer": 2,
-          "explanation": "W rozdziale opisano namioty z kości mamuta okrytych zwierzęcymi skórami."
+          "explanation": "Opisano namioty z kości mamuta okrytych zwierzęcymi skórami."
         },
         {
           "id": "R01_PAL_07",
@@ -407,7 +407,7 @@
             "łuk": "łatwiejsze polowanie na szybkie zwierzęta",
             "krzemień": "wyrób ostrych narzędzi i broni"
           },
-          "explanation": "W rozdziale opisano praktyczne znaczenie jaskini, ognia, łuku i krzemienia."
+          "explanation": "Opisano praktyczne znaczenie jaskini, ognia, łuku i krzemienia."
         },
         {
           "id": "R01_PAL_12",
@@ -432,7 +432,7 @@
             "w Rzymie"
           ],
           "answer": 1,
-          "explanation": "Podręcznik wskazuje mieszkańców Bliskiego Wschodu jako pierwszych rolników."
+          "explanation": "Wskazuje się mieszkańców Bliskiego Wschodu jako pierwszych rolników."
         },
         {
           "id": "R01_NEO_02",
@@ -456,7 +456,7 @@
           "id": "R01_NEO_03",
           "section": "Neolit",
           "type": "multi_select",
-          "prompt": "Zaznacz skutki rewolucji neolitycznej wymienione w podręczniku.",
+          "prompt": "Zaznacz skutki rewolucji neolitycznej.",
           "options": [
             "osiadły tryb życia",
             "udoskonalenie kamiennych narzędzi",
@@ -481,7 +481,7 @@
           "prompt": "Rolnictwo obejmuje uprawę ziemi oraz hodowlę zwierząt.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik definiuje rolnictwo jako uprawę ziemi i hodowlę zwierząt."
+          "explanation": "Definiuje się rolnictwo jako uprawę ziemi i hodowlę zwierząt."
         },
         {
           "id": "R01_NEO_05",
@@ -545,7 +545,7 @@
             "malarstwo ścienne i fotografia"
           ],
           "answer": 0,
-          "explanation": "Podręcznik wymienia garncarstwo i tkactwo jako pierwsze gałęzie rzemiosła."
+          "explanation": "Wymienia się garncarstwo i tkactwo jako pierwsze gałęzie rzemiosła."
         },
         {
           "id": "R01_NEO_08",
@@ -609,7 +609,7 @@
             2,
             3
           ],
-          "explanation": "W rozdziale wymieniono kozy, owce, bydło i świnie."
+          "explanation": "Wymieniono kozy, owce, bydło i świnie."
         },
         {
           "id": "R01_NEO_11",
@@ -660,7 +660,7 @@
           "id": "R01_CYW_02",
           "section": "Pierwsze cywilizacje",
           "type": "multi_select",
-          "prompt": "Zaznacz obszary, na których powstały pierwsze cywilizacje wymienione w rozdziale.",
+          "prompt": "Zaznacz obszary, na których powstały pierwsze cywilizacje.",
           "options": [
             "Mezopotamia",
             "Egipt",
@@ -675,7 +675,7 @@
             2,
             3
           ],
-          "explanation": "Podręcznik wymienia Mezopotamię, Egipt, Indie i Chiny."
+          "explanation": "Wymienia się Mezopotamię, Egipt, Indie i Chiny."
         },
         {
           "id": "R01_CYW_03",
@@ -866,7 +866,7 @@
               "wyroby ceramiczne wysokiej jakości"
             ]
           },
-          "explanation": "Rozdział przypisuje pismo klinowe, koło, szkło i brąz Sumerom, kanalizację i domy z cegieł dolinie Indusu, a pismo obrazkowe oraz wyroby ceramiczne Chinom."
+          "explanation": "Przypisuje się pismo klinowe, koło, szkło i brąz Sumerom, kanalizację i domy z cegieł dolinie Indusu, a pismo obrazkowe oraz wyroby ceramiczne Chinom."
         },
         {
           "id": "R01_EGI_01",
@@ -911,7 +911,7 @@
               "około 3100"
             ]
           ],
-          "explanation": "Podręcznik podaje, że państwo egipskie powstało około 3100 r. p.n.e."
+          "explanation": "Państwo egipskie powstało około 3100 r. p.n.e."
         },
         {
           "id": "R01_EGI_04",
@@ -980,7 +980,7 @@
           "id": "R01_EGI_07",
           "section": "Egipt",
           "type": "sequence",
-          "prompt": "Ułóż warstwy społeczeństwa egipskiego od najwyższej do najniższej według podsumowania podręcznika.",
+          "prompt": "Ułóż warstwy społeczeństwa egipskiego od najwyższej do najniższej.",
           "options": null,
           "items": [
             "urzędnicy",
@@ -1003,7 +1003,7 @@
             "niewolnicy"
           ],
           "image": "r01_piramida_spoleczna_egiptu.jpg",
-          "explanation": "Podręcznik przedstawia społeczeństwo jako piramidę: faraon, wezyr, kapłani, urzędnicy, rzemieślnicy, żołnierze, chłopi, niewolnicy."
+          "explanation": "Przedstawia się społeczeństwo jako piramidę: faraon, wezyr, kapłani, urzędnicy, rzemieślnicy, żołnierze, chłopi, niewolnicy."
         },
         {
           "id": "R01_EGI_08",
@@ -1026,7 +1026,7 @@
           "id": "R01_EGI_09",
           "section": "Egipt",
           "type": "multi_select",
-          "prompt": "Na czym lub w jaki sposób pisali Egipcjanie według rozdziału?",
+          "prompt": "Na czym lub w jaki sposób pisali Egipcjanie?",
           "options": [
             "wykuwali hieroglify w skałach i na ścianach",
             "pisali pędzelkiem na papirusie",
@@ -1054,7 +1054,7 @@
             "Mumia"
           ],
           "image": "r01_mumia_i_grobowiec.jpg",
-          "explanation": "Podręcznik wyjaśnia mumię przy opowieści o Ozyrysie i Anubisie."
+          "explanation": "Wyjaśnia się mumię przy opowieści o Ozyrysie i Anubisie."
         },
         {
           "id": "R01_EGI_11",
@@ -1109,7 +1109,7 @@
           "id": "R01_HARD_02",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który rok według przykładów z podręcznika należy do VIII wieku p.n.e.?",
+          "prompt": "Który rok według przykładów należy do VIII wieku p.n.e.?",
           "options": [
             "776 r. p.n.e.",
             "1370 r. n.e.",
@@ -1119,7 +1119,7 @@
             "1001 r. n.e."
           ],
           "answer": 0,
-          "explanation": "Podręcznik pokazuje przykład: 776 rok p.n.e. to VIII wiek p.n.e."
+          "explanation": "Pokazuje się przykład: 776 rok p.n.e. to VIII wiek p.n.e."
         },
         {
           "id": "R01_HARD_03",
@@ -1145,7 +1145,7 @@
           "id": "R01_HARD_04",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz osiągnięcia przypisane w podręczniku Sumerom jako pierwszym w dziejach.",
+          "prompt": "Zaznacz osiągnięcia Sumerom jako pierwszym w dziejach.",
           "options": [
             "pismo około 3500 r. p.n.e.",
             "koło i pierwsze wozy",
@@ -1160,7 +1160,7 @@
             2,
             3
           ],
-          "explanation": "Rozdział wymienia sumeryjskie pismo, koło i pierwsze wozy, szkło oraz uzyskanie brązu."
+          "explanation": "Wymienia się sumeryjskie pismo, koło i pierwsze wozy, szkło oraz uzyskanie brązu."
         },
         {
           "id": "R01_HARD_05",
@@ -1195,7 +1195,7 @@
               "około 3000"
             ]
           ],
-          "explanation": "W rozdziale podano, że pismo egipskie powstało około 3000 r. p.n.e."
+          "explanation": "Pismo egipskie powstało około 3000 r. p.n.e."
         },
         {
           "id": "R01_HARD_07",
@@ -1211,7 +1211,7 @@
             "około 2300000"
           ],
           "answer": 1,
-          "explanation": "Podręcznik podaje, że pismo hieroglificzne liczyło około 800 znaków."
+          "explanation": "Pismo hieroglificzne liczyło około 800 znaków."
         },
         {
           "id": "R01_HARD_08",
@@ -1237,13 +1237,13 @@
           "prompt": "Grobowiec Tutanchamona został odkryty w 1922 roku i nie był wcześniej obrabowany jak znane piramidy i grobowce.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że w 1922 roku archeolodzy odkryli grobowiec Tutanchamona pełen złota i kosztowności."
+          "explanation": "W 1922 roku archeolodzy odkryli grobowiec Tutanchamona pełen złota i kosztowności."
         },
         {
           "id": "R01_HARD_10",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz liczbę lub datę z informacją z rozdziału.",
+          "prompt": "Połącz liczbę lub datę z informacją.",
           "options": null,
           "left": [
             "4 miliardy 600 milionów lat",
@@ -1264,7 +1264,7 @@
             "III w. p.n.e.": "zjednoczenie Chin"
           },
           "image": "r01_piramida_cheopsa.jpg",
-          "explanation": "Te szczegóły pojawiają się w różnych częściach rozdziału i wymagają precyzyjnego kojarzenia."
+          "explanation": "Te szczegóły pojawiają się i wymagają precyzyjnego kojarzenia."
         },
         {
           "id": "R01_HARD_11",
@@ -1308,7 +1308,7 @@
               "hieroglify"
             ]
           },
-          "explanation": "Ćwiczenie łączy informacje z całego rozdziału: warunki naturalne powodowały zmiany, a społeczeństwa tworzyły konkretne osiągnięcia."
+          "explanation": "Ćwiczenie łączy różne informacje: warunki naturalne powodowały zmiany, a społeczeństwa tworzyły konkretne osiągnięcia."
         }
       ],
       "kidPrompts": {
@@ -1394,13 +1394,13 @@
             "Na Wyspach Brytyjskich"
           ],
           "answer": 1,
-          "explanation": "Podręcznik podaje, że Grecja leży na południu Europy."
+          "explanation": "Grecja leży na południu Europy."
         },
         {
           "id": "R02_POL_02",
           "section": "Starożytna Grecja i polis",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy krajobrazu i warunków życia w starożytnej Grecji opisane w podręczniku.",
+          "prompt": "Zaznacz elementy krajobrazu i warunków życia w starożytnej Grecji.",
           "options": [
             "Górzysty kraj",
             "Ubogie, skaliste ziemie",
@@ -1473,7 +1473,7 @@
             "Fenicianami"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że Grecy nazywali siebie Hellenami."
+          "explanation": "Grecy nazywali siebie Hellenami."
         },
         {
           "id": "R02_POL_07",
@@ -1527,7 +1527,7 @@
           "id": "R02_POL_10",
           "section": "Starożytna Grecja i polis",
           "type": "scenario",
-          "prompt": "Uczeń tłumaczy, dlaczego w Helladzie powstało wiele niezależnych polis. Które wyjaśnienie najlepiej pasuje do podręcznika?",
+          "prompt": "Uczeń tłumaczy, dlaczego w Helladzie powstało wiele niezależnych polis. Które wyjaśnienie jest najtrafniejsze?",
           "options": [
             "Doliny oddzielały góry, więc mieszkańcy spotykali się rzadko.",
             "Grecy mieszkali wyłącznie na pustyni.",
@@ -1536,7 +1536,7 @@
           ],
           "answer": 0,
           "image": "r02_greckie_polis_krajobraz.jpg",
-          "explanation": "Podręcznik wyjaśnia, że górzysty teren oddzielał doliny i utrudniał częste kontakty."
+          "explanation": "Górzysty teren oddzielał doliny i utrudniał częste kontakty."
         },
         {
           "id": "R02_POL_11",
@@ -1573,7 +1573,7 @@
           "id": "R02_POL_12",
           "section": "Starożytna Grecja i polis",
           "type": "true_false",
-          "prompt": "Słowo „antyczny” oznacza w podręczniku „starożytny” w odniesieniu do Grecji i Rzymu.",
+          "prompt": "Słowo „antyczny” oznacza „starożytny” w odniesieniu do Grecji i Rzymu.",
           "options": null,
           "answer": true,
           "explanation": "W przypisie wyjaśniono, że antyczny znaczy starożytny w odniesieniu do Grecji i Rzymu."
@@ -1608,7 +1608,7 @@
             "Bizancjum"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że pierwszą demokracją w dziejach świata były Ateny."
+          "explanation": "Pierwszą demokracją w dziejach świata były Ateny."
         },
         {
           "id": "R02_DEM_03",
@@ -1735,13 +1735,13 @@
             1,
             2
           ],
-          "explanation": "Podręcznik wskazuje m.in. brak praw głosu kobiet, niewolników i cudzoziemców, demokrację bezpośrednią oraz losowanie wielu urzędów."
+          "explanation": "Wskazuje się m.in. brak praw głosu kobiet, niewolników i cudzoziemców, demokrację bezpośrednią oraz losowanie wielu urzędów."
         },
         {
           "id": "R02_DEM_11",
           "section": "Demokracja ateńska",
           "type": "scenario",
-          "prompt": "Ateńczyk chce zabrać głos na zgromadzeniu ludowym. Jest wolnym mężczyzną, a jego rodzice są Ateńczykami. Czy spełnia warunki opisane w podręczniku?",
+          "prompt": "Ateńczyk chce zabrać głos na zgromadzeniu ludowym. Jest wolnym mężczyzną, a jego rodzice są Ateńczykami. Czy spełnia warunki?",
           "options": [
             "Tak, spełnia warunki obywatela.",
             "Nie, bo głosować mogli tylko niewolnicy.",
@@ -1817,7 +1817,7 @@
             "jedną setną"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że niewolnicy stanowili jedną trzecią mieszkańców ateńskiej polis."
+          "explanation": "Niewolnicy stanowili jedną trzecią mieszkańców ateńskiej polis."
         },
         {
           "id": "R02_MIT_01",
@@ -1875,7 +1875,7 @@
           "id": "R02_MIT_04",
           "section": "Mitologia grecka",
           "type": "match",
-          "prompt": "Połącz bóstwo z opisem z podręcznika.",
+          "prompt": "Połącz bóstwo z opisem.",
           "options": null,
           "left": [
             "Zeus",
@@ -1901,7 +1901,7 @@
             "Hera": "opiekunka małżeństw",
             "Afrodyta": "bogini miłości i piękności"
           },
-          "explanation": "Podręcznik wymienia funkcje najważniejszych bogów i bogiń olimpijskich."
+          "explanation": "Wymienia się funkcje najważniejszych bogów i bogiń olimpijskich."
         },
         {
           "id": "R02_MIT_05",
@@ -1940,7 +1940,7 @@
           "id": "R02_MIT_07",
           "section": "Mitologia grecka",
           "type": "scenario",
-          "prompt": "Prometeusz wykrada dla ludzi ogień z Olimpu. Jaka kara spotyka go według mitu opisanego w podręczniku?",
+          "prompt": "Prometeusz wykrada dla ludzi ogień z Olimpu. Jaka kara spotyka go według mitu?",
           "options": [
             "Został przykuty do skały, a orzeł rozszarpywał mu wątrobę.",
             "Musiał na zawsze wtaczać kamień pod górę.",
@@ -1974,7 +1974,7 @@
           "prompt": "Herakles był przykładem herosa.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje Heraklesa jako herosa, syna Zeusa i ziemskiej kobiety."
+          "explanation": "Podaje się Heraklesa jako herosa, syna Zeusa i ziemskiej kobiety."
         },
         {
           "id": "R02_MIT_10",
@@ -2021,13 +2021,13 @@
           ],
           "answer": 0,
           "image": "r02_syzyf_kamien.jpg",
-          "explanation": "Podręcznik podaje, że Syzyf został ukarany za próbę oszukania śmierci."
+          "explanation": "Syzyf został ukarany za próbę oszukania śmierci."
         },
         {
           "id": "R02_MIT_13",
           "section": "Mitologia grecka",
           "type": "multi_select",
-          "prompt": "Zaznacz sposoby czczenia bogów przez Hellenów opisane w podręczniku.",
+          "prompt": "Zaznacz sposoby czczenia bogów przez Hellenów.",
           "options": [
             "modły",
             "ofiary",
@@ -2121,7 +2121,7 @@
           "id": "R02_OSI_05",
           "section": "Osiągnięcia Greków",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje o rzeźbach Fidiasza podane w podręczniku.",
+          "prompt": "Zaznacz informacje o rzeźbach Fidiasza.",
           "options": [
             "Posąg Ateny miał 12 metrów.",
             "Posąg Zeusa miał 13 metrów.",
@@ -2231,7 +2231,7 @@
             "Hipokrates": "ojciec medycyny",
             "Fidiasz": "twórca posągów Ateny i Zeusa"
           },
-          "explanation": "Podręcznik wymienia najważniejsze greckie osiągnięcia i związane z nimi postacie."
+          "explanation": "Wymienia się najważniejsze greckie osiągnięcia i związane z nimi postacie."
         },
         {
           "id": "R02_OSI_11",
@@ -2253,7 +2253,7 @@
               "Odyseję"
             ]
           ],
-          "explanation": "Podręcznik wymienia Iliadę i Odyseję."
+          "explanation": "Wymienia się Iliadę i Odyseję."
         },
         {
           "id": "R02_OSI_12",
@@ -2291,7 +2291,7 @@
           "id": "R02_OSI_14",
           "section": "Osiągnięcia Greków",
           "type": "multi_select",
-          "prompt": "Zaznacz osiągnięcia naukowe Greków opisane w podręczniku.",
+          "prompt": "Zaznacz osiągnięcia naukowe Greków.",
           "options": [
             "Archimedes ułożył wzór na pole i obwód koła.",
             "Uczeni dowiedli, że Ziemia jest kulą.",
@@ -2304,13 +2304,13 @@
             1,
             2
           ],
-          "explanation": "Podręcznik wymienia m.in. wzory Archimedesa, dowód kulistości Ziemi i dokonania Hipokratesa."
+          "explanation": "Wymienia się m.in. wzory Archimedesa, dowód kulistości Ziemi i dokonania Hipokratesa."
         },
         {
           "id": "R02_MIE_01",
           "section": "Powtórka mieszana",
           "type": "sequence",
-          "prompt": "Ułóż wydarzenia lub zjawiska w porządku chronologicznym według dat z rozdziału.",
+          "prompt": "Ułóż wydarzenia lub zjawiska w porządku chronologicznym według dat.",
           "options": null,
           "items": [
             "śmierć Sokratesa",
@@ -2359,7 +2359,7 @@
               "Sofokles"
             ]
           },
-          "explanation": "Pojęcia pochodzą z trzech głównych części rozdziału: demokracji, mitologii oraz osiągnięć Greków."
+          "explanation": "Pojęcia dotyczą trzech tematów: demokracji, mitologii oraz osiągnięć Greków."
         },
         {
           "id": "R02_MIE_03",
@@ -2383,7 +2383,7 @@
           "id": "R02_MIE_05",
           "section": "Powtórka mieszana",
           "type": "match",
-          "prompt": "Połącz liczbę z informacją z rozdziału.",
+          "prompt": "Połącz liczbę z informacją.",
           "options": null,
           "left": [
             "500",
@@ -2406,13 +2406,13 @@
             "12 metrów": "posąg Ateny w Partenonie",
             "24 godziny": "recytacja całej Iliady"
           },
-          "explanation": "Rozdział zawiera kilka ważnych liczb dotyczących Aten, ostracyzmu i literatury."
+          "explanation": "To ważne liczby dotyczące Aten, ostracyzmu i literatury."
         },
         {
           "id": "R02_MIE_06",
           "section": "Powtórka mieszana",
           "type": "true_false",
-          "prompt": "W rozdziale Akropol, Olimp i Pnyks oznaczają to samo miejsce.",
+          "prompt": "Akropol, Olimp i Pnyks oznaczają to samo miejsce.",
           "options": null,
           "answer": false,
           "explanation": "To różne miejsca: Akropol był wzgórzem z budowlami Aten, Olimp siedzibą bogów, a Pnyks miejscem zgromadzeń."
@@ -2452,7 +2452,7 @@
           "id": "R02_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "W jakich latach Perykles był przywódcą Aten według osi czasu w rozdziale?",
+          "prompt": "W jakich latach Perykles był przywódcą Aten według osi czasu?",
           "options": [
             "ok. 461–429 p.n.e.",
             "594–508/507 p.n.e.",
@@ -2555,7 +2555,7 @@
             "około 500 godzin"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że recytacja całej Iliady zajmuje około 24 godzin."
+          "explanation": "Recytacja całej Iliady zajmuje około 24 godzin."
         },
         {
           "id": "R02_HARD_08",
@@ -2583,9 +2583,9 @@
         "R02_POL_07": "Jedno greckie miasto-państwo, czyli miasto z okolicą albo wyspa, to...",
         "R02_POL_08": "Wskaż, co nie pasuje do pozostałych: zboże, oliwki, winorośl, piramidy.",
         "R02_POL_09": "Połącz pojęcie z wyjaśnieniem.",
-        "R02_POL_10": "Uczeń tłumaczy, dlaczego w Helladzie powstało wiele niezależnych polis. Które wyjaśnienie najlepiej pasuje do podręcznika?",
+        "R02_POL_10": "Uczeń tłumaczy, dlaczego w Helladzie powstało wiele niezależnych polis. Które wyjaśnienie jest najtrafniejsze?",
         "R02_POL_11": "Przyporządkuj nazwy do kategorii.",
-        "R02_POL_12": "Słowo „antyczny” oznacza w podręczniku „starożytny” w odniesieniu do Grecji i Rzymu.",
+        "R02_POL_12": "Słowo „antyczny” oznacza „starożytny” w odniesieniu do Grecji i Rzymu.",
         "R02_DEM_01": "Co oznacza greckie słowo „demokracja”?",
         "R02_DEM_02": "Która polis była pierwszą demokracją w dziejach świata?",
         "R02_DEM_03": "Zaznacz trzy podstawowe instytucje demokracji ateńskiej.",
@@ -2603,10 +2603,10 @@
         "R02_MIT_01": "Jaką religię wyznawali starożytni Grecy?",
         "R02_MIT_02": "Gdzie według Greków mieszkali bogowie olimpijscy?",
         "R02_MIT_03": "Zaznacz cechy greckich bogów odróżniające ich od ludzi.",
-        "R02_MIT_04": "Połącz bóstwo z opisem z podręcznika.",
+        "R02_MIT_04": "Połącz bóstwo z opisem.",
         "R02_MIT_05": "Zbiór mitów nazywamy __________.",
         "R02_MIT_06": "Co jest mitem?",
-        "R02_MIT_07": "Prometeusz wykrada dla ludzi ogień z Olimpu. Jaka kara spotyka go według mitu opisanego w podręczniku?",
+        "R02_MIT_07": "Prometeusz wykrada dla ludzi ogień z Olimpu. Jaka kara spotyka go według mitu?",
         "R02_MIT_08": "Kim byli herosi?",
         "R02_MIT_09": "Herakles był przykładem herosa.",
         "R02_MIT_10": "Kto według wierzeń greckich przewoził dusze zmarłych przez Styks?",
@@ -2618,7 +2618,7 @@
         "R02_OSI_02": "Jak nazywała się najważniejsza świątynia na Akropolu?",
         "R02_OSI_03": "Partenon był świątynią bogini Ateny.",
         "R02_OSI_04": "Co zrobili architekci, aby Partenon wydawał się lekki i harmonijny?",
-        "R02_OSI_05": "Zaznacz informacje o rzeźbach Fidiasza podane w podręczniku.",
+        "R02_OSI_05": "Zaznacz informacje o rzeźbach Fidiasza.",
         "R02_OSI_06": "Kto wyrzeźbił Dyskobola?",
         "R02_OSI_07": "Z jakimi występami wiążą się początki greckiego teatru?",
         "R02_OSI_08": "Czym była tragedia w teatrze greckim?",
@@ -2633,10 +2633,10 @@
         "R02_MIE_03": "Wskaż, co nie pasuje do pozostałych: Zeus, Posejdon, Hades, Sokrates.",
         "R02_MIE_04": "Wskaż, co nie pasuje do pozostałych: zgromadzenie ludowe, rada pięciuset, sąd ludowy, Partenon.",
         "R02_MIE_05": "Połącz liczbę z informacją.",
-        "R02_MIE_06": "W rozdziale Akropol, Olimp i Pnyks oznaczają to samo miejsce.",
+        "R02_MIE_06": "Akropol, Olimp i Pnyks oznaczają to samo miejsce.",
         "R02_MIE_07": "Który zestaw zawiera wyłącznie postacie wymienione w części o osiągnięciach Greków?",
         "R02_MIE_08": "Przewodnik pokazuje turystom ruiny świątyni Ateny na Akropolu. Którą nazwę powinien podać?",
-        "R02_HARD_01": "W jakich latach Perykles był przywódcą Aten według osi czasu w rozdziale?",
+        "R02_HARD_01": "W jakich latach Perykles był przywódcą Aten według osi czasu?",
         "R02_HARD_02": "Jaki minimalny udział obywateli był potrzebny, aby głosowanie ostracyzmu było ważne?",
         "R02_HARD_03": "Jak zwykle liczne były składy sądu ludowego rozstrzygające sprawy?",
         "R02_HARD_04": "Ateński ostracyzm zawsze pozbawiał wygnanego majątku.",
@@ -2769,7 +2769,7 @@
           "prompt": "Imperium Rzymskie w II w. n.e. było największym mocarstwem starożytności.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podkreśla, że Imperium Rzymskie było największym mocarstwem starożytności."
+          "explanation": "Imperium Rzymskie było największym mocarstwem starożytności."
         },
         {
           "id": "R03_POC_05",
@@ -3083,7 +3083,7 @@
               "cesarzem"
             ]
           ],
-          "explanation": "Podręcznik opisuje cesarstwo jako odmianę monarchii, z cesarzem zamiast króla."
+          "explanation": "Opisuje się cesarstwo jako odmianę monarchii, z cesarzem zamiast króla."
         },
         {
           "id": "R03_UST_12",
@@ -3262,7 +3262,7 @@
           "prompt": "Rzymskie kobiety miały mniej swobody niż Atenki.",
           "options": null,
           "answer": false,
-          "explanation": "Podręcznik podaje odwrotnie: rzymskie kobiety miały więcej swobody niż Atenki, choć nie mogły obejmować urzędów."
+          "explanation": "Podaje się odwrotnie: rzymskie kobiety miały więcej swobody niż Atenki, choć nie mogły obejmować urzędów."
         },
         {
           "id": "R03_SPO_11",
@@ -3385,7 +3385,7 @@
           "image": "r03_rzymska_droga_przekroj.jpg",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik porównuje długość rzymskich dróg do dwóch okrążeń Ziemi."
+          "explanation": "Porównuje się długość rzymskich dróg do dwóch okrążeń Ziemi."
         },
         {
           "id": "R03_OSI_06",
@@ -3482,7 +3482,7 @@
             "drukowanie książek"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że szczególnie popularne były wyścigi rydwanów w cyrku."
+          "explanation": "Szczególnie popularne były wyścigi rydwanów w cyrku."
         },
         {
           "id": "R03_OSI_11",
@@ -3536,7 +3536,7 @@
           "id": "R03_OSI_13",
           "section": "Osiągnięcia i rozrywki",
           "type": "multi_select",
-          "prompt": "Które języki podręcznik podaje jako romańskie, wywodzące się z łaciny?",
+          "prompt": "Które języki podaje się jako romańskie, wywodzące się z łaciny?",
           "options": [
             "włoski",
             "francuski",
@@ -3561,7 +3561,7 @@
           "prompt": "Prawo rzymskie jest podstawą dzisiejszego prawa w wielu państwach, także w Polsce.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wyjaśnia, że przyszli prawnicy nadal uczą się prawa rzymskiego, bo wiele jego zasad wciąż obowiązuje."
+          "explanation": "Przyszli prawnicy nadal uczą się prawa rzymskiego, bo wiele jego zasad wciąż obowiązuje."
         },
         {
           "id": "R03_CHR_01",
@@ -3712,7 +3712,7 @@
           "prompt": "Pierwsi chrześcijanie spotykali się w prywatnych domach, bo nie mieli własnych świątyń.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że pierwsi wyznawcy Chrystusa nie mieli własnych świątyń."
+          "explanation": "Pierwsi wyznawcy Chrystusa nie mieli własnych świątyń."
         },
         {
           "id": "R03_CHR_10",
@@ -3860,7 +3860,7 @@
           "prompt": "Trybun ludowy był nietykalny, a za zlekceważenie jego weta groziła kara śmierci.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że kara śmierci groziła nawet za zlekceważenie weta trybuna."
+          "explanation": "Kara śmierci groziła nawet za zlekceważenie weta trybuna."
         },
         {
           "id": "R03_HARD_04",
@@ -3894,7 +3894,7 @@
               "Eneide"
             ]
           ],
-          "explanation": "Podręcznik podaje, że Wergiliusz przez 10 lat pisał Eneidę, chcąc, by utwór był doskonały."
+          "explanation": "Wergiliusz przez 10 lat pisał Eneidę, chcąc, by utwór był doskonały."
         },
         {
           "id": "R03_HARD_06",
@@ -3923,7 +3923,7 @@
           "id": "R03_HARD_08",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz liczbę lub datę z informacją z rozdziału.",
+          "prompt": "Połącz liczbę lub datę z informacją.",
           "options": null,
           "left": [
             "45 tysięcy",
@@ -3943,7 +3943,7 @@
             "80 tysięcy km": "długość rzymskich dróg",
             "64 n.e.": "prześladowania chrześcijan przez Nerona"
           },
-          "explanation": "Zestaw łączy liczby podane w różnych częściach rozdziału: daty, pojemność budowli i długość dróg."
+          "explanation": "Zestaw łączy liczby: daty, pojemność budowli i długość dróg."
         }
       ],
       "kidPrompts": {
@@ -3995,7 +3995,7 @@
         "R03_OSI_10": "Co było prawdziwą namiętnością Rzymian z lekcji?",
         "R03_OSI_11": "Największy cyrk w Rzymie nazywał się __________ i mieścił około __________ tysięcy widzów.",
         "R03_OSI_12": "Połącz poetę z dziełem lub rodzajem twórczości.",
-        "R03_OSI_13": "Które języki podręcznik podaje jako romańskie, wywodzące się z łaciny?",
+        "R03_OSI_13": "Które języki podaje się jako romańskie, wywodzące się z łaciny?",
         "R03_OSI_14": "Prawo rzymskie jest podstawą dzisiejszego prawa w wielu państwach, także w Polsce.",
         "R03_CHR_01": "Jaką religię wyznawali starożytni Rzymianie przed rozpowszechnieniem chrześcijaństwa?",
         "R03_CHR_02": "Połącz rzymskie bóstwo z greckim odpowiednikiem.",
@@ -4018,7 +4018,7 @@
         "R03_HARD_05": "Wergiliusz pisał __________ przez 10 lat, codziennie po jednej linijce.",
         "R03_HARD_06": "Wskaż, co nie pasuje do pozostałych: Jowisz, Minerwa, Neptun, Mesjasz.",
         "R03_HARD_07": "Uczeń twierdzi: „Rzymianie pozwalali na wszystkie religie bez żadnych warunków”. Co jest nie tak z tym zdaniem?",
-        "R03_HARD_08": "Połącz liczbę lub datę z informacją z rozdziału."
+        "R03_HARD_08": "Połącz liczbę lub datę z informacją."
       },
       "visuals": [
         {
@@ -4144,7 +4144,7 @@
           "id": "R04_BIZ_05",
           "section": "Bizancjum",
           "type": "multi_select",
-          "prompt": "Zaznacz osiągnięcia Bizancjum opisane w rozdziale.",
+          "prompt": "Zaznacz osiągnięcia Bizancjum.",
           "options": [
             "Kodeks Justyniana",
             "Bazylika Hagia Sophia",
@@ -4179,7 +4179,7 @@
           "id": "R04_BIZ_07",
           "section": "Bizancjum",
           "type": "single_choice",
-          "prompt": "Która budowla jest w rozdziale przedstawiona jako najwspanialszy przykład architektury bizantyjskiej?",
+          "prompt": "Która budowla jest przedstawiona jako najwspanialszy przykład architektury bizantyjskiej?",
           "options": [
             "Koloseum",
             "Hagia Sophia",
@@ -4276,7 +4276,7 @@
           "id": "R04_ARA_01",
           "section": "Arabowie i początki islamu",
           "type": "single_choice",
-          "prompt": "Na którym obszarze mieszkali dawni Arabowie opisani w rozdziale?",
+          "prompt": "Na którym obszarze mieszkali dawni Arabowie?",
           "options": [
             "Półwysep Arabski",
             "Półwysep Apeniński",
@@ -4458,7 +4458,7 @@
               "judaizm i chrześcijaństwo jako wcześniejsze religie monoteistyczne"
             ]
           },
-          "explanation": "Rozdział pokazuje zarówno elementy islamu, jak i wpływy chrześcijaństwa oraz judaizmu w nauczaniu Mahometa."
+          "explanation": "Pokazuje się zarówno elementy islamu, jak i wpływy chrześcijaństwa oraz judaizmu w nauczaniu Mahometa."
         },
         {
           "id": "R04_ARA_11",
@@ -4492,7 +4492,7 @@
             "O ugodzie w Wormacji"
           ],
           "answer": 0,
-          "explanation": "Rozdział opisuje wpływ cywilizacji arabskiej na Europę przez naukę, handel, tłumaczenia i zapożyczenia językowe."
+          "explanation": "Opisuje się wpływ cywilizacji arabskiej na Europę przez naukę, handel, tłumaczenia i zapożyczenia językowe."
         },
         {
           "id": "R04_KAR_01",
@@ -4870,7 +4870,7 @@
           "id": "R04_NOW_09",
           "section": "Nowe państwa w Europie",
           "type": "single_choice",
-          "prompt": "Które państwa słowiańskie przyjęły chrzest w X wieku według rozdziału?",
+          "prompt": "Które państwa słowiańskie przyjęły chrzest w X wieku?",
           "options": [
             "Czechy, państwo Polan i Ruś Kijowska",
             "Hiszpania, Egipt i Syria",
@@ -4915,7 +4915,7 @@
           "id": "R04_NOW_12",
           "section": "Nowe państwa w Europie",
           "type": "scenario",
-          "prompt": "Książę z X wieku przyjmuje chrzest, bo chce wzmocnić swoje państwo i wejść do świata chrześcijańskich władców. Która grupa państw pasuje do takiego procesu w rozdziale?",
+          "prompt": "Książę z X wieku przyjmuje chrzest, bo chce wzmocnić swoje państwo i wejść do świata chrześcijańskich władców. Która grupa państw pasuje do takiego procesu?",
           "options": [
             "Czechy, państwo Polan i Ruś Kijowska",
             "Państwo Lotara, Kalifat Kordobański i Mekka",
@@ -4923,7 +4923,7 @@
             "Norwegia, Dania i Szwecja"
           ],
           "answer": 0,
-          "explanation": "Rozdział podaje, że w X wieku chrzest przyjęły słowiańskie Czechy, państwo Polan oraz Ruś Kijowska."
+          "explanation": "W X wieku chrzest przyjęły słowiańskie Czechy, państwo Polan oraz Ruś Kijowska."
         },
         {
           "id": "R04_PAP_01",
@@ -5163,7 +5163,7 @@
             "843": "traktat w Verdun",
             "962": "koronacja Ottona I"
           },
-          "explanation": "Daty z rozdziału wyznaczają najważniejsze punkty dziejów wczesnego średniowiecza."
+          "explanation": "Daty wyznaczają najważniejsze punkty dziejów wczesnego średniowiecza."
         },
         {
           "id": "R04_HARD_02",
@@ -5207,7 +5207,7 @@
               "utworzenie Państwa Kościelnego"
             ]
           },
-          "explanation": "Każde z tych wydarzeń wywołało inne skutki polityczne lub religijne opisane w rozdziale."
+          "explanation": "Każde z tych wydarzeń wywołało inne skutki polityczne lub religijne."
         },
         {
           "id": "R04_HARD_03",
@@ -5394,7 +5394,7 @@
           "id": "R05_FEU_02",
           "section": "Feudalna Europa",
           "type": "multi_select",
-          "prompt": "Zaznacz cztery stany średniowiecza wymienione w podręczniku.",
+          "prompt": "Zaznacz cztery stany średniowiecza.",
           "options": [
             "duchowieństwo",
             "rycerstwo",
@@ -5409,7 +5409,7 @@
             2,
             3
           ],
-          "explanation": "W rozdziale wymieniono duchowieństwo, rycerstwo, mieszczaństwo i chłopstwo."
+          "explanation": "Wymieniono duchowieństwo, rycerstwo, mieszczaństwo i chłopstwo."
         },
         {
           "id": "R05_FEU_03",
@@ -5572,7 +5572,7 @@
           "id": "R05_RYC_01",
           "section": "Na rycerskim zamku",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy uzbrojenia rycerza wymienione w rozdziale.",
+          "prompt": "Zaznacz elementy uzbrojenia rycerza.",
           "options": [
             "kopia",
             "miecz",
@@ -5774,7 +5774,7 @@
               "14 lat"
             ]
           ],
-          "explanation": "Podręcznik podaje, że paź miał około 7 lat, a giermek około 14 lat."
+          "explanation": "Paź miał około 7 lat, a giermek około 14 lat."
         },
         {
           "id": "R05_MCH_01",
@@ -5816,7 +5816,7 @@
           "id": "R05_MCH_03",
           "section": "Mieszczanie i chłopi",
           "type": "single_choice",
-          "prompt": "Które miasto było największe w Polsce pod koniec XV wieku według rozdziału?",
+          "prompt": "Które miasto było największe w Polsce pod koniec XV wieku?",
           "options": [
             "Gdańsk",
             "Kraków",
@@ -6000,7 +6000,7 @@
           "prompt": "Sołtys rządził wsią w imieniu pana i mógł być szczególnie zamożny.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podkreśla, że bogaty był zwłaszcza sołtys, który rządził wsią w imieniu pana."
+          "explanation": "Bogaty był zwłaszcza sołtys, który rządził wsią w imieniu pana."
         },
         {
           "id": "R05_MCH_14",
@@ -6038,7 +6038,7 @@
           "id": "R05_DUK_02",
           "section": "Duchowieństwo i kultura średniowiecza",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy wspólnej kultury chrześcijańskiej Europy wymienione w rozdziale.",
+          "prompt": "Zaznacz elementy wspólnej kultury chrześcijańskiej Europy.",
           "options": [
             "te same święta kościelne",
             "zakony",
@@ -6138,7 +6138,7 @@
           "id": "R05_DUK_08",
           "section": "Duchowieństwo i kultura średniowiecza",
           "type": "single_choice",
-          "prompt": "Czym zakon franciszkański różnił się od benedyktynów według rozdziału?",
+          "prompt": "Czym zakon franciszkański różnił się od benedyktynów?",
           "options": [
             "był zakonem żebraczym bez własnych gospodarstw",
             "skupiał wyłącznie rzemieślników szewskich",
@@ -6298,7 +6298,7 @@
               "ostrołuk"
             ]
           },
-          "explanation": "Ćwiczenie łączy najważniejsze pojęcia z różnych części rozdziału."
+          "explanation": "Ćwiczenie łączy najważniejsze pojęcia."
         },
         {
           "id": "R05_MIE_02",
@@ -6420,7 +6420,7 @@
           "id": "R05_MIE_09",
           "section": "Powtórka mieszana",
           "type": "multi_select",
-          "prompt": "Zaznacz przykłady instytucji lub organizacji wymienionych w rozdziale.",
+          "prompt": "Zaznacz przykłady instytucji lub organizacji.",
           "options": [
             "cech",
             "rada miejska",
@@ -6435,7 +6435,7 @@
             2,
             3
           ],
-          "explanation": "Rozdział omawia m.in. cechy, radę miejską, zakony i uniwersytety."
+          "explanation": "Chodzi m.in. o cechy, radę miejską, zakony i uniwersytety."
         },
         {
           "id": "R05_MIE_10",
@@ -6456,7 +6456,7 @@
           "id": "R05_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Ile mniej więcej kosztował koń bojowy według rozdziału?",
+          "prompt": "Ile mniej więcej kosztował koń bojowy?",
           "options": [
             "tyle co osiem wołów",
             "tyle co jeden snop zboża",
@@ -6466,7 +6466,7 @@
             "tyle co jedna rozeta"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że sam koń bojowy kosztował tyle co osiem wołów."
+          "explanation": "Sam koń bojowy kosztował tyle co osiem wołów."
         },
         {
           "id": "R05_HARD_02",
@@ -6492,13 +6492,13 @@
           ],
           "answer": 0,
           "image": "r05_drabina_feudalna.jpg",
-          "explanation": "Podręcznik pokazuje, że Edward I był wasalem króla Francji w związku z posiadłością we Francji, ale w Anglii był suzerenem."
+          "explanation": "Edward I był wasalem króla Francji w związku z posiadłością we Francji, ale w Anglii był suzerenem."
         },
         {
           "id": "R05_HARD_04",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Jaki plon z jednego ziarna uzyskiwał średnio chłop w XIII-wiecznej Polsce według rozdziału?",
+          "prompt": "Jaki plon z jednego ziarna uzyskiwał średnio chłop w XIII-wiecznej Polsce?",
           "options": [
             "4 ziarna",
             "10 ziaren",
@@ -6508,7 +6508,7 @@
             "1 ziarno"
           ],
           "answer": 0,
-          "explanation": "Rozdział podaje, że z jednego zasianego ziarna chłop uzyskiwał średnio 4 ziarna plonu."
+          "explanation": "Z jednego zasianego ziarna chłop uzyskiwał średnio 4 ziarna plonu."
         },
         {
           "id": "R05_HARD_05",
@@ -6552,7 +6552,7 @@
             "początek XIII w.": "odnowa zapoczątkowana przez św. Franciszka",
             "schyłek XI w.": "pierwszy uniwersytet w Bolonii"
           },
-          "explanation": "Daty pochodzą z rozdziału i dotyczą feudalizmu, zakonów oraz uniwersytetów."
+          "explanation": "Daty pochodzą i dotyczą feudalizmu, zakonów oraz uniwersytetów."
         },
         {
           "id": "R05_HARD_07",
@@ -6567,7 +6567,7 @@
           "id": "R05_HARD_08",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj osoby do informacji z rozdziału.",
+          "prompt": "Przyporządkuj osoby do informacji.",
           "options": null,
           "items": [
             "św. Benedykt",
@@ -6684,7 +6684,7 @@
             2,
             3
           ],
-          "explanation": "Podręcznik wymienia Polan, Wiślan, Ślężan, Mazowszan i Pomorzan; Prusowie nie byli Słowianami, a Frankowie mieszkali na zachodzie Europy."
+          "explanation": "Wymienia się Polan, Wiślan, Ślężan, Mazowszan i Pomorzan; Prusowie nie byli Słowianami, a Frankowie mieszkali na zachodzie Europy."
         },
         {
           "id": "R06_POC_03",
@@ -6716,7 +6716,7 @@
               "966 r."
             ]
           ],
-          "explanation": "Oś czasu w rozdziale wskazuje początek rządów Mieszka około 960 roku i chrzest Polski w 966 roku."
+          "explanation": "Oś czasu wskazuje początek rządów Mieszka około 960 roku i chrzest Polski w 966 roku."
         },
         {
           "id": "R06_POC_05",
@@ -7046,7 +7046,7 @@
             "zdobycie Pomorza Zachodniego"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podkreśla, że Polska walczyła przede wszystkim o niezależność od cesarstwa."
+          "explanation": "Polska walczyła przede wszystkim o niezależność od cesarstwa."
         },
         {
           "id": "R06_CHR_12",
@@ -7102,7 +7102,7 @@
           "prompt": "Około 1000 roku Polska liczyła nieco ponad milion mieszkańców.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że około 1000 roku w Polsce mieszkało nieco ponad milion ludzi."
+          "explanation": "Około 1000 roku w Polsce mieszkało nieco ponad milion ludzi."
         },
         {
           "id": "R06_NAJ_04",
@@ -7220,7 +7220,7 @@
               "łaźnie"
             ]
           },
-          "explanation": "Podręcznik opisuje zarówno jedzenie i napoje, jak i dbanie o czystość oraz ubrania mieszkańców."
+          "explanation": "Opisuje się zarówno jedzenie i napoje, jak i dbanie o czystość oraz ubrania mieszkańców."
         },
         {
           "id": "R06_NAJ_10",
@@ -7265,7 +7265,7 @@
           "prompt": "Mieszkańcy najdawniejszej Polski nie dbali o czystość, bo nie znali grzebieni ani łaźni.",
           "options": null,
           "answer": false,
-          "explanation": "Podręcznik podaje, że prali odzież, używali grzebieni i budowali łaźnie."
+          "explanation": "Prali odzież, używali grzebieni i budowali łaźnie."
         },
         {
           "id": "R06_UPA_01",
@@ -7663,7 +7663,7 @@
             "do 1076 roku"
           ],
           "answer": 2,
-          "explanation": "Podręcznik podaje, że do 1123 roku Krzywousty opanował wybrzeże Bałtyku od Pomorza Gdańskiego po ujście Odry."
+          "explanation": "Do 1123 roku Krzywousty opanował wybrzeże Bałtyku od Pomorza Gdańskiego po ujście Odry."
         },
         {
           "id": "R06_KRZ_12",
@@ -8074,7 +8074,7 @@
           "id": "R07_ROZ_12",
           "section": "Rozbicie dzielnicowe",
           "type": "scenario",
-          "prompt": "Jesteś księciem mazowieckim. Twoje ziemie są pustoszone przez pogańskich Prusów, więc zapraszasz zakon rycerski i nadajesz mu ziemię chełmińską. Jak nazywasz się w podręczniku?",
+          "prompt": "Jesteś księciem mazowieckim. Twoje ziemie są pustoszone przez pogańskich Prusów, więc zapraszasz zakon rycerski i nadajesz mu ziemię chełmińską. Jak nazywasz się?",
           "options": [
             "Konrad Mazowiecki",
             "Henryk Pobożny",
@@ -8098,7 +8098,7 @@
             "Ziemia lubuska"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podkreśla, że w pierwszej połowie XIII wieku najlepiej rozwiniętą dzielnicą był Śląsk."
+          "explanation": "W pierwszej połowie XIII wieku najlepiej rozwiniętą dzielnicą był Śląsk."
         },
         {
           "id": "R07_SLA_02",
@@ -8139,7 +8139,7 @@
           "id": "R07_SLA_04",
           "section": "Polska w XIII wieku",
           "type": "multi_select",
-          "prompt": "Zaznacz skutki kolonizacji niemieckiej opisane w podręczniku.",
+          "prompt": "Zaznacz skutki kolonizacji niemieckiej.",
           "options": [
             "Wprowadzenie żelaznego pługa",
             "Lokacje wsi i miast na prawie niemieckim",
@@ -8349,7 +8349,7 @@
           "id": "R07_JED_04",
           "section": "Dążenie do jedności",
           "type": "multi_select",
-          "prompt": "Zaznacz przewagi wojsk mongolskich nad europejskim rycerstwem opisane w podręczniku.",
+          "prompt": "Zaznacz przewagi wojsk mongolskich nad europejskim rycerstwem.",
           "options": [
             "Doskonały wywiad",
             "Ruchliwe konne oddziały",
@@ -8771,7 +8771,7 @@
           "prompt": "Na początku rządów Kazimierza Wielkiego Małopolska i Wielkopolska miały identyczne prawa, obyczaje i monetę.",
           "options": null,
           "answer": false,
-          "explanation": "Podręcznik podkreśla, że Małopolska i Wielkopolska różniły się prawem, obyczajami i monetą."
+          "explanation": "Małopolska i Wielkopolska różniły się prawem, obyczajami i monetą."
         },
         {
           "id": "R07_KAZ_04",
@@ -8981,7 +8981,7 @@
           "id": "R07_HARD_02",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Analizujesz decyzję Konrada Mazowieckiego. W krótkiej perspektywie chciał ochronić Mazowsze przed Prusami, ale w dłuższej powstało potężne państwo zakonne. Jaki wniosek najlepiej pasuje do podręcznika?",
+          "prompt": "Analizujesz decyzję Konrada Mazowieckiego. W krótkiej perspektywie chciał ochronić Mazowsze przed Prusami, ale w dłuższej powstało potężne państwo zakonne. Jaki wniosek jest najtrafniejszy?",
           "options": [
             "Decyzja rozwiązała jeden problem, lecz stworzyła groźniejszego sąsiada",
             "Decyzja natychmiast zjednoczyła Polskę",
@@ -9066,13 +9066,13 @@
               "przyłączenie Rusi Halickiej"
             ]
           },
-          "explanation": "Te wydarzenia pokazują trzy główne wątki rozdziału: jednoczenie, spór z zakonem i reformy Kazimierza."
+          "explanation": "Te wydarzenia pokazują trzy główne wątki: jednoczenie, spór z zakonem i reformy Kazimierza."
         },
         {
           "id": "R07_HARD_06",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż główne etapy dziejów Polski z rozdziału w porządku chronologicznym.",
+          "prompt": "Ułóż główne etapy dziejów Polski w porządku chronologicznym.",
           "options": null,
           "items": [
             "Reformy Kazimierza Wielkiego",
@@ -9088,7 +9088,7 @@
             "Koronacja Łokietka",
             "Reformy Kazimierza Wielkiego"
           ],
-          "explanation": "Rozdział prowadzi od rozbicia po 1138 roku przez XIII-wieczne kryzysy do odrodzenia królestwa i reform Kazimierza."
+          "explanation": "Kolejność prowadzi od rozbicia po 1138 roku przez XIII-wieczne kryzysy do odrodzenia królestwa i reform Kazimierza."
         },
         {
           "id": "R07_HARD_07",
@@ -9149,7 +9149,7 @@
           "id": "R07_HARD_11",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Uczeń twierdzi: „Kazimierz Wielki był ważny tylko dlatego, że powiększył państwo”. Która odpowiedź najlepiej uzupełnia obraz z podręcznika?",
+          "prompt": "Uczeń twierdzi: „Kazimierz Wielki był ważny tylko dlatego, że powiększył państwo”. Która odpowiedź najlepiej uzupełnia obraz?",
           "options": [
             "Powiększył państwo, ale także je ujednolicił, umocnił obronnie, zreformował prawo i założył uniwersytet",
             "Nie powiększył państwa i nie prowadził reform",
@@ -9157,7 +9157,7 @@
             "Zasłynął głównie ze sprowadzenia Krzyżaków do Polski"
           ],
           "answer": 0,
-          "explanation": "Podręcznik pokazuje Kazimierza jako władcę, który jednocześnie prowadził politykę zagraniczną, reformy wewnętrzne i rozwój kultury."
+          "explanation": "Pokazuje się Kazimierza jako władcę, który jednocześnie prowadził politykę zagraniczną, reformy wewnętrzne i rozwój kultury."
         },
         {
           "id": "R07_HARD_12",
@@ -9260,8 +9260,8 @@
           "id": "R08_UNI_03",
           "section": "Unia Polski z Litwą",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy Litwinów przed chrztem Jagiełły według rozdziału.",
-          "explanation": "Podręcznik podkreśla, że Litwini należeli do ludów bałtyckich, byli poganami i nie znali pisma.",
+          "prompt": "Zaznacz cechy Litwinów przed chrztem Jagiełły.",
+          "explanation": "Litwini należeli do ludów bałtyckich, byli poganami i nie znali pisma.",
           "options": [
             "Należeli do ludów bałtyckich",
             "Byli poganami",
@@ -9281,7 +9281,7 @@
           "section": "Unia Polski z Litwą",
           "type": "match",
           "prompt": "Połącz grupę z opisem.",
-          "explanation": "W rozdziale Litwini i Rusini zostali zestawieni przez pochodzenie, religię i znajomość pisma.",
+          "explanation": "Litwini i Rusini zostali zestawieni przez pochodzenie, religię i znajomość pisma.",
           "options": null,
           "left": [
             "Litwini",
@@ -9471,7 +9471,7 @@
           "section": "Wielka wojna z zakonem krzyżackim",
           "type": "true_false",
           "prompt": "Zamek w Malborku był stolicą państwa zakonu krzyżackiego.",
-          "explanation": "Podręcznik opisuje zamek w Malborku jako stolicę zakonnego państwa i jedną z najpotężniejszych warowni w Europie.",
+          "explanation": "Opisuje się zamek w Malborku jako stolicę zakonnego państwa i jedną z najpotężniejszych warowni w Europie.",
           "options": null,
           "answer": true,
           "image": "r08_zamek_malbork.jpg"
@@ -9556,7 +9556,7 @@
           "section": "Wielka wojna z zakonem krzyżackim",
           "type": "match",
           "prompt": "Połącz armię z jej opisem spod Grunwaldu.",
-          "explanation": "Podręcznik podaje, że armia polsko-litewska liczyła około 30 tysięcy ludzi, a krzyżacka około 20 tysięcy.",
+          "explanation": "Armia polsko-litewska liczyła około 30 tysięcy ludzi, a krzyżacka około 20 tysięcy.",
           "options": null,
           "left": [
             "armia polsko-litewska",
@@ -9582,7 +9582,7 @@
           "section": "Wielka wojna z zakonem krzyżackim",
           "type": "true_false",
           "prompt": "Wielki mistrz przysłał Jagielle dwa miecze, a dziś historycy widzą w tym raczej zachętę do walki niż wyłącznie obrazę.",
-          "explanation": "Podręcznik zaznacza, że dawny kronikarz uznał gest za obraźliwy, ale współcześni historycy traktują go jako zachętę do walki świadczącą o szacunku.",
+          "explanation": "Dawny kronikarz uznał gest za obraźliwy, ale współcześni historycy traktują go jako zachętę do walki świadczącą o szacunku.",
           "options": null,
           "answer": true
         },
@@ -9673,7 +9673,7 @@
           "section": "Synowie Jagiełły",
           "type": "true_false",
           "prompt": "Po wyborze Jagiełły na polski tron Polska stała się monarchią elekcyjną.",
-          "explanation": "Podręcznik stwierdza, że po wyborze Jagiełły Polska przestała być monarchią dziedziczną i stała się elekcyjną.",
+          "explanation": "Po wyborze Jagiełły Polska przestała być monarchią dziedziczną i stała się elekcyjną.",
           "options": null,
           "answer": true
         },
@@ -9765,7 +9765,7 @@
           "section": "Synowie Jagiełły",
           "type": "match",
           "prompt": "Połącz pojęcie lub osobę z opisem.",
-          "explanation": "Rozdział wyjaśnia kluczowe pojęcia dotyczące synów Jagiełły i wojny trzynastoletniej.",
+          "explanation": "Wyjaśnia się kluczowe pojęcia dotyczące synów Jagiełły i wojny trzynastoletniej.",
           "options": null,
           "left": [
             "sułtan",
@@ -10030,7 +10030,7 @@
           "section": "Od rycerstwa do szlachty",
           "type": "true_false",
           "prompt": "Mieszczanie w Polsce mogli głosować w sejmie i sejmikach tak samo jak szlachta.",
-          "explanation": "Podręcznik podaje, że mieszczanie nie mogli głosować w sejmie ani w sejmikach, dlatego państwo zaczęło służyć interesom szlachty.",
+          "explanation": "Mieszczanie nie mogli głosować w sejmie ani w sejmikach, dlatego państwo zaczęło służyć interesom szlachty.",
           "options": null,
           "answer": false
         },
@@ -10038,7 +10038,7 @@
           "id": "R08_SZL_11",
           "section": "Od rycerstwa do szlachty",
           "type": "single_choice",
-          "prompt": "Jak podręcznik określa ustrój Polski od XVI do XVIII w.?",
+          "prompt": "Jak określa się ustrój Polski od XVI do XVIII w.?",
           "explanation": "Ustrój Polski od XVI do XVIII w. nazwano monarchiczno-szlacheckim: najwyższą władzę miał król, ale państwem współrządziła szlachta.",
           "options": [
             "monarchiczno-szlachecki",
@@ -10083,7 +10083,7 @@
           "section": "Polska i Litwa w XV wieku",
           "type": "single_choice",
           "prompt": "Jaka wartość była najważniejszym wkładem Polski do kultury europejskiej od drugiej połowy XIV w.?",
-          "explanation": "Podręcznik wskazuje tolerancję religijną jako najważniejszą wartość wnoszoną przez Polaków do kultury europejskiej.",
+          "explanation": "Wskazuje się tolerancję religijną jako najważniejszą wartość wnoszoną przez Polaków do kultury europejskiej.",
           "options": [
             "tolerancja religijna",
             "budowa piramid",
@@ -10099,7 +10099,7 @@
           "section": "Polska i Litwa w XV wieku",
           "type": "true_false",
           "prompt": "Kazimierz Wielki przyłączył Ruś Halicką i nie nakłaniał prawosławnych Rusinów do przejścia na katolicyzm.",
-          "explanation": "To przykład polskiej tolerancji religijnej opisany w rozdziale.",
+          "explanation": "To przykład polskiej tolerancji religijnej.",
           "options": null,
           "answer": true
         },
@@ -10167,7 +10167,7 @@
           "section": "Polska i Litwa w XV wieku",
           "type": "true_false",
           "prompt": "W XV w. Akademia Krakowska była jedynym polskim uniwersytetem.",
-          "explanation": "Rozdział mówi, że w XV w. jedynym polskim uniwersytetem była Akademia Krakowska.",
+          "explanation": "W XV w. jedynym polskim uniwersytetem była Akademia Krakowska.",
           "options": null,
           "answer": true,
           "image": "r08_akademia_krakowska.jpg"
@@ -10194,7 +10194,7 @@
           "section": "Polska i Litwa w XV wieku",
           "type": "match",
           "prompt": "Połącz postać z osiągnięciem.",
-          "explanation": "Rozdział wymienia czterech ważnych twórców i uczonych związanych z kulturą XV-wiecznej Polski.",
+          "explanation": "Wymienia się czterech ważnych twórców i uczonych związanych z kulturą XV-wiecznej Polski.",
           "options": null,
           "left": [
             "Paweł Włodkowic",
@@ -10259,7 +10259,7 @@
           "id": "R08_KUL_11",
           "section": "Polska i Litwa w XV wieku",
           "type": "riddle",
-          "prompt": "Jak nazywał się najznakomitszy kronikarz polskiego średniowiecza opisany w rozdziale?",
+          "prompt": "Jak nazywał się najznakomitszy kronikarz polskiego średniowiecza?",
           "explanation": "Jan Długosz przez 25 lat pisał po łacinie Roczniki, czyli Kroniki sławnego Królestwa Polskiego.",
           "options": null,
           "answer": "Jan Długosz",
@@ -10289,7 +10289,7 @@
           "id": "R08_HARD_01",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż wydarzenia całego rozdziału w porządku chronologicznym.",
+          "prompt": "Ułóż wydarzenia w porządku chronologicznym.",
           "explanation": "Chronologia prowadzi od unii z Węgrami, przez unię polsko-litewską i Grunwald, po drugi pokój toruński i Nihil novi.",
           "options": null,
           "items": [
@@ -10376,7 +10376,7 @@
           "section": "Super trudne",
           "type": "match",
           "prompt": "Połącz pojęcie z konsekwencją dla państwa.",
-          "explanation": "Pojęcia z rozdziału opisują przemiany polityczne Polski od monarchii dziedzicznej ku ustrojowi monarchiczno-szlacheckiemu.",
+          "explanation": "Pojęcia opisują przemiany polityczne Polski od monarchii dziedzicznej ku ustrojowi monarchiczno-szlacheckiemu.",
           "options": null,
           "left": [
             "monarchia elekcyjna",

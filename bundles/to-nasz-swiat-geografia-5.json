@@ -1,8 +1,8 @@
 {
   "id": "to-nasz-swiat-geografia-5",
   "title": "To nasz świat. Geografia 5",
-  "version": 1,
-  "contentHash": "72c9fc27d1ed4bd2480afa344daf1ca847cef48955a8ae1bddbf478731b2cbbd",
+  "version": 2,
+  "contentHash": "70f2ace858eead100c1be872ab68af5cbb0af1d91f2aee416e578278d479e859",
   "bookConfig": {
     "id": "to-nasz-swiat-geografia-5",
     "title": "To nasz świat. Geografia 5",
@@ -55,7 +55,7 @@
           "prompt": "Ziemia jest jedną z ośmiu planet Układu Słonecznego i ma kształt zbliżony do kuli.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że Ziemia należy do ośmiu planet Układu Słonecznego i ma kształt zbliżony do kuli."
+          "explanation": "Ziemia należy do ośmiu planet Układu Słonecznego i ma kształt zbliżony do kuli."
         },
         {
           "id": "R01_ZIG_03",
@@ -176,7 +176,7 @@
           "id": "R01_ZIG_09",
           "section": "Ziemia i globus",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy, które według rozdziału można przedstawiać na globusie.",
+          "prompt": "Zaznacz elementy, które można przedstawiać na globusie.",
           "options": [
             "lądy",
             "wody",
@@ -214,7 +214,7 @@
               "cztery i pół"
             ]
           ],
-          "explanation": "Rozdział podaje, że Ziemia jest trzecią planetą od Słońca i istnieje około 4,5 miliarda lat."
+          "explanation": "Ziemia jest trzecią planetą od Słońca i istnieje około 4,5 miliarda lat."
         },
         {
           "id": "R01_SGP_01",
@@ -384,7 +384,7 @@
           "id": "R01_SGP_10",
           "section": "Siatka geograficzna i półkule",
           "type": "multi_select",
-          "prompt": "Zaznacz nazwy równoleżników wymienione w rozdziale.",
+          "prompt": "Zaznacz nazwy równoleżników.",
           "options": [
             "równik",
             "zwrotnik Raka",
@@ -400,13 +400,13 @@
             3,
             4
           ],
-          "explanation": "W rozdziale wymieniono równik, zwrotniki Raka i Koziorożca oraz oba koła podbiegunowe."
+          "explanation": "Wymieniono równik, zwrotniki Raka i Koziorożca oraz oba koła podbiegunowe."
         },
         {
           "id": "R01_KON_01",
           "section": "Kontynenty i oceany",
           "type": "single_choice",
-          "prompt": "Ile kontynentów wyróżnia się zazwyczaj na Ziemi według rozdziału?",
+          "prompt": "Ile kontynentów wyróżnia się zazwyczaj na Ziemi?",
           "options": [
             "siedem",
             "pięć",
@@ -417,7 +417,7 @@
           ],
           "answer": 0,
           "image": "r01_mapa_kontynentow.jpg",
-          "explanation": "Rozdział wymienia siedem kontynentów: Azję, Afrykę, Amerykę Północną, Amerykę Południową, Antarktydę, Europę i Australię."
+          "explanation": "Wymienia się siedem kontynentów: Azję, Afrykę, Amerykę Północną, Amerykę Południową, Antarktydę, Europę i Australię."
         },
         {
           "id": "R01_KON_02",
@@ -442,7 +442,7 @@
           "prompt": "Europa szeroko łączy się z Azją, dlatego często traktuje się je jako jeden kontynent nazywany Eurazją.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wyjaśnia, że Europa szeroko łączy się z Azją i dlatego bywa z nią traktowana jako Eurazja."
+          "explanation": "Europa szeroko łączy się z Azją i dlatego bywa z nią traktowana jako Eurazja."
         },
         {
           "id": "R01_KON_04",
@@ -464,7 +464,7 @@
               "Australią"
             ]
           ],
-          "explanation": "Rozdział podaje wprost, że największym kontynentem jest Azja, a najmniejszym Australia."
+          "explanation": "Największym kontynentem jest Azja, a najmniejszym Australia."
         },
         {
           "id": "R01_KON_05",
@@ -586,7 +586,7 @@
           "id": "R01_ODK_01",
           "section": "Odkrycia geograficzne",
           "type": "single_choice",
-          "prompt": "Którzy podróżnicy zostali w rozdziale wymienieni jako jedni z pierwszych?",
+          "prompt": "Którzy podróżnicy zostali wymienieni jako jedni z pierwszych?",
           "options": [
             "wikingowie",
             "kosmonauci",
@@ -597,7 +597,7 @@
           ],
           "answer": 0,
           "image": "r01_lodz_wikingow.jpg",
-          "explanation": "Rozdział podaje, że jednymi z pierwszych podróżników byli wikingowie pochodzący ze Skandynawii."
+          "explanation": "Jednymi z pierwszych podróżników byli wikingowie pochodzący ze Skandynawii."
         },
         {
           "id": "R01_ODK_02",
@@ -606,7 +606,7 @@
           "prompt": "Wikingowie dotarli do Ameryki Północnej już na przełomie X i XI wieku.",
           "options": null,
           "answer": true,
-          "explanation": "Według rozdziału świetni żeglarze ze Skandynawii dopłynęli do Ameryki Północnej na przełomie X i XI wieku."
+          "explanation": "Świetni żeglarze ze Skandynawii dopłynęli do Ameryki Północnej na przełomie X i XI wieku."
         },
         {
           "id": "R01_ODK_03",
@@ -628,26 +628,26 @@
               "bogactw"
             ]
           ],
-          "explanation": "Rozdział wymienia głód wiedzy oraz chęć zdobycia bogactwa i nowych ziem jako motywy wypraw."
+          "explanation": "Wymienia się głód wiedzy oraz chęć zdobycia bogactwa i nowych ziem jako motywy wypraw."
         },
         {
           "id": "R01_ODK_04",
           "section": "Odkrycia geograficzne",
           "type": "riddle",
-          "prompt": "Jak nazywały się łodzie wikingów pokazane w rozdziale?",
+          "prompt": "Jak nazywały się łodzie wikingów?",
           "options": null,
           "answer": "drakkary",
           "altAnswers": [
             "drakkary",
             "drakkar"
           ],
-          "explanation": "W rozdziale podpisano łodzie wikingów jako drakkary."
+          "explanation": "Podpisano łodzie wikingów jako drakkary."
         },
         {
           "id": "R01_ODK_05",
           "section": "Odkrycia geograficzne",
           "type": "match",
-          "prompt": "Połącz pojęcie z informacją z rozdziału.",
+          "prompt": "Połącz pojęcie z informacją.",
           "options": null,
           "left": [
             "wikingowie",
@@ -673,7 +673,7 @@
           "id": "R01_ODK_06",
           "section": "Odkrycia geograficzne",
           "type": "scenario",
-          "prompt": "Wyobraź sobie dawne czasy bez telewizji i internetu. Ktoś z daleka opowiada o nieznanych miejscach, a ludzie chcą je zobaczyć oraz zdobyć nowe ziemie. Jak rozdział wyjaśnia takie wyprawy?",
+          "prompt": "Wyobraź sobie dawne czasy bez telewizji i internetu. Ktoś z daleka opowiada o nieznanych miejscach, a ludzie chcą je zobaczyć oraz zdobyć nowe ziemie. Jak wyjaśnia się takie wyprawy?",
           "options": [
             "wynikały z ciekawości świata oraz chęci zdobycia bogactwa i ziem",
             "były zakazane przez wszystkich władców",
@@ -683,22 +683,22 @@
             "nie miały związku z poznawaniem świata"
           ],
           "answer": 0,
-          "explanation": "Rozdział wyjaśnia, że ludzi kierowała ciekawość, głód wiedzy, chęć bogactwa oraz zdobywania nowych ziem."
+          "explanation": "Ludzi kierowała ciekawość, głód wiedzy, chęć bogactwa oraz zdobywania nowych ziem."
         },
         {
           "id": "R01_ODK_07",
           "section": "Odkrycia geograficzne",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do państw Skandynawii wymienionych w rozdziale: Norwegia, Szwecja, Dania, Hiszpania.",
+          "prompt": "Co nie pasuje do państw Skandynawii: Norwegia, Szwecja, Dania, Hiszpania.",
           "options": null,
           "answer": "Hiszpania",
-          "explanation": "W rozdziale Skandynawia została objaśniona jako tereny dzisiejszej Norwegii, Szwecji i Danii. Hiszpania nie należy do tej listy."
+          "explanation": "Skandynawia została objaśniona jako tereny dzisiejszej Norwegii, Szwecji i Danii. Hiszpania nie należy do tej listy."
         },
         {
           "id": "R01_ODK_08",
           "section": "Odkrycia geograficzne",
           "type": "multi_select",
-          "prompt": "Zaznacz dzisiejsze państwa, które w rozdziale podano jako obszar Skandynawii.",
+          "prompt": "Zaznacz dzisiejsze państwa, które podano jako obszar Skandynawii.",
           "options": [
             "Norwegia",
             "Szwecja",
@@ -721,7 +721,7 @@
           "prompt": "Do XV wieku Europejczycy podróżowali przede wszystkim drogami lądowymi.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że do XV wieku Europejczycy podróżowali głównie drogami lądowymi, także między kontynentami."
+          "explanation": "Do XV wieku Europejczycy podróżowali głównie drogami lądowymi, także między kontynentami."
         },
         {
           "id": "R01_ODK_10",
@@ -738,7 +738,7 @@
               "nawigacja"
             ]
           ],
-          "explanation": "Rozdział wskazuje, że wyprawy morskie były trudne z powodu małej wiedzy Europejczyków o oceanach i nawigacji."
+          "explanation": "Wyprawy morskie były trudne z powodu małej wiedzy Europejczyków o oceanach i nawigacji."
         },
         {
           "id": "R01_WYP_01",
@@ -811,7 +811,7 @@
           "id": "R01_WYP_05",
           "section": "Wielkie wyprawy i odkrywcy",
           "type": "match",
-          "prompt": "Połącz odkrywcę z osiągnięciem opisanym w rozdziale.",
+          "prompt": "Połącz odkrywcę z osiągnięciem.",
           "options": null,
           "left": [
             "Krzysztof Kolumb",
@@ -856,7 +856,7 @@
             "Janszoon dopływa do Australii",
             "załoga rosyjskiego statku obserwuje Antarktydę"
           ],
-          "explanation": "Daty z rozdziału to kolejno 1492, 1497, 1519, 1605 i 1820 rok."
+          "explanation": "Daty to kolejno 1492, 1497, 1519, 1605 i 1820 rok."
         },
         {
           "id": "R01_WYP_07",
@@ -887,7 +887,7 @@
           "id": "R01_WYP_09",
           "section": "Wielkie wyprawy i odkrywcy",
           "type": "sort",
-          "prompt": "Przyporządkuj elementy do wypraw opisanych w rozdziale.",
+          "prompt": "Przyporządkuj elementy do wypraw.",
           "options": null,
           "items": [
             "Bahamy i Kuba",
@@ -922,7 +922,7 @@
           "id": "R01_WYP_10",
           "section": "Wielkie wyprawy i odkrywcy",
           "type": "riddle",
-          "prompt": "Który kontynent był ostatnim odkrytym kontynentem według rozdziału?",
+          "prompt": "Który kontynent był ostatnim odkrytym kontynentem?",
           "options": null,
           "answer": "Antarktyda",
           "altAnswers": [
@@ -930,7 +930,7 @@
             "Antarktydę"
           ],
           "image": "r01_antarktyda_biegun.jpg",
-          "explanation": "Rozdział podaje, że ostatnim odkrytym kontynentem była Antarktyda, zaobserwowana po raz pierwszy przez załogę rosyjskiego statku w 1820 roku."
+          "explanation": "Ostatnim odkrytym kontynentem była Antarktyda, zaobserwowana po raz pierwszy przez załogę rosyjskiego statku w 1820 roku."
         },
         {
           "id": "R01_HARD_01",
@@ -976,7 +976,7 @@
           "id": "R01_HARD_03",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz rok z wydarzeniem opisanym w rozdziale.",
+          "prompt": "Połącz rok z wydarzeniem.",
           "options": null,
           "left": [
             "1492",
@@ -999,7 +999,7 @@
             "1605": "dopłynięcie Janszoona do Australii",
             "1820": "pierwsze zaobserwowanie Antarktydy"
           },
-          "explanation": "Rozdział podaje te daty przy kolejnych wyprawach i odkryciach: Kolumb 1492, da Gama 1497, Magellan 1519, Janszoon 1605, Antarktyda 1820."
+          "explanation": "Podaje się te daty przy kolejnych wyprawach i odkryciach: Kolumb 1492, da Gama 1497, Magellan 1519, Janszoon 1605, Antarktyda 1820."
         },
         {
           "id": "R01_HARD_04",
@@ -1038,7 +1038,7 @@
           ],
           "answer": 0,
           "image": "r01_australia_i_strzelecki.jpg",
-          "explanation": "Rozdział wymienia Pawła Edmunda Strzeleckiego jako polskiego badacza Australii, który nazwał jej najwyższy szczyt Górą Kościuszki."
+          "explanation": "Wymienia się Pawła Edmunda Strzeleckiego jako polskiego badacza Australii, który nazwał jej najwyższy szczyt Górą Kościuszki."
         },
         {
           "id": "R01_HARD_06",
@@ -1047,13 +1047,13 @@
           "prompt": "Pierwsza podróż dookoła świata dowiodła ostatecznie, że Ziemia ma kształt kulisty.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że pierwsza podróż dookoła świata zakończona przez załogę Magellana dowiodła ostatecznie kulistego kształtu Ziemi."
+          "explanation": "Pierwsza podróż dookoła świata zakończona przez załogę Magellana dowiodła ostatecznie kulistego kształtu Ziemi."
         },
         {
           "id": "R01_HARD_07",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz osoby lub grupy, które rozdział wiąże z Antarktydą albo biegunem południowym.",
+          "prompt": "Zaznacz osoby lub grupy, które wiąże się z Antarktydą albo biegunem południowym.",
           "options": [
             "Roald Amundsen",
             "Robert Falcon Scott",
@@ -1101,7 +1101,7 @@
           "id": "R01_HARD_09",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do wypraw XV i XVI wieku opisanych w rozdziale: Krzysztof Kolumb, Vasco da Gama, Ferdynand Magellan, Willem Janszoon.",
+          "prompt": "Co nie pasuje do wypraw XV i XVI wieku: Krzysztof Kolumb, Vasco da Gama, Ferdynand Magellan, Willem Janszoon.",
           "options": null,
           "answer": "Willem Janszoon",
           "explanation": "Kolumb, Vasco da Gama i Magellan są związani z wyprawami XV i XVI wieku. Willem Janszoon dopłynął do brzegów Australii w 1605 roku."
@@ -1160,7 +1160,7 @@
               "1912 r."
             ]
           ],
-          "explanation": "Rozdział podaje: Antarktydę zaobserwowano w 1820 roku, Amundsen zdobył biegun południowy w 1911 roku, a Scott w 1912 roku."
+          "explanation": "Antarktydę zaobserwowano w 1820 roku, Amundsen zdobył biegun południowy w 1911 roku, a Scott w 1912 roku."
         }
       ],
       "kidPrompts": {},
@@ -1206,7 +1206,7 @@
           "id": "R02_MAP_01",
           "section": "Mapa i plan",
           "type": "single_choice",
-          "prompt": "Czym jest mapa według rozdziału?",
+          "prompt": "Czym jest mapa?",
           "options": [
             "Bardzo pomniejszonym obrazem powierzchni Ziemi lub jej fragmentu",
             "Modelem Ziemi w kształcie kuli",
@@ -1227,7 +1227,7 @@
           "options": null,
           "answer": true,
           "image": "r02_zdjecie_z_lotu_ptaka.jpg",
-          "explanation": "W rozdziale podano, że współczesne mapy mogą powstawać ze zdjęć wykonanych z samolotów, balonów, dronów lub satelitów."
+          "explanation": "Współczesne mapy mogą powstawać ze zdjęć wykonanych z samolotów, balonów, dronów lub satelitów."
         },
         {
           "id": "R02_MAP_03",
@@ -1283,7 +1283,7 @@
           "id": "R02_MAP_05",
           "section": "Mapa i plan",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy, które według rozdziału może zawierać mapa.",
+          "prompt": "Zaznacz elementy, które może zawierać mapa.",
           "options": [
             "treść mapy",
             "tytuł mapy",
@@ -1487,7 +1487,7 @@
           "prompt": "Im większa liczba po znaku dzielenia w zapisie skali liczbowej, tym bardziej pomniejszono obszar lub obiekt.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że większa liczba po znaku dzielenia oznacza większe pomniejszenie przedstawionego obszaru."
+          "explanation": "Większa liczba po znaku dzielenia oznacza większe pomniejszenie przedstawionego obszaru."
         },
         {
           "id": "R02_SKA_05",
@@ -1604,7 +1604,7 @@
           "prompt": "Gdy trasa nie biegnie w linii prostej, można podzielić ją na odcinki, zmierzyć je osobno i dodać ich długości.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale opisano, że trasę złożoną z kilku odcinków mierzy się odcinkami, sumuje i dopiero potem przelicza według skali."
+          "explanation": "Trasę złożoną z kilku odcinków mierzy się odcinkami, sumuje i dopiero potem przelicza według skali."
         },
         {
           "id": "R02_SKA_12",
@@ -1708,7 +1708,7 @@
           "prompt": "Poziomice na mapie nigdy się nie przecinają.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podano, że poziomice nigdy się nie przecinają."
+          "explanation": "Poziomice nigdy się nie przecinają."
         },
         {
           "id": "R02_UKS_07",
@@ -1881,7 +1881,7 @@
               "500 m"
             ]
           ],
-          "explanation": "W rozdziale podano, że niziny mają wysokości 0-300 m n.p.m., wyżyny 300-500 m n.p.m., a góry leżą powyżej 500 m n.p.m."
+          "explanation": "Niziny mają wysokości 0-300 m n.p.m., wyżyny 300-500 m n.p.m., a góry leżą powyżej 500 m n.p.m."
         },
         {
           "id": "R02_KRA_04",
@@ -1896,7 +1896,7 @@
           "id": "R02_KRA_05",
           "section": "Krajobraz",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy krajobrazu wymienione w rozdziale.",
+          "prompt": "Zaznacz elementy krajobrazu.",
           "options": [
             "ukształtowanie terenu",
             "wody",
@@ -1931,7 +1931,7 @@
           "id": "R02_KRA_07",
           "section": "Krajobraz",
           "type": "single_choice",
-          "prompt": "Ile pasów krajobrazowych wyróżniono w Polsce w rozdziale?",
+          "prompt": "Ile pasów krajobrazowych wyróżniono w Polsce?",
           "options": [
             "sześć",
             "dwa",
@@ -1971,7 +1971,7 @@
           "id": "R02_KRA_09",
           "section": "Krajobraz",
           "type": "match",
-          "prompt": "Połącz pas krajobrazowy z cechą podaną w rozdziale.",
+          "prompt": "Połącz pas krajobrazowy z cechą.",
           "options": null,
           "left": [
             "pas pobrzeży",
@@ -2006,7 +2006,7 @@
           "id": "R02_KRA_11",
           "section": "Krajobraz",
           "type": "scenario",
-          "prompt": "Na mapie zaznaczono pokrycie terenu lasami, polami uprawnymi, łąkami i zabudową. Jaki to typ mapy opisany w rozdziale?",
+          "prompt": "Na mapie zaznaczono pokrycie terenu lasami, polami uprawnymi, łąkami i zabudową. Jaki to typ mapy?",
           "options": [
             "mapa krajobrazowa",
             "mapa pogody",
@@ -2054,7 +2054,7 @@
           "id": "R02_OCH_01",
           "section": "Ochrona przyrody",
           "type": "multi_select",
-          "prompt": "Zaznacz powody ochrony przyrody wymienione w rozdziale.",
+          "prompt": "Zaznacz powody ochrony przyrody.",
           "options": [
             "zachowanie przyrodniczego bogactwa planety",
             "ocalenie życia zwierząt, roślin i innych organizmów",
@@ -2079,7 +2079,7 @@
           "prompt": "Na łonie natury należy schodzić z wyznaczonych szlaków, aby lepiej poznać teren.",
           "options": null,
           "answer": false,
-          "explanation": "W rozdziale wprost zapisano, że nie należy schodzić z wyznaczonych szlaków."
+          "explanation": "Wprost zapisano, że nie należy schodzić z wyznaczonych szlaków."
         },
         {
           "id": "R02_OCH_03",
@@ -2113,7 +2113,7 @@
           "id": "R02_OCH_04",
           "section": "Ochrona przyrody",
           "type": "single_choice",
-          "prompt": "Czym są parki narodowe według rozdziału?",
+          "prompt": "Czym są parki narodowe?",
           "options": [
             "obszarami najcenniejszymi przyrodniczo, gdzie chroni się przyrodę ożywioną i nieożywioną",
             "miejscami, w których wolno niszczyć rośliny",
@@ -2156,7 +2156,7 @@
           "id": "R02_OCH_06",
           "section": "Ochrona przyrody",
           "type": "riddle",
-          "prompt": "Jaki park narodowy jest największy w Polsce według rozdziału?",
+          "prompt": "Jaki park narodowy jest największy w Polsce?",
           "options": null,
           "answer": "Biebrzański Park Narodowy",
           "altAnswers": [
@@ -2165,7 +2165,7 @@
             "Biebrzanski Park Narodowy",
             "Biebrzanski"
           ],
-          "explanation": "W rozdziale wskazano rozlewiska Biebrzy w Biebrzańskim Parku Narodowym i opisano go jako największy park narodowy w Polsce."
+          "explanation": "Wskazano rozlewiska Biebrzy w Biebrzańskim Parku Narodowym i opisano go jako największy park narodowy w Polsce."
         },
         {
           "id": "R02_OCH_07",
@@ -2184,7 +2184,7 @@
             ]
           ],
           "image": "r02_cis_henrykowski.jpg",
-          "explanation": "Rozdział podaje, że Cis Henrykowski liczy około 1250 lat i jest obecnie chroniony specjalnym rusztowaniem."
+          "explanation": "Cis Henrykowski liczy około 1250 lat i jest obecnie chroniony specjalnym rusztowaniem."
         },
         {
           "id": "R02_OCH_08",
@@ -2209,7 +2209,7 @@
           "prompt": "Rezerwaty przyrody są mniejsze od parków narodowych, a działalność człowieka jest w nich mocno ograniczona.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale zapisano, że rezerwaty są mniejsze od parków narodowych i że działalność człowieka jest w nich mocno ograniczona."
+          "explanation": "Rezerwaty są mniejsze od parków narodowych i że działalność człowieka jest w nich mocno ograniczona."
         },
         {
           "id": "R02_OCH_10",
@@ -2373,7 +2373,7 @@
             "powyżej 500 m n.p.m.": "góry według wysokości bezwzględnej",
             "powyżej 300 m wysokości względnej": "góry według wysokości względnej"
           },
-          "explanation": "Rozdział podaje progi wysokości dla nizin, wyżyn i gór oraz przypomina, że góry można rozpoznawać także po wysokości względnej powyżej 300 m."
+          "explanation": "Podaje się progi wysokości dla nizin, wyżyn i gór oraz przypomina, że góry można rozpoznawać także po wysokości względnej powyżej 300 m."
         },
         {
           "id": "R02_HARD_07",
@@ -2391,7 +2391,7 @@
           "prompt": "Na mapach głębokość zbiorników wodnych oznacza się tak, że im jaśniejszy odcień niebieskiego, tym większa głębokość.",
           "options": null,
           "answer": false,
-          "explanation": "W rozdziale podano odwrotną zasadę: im ciemniejszy odcień niebieskiego, tym większa głębokość zbiornika wodnego."
+          "explanation": "Podano odwrotną zasadę: im ciemniejszy odcień niebieskiego, tym większa głębokość zbiornika wodnego."
         },
         {
           "id": "R02_HARD_09",
@@ -2729,7 +2729,7 @@
             "pola ryżowe"
           ],
           "answer": 0,
-          "explanation": "W podręczniku podano, że najbardziej charakterystycznymi elementami Wybrzeża Słowińskiego są piaszczyste plaże i wydmy."
+          "explanation": "Najbardziej charakterystycznymi elementami Wybrzeża Słowińskiego są piaszczyste plaże i wydmy."
         },
         {
           "id": "R03_POJ_01",
@@ -2755,7 +2755,7 @@
           "prompt": "Pojezierza to tereny o największej liczbie jezior w Polsce.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale pojezierza opisano jako obszary o największej liczbie jezior w Polsce."
+          "explanation": "Pojezierza opisano jako obszary o największej liczbie jezior w Polsce."
         },
         {
           "id": "R03_POJ_03",
@@ -2813,7 +2813,7 @@
           "id": "R03_POJ_06",
           "section": "Krajobraz pojezierny",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy, które według rozdziału przyciągają turystów na Pojezierze Mazurskie.",
+          "prompt": "Zaznacz elementy, które przyciągają turystów na Pojezierze Mazurskie.",
           "options": [
             "obiekty wypoczynkowe",
             "restauracje",
@@ -2914,7 +2914,7 @@
             "mazurski park krajobrazowy"
           ],
           "image": "r03_puszcza_piska.jpg",
-          "explanation": "W rozdziale podano, że dla ochrony krajobrazu polodowcowego oraz roślinności i zwierząt utworzono Mazurski Park Krajobrazowy."
+          "explanation": "Dla ochrony krajobrazu polodowcowego oraz roślinności i zwierząt utworzono Mazurski Park Krajobrazowy."
         },
         {
           "id": "R03_POJ_11",
@@ -2950,7 +2950,7 @@
           "prompt": "Pas nizin jest najrozleglejszym pasem krajobrazowym Polski.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik opisuje niziny jako najrozleglejszy pas krajobrazowy Polski."
+          "explanation": "Opisuje się niziny jako najrozleglejszy pas krajobrazowy Polski."
         },
         {
           "id": "R03_NIZ_03",
@@ -3116,7 +3116,7 @@
           "id": "R03_NIZ_11",
           "section": "Krajobraz nizinny",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy Puszczy Kampinoskiej opisane w rozdziale.",
+          "prompt": "Zaznacz cechy Puszczy Kampinoskiej.",
           "options": [
             "bagna",
             "wydmy śródlądowe",
@@ -3138,7 +3138,7 @@
           "id": "R03_WYZ_01",
           "section": "Krajobraz wyżynny",
           "type": "single_choice",
-          "prompt": "Na jakich wysokościach położone są wyżyny według rozdziału?",
+          "prompt": "Na jakich wysokościach położone są wyżyny?",
           "options": [
             "od 300 do 500 m n.p.m.",
             "poniżej 300 m n.p.m.",
@@ -3154,7 +3154,7 @@
           "id": "R03_WYZ_02",
           "section": "Krajobraz wyżynny",
           "type": "multi_select",
-          "prompt": "Zaznacz wyżyny wymienione w rozdziale jako najbardziej znane polskie wyżyny.",
+          "prompt": "Zaznacz wyżyny jako najbardziej znane polskie wyżyny.",
           "options": [
             "Wyżyna Krakowsko-Częstochowska",
             "Wyżyna Śląska",
@@ -3169,7 +3169,7 @@
             2,
             3
           ],
-          "explanation": "Podręcznik wymienia Wyżynę Krakowsko-Częstochowską, Śląską, Lubelską i Kielecką."
+          "explanation": "Wymienia się Wyżynę Krakowsko-Częstochowską, Śląską, Lubelską i Kielecką."
         },
         {
           "id": "R03_WYZ_03",
@@ -3325,7 +3325,7 @@
           "id": "R03_GOR_01",
           "section": "Krajobraz wysokogórski",
           "type": "single_choice",
-          "prompt": "Jaką wysokość bezwzględną mają góry według rozdziału?",
+          "prompt": "Jaką wysokość bezwzględną mają góry?",
           "options": [
             "większą niż 500 m n.p.m.",
             "mniejszą niż 300 m n.p.m.",
@@ -3362,7 +3362,7 @@
             "łańcuch górski": "wiele pasm górskich",
             "staw": "jezioro w Tatrach"
           },
-          "explanation": "Podręcznik rozróżnia górę, pasmo i łańcuch górski, a jeziora tatrzańskie nazywa stawami."
+          "explanation": "Rozróżnia się górę, pasmo i łańcuch górski, a jeziora tatrzańskie nazywa stawami."
         },
         {
           "id": "R03_GOR_03",
@@ -3371,7 +3371,7 @@
           "prompt": "Tatry są jedynym obszarem o krajobrazie wysokogórskim w Polsce.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podano, że Tatry to jedyny obszar o krajobrazie wysokogórskim w Polsce."
+          "explanation": "Tatry to jedyny obszar o krajobrazie wysokogórskim w Polsce."
         },
         {
           "id": "R03_GOR_04",
@@ -3412,7 +3412,7 @@
           "id": "R03_GOR_06",
           "section": "Krajobraz wysokogórski",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy wysokogórskiej rzeźby terenu wymienione w rozdziale.",
+          "prompt": "Zaznacz elementy wysokogórskiej rzeźby terenu.",
           "options": [
             "turnie",
             "granie",
@@ -3503,7 +3503,7 @@
           ],
           "answer": 0,
           "image": "r03_tatry_wysokie.jpg",
-          "explanation": "Podręcznik wskazuje, że liczna obecność turystów szkodzi tatrzańskiej przyrodzie m.in. przez śmieci i dokarmianie dzikich zwierząt."
+          "explanation": "Liczna obecność turystów szkodzi tatrzańskiej przyrodzie m.in. przez śmieci i dokarmianie dzikich zwierząt."
         },
         {
           "id": "R03_GOR_10",
@@ -3576,7 +3576,7 @@
           "id": "R03_HARD_02",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz obszar chroniony z informacją z rozdziału.",
+          "prompt": "Połącz obszar chroniony z informacją.",
           "options": null,
           "left": [
             "Słowiński Park Narodowy",
@@ -3596,7 +3596,7 @@
             "Kampinoski Park Narodowy": "jego symbolem jest łoś",
             "Tatrzański Park Narodowy": "powstał ze względu na unikatową przyrodę Tatr"
           },
-          "explanation": "W rozdziale opisano kilka form ochrony przyrody powiązanych z różnymi pasami krajobrazowymi."
+          "explanation": "Opisano kilka form ochrony przyrody powiązanych z różnymi pasami krajobrazowymi."
         },
         {
           "id": "R03_HARD_03",
@@ -3647,7 +3647,7 @@
             ]
           ],
           "image": "r03_pojezierze_mazurskie.jpg",
-          "explanation": "W rozdziale podano, że na Pojezierzu Mazurskim jest ponad 2000 jezior, a największe to Śniardwy."
+          "explanation": "Na Pojezierzu Mazurskim jest ponad 2000 jezior, a największe to Śniardwy."
         },
         {
           "id": "R03_HARD_06",
@@ -3713,7 +3713,7 @@
           "id": "R03_HARD_10",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz popularną aktywność turystyczną z obszarem, z którym łączy ją rozdział.",
+          "prompt": "Połącz popularną aktywność turystyczną z obszarem, na którym się ją uprawia.",
           "options": null,
           "left": [
             "windsurfing",
@@ -3733,7 +3733,7 @@
             "wspinaczka skalna": "Jura",
             "narciarstwo": "Tatry"
           },
-          "explanation": "Rozdział łączy windsurfing z pobrzeżami, żeglarstwo i kajakarstwo z Mazurami, wspinaczkę skalną z Jurą, a narciarstwo z Tatrami."
+          "explanation": "Łączy się windsurfing z pobrzeżami, żeglarstwo i kajakarstwo z Mazurami, wspinaczkę skalną z Jurą, a narciarstwo z Tatrami."
         },
         {
           "id": "R03_HARD_11",
@@ -3809,7 +3809,7 @@
           "id": "R03_HARD_15",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "W okolicach Grójca znajdują się bardzo duże sady. Które owoce z tego regionu są w rozdziale szczególnie cenione?",
+          "prompt": "W okolicach Grójca znajdują się bardzo duże sady. Które owoce z tego regionu są szczególnie cenione?",
           "options": [
             "polskie jabłka",
             "banany",
@@ -3819,7 +3819,7 @@
             "kokosy"
           ],
           "answer": 0,
-          "explanation": "W rozdziale podkreślono, że w okolicach Grójca są jedne z największych sadów w Polsce, a szczególnie cenione są polskie jabłka."
+          "explanation": "W okolicach Grójca są jedne z największych sadów w Polsce, a szczególnie cenione są polskie jabłka."
         }
       ],
       "kidPrompts": {},
@@ -3865,7 +3865,7 @@
           "id": "R04_WIE_01",
           "section": "Krajobraz wielkomiejski",
           "type": "single_choice",
-          "prompt": "Co oznaczają korki, trąbienie, tłumy na chodnikach i wysokie budynki opisane w rozdziale?",
+          "prompt": "Co oznaczają korki, trąbienie, tłumy na chodnikach i wysokie budynki?",
           "explanation": "Taki opis wskazuje na wielkie miasto: dużo samochodów, gęsta zabudowa i tłumy ludzi to cechy krajobrazu wielkomiejskiego.",
           "options": [
             "Wielkie miasto",
@@ -3882,7 +3882,7 @@
           "section": "Krajobraz wielkomiejski",
           "type": "true_false",
           "prompt": "Wielkie miasto jest przykładem krajobrazu antropogenicznego.",
-          "explanation": "W rozdziale wielkie miasto opisano jako teren o krajobrazie antropogenicznym, czyli silnie przekształconym przez człowieka.",
+          "explanation": "Wielkie miasto opisano jako teren o krajobrazie antropogenicznym, czyli silnie przekształconym przez człowieka.",
           "options": null,
           "answer": true
         },
@@ -3912,8 +3912,8 @@
           "id": "R04_WIE_04",
           "section": "Krajobraz wielkomiejski",
           "type": "multi_select",
-          "prompt": "Zaznacz typy dzielnic wymienione w rozdziale.",
-          "explanation": "W rozdziale podano dzielnice mieszkaniowe, przemysłowe i handlowe jako przykłady części dużego miasta.",
+          "prompt": "Zaznacz typy dzielnic.",
+          "explanation": "Podano dzielnice mieszkaniowe, przemysłowe i handlowe jako przykłady części dużego miasta.",
           "options": [
             "mieszkaniowe",
             "przemysłowe",
@@ -4032,7 +4032,7 @@
           "section": "Krajobraz wielkomiejski",
           "type": "true_false",
           "prompt": "Dalej od centrum dużego miasta dominuje niska zabudowa domów jednorodzinnych.",
-          "explanation": "Rozdział podaje, że dalej od centrum dominuje niska zabudowa domów jednorodzinnych.",
+          "explanation": "Dalej od centrum dominuje niska zabudowa domów jednorodzinnych.",
           "options": null,
           "answer": true
         },
@@ -4040,7 +4040,7 @@
           "id": "R04_WIE_11",
           "section": "Krajobraz wielkomiejski",
           "type": "multi_select",
-          "prompt": "Co może znajdować się na terenie osiedla mieszkaniowego według rozdziału?",
+          "prompt": "Co może znajdować się na terenie osiedla mieszkaniowego?",
           "explanation": "Na osiedlach oprócz budynków mieszkalnych mogą być szkoły, przedszkola, place zabaw, tereny rekreacyjne, przychodnie, sklepy i inne punkty usługowe.",
           "options": [
             "szkoły",
@@ -4076,7 +4076,7 @@
           "section": "Warszawa",
           "type": "single_choice",
           "prompt": "Które miasto jest największym miastem Polski i jej stolicą?",
-          "explanation": "Rozdział wskazuje Warszawę jako największe miasto Polski i zarazem stolicę państwa.",
+          "explanation": "Wskazuje się Warszawę jako największe miasto Polski i zarazem stolicę państwa.",
           "options": [
             "Warszawa",
             "Kraków",
@@ -4105,8 +4105,8 @@
           "id": "R04_WAR_03",
           "section": "Warszawa",
           "type": "multi_select",
-          "prompt": "Zaznacz duże miasta Polski wymienione w rozdziale poza Warszawą.",
-          "explanation": "Jako inne duże miasta rozdział wymienia Kraków, Wrocław, Łódź, Poznań i Gdańsk.",
+          "prompt": "Zaznacz duże miasta Polski poza Warszawą.",
+          "explanation": "Jako inne duże miasta wymienia się Kraków, Wrocław, Łódź, Poznań i Gdańsk.",
           "options": [
             "Kraków",
             "Wrocław",
@@ -4128,7 +4128,7 @@
           "section": "Warszawa",
           "type": "true_false",
           "prompt": "W Warszawie mieszka prawie 1,9 mln osób.",
-          "explanation": "Rozdział podaje, że w Warszawie mieszka prawie 1,9 mln osób.",
+          "explanation": "W Warszawie mieszka prawie 1,9 mln osób.",
           "options": null,
           "answer": true
         },
@@ -4154,8 +4154,8 @@
           "id": "R04_WAR_06",
           "section": "Warszawa",
           "type": "single_choice",
-          "prompt": "Ile metrów wysokości wraz z iglicą ma Varso Tower według rozdziału?",
-          "explanation": "W rozdziale podano, że Varso Tower ma 310 metrów wysokości wraz z iglicą.",
+          "prompt": "Ile metrów wysokości wraz z iglicą ma Varso Tower?",
+          "explanation": "Varso Tower ma 310 metrów wysokości wraz z iglicą.",
           "options": [
             "310 metrów",
             "408 metrów",
@@ -4180,7 +4180,7 @@
           "id": "R04_WAR_08",
           "section": "Warszawa",
           "type": "multi_select",
-          "prompt": "Co wchodzi w skład rozwiniętej sieci komunikacyjnej dużego miasta opisanej w rozdziale?",
+          "prompt": "Co wchodzi w skład rozwiniętej sieci komunikacyjnej dużego miasta?",
           "explanation": "Sieć komunikacyjna obejmuje ulice i aleje, autobusy miejskie, linie tramwajowe, linie kolejowe oraz metro.",
           "options": [
             "ulice i aleje",
@@ -4204,7 +4204,7 @@
           "section": "Warszawa",
           "type": "true_false",
           "prompt": "Warszawa jest jedynym miastem w Polsce, w którym funkcjonuje metro.",
-          "explanation": "Rozdział wyraźnie podaje, że Warszawa to jedyne miasto w Polsce z metrem.",
+          "explanation": "Warszawa to jedyne miasto w Polsce z metrem.",
           "options": null,
           "answer": true
         },
@@ -4228,8 +4228,8 @@
           "id": "R04_WAR_11",
           "section": "Warszawa",
           "type": "match",
-          "prompt": "Połącz atrakcję Warszawy z opisem z rozdziału.",
-          "explanation": "Rozdział wymienia najważniejsze atrakcje turystyczne Warszawy i krótko opisuje, co można z nimi kojarzyć.",
+          "prompt": "Połącz atrakcję Warszawy z opisem.",
+          "explanation": "Wymienia się najważniejsze atrakcje turystyczne Warszawy i krótko opisuje, co można z nimi kojarzyć.",
           "options": null,
           "left": [
             "Stare Miasto",
@@ -4271,7 +4271,7 @@
           "section": "Wyżyna Śląska",
           "type": "single_choice",
           "prompt": "Który region opisano jako jeden z najbardziej przekształconych przez człowieka w Polsce?",
-          "explanation": "Rozdział wskazuje Wyżynę Śląską jako region silnie przekształcony przez człowieka.",
+          "explanation": "Wskazuje się Wyżynę Śląską jako region silnie przekształcony przez człowieka.",
           "options": [
             "Wyżyna Śląska",
             "Wyżyna Lubelska",
@@ -4286,7 +4286,7 @@
           "id": "R04_SLA_02",
           "section": "Wyżyna Śląska",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy krajobrazu miejsko-przemysłowego Wyżyny Śląskiej wymienione w rozdziale.",
+          "prompt": "Zaznacz elementy krajobrazu miejsko-przemysłowego Wyżyny Śląskiej.",
           "explanation": "W krajobrazie Wyżyny Śląskiej dominują między innymi zabudowa mieszkaniowa, kopalnie, fabryki i duże zakłady przetwórcze lub produkcyjne.",
           "options": [
             "zabudowa mieszkaniowa",
@@ -4308,7 +4308,7 @@
           "section": "Wyżyna Śląska",
           "type": "true_false",
           "prompt": "Teren Wyżyny Śląskiej jest lekko pofałdowany.",
-          "explanation": "W rozdziale zapisano, że teren Wyżyny Śląskiej jest lekko pofałdowany.",
+          "explanation": "Teren Wyżyny Śląskiej jest lekko pofałdowany.",
           "options": null,
           "answer": true
         },
@@ -4339,7 +4339,7 @@
           "id": "R04_SLA_05",
           "section": "Wyżyna Śląska",
           "type": "single_choice",
-          "prompt": "Czym według rozdziału jest Góra Świętej Anny?",
+          "prompt": "Czym jest Góra Świętej Anny?",
           "explanation": "Góra Świętej Anny jest pozostałością po wulkanie sprzed około 27 mln lat.",
           "options": [
             "pozostałością po wulkanie",
@@ -4391,7 +4391,7 @@
           "id": "R04_SLA_08",
           "section": "Wyżyna Śląska",
           "type": "multi_select",
-          "prompt": "Do czego wykorzystuje się węgiel kamienny według rozdziału?",
+          "prompt": "Do czego wykorzystuje się węgiel kamienny?",
           "explanation": "Węgiel kamienny wykorzystuje się do wytwarzania energii elektrycznej, ogrzewania domów oraz produkcji tworzyw sztucznych, barwników, leków i kosmetyków.",
           "options": [
             "wytwarzanie energii elektrycznej",
@@ -4415,7 +4415,7 @@
           "section": "Wyżyna Śląska",
           "type": "true_false",
           "prompt": "Węgiel kamienny jest wykorzystywany wyłącznie do ogrzewania domów.",
-          "explanation": "To fałsz, ponieważ rozdział wymienia także energię elektryczną, tworzywa sztuczne, barwniki, leki i kosmetyki.",
+          "explanation": "To fałsz, ponieważ wymienia się także energię elektryczną, tworzywa sztuczne, barwniki, leki i kosmetyki.",
           "options": null,
           "answer": false
         },
@@ -4455,7 +4455,7 @@
           "id": "R04_SLA_12",
           "section": "Wyżyna Śląska",
           "type": "scenario",
-          "prompt": "Zwiedzasz podziemny korytarz dawnej kopalni i widzisz ekspozycję węgla kamiennego. Który region rozdziału najlepiej pasuje do tej sytuacji?",
+          "prompt": "Zwiedzasz podziemny korytarz dawnej kopalni i widzisz ekspozycję węgla kamiennego. Który region najlepiej pasuje do tej sytuacji?",
           "explanation": "Podziemne korytarze kopalń węgla kamiennego są związane z Wyżyną Śląską.",
           "options": [
             "Wyżyna Śląska",
@@ -4502,8 +4502,8 @@
           "id": "R04_KON_03",
           "section": "Konurbacja i Śląsk",
           "type": "multi_select",
-          "prompt": "Zaznacz miasta należące do największych miast konurbacji górnośląskiej wymienionych w rozdziale.",
-          "explanation": "Do największych miast konurbacji górnośląskiej rozdział zalicza Katowice, Chorzów, Zabrze, Bytom, Gliwice i Dąbrowę Górniczą.",
+          "prompt": "Zaznacz miasta należące do największych miast konurbacji górnośląskiej.",
+          "explanation": "Do największych miast konurbacji górnośląskiej zalicza się Katowice, Chorzów, Zabrze, Bytom, Gliwice i Dąbrowę Górniczą.",
           "options": [
             "Katowice",
             "Chorzów",
@@ -4526,7 +4526,7 @@
           "section": "Konurbacja i Śląsk",
           "type": "fill_in",
           "prompt": "Konurbacja górnośląska jest złożona z __________ miast, a mieszka w niej około __________ osób.",
-          "explanation": "W rozdziale podano, że konurbacja górnośląska składa się z 19 miast i mieszka w niej około 3 mln osób.",
+          "explanation": "Konurbacja górnośląska składa się z 19 miast i mieszka w niej około 3 mln osób.",
           "options": null,
           "answer": [
             "19",
@@ -4549,7 +4549,7 @@
           "section": "Konurbacja i Śląsk",
           "type": "true_false",
           "prompt": "Niektóre miasta konurbacji górnośląskiej leżą tak blisko siebie, że z pozoru tworzą jedno miasto.",
-          "explanation": "Rozdział opisuje, że część miast konurbacji jest położona bardzo blisko siebie.",
+          "explanation": "Część miast konurbacji jest położona bardzo blisko siebie.",
           "options": null,
           "answer": true
         },
@@ -4592,7 +4592,7 @@
           "section": "Konurbacja i Śląsk",
           "type": "sort",
           "prompt": "Przyporządkuj przykłady do właściwych grup.",
-          "explanation": "Rozdział pokazuje zarówno problemy środowiskowe, zmiany dawnych obiektów przemysłowych, jak i elementy kultury śląskiej.",
+          "explanation": "Pokazuje się zarówno problemy środowiskowe, zmiany dawnych obiektów przemysłowych, jak i elementy kultury śląskiej.",
           "options": null,
           "items": [
             "smog",
@@ -4675,7 +4675,7 @@
           "section": "Wyżyna Lubelska",
           "type": "true_false",
           "prompt": "Teren Wyżyny Lubelskiej jest lekko pagórkowaty, a wysokości bezwzględne nieznacznie przekraczają 300 m n.p.m.",
-          "explanation": "Tak opisano ukształtowanie terenu Wyżyny Lubelskiej w rozdziale.",
+          "explanation": "Tak opisano ukształtowanie terenu Wyżyny Lubelskiej.",
           "options": null,
           "answer": true
         },
@@ -4684,7 +4684,7 @@
           "section": "Wyżyna Lubelska",
           "type": "fill_in",
           "prompt": "Jedną z najważniejszych rzek przepływających przez Wyżynę Lubelską jest __________.",
-          "explanation": "W rozdziale wskazano Wieprz jako jedną z najważniejszych rzek regionu.",
+          "explanation": "Wskazano Wieprz jako jedną z najważniejszych rzek regionu.",
           "options": null,
           "answer": [
             "Wieprz"
@@ -4716,7 +4716,7 @@
           "id": "R04_LUB_05",
           "section": "Wyżyna Lubelska",
           "type": "multi_select",
-          "prompt": "Zaznacz rośliny uprawiane na Wyżynie Lubelskiej według rozdziału.",
+          "prompt": "Zaznacz rośliny uprawiane na Wyżynie Lubelskiej.",
           "explanation": "W regionie uprawia się wymagające rośliny, między innymi buraki cukrowe, pszenicę, rzepak i chmiel.",
           "options": [
             "buraki cukrowe",
@@ -4739,7 +4739,7 @@
           "section": "Wyżyna Lubelska",
           "type": "true_false",
           "prompt": "Czarnoziemy Wyżyny Lubelskiej utworzyły się na skałach lessowych.",
-          "explanation": "Rozdział podaje, że czarnoziemy powstały na skałach lessowych.",
+          "explanation": "Czarnoziemy powstały na skałach lessowych.",
           "options": null,
           "answer": true
         },
@@ -4771,7 +4771,7 @@
           "id": "R04_LUB_09",
           "section": "Wyżyna Lubelska",
           "type": "multi_select",
-          "prompt": "Gdzie według rozdziału można zobaczyć wąwozy lessowe?",
+          "prompt": "Gdzie można zobaczyć wąwozy lessowe?",
           "explanation": "Wąwozy lessowe można zobaczyć w okolicach Kraśnika, Kazimierza Dolnego i Nałęczowa.",
           "options": [
             "Kraśnik",
@@ -4792,7 +4792,7 @@
           "id": "R04_LUB_10",
           "section": "Wyżyna Lubelska",
           "type": "single_choice",
-          "prompt": "Jakie jest największe miasto Wyżyny Lubelskiej wymienione w rozdziale?",
+          "prompt": "Jakie jest największe miasto Wyżyny Lubelskiej?",
           "explanation": "Największym miastem regionu jest Lublin.",
           "options": [
             "Lublin",
@@ -4809,7 +4809,7 @@
           "section": "Wyżyna Lubelska",
           "type": "match",
           "prompt": "Połącz miejsce lub pojęcie z informacją.",
-          "explanation": "Rozdział opisuje Lublin, Zamość, rolniczy charakter regionu i czarnoziemy.",
+          "explanation": "Opisuje się Lublin, Zamość, rolniczy charakter regionu i czarnoziemy.",
           "options": null,
           "left": [
             "Lublin",
@@ -4867,7 +4867,7 @@
           "section": "Super trudne",
           "type": "true_false",
           "prompt": "Góra Świętej Anny jest pozostałością po wulkanie sprzed około 27 mln lat.",
-          "explanation": "Rozdział podaje, że Góra Świętej Anny jest pozostałością po dawnym wulkanie.",
+          "explanation": "Góra Świętej Anny jest pozostałością po dawnym wulkanie.",
           "options": null,
           "answer": true
         },
@@ -4876,7 +4876,7 @@
           "section": "Super trudne",
           "type": "fill_in",
           "prompt": "Węgiel kamienny powstał z obumarłych szczątków __________ żyjących tu około __________ lat temu.",
-          "explanation": "Według rozdziału węgiel kamienny powstał ze szczątków roślin żyjących około 300 mln lat temu.",
+          "explanation": "Węgiel kamienny powstał ze szczątków roślin żyjących około 300 mln lat temu.",
           "options": null,
           "answer": [
             "roślin",
@@ -4918,7 +4918,7 @@
           "id": "R04_HARD_05",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz trudniejsze pojęcia z wyjaśnieniami z rozdziału.",
+          "prompt": "Połącz trudniejsze pojęcia z wyjaśnieniami.",
           "explanation": "Pojęcia te pojawiają się w częściach o Wyżynie Śląskiej i jej kulturze.",
           "options": null,
           "left": [
@@ -4947,8 +4947,8 @@
           "id": "R04_HARD_06",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który obiekt rozdział nazywa najwyższym budynkiem w Polsce i całej Unii Europejskiej?",
-          "explanation": "W rozdziale tak opisano Varso Tower w śródmieściu Warszawy.",
+          "prompt": "Który obiekt nazywa się najwyższym budynkiem w Polsce i całej Unii Europejskiej?",
+          "explanation": "Tak opisano Varso Tower w śródmieściu Warszawy.",
           "options": [
             "Varso Tower",
             "Pałac Prezydencki",
@@ -4965,7 +4965,7 @@
           "section": "Super trudne",
           "type": "multi_select",
           "prompt": "Zaznacz atrakcje turystyczne Warszawy wymienione razem w części o atrakcjach stolicy.",
-          "explanation": "Rozdział wymienia Stare Miasto, Pałac Kultury i Nauki, pałac w Wilanowie oraz Stadion Narodowy.",
+          "explanation": "Wymienia się Stare Miasto, Pałac Kultury i Nauki, pałac w Wilanowie oraz Stadion Narodowy.",
           "options": [
             "Stare Miasto",
             "Pałac Kultury i Nauki",
@@ -4986,7 +4986,7 @@
           "id": "R04_HARD_08",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do atrakcji turystycznych Warszawy z rozdziału: Stare Miasto, Pałac Kultury i Nauki, pałac w Wilanowie, Królowa Luiza.",
+          "prompt": "Co nie pasuje do atrakcji turystycznych Warszawy: Stare Miasto, Pałac Kultury i Nauki, pałac w Wilanowie, Królowa Luiza.",
           "explanation": "Królowa Luiza to dawna kopalnia w Zabrzu, a pozostałe obiekty są atrakcjami Warszawy.",
           "options": null,
           "answer": "Królowa Luiza"
@@ -4995,8 +4995,8 @@
           "id": "R04_HARD_09",
           "section": "Super trudne",
           "type": "fill_in",
-          "prompt": "Stare Miasto w __________ wpisano na listę światowego dziedzictwa UNESCO, a według rozdziału w Polsce było na niej __________ obiektów.",
-          "explanation": "Rozdział podaje, że Stare Miasto w Zamościu wpisano na listę UNESCO oraz że w Polsce wpisano na nią 17 obiektów.",
+          "prompt": "Stare Miasto w __________ wpisano na listę światowego dziedzictwa UNESCO, a w Polsce było na niej __________ obiektów.",
+          "explanation": "Stare Miasto w Zamościu wpisano na listę UNESCO oraz że w Polsce wpisano na nią 17 obiektów.",
           "options": null,
           "answer": [
             "Zamościu",
@@ -5062,8 +5062,8 @@
           "id": "R04_HARD_12",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "W regionie widzisz górniczą orkiestrę, obchody Barbórki i rodzinną tradycję wręczania tyty pierwszoklasistom. O której grupie mieszkańców mówi rozdział?",
-          "explanation": "Rozdział opisuje te elementy jako część kultury Ślązaków.",
+          "prompt": "W regionie widzisz górniczą orkiestrę, obchody Barbórki i rodzinną tradycję wręczania tyty pierwszoklasistom. O której grupie mieszkańców mówi się?",
+          "explanation": "Opisuje się te elementy jako część kultury Ślązaków.",
           "options": [
             "Ślązacy",
             "Warszawiacy",
@@ -5078,7 +5078,7 @@
           "section": "Super trudne",
           "type": "riddle",
           "prompt": "Dawna kopalnia w Zabrzu, w której część trasy turyści pokonują łodziami, to...",
-          "explanation": "Rozdział podaje przykład dawnej kopalni Królowa Luiza w Zabrzu.",
+          "explanation": "Podaje się przykład dawnej kopalni Królowa Luiza w Zabrzu.",
           "options": null,
           "answer": "Królowa Luiza",
           "altAnswers": [
@@ -5092,7 +5092,7 @@
           "id": "R04_HARD_14",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz powody, dla których duże miasta przyciągają ludzi z całego kraju według rozdziału.",
+          "prompt": "Zaznacz powody, dla których duże miasta przyciągają ludzi z całego kraju.",
           "explanation": "Duże miasta przyciągają ludzi różnorodnością usług, licznymi miejscami pracy, uczelniami wyższymi oraz miejscami kultury i rozrywki.",
           "options": [
             "różnorodność usług",
@@ -5180,7 +5180,7 @@
           "id": "R05_STR_03",
           "section": "Strefowość krajobrazów",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy pogody wymienione w rozdziale.",
+          "prompt": "Zaznacz elementy pogody.",
           "options": [
             "temperatura powietrza",
             "opady",
@@ -5408,7 +5408,7 @@
           "id": "R05_LAS_06",
           "section": "Wilgotny las równikowy",
           "type": "match",
-          "prompt": "Połącz zwierzę z kontynentem lub regionem występowania podanym w rozdziale.",
+          "prompt": "Połącz zwierzę z kontynentem lub regionem występowania.",
           "options": null,
           "left": [
             "tapir",
@@ -5428,7 +5428,7 @@
             "orangutan": "południowo-wschodnia Azja",
             "tygrys": "Azja"
           },
-          "explanation": "Rozdział wskazuje przykładowe zwierzęta lasów równikowych z różnych części świata."
+          "explanation": "Wskazuje się przykładowe zwierzęta lasów równikowych z różnych części świata."
         },
         {
           "id": "R05_LAS_07",
@@ -5488,7 +5488,7 @@
               "łowiectwo"
             ]
           },
-          "explanation": "W rozdziale osobno opisano roślinność, zwierzęta i zajęcia mieszkańców wilgotnych lasów równikowych."
+          "explanation": "Osobno opisano roślinność, zwierzęta i zajęcia mieszkańców wilgotnych lasów równikowych."
         },
         {
           "id": "R05_LAS_10",
@@ -5502,7 +5502,7 @@
             "wycinka lasów",
             "wycinanie lasów"
           ],
-          "explanation": "W rozdziale taki proces nazwano wylesianiem i opisano jego negatywne skutki przyrodnicze."
+          "explanation": "Taki proces nazwano wylesianiem i opisano jego negatywne skutki przyrodnicze."
         },
         {
           "id": "R05_SAW_01",
@@ -5527,7 +5527,7 @@
           "prompt": "Sawanny występują na wszystkich kontynentach z wyjątkiem Europy i Antarktydy.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że sawanny występują na większości kontynentów poza Europą i Antarktydą."
+          "explanation": "Sawanny występują na większości kontynentów poza Europą i Antarktydą."
         },
         {
           "id": "R05_SAW_03",
@@ -5572,7 +5572,7 @@
           "id": "R05_SAW_05",
           "section": "Sawanna",
           "type": "single_choice",
-          "prompt": "Które drzewa są typowe dla sawanny według rozdziału?",
+          "prompt": "Które drzewa są typowe dla sawanny?",
           "options": [
             "akacje i baobaby",
             "cyprysy i dęby korkowe",
@@ -5607,7 +5607,7 @@
             "padlinożerne": "sęp"
           },
           "image": "r05_migracja_sawanny.jpg",
-          "explanation": "Rozdział dzieli przykładowe zwierzęta sawanny na roślinożerne, drapieżne i padlinożerne."
+          "explanation": "Dzieli się przykładowe zwierzęta sawanny na roślinożerne, drapieżne i padlinożerne."
         },
         {
           "id": "R05_SAW_07",
@@ -5622,7 +5622,7 @@
             "wedrowka"
           ],
           "image": "r05_migracja_sawanny.jpg",
-          "explanation": "Rozdział definiuje migrację jako przemieszczanie się ludzi lub zwierząt w poszukiwaniu lepszych warunków do życia."
+          "explanation": "Definiuje się migrację jako przemieszczanie się ludzi lub zwierząt w poszukiwaniu lepszych warunków do życia."
         },
         {
           "id": "R05_SAW_08",
@@ -5673,7 +5673,7 @@
               "szakal"
             ]
           },
-          "explanation": "W rozdziale zebry i żyrafy są roślinożerne, lwy i gepardy drapieżne, a krokuty i szakale padlinożerne."
+          "explanation": "Zebry i żyrafy są roślinożerne, lwy i gepardy drapieżne, a krokuty i szakale padlinożerne."
         },
         {
           "id": "R05_SAW_10",
@@ -5688,7 +5688,7 @@
           "id": "R05_PUS_01",
           "section": "Pustynia gorąca",
           "type": "single_choice",
-          "prompt": "Jak rozdział definiuje pustynię gorącą?",
+          "prompt": "Jak definiuje się pustynię gorącą?",
           "options": [
             "Bardzo suchy obszar lądowy prawie pozbawiony roślinności",
             "Wilgotny las o wielu piętrach",
@@ -5729,7 +5729,7 @@
           "prompt": "Pustynie gorące występują głównie w pobliżu zwrotników.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że pustynie gorące występują głównie w pobliżu zwrotników."
+          "explanation": "Pustynie gorące występują głównie w pobliżu zwrotników."
         },
         {
           "id": "R05_PUS_04",
@@ -5751,7 +5751,7 @@
           "id": "R05_PUS_05",
           "section": "Pustynia gorąca",
           "type": "single_choice",
-          "prompt": "Która pustynia gorąca została w rozdziale wskazana jako największa na świecie?",
+          "prompt": "Która pustynia gorąca została wskazana jako największa na świecie?",
           "options": [
             "Sahara",
             "Mojave",
@@ -5761,7 +5761,7 @@
             "Kalahari"
           ],
           "answer": 0,
-          "explanation": "W rozdziale największą pustynią gorącą nazwano Saharę w północnej Afryce."
+          "explanation": "Największą pustynią gorącą nazwano Saharę w północnej Afryce."
         },
         {
           "id": "R05_PUS_06",
@@ -5784,7 +5784,7 @@
             "karawana": "grupa ludzi podróżujących na wielbłądach",
             "dromader": "wielbłąd jednogarbny"
           },
-          "explanation": "W rozdziale wyjaśniono oazy, karawany i przykładowe zwierzę pustyni."
+          "explanation": "Wyjaśniono oazy, karawany i przykładowe zwierzę pustyni."
         },
         {
           "id": "R05_PUS_07",
@@ -5882,7 +5882,7 @@
           "prompt": "Krajobraz śródziemnomorski występuje głównie w otoczeniu Morza Śródziemnego.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wskazuje, że występuje przede wszystkim wokół Morza Śródziemnego."
+          "explanation": "Występuje przede wszystkim wokół Morza Śródziemnego."
         },
         {
           "id": "R05_SRD_03",
@@ -5961,7 +5961,7 @@
             "muflon": "ssak lądowy",
             "jeżowiec": "zwierzę morskie"
           },
-          "explanation": "Rozdział wymienia typowe rośliny uprawne i zwierzęta spotykane w tej strefie."
+          "explanation": "Wymienia się typowe rośliny uprawne i zwierzęta spotykane w tej strefie."
         },
         {
           "id": "R05_SRD_07",
@@ -6022,7 +6022,7 @@
               "połów ryb"
             ]
           },
-          "explanation": "W rozdziale osobno opisano rośliny, zwierzęta i zajęcia ludzi w regionie śródziemnomorskim."
+          "explanation": "Osobno opisano rośliny, zwierzęta i zajęcia ludzi w regionie śródziemnomorskim."
         },
         {
           "id": "R05_SRD_10",
@@ -6034,7 +6034,7 @@
           "altAnswers": [
             "sjesta"
           ],
-          "explanation": "W rozdziale podano, że taka przerwa w pracy zwykle między 14 a 17 jest nazywana sjestą."
+          "explanation": "Taka przerwa w pracy zwykle między 14 a 17 jest nazywana sjestą."
         },
         {
           "id": "R05_STE_01",
@@ -6075,7 +6075,7 @@
               "pampasy"
             ]
           ],
-          "explanation": "Rozdział podaje, że stepy w Ameryce Północnej to prerie, a w Ameryce Południowej pampy lub pampasy."
+          "explanation": "Stepy w Ameryce Północnej to prerie, a w Ameryce Południowej pampy lub pampasy."
         },
         {
           "id": "R05_STE_03",
@@ -6084,13 +6084,13 @@
           "prompt": "Na większości stepów panuje klimat umiarkowany ciepły kontynentalny.",
           "options": null,
           "answer": true,
-          "explanation": "Taki klimat wskazano w rozdziale jako typowy dla większości stepów."
+          "explanation": "Taki klimat wskazano jako typowy dla większości stepów."
         },
         {
           "id": "R05_STE_04",
           "section": "Step",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy klimatu stepowego według rozdziału.",
+          "prompt": "Zaznacz cechy klimatu stepowego.",
           "options": [
             "cztery pory roku",
             "gorące lato",
@@ -6128,7 +6128,7 @@
           "id": "R05_STE_06",
           "section": "Step",
           "type": "match",
-          "prompt": "Połącz zwierzę stepowe z obszarem podanym w rozdziale.",
+          "prompt": "Połącz zwierzę stepowe z obszarem.",
           "options": null,
           "left": [
             "bizony",
@@ -6148,7 +6148,7 @@
             "suhaki": "Azja",
             "pieski preriowe": "prerie Ameryki Północnej"
           },
-          "explanation": "Rozdział wymienia różne zwierzęta stepów Ameryki Północnej, Ameryki Południowej i Azji."
+          "explanation": "Wymienia się różne zwierzęta stepów Ameryki Północnej, Ameryki Południowej i Azji."
         },
         {
           "id": "R05_STE_07",
@@ -6209,7 +6209,7 @@
               "wielbłądy dwugarbne"
             ]
           },
-          "explanation": "Rozdział pokazuje przykładowe zwierzęta stepowe z Ameryki Północnej, Ameryki Południowej i Azji."
+          "explanation": "Pokazuje się przykładowe zwierzęta stepowe z Ameryki Północnej, Ameryki Południowej i Azji."
         },
         {
           "id": "R05_STE_10",
@@ -6359,7 +6359,7 @@
           "id": "R05_HARD_06",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż typowy dzień w wilgotnym lesie równikowym zgodnie z opisem z rozdziału.",
+          "prompt": "Ułóż typowy dzień w wilgotnym lesie równikowym zgodnie z opisem.",
           "options": null,
           "items": [
             "pada deszcz",
@@ -6425,7 +6425,7 @@
           "prompt": "Na sawannie im bliżej równika, tym dłuższa jest pora deszczowa.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że w klimacie sawanny pory roku nie wszędzie trwają tak samo długo: im bliżej równika, tym pora deszczowa jest dłuższa."
+          "explanation": "W klimacie sawanny pory roku nie wszędzie trwają tak samo długo: im bliżej równika, tym pora deszczowa jest dłuższa."
         },
         {
           "id": "R05_HARD_11",
@@ -6518,7 +6518,7 @@
             "górskie, równikowe i sawannowe"
           ],
           "answer": 0,
-          "explanation": "W strefie umiarkowanej występują lasy liściaste, iglaste i mieszane; ten rozdział skupia się na lasach liściastych i mieszanych."
+          "explanation": "W strefie umiarkowanej występują lasy liściaste, iglaste i mieszane; tu mowa o lasach liściastych i mieszanych."
         },
         {
           "id": "R06_WYS_02",
@@ -6528,7 +6528,7 @@
           "options": null,
           "answer": true,
           "image": "r06_las_mieszany_panorama.jpg",
-          "explanation": "W podręczniku zapisano, że w strefie umiarkowanej występują lasy liściaste, iglaste i mieszane, ale ta lekcja omawia przede wszystkim liściaste i mieszane."
+          "explanation": "W strefie umiarkowanej występują lasy liściaste, iglaste i mieszane, ale ta lekcja omawia przede wszystkim liściaste i mieszane."
         },
         {
           "id": "R06_WYS_03",
@@ -6584,7 +6584,7 @@
             "umiarkowana",
             "strefa klimatyczna umiarkowana"
           ],
-          "explanation": "Rozdział omawia strefę umiarkowaną, czyli strefę klimatyczną zróżnicowaną pod względem typów klimatu i krajobrazu."
+          "explanation": "Strefa umiarkowana to strefa klimatyczna zróżnicowana pod względem typów klimatu i krajobrazu."
         },
         {
           "id": "R06_WYS_06",
@@ -6593,7 +6593,7 @@
           "prompt": "Co nie pasuje do lasów wymienionych w strefie umiarkowanej: liściaste, iglaste, mieszane, palmowe.",
           "options": null,
           "answer": "palmowe",
-          "explanation": "W rozdziale wymieniono lasy liściaste, iglaste i mieszane, a lasy palmowe nie są podane jako typ lasów strefy umiarkowanej."
+          "explanation": "Wymieniono lasy liściaste, iglaste i mieszane, a lasy palmowe nie są podane jako typ lasów strefy umiarkowanej."
         },
         {
           "id": "R06_WYS_07",
@@ -6619,7 +6619,7 @@
             "wschodnia Azja": "częściowe występowanie",
             "półkula południowa": "niewiele lasów przez dominację oceanu"
           },
-          "explanation": "Podręcznik wskazuje znaczne obszary w Europie i Ameryce Północnej, częściowe występowanie we wschodniej Azji oraz niewiele takich lasów na półkuli południowej."
+          "explanation": "Wskazuje się znaczne obszary w Europie i Ameryce Północnej, częściowe występowanie we wschodniej Azji oraz niewiele takich lasów na półkuli południowej."
         },
         {
           "id": "R06_WYS_08",
@@ -6651,7 +6651,7 @@
           "id": "R06_WYS_09",
           "section": "Występowanie i typy lasów",
           "type": "scenario",
-          "prompt": "Na mapie świata uczeń zauważa, że lasów liściastych i mieszanych strefy umiarkowanej jest niewiele na półkuli południowej. Jak podręcznik wyjaśnia tę sytuację?",
+          "prompt": "Na mapie świata uczeń zauważa, że lasów liściastych i mieszanych strefy umiarkowanej jest niewiele na półkuli południowej. Jak wyjaśnia się tę sytuację?",
           "options": [
             "dominuje tam ocean",
             "nie ma tam pór roku",
@@ -6666,7 +6666,7 @@
           "id": "R06_WYS_10",
           "section": "Występowanie i typy lasów",
           "type": "single_choice",
-          "prompt": "Który tytuł najlepiej pasuje do mapy z pierwszej strony rozdziału?",
+          "prompt": "Który tytuł najlepiej pasuje do tej mapy?",
           "options": [
             "Lasy liściaste i mieszane strefy umiarkowanej",
             "Pustynie świata",
@@ -6682,7 +6682,7 @@
           "id": "R06_KLI_01",
           "section": "Klimat i pory roku",
           "type": "single_choice",
-          "prompt": "W jakich klimatach rosną lasy strefy umiarkowanej omawiane w rozdziale?",
+          "prompt": "W jakich klimatach rosną lasy strefy umiarkowanej?",
           "options": [
             "umiarkowanym ciepłym morskim i umiarkowanym ciepłym przejściowym",
             "równikowym wybitnie wilgotnym i podrównikowym",
@@ -6701,13 +6701,13 @@
           "prompt": "W lasach strefy umiarkowanej występują cztery pory roku.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale wymieniono wiosnę, lato, jesień i zimę jako cztery pory roku tej strefy."
+          "explanation": "Wymieniono wiosnę, lato, jesień i zimę jako cztery pory roku tej strefy."
         },
         {
           "id": "R06_KLI_03",
           "section": "Klimat i pory roku",
           "type": "multi_select",
-          "prompt": "Zaznacz pory roku wymienione w rozdziale jako charakterystyczne dla tej strefy.",
+          "prompt": "Zaznacz pory roku jako charakterystyczne dla tej strefy.",
           "options": [
             "wiosna",
             "lato",
@@ -6745,13 +6745,13 @@
               "najchłodniejszą porą roku"
             ]
           ],
-          "explanation": "Podręcznik podkreśla, że lato jest najcieplejszą, a zima najchłodniejszą porą roku."
+          "explanation": "Lato jest najcieplejszą, a zima najchłodniejszą porą roku."
         },
         {
           "id": "R06_KLI_05",
           "section": "Klimat i pory roku",
           "type": "riddle",
-          "prompt": "Jaki typ klimatu panuje w Polsce według rozdziału?",
+          "prompt": "Jaki typ klimatu panuje w Polsce?",
           "options": null,
           "answer": "umiarkowany ciepły przejściowy",
           "altAnswers": [
@@ -6766,16 +6766,16 @@
           "id": "R06_KLI_06",
           "section": "Klimat i pory roku",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do pór roku wymienionych w rozdziale: wiosna, lato, jesień, zima, pora deszczowa.",
+          "prompt": "Co nie pasuje do pór roku: wiosna, lato, jesień, zima, pora deszczowa.",
           "options": null,
           "answer": "pora deszczowa",
-          "explanation": "Pora deszczowa nie należy do czterech pór roku wymienionych dla klimatu umiarkowanego w rozdziale."
+          "explanation": "Pora deszczowa nie należy do czterech pór roku wymienionych dla klimatu umiarkowanego."
         },
         {
           "id": "R06_KLI_07",
           "section": "Klimat i pory roku",
           "type": "match",
-          "prompt": "Połącz miejsce lub klimat z cechą opadów opisaną w rozdziale.",
+          "prompt": "Połącz miejsce lub klimat z cechą opadów.",
           "options": null,
           "left": [
             "Polska",
@@ -6852,7 +6852,7 @@
           "id": "R06_ROS_01",
           "section": "Roślinność lasów",
           "type": "single_choice",
-          "prompt": "Który zestaw zawiera wyłącznie drzewa liściaste wymienione w rozdziale?",
+          "prompt": "Który zestaw zawiera wyłącznie drzewa liściaste?",
           "options": [
             "dęby, buki, klony i lipy",
             "sosny, świerki, jodły i buki",
@@ -6869,7 +6869,7 @@
           "id": "R06_ROS_02",
           "section": "Roślinność lasów",
           "type": "multi_select",
-          "prompt": "Zaznacz drzewa liściaste wymienione w rozdziale.",
+          "prompt": "Zaznacz drzewa liściaste.",
           "options": [
             "dąb",
             "buk",
@@ -6885,7 +6885,7 @@
             3
           ],
           "image": "r06_dab_i_buk.jpg",
-          "explanation": "W rozdziale wymieniono wśród drzew liściastych dęby, buki, klony i lipy."
+          "explanation": "Wymieniono wśród drzew liściastych dęby, buki, klony i lipy."
         },
         {
           "id": "R06_ROS_03",
@@ -6945,7 +6945,7 @@
           "id": "R06_ROS_06",
           "section": "Roślinność lasów",
           "type": "riddle",
-          "prompt": "Podaj nazwę jadalnego grzyba wymienionego w rozdziale.",
+          "prompt": "Podaj nazwę jadalnego grzyba.",
           "options": null,
           "answer": "borowik",
           "altAnswers": [
@@ -6956,13 +6956,13 @@
             "maślaki"
           ],
           "image": "r06_grzyby_lesne.jpg",
-          "explanation": "W rozdziale jako jadalne grzyby podano między innymi borowiki i maślaki."
+          "explanation": "Jako jadalne grzyby podano między innymi borowiki i maślaki."
         },
         {
           "id": "R06_ROS_07",
           "section": "Roślinność lasów",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do drzew liściastych wymienionych w rozdziale: dąb, buk, klon, lipa, jodła.",
+          "prompt": "Co nie pasuje do drzew liściastych: dąb, buk, klon, lipa, jodła.",
           "options": null,
           "answer": "jodła",
           "explanation": "Jodła jest drzewem iglastym, a dąb, buk, klon i lipa są podane jako drzewa liściaste."
@@ -7027,13 +7027,13 @@
               "muchomor"
             ]
           },
-          "explanation": "W rozdziale występują przykłady drzew liściastych, iglastych oraz grzybów spotykanych w lasach."
+          "explanation": "Występują przykłady drzew liściastych, iglastych oraz grzybów spotykanych w lasach."
         },
         {
           "id": "R06_ROS_10",
           "section": "Roślinność lasów",
           "type": "scenario",
-          "prompt": "Jesienią obserwujesz drzewa, których liście stają się żółte, pomarańczowe i czerwone, a potem opadają. O jakich drzewach mówi rozdział?",
+          "prompt": "Jesienią obserwujesz drzewa, których liście stają się żółte, pomarańczowe i czerwone, a potem opadają. O jakich drzewach mówi się?",
           "options": [
             "o drzewach liściastych",
             "o drzewach iglastych",
@@ -7051,13 +7051,13 @@
           "prompt": "Wiosną przyroda się odradza i rośliny znów się zielenią.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział opisuje, że po zimie wiosną przyroda się odradza i rośliny ponownie się zielenią."
+          "explanation": "Po zimie wiosną przyroda się odradza i rośliny ponownie się zielenią."
         },
         {
           "id": "R06_ZWI_01",
           "section": "Zwierzęta lasów",
           "type": "single_choice",
-          "prompt": "Jak rozdział opisuje zwierzęta lasów strefy umiarkowanej?",
+          "prompt": "Jak opisuje się zwierzęta lasów strefy umiarkowanej?",
           "options": [
             "wiele różnych ptaków, mniej liczne ssaki i duże ilości owadów",
             "wyłącznie duże ssaki i brak ptaków",
@@ -7098,7 +7098,7 @@
           "prompt": "W lasach strefy umiarkowanej występują duże ilości owadów.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wyraźnie podaje, że oprócz ptaków i ssaków występują tam duże ilości owadów."
+          "explanation": "Oprócz ptaków i ssaków występują tam duże ilości owadów."
         },
         {
           "id": "R06_ZWI_04",
@@ -7126,7 +7126,7 @@
           "id": "R06_ZWI_05",
           "section": "Zwierzęta lasów",
           "type": "riddle",
-          "prompt": "Jaki dzięcioł jest podpisany na ilustracji zwierząt w rozdziale?",
+          "prompt": "Jaki dzięcioł jest podpisany na ilustracji zwierząt?",
           "options": null,
           "answer": "dzięcioł duży",
           "altAnswers": [
@@ -7209,7 +7209,7 @@
           "id": "R06_ZWI_09",
           "section": "Zwierzęta lasów",
           "type": "scenario",
-          "prompt": "Podczas spaceru po lesie uczeń widzi wiewiórkę, jeża, dzika i kilka ptaków. Który krajobraz z rozdziału najlepiej pasuje do takiego zestawu zwierząt?",
+          "prompt": "Podczas spaceru po lesie uczeń widzi wiewiórkę, jeża, dzika i kilka ptaków. Który krajobraz najlepiej pasuje do takiego zestawu zwierząt?",
           "options": [
             "lasy strefy umiarkowanej",
             "pustynia piaszczysta",
@@ -7241,7 +7241,7 @@
           "id": "R06_WYL_02",
           "section": "Wylesianie i ochrona",
           "type": "multi_select",
-          "prompt": "Zaznacz przyczyny wylesiania podane w rozdziale.",
+          "prompt": "Zaznacz przyczyny wylesiania.",
           "options": [
             "tworzenie pól uprawnych",
             "tworzenie przestrzeni pod zabudowę",
@@ -7265,7 +7265,7 @@
           "prompt": "Wycinka lasów bardzo negatywnie wpływa na środowisko.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podkreśla, że wycinka lasów bardzo negatywnie wpływa na środowisko."
+          "explanation": "Wycinka lasów bardzo negatywnie wpływa na środowisko."
         },
         {
           "id": "R06_WYL_04",
@@ -7294,7 +7294,7 @@
           "id": "R06_WYL_05",
           "section": "Wylesianie i ochrona",
           "type": "riddle",
-          "prompt": "Jak nazywa się temat części rozdziału opisującej wycinanie lasów przez człowieka?",
+          "prompt": "Jak nazywa się wycinanie lasów przez człowieka?",
           "options": null,
           "answer": "wylesianie",
           "altAnswers": [
@@ -7302,7 +7302,7 @@
             "wycinka lasów",
             "wycinanie lasów"
           ],
-          "explanation": "Część rozdziału poświęcona wycinaniu lasów nosi tytuł Wylesianie."
+          "explanation": "Wycinanie lasów przez człowieka nazywa się wylesianiem."
         },
         {
           "id": "R06_WYL_06",
@@ -7311,7 +7311,7 @@
           "prompt": "Co nie pasuje do przyczyn wylesiania: pola uprawne, zabudowa, pozyskiwanie drewna, cztery pory roku.",
           "options": null,
           "answer": "cztery pory roku",
-          "explanation": "Cztery pory roku są cechą klimatu, a nie przyczyną wylesiania podaną w rozdziale."
+          "explanation": "Cztery pory roku są cechą klimatu, a nie przyczyną wylesiania."
         },
         {
           "id": "R06_WYL_07",
@@ -7384,7 +7384,7 @@
           ],
           "answer": 0,
           "image": "r06_sciete_pnie_las.jpg",
-          "explanation": "Rozdział mówi, że zwierzęta tracą miejsce życia, gdy wycina się lasy."
+          "explanation": "Zwierzęta tracą miejsce życia, gdy wycina się lasy."
         },
         {
           "id": "R06_WYL_10",
@@ -7394,7 +7394,7 @@
           "options": null,
           "answer": false,
           "image": "r06_sciete_pnie_las.jpg",
-          "explanation": "To fałsz: rozdział wskazuje negatywny wpływ na środowisko i pogorszenie komfortu życia ludzi."
+          "explanation": "To fałsz: wskazuje się negatywny wpływ na środowisko i pogorszenie komfortu życia ludzi."
         },
         {
           "id": "R06_HARD_01",
@@ -7413,7 +7413,7 @@
             1,
             2
           ],
-          "explanation": "Rozdział podaje, że te lasy rosną na znacznych obszarach Europy i Ameryki Północnej oraz częściowo we wschodniej Azji; na półkuli południowej jest ich niewiele."
+          "explanation": "Te lasy rosną na znacznych obszarach Europy i Ameryki Północnej oraz częściowo we wschodniej Azji; na półkuli południowej jest ich niewiele."
         },
         {
           "id": "R06_HARD_02",
@@ -7477,13 +7477,13 @@
             "jesień": "liście zmieniają barwę i opadają",
             "zima": "najchłodniejsza pora roku"
           },
-          "explanation": "Rozdział opisuje rytm roku: lato jest najcieplejsze, zima najchłodniejsza, jesienią liście zmieniają barwę i opadają, a wiosną rośliny znów się zielenią."
+          "explanation": "Opisuje się rytm roku: lato jest najcieplejsze, zima najchłodniejsza, jesienią liście zmieniają barwę i opadają, a wiosną rośliny znów się zielenią."
         },
         {
           "id": "R06_HARD_05",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj przykłady do trzech grup z rozdziału.",
+          "prompt": "Przyporządkuj przykłady do trzech grup.",
           "options": null,
           "items": [
             "dąb",
@@ -7542,7 +7542,7 @@
           "prompt": "Na półkuli południowej lasów liściastych i mieszanych strefy umiarkowanej jest niewiele, bo w tamtejszej umiarkowanej strefie klimatycznej dominuje ocean.",
           "options": null,
           "answer": true,
-          "explanation": "Tak właśnie wyjaśnia to rozdział: dominacja oceanu ogranicza tam występowanie tych lasów."
+          "explanation": "Dominacja oceanu ogranicza tam występowanie tych lasów."
         },
         {
           "id": "R06_HARD_08",
@@ -7565,7 +7565,7 @@
             "lasy mieszane",
             "mieszany"
           ],
-          "explanation": "Las mieszany łączy drzewa liściaste i iglaste, co pasuje do opisu lasów omawianych w rozdziale."
+          "explanation": "Las mieszany łączy drzewa liściaste i iglaste, co pasuje do opisu lasów."
         },
         {
           "id": "R06_HARD_10",
@@ -7579,13 +7579,13 @@
             "krajobraz sawanny"
           ],
           "answer": 0,
-          "explanation": "To opis krajobrazu lasów strefy umiarkowanej omawianego w rozdziale."
+          "explanation": "To opis krajobrazu lasów strefy umiarkowanej."
         },
         {
           "id": "R06_HARD_11",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz skutki wylesiania wymienione w podsumowaniu rozdziału.",
+          "prompt": "Zaznacz skutki wylesiania.",
           "options": [
             "ubywa roślinności",
             "zwierzęta tracą miejsce do życia",
@@ -7604,7 +7604,7 @@
           "id": "R06_HARD_12",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który ciąg najpełniej pokazuje związek między wylesianiem a środowiskiem opisany w rozdziale?",
+          "prompt": "Który ciąg najpełniej pokazuje związek między wylesianiem a środowiskiem?",
           "options": [
             "mniej roślinności, mniej pochłaniania dwutlenku węgla, mniej produkcji tlenu i mniej magazynowania wody",
             "więcej drzew, więcej miejsc życia zwierząt i więcej wody",

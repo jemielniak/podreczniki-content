@@ -1,8 +1,8 @@
 {
   "id": "historia-5-wczoraj-i-dzis",
   "title": "Historia 5 Wczoraj i dziś",
-  "version": 3,
-  "contentHash": "95246314748d0a101bba5cfb6d879f41ca2169386be8884f910f74b2df1bc373",
+  "version": 4,
+  "contentHash": "605623ad40ce569d4c533aa7de97f13941c1150e219846001823e99c804a74d6",
   "bookConfig": {
     "id": "historia-5-wczoraj-i-dzis",
     "title": "Historia 5 Wczoraj i dziś",
@@ -49,7 +49,7 @@
             "w Chinach"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że najdawniejsi przodkowie człowieka współczesnego żyli w Afryce około 4 milionów lat temu."
+          "explanation": "Najdawniejsi przodkowie człowieka współczesnego żyli w Afryce około 4 milionów lat temu."
         },
         {
           "id": "R01_ZYC_02",
@@ -253,7 +253,7 @@
           "id": "R01_MEZ_03",
           "section": "Miasta-państwa Mezopotamii",
           "type": "multi_select",
-          "prompt": "Zaznacz dokonania przypisywane Sumerom w podręczniku.",
+          "prompt": "Zaznacz dokonania przypisywane Sumerom.",
           "options": [
             "stworzenie pisma",
             "wynalezienie koła",
@@ -446,7 +446,7 @@
           "id": "R01_EGI_03",
           "section": "W Egipcie faraonów",
           "type": "multi_select",
-          "prompt": "Zaznacz grupy należące do społeczeństwa egipskiego opisane w podręczniku.",
+          "prompt": "Zaznacz grupy należące do społeczeństwa egipskiego.",
           "options": [
             "faraon",
             "kapłani",
@@ -604,7 +604,7 @@
             "Daleki Wschód"
           ],
           "answer": 0,
-          "explanation": "Podręcznik wyjaśnia, że Izraelici udali się do Palestyny, nazywanej w starożytności Ziemią Kanaan."
+          "explanation": "Izraelici udali się do Palestyny, nazywanej w starożytności Ziemią Kanaan."
         },
         {
           "id": "R01_IZR_02",
@@ -625,7 +625,7 @@
             "Abrahama",
             "Mojżesza"
           ],
-          "explanation": "Według przekazu podręcznika Abraham poprowadził Izraelitów do Palestyny, a Mojżesz wyprowadził ich z Egiptu.",
+          "explanation": "Według przekazu biblijnego Abraham poprowadził Izraelitów do Palestyny, a Mojżesz wyprowadził ich z Egiptu.",
           "altAnswers": [
             [
               "Abrahama",
@@ -816,7 +816,7 @@
           "id": "R01_IND_04",
           "section": "Cywilizacje Indii i Chin",
           "type": "multi_select",
-          "prompt": "Zaznacz najważniejszych bogów hinduizmu wymienionych w podręczniku.",
+          "prompt": "Zaznacz najważniejszych bogów hinduizmu.",
           "options": [
             "Brahma",
             "Wisznu",
@@ -830,7 +830,7 @@
             1,
             2
           ],
-          "explanation": "W podręczniku jako najważniejszych bogów hinduizmu wymieniono Brahmę, Wisznu i Sziwę."
+          "explanation": "Jako najważniejszych bogów hinduizmu wymieniono Brahmę, Wisznu i Sziwę."
         },
         {
           "id": "R01_IND_05",
@@ -962,7 +962,7 @@
             "Izraelici"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że pierwsi pismo zastosowali Sumerowie na Bliskim Wschodzie.",
+          "explanation": "Pierwsi pismo zastosowali Sumerowie na Bliskim Wschodzie.",
           "image": "r01_tabliczka_klinowa.jpg"
         },
         {
@@ -1001,7 +1001,7 @@
           "id": "R01_PIS_04",
           "section": "Od hieroglifów do alfabetu",
           "type": "multi_select",
-          "prompt": "Zaznacz zastosowania pisma opisane w podręczniku.",
+          "prompt": "Zaznacz zastosowania pisma.",
           "options": [
             "spisywanie praw",
             "zawieranie transakcji handlowych",
@@ -1063,7 +1063,7 @@
           "id": "R01_PIS_07",
           "section": "Od hieroglifów do alfabetu",
           "type": "sequence",
-          "prompt": "Ułóż etapy rozwoju znaku pisma zgodnie z infografiką w podręczniku.",
+          "prompt": "Ułóż etapy rozwoju znaku pisma zgodnie z infografiką.",
           "options": null,
           "items": [
             "litera grecka",
@@ -1221,7 +1221,7 @@
           "answer": [
             "Hatszepsut"
           ],
-          "explanation": "Podręcznik podaje, że faraonami zwykle zostawali mężczyźni, ale w XV wieku p.n.e. państwem rządziła królowa Hatszepsut.",
+          "explanation": "Faraonami zwykle zostawali mężczyźni, ale w XV wieku p.n.e. państwem rządziła królowa Hatszepsut.",
           "altAnswers": [
             [
               "Hatszepsut",
@@ -1302,7 +1302,7 @@
           "id": "R01_HARD_10",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz osiągnięcia cywilizacji chińskiej wymienione w podręczniku.",
+          "prompt": "Zaznacz osiągnięcia cywilizacji chińskiej.",
           "options": [
             "papier",
             "porcelana",
@@ -1318,7 +1318,7 @@
             3,
             4
           ],
-          "explanation": "Do osiągnięć Chińczyków podręcznik zalicza papier, porcelanę, proch strzelniczy, jedwab oraz metody druku.",
+          "explanation": "Do osiągnięć Chińczyków zalicza się papier, porcelanę, proch strzelniczy, jedwab oraz metody druku.",
           "image": "r01_jedwabny_szlak_karawana.jpg"
         }
       ],
@@ -1462,7 +1462,7 @@
             "w I wieku n.e."
           ],
           "answer": 1,
-          "explanation": "Podręcznik podaje, że greckie miasta-państwa ostatecznie ukształtowały się w VIII wieku p.n.e."
+          "explanation": "Greckie miasta-państwa ostatecznie ukształtowały się w VIII wieku p.n.e."
         },
         {
           "id": "R02_ATE_06",
@@ -1500,7 +1500,7 @@
           "id": "R02_ATE_08",
           "section": "Demokratyczne Ateny",
           "type": "scenario",
-          "prompt": "Mieszkaniec Aten chce przemawiać na zgromadzeniu ludowym. Jest pełnoletnim mężczyzną, a jego rodzice są Ateńczykami. Jak określiłby go podręcznik?",
+          "prompt": "Mieszkaniec Aten chce przemawiać na zgromadzeniu ludowym. Jest pełnoletnim mężczyzną, a jego rodzice są Ateńczykami. Jak się go określa?",
           "options": [
             "obywatel Aten",
             "helota",
@@ -1625,7 +1625,7 @@
           "prompt": "Podstawowym zajęciem Spartan była służba wojskowa, która obowiązywała ich do 60. roku życia.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wskazuje, że spartańscy mężczyźni byli zobowiązani do służby wojskowej do 60. roku życia."
+          "explanation": "Spartańscy mężczyźni byli zobowiązani do służby wojskowej do 60. roku życia."
         },
         {
           "id": "R02_SPA_04",
@@ -1647,13 +1647,13 @@
             "po 30. roku życia — opuszczenie koszar",
             "po 60. roku życia — koniec nakazu służby wojskowej"
           ],
-          "explanation": "Podręcznik przedstawia życie Spartanina jako ciąg surowego wychowania i wieloletniej służby wojskowej."
+          "explanation": "Przedstawia się życie Spartanina jako ciąg surowego wychowania i wieloletniej służby wojskowej."
         },
         {
           "id": "R02_SPA_05",
           "section": "Sparta i wojny z Persami",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy uzbrojenia hoplity wymienione w podręczniku.",
+          "prompt": "Zaznacz elementy uzbrojenia hoplity.",
           "options": [
             "włócznia",
             "miecz",
@@ -1850,7 +1850,7 @@
           "id": "R02_BOG_04",
           "section": "Bogowie i mity",
           "type": "multi_select",
-          "prompt": "Zaznacz postacie, które w podręczniku występują jako bogowie olimpijscy.",
+          "prompt": "Zaznacz postacie, które występują jako bogowie olimpijscy.",
           "options": [
             "Atena",
             "Ares",
@@ -2017,13 +2017,13 @@
             3,
             4
           ],
-          "explanation": "Podręcznik wymienia między innymi malarstwo wazowe, rzeźbę, teatr, filozofię i sport jako ważne dziedziny greckiej kultury."
+          "explanation": "Wymienia się między innymi malarstwo wazowe, rzeźbę, teatr, filozofię i sport jako ważne dziedziny greckiej kultury."
         },
         {
           "id": "R02_KUL_02",
           "section": "Kultura starożytnej Grecji",
           "type": "single_choice",
-          "prompt": "Dzięki czemu możemy dziś najlepiej poznawać greckie malarstwo wymienione w podręczniku?",
+          "prompt": "Dzięki czemu możemy dziś najlepiej poznawać greckie malarstwo?",
           "options": [
             "dzięki dekorowanym wazom i amforom",
             "dzięki drukowanym gazetom",
@@ -2039,7 +2039,7 @@
           "id": "R02_KUL_03",
           "section": "Kultura starożytnej Grecji",
           "type": "match",
-          "prompt": "Połącz postać z dziedziną lub dziełem wspomnianym w podręczniku.",
+          "prompt": "Połącz postać z dziedziną lub dziełem.",
           "options": null,
           "left": [
             "Fidiasz",
@@ -2085,7 +2085,7 @@
           "prompt": "Aktorami w starożytnej Grecji byli wyłącznie mężczyźni, którzy grali także role kobiece.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że w greckim teatrze aktorami byli tylko mężczyźni.",
+          "explanation": "W greckim teatrze aktorami byli tylko mężczyźni.",
           "image": "r02_teatr_grecki_amfiteatr.jpg"
         },
         {
@@ -2128,7 +2128,7 @@
           "id": "R02_KUL_08",
           "section": "Kultura starożytnej Grecji",
           "type": "match",
-          "prompt": "Połącz uczonego lub filozofa z informacją z podręcznika.",
+          "prompt": "Połącz uczonego lub filozofa z informacją.",
           "options": null,
           "left": [
             "Sokrates",
@@ -2237,13 +2237,13 @@
           "prompt": "Macedonia leżała na północ od Grecji i w IV wieku p.n.e. stała się silnym państwem.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik opisuje Macedonię jako krainę na północ od Grecji, która za Filipa II bardzo się wzmocniła."
+          "explanation": "Opisuje się Macedonię jako krainę na północ od Grecji, która za Filipa II bardzo się wzmocniła."
         },
         {
           "id": "R02_ALE_03",
           "section": "Imperium Aleksandra Wielkiego",
           "type": "multi_select",
-          "prompt": "Zaznacz przyczyny planowanej wyprawy przeciw Persji wymienione w podręczniku.",
+          "prompt": "Zaznacz przyczyny planowanej wyprawy przeciw Persji.",
           "options": [
             "odwet za perskie najazdy na Grecję",
             "chęć zdobycia bogactw Wschodu",
@@ -2284,7 +2284,7 @@
               "323 roku"
             ]
           ],
-          "explanation": "Oś czasu w podręczniku wskazuje: początek podboju Persji w 334 roku p.n.e., bitwę pod Issos w 333 roku p.n.e. i śmierć Aleksandra w 323 roku p.n.e."
+          "explanation": "Oś czasu wskazuje: początek podboju Persji w 334 roku p.n.e., bitwę pod Issos w 333 roku p.n.e. i śmierć Aleksandra w 323 roku p.n.e."
         },
         {
           "id": "R02_ALE_05",
@@ -2369,7 +2369,7 @@
           "prompt": "W 327 roku p.n.e. wojska Aleksandra dotarły do Indii, nad rzekę Indus.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że oddziały Aleksandra dotarły do Indii nad Indus, lecz żołnierze wymusili odwrót."
+          "explanation": "Oddziały Aleksandra dotarły do Indii nad Indus, lecz żołnierze wymusili odwrót."
         },
         {
           "id": "R02_ALE_10",
@@ -2442,7 +2442,7 @@
           "id": "R02_HARD_02",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz rok z wydarzeniem z rozdziału.",
+          "prompt": "Połącz rok z wydarzeniem.",
           "options": null,
           "left": [
             "776 p.n.e.",
@@ -2497,13 +2497,13 @@
               "Leonidas"
             ]
           },
-          "explanation": "Odyseusz, Herakles i Achilles należą do mitów, natomiast Fidiasz, Temistokles i Leonidas to postacie historyczne wspomniane w rozdziale."
+          "explanation": "Odyseusz, Herakles i Achilles należą do mitów, natomiast Fidiasz, Temistokles i Leonidas to postacie historyczne."
         },
         {
           "id": "R02_HARD_04",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz ograniczenia demokracji ateńskiej opisane w podręczniku.",
+          "prompt": "Zaznacz ograniczenia demokracji ateńskiej.",
           "options": [
             "prawa polityczne mieli tylko pełnoletni mężczyźni pochodzący z Aten",
             "kobiety nie mogły korzystać z praw obywatelskich",
@@ -2534,7 +2534,7 @@
             "Hipokrates"
           ],
           "answer": 0,
-          "explanation": "Podręcznik przypisuje taki pogląd Platonowi, uczniowi Sokratesa."
+          "explanation": "Przypisuje się taki pogląd Platonowi, uczniowi Sokratesa."
         },
         {
           "id": "R02_HARD_06",
@@ -2586,7 +2586,7 @@
           "id": "R02_HARD_08",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz postać z dziedziną lub poglądem wskazanym w rozdziale.",
+          "prompt": "Połącz postać z dziedziną lub poglądem.",
           "options": null,
           "left": [
             "Pitagoras i Tales",
@@ -2606,7 +2606,7 @@
             "Sokrates": "dążenie do dobrego życia dzięki wiedzy",
             "Arystoteles": "badania u podstaw biologii, fizyki i logiki"
           },
-          "explanation": "Rozdział pokazuje, że greccy uczeni zajmowali się matematyką, medycyną, filozofią i badaniami przyrody."
+          "explanation": "Greccy uczeni zajmowali się matematyką, medycyną, filozofią i badaniami przyrody."
         },
         {
           "id": "R02_HARD_09",
@@ -2718,7 +2718,7 @@
           "section": "Ustrój starożytnego Rzymu",
           "type": "single_choice",
           "prompt": "Według legendy w którym roku założono Rzym?",
-          "explanation": "Podręcznik podaje tradycyjną datę założenia Rzymu: 753 rok p.n.e.",
+          "explanation": "Podaje się tradycyjną datę założenia Rzymu: 753 rok p.n.e.",
           "options": [
             "753 rok p.n.e.",
             "509 rok p.n.e.",
@@ -2811,7 +2811,7 @@
           "id": "R03_UST_06",
           "section": "Ustrój starożytnego Rzymu",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy republiki rzymskiej opisane w podręczniku.",
+          "prompt": "Zaznacz cechy republiki rzymskiej.",
           "explanation": "W republice obywatele wybierali urzędników, kadencje zwykle trwały rok, a ważną rolę odgrywał senat.",
           "options": [
             "Urzędnicy byli wybierani przez obywateli.",
@@ -3058,7 +3058,7 @@
           "id": "R03_IMP_10",
           "section": "Imperium Rzymskie",
           "type": "multi_select",
-          "prompt": "Zaznacz przyczyny upadku cesarstwa zachodniorzymskiego wymienione w podręczniku.",
+          "prompt": "Zaznacz przyczyny upadku cesarstwa zachodniorzymskiego.",
           "explanation": "Do upadku zachodniej części cesarstwa przyczyniły się kryzys gospodarczy i polityczny, najazdy plemion barbarzyńskich oraz spadek znaczenia Rzymu.",
           "options": [
             "kryzys gospodarczy",
@@ -3080,7 +3080,7 @@
           "section": "Życie w Wiecznym Mieście",
           "type": "single_choice",
           "prompt": "Ilu mieszkańców miał Rzym w okresie świetności w pierwszych wiekach naszej ery?",
-          "explanation": "Podręcznik podaje, że stolica cesarstwa liczyła około miliona mieszkańców.",
+          "explanation": "Stolica cesarstwa liczyła około miliona mieszkańców.",
           "options": [
             "około miliona",
             "około dziesięciu tysięcy",
@@ -3136,7 +3136,7 @@
           "id": "R03_ZYC_04",
           "section": "Życie w Wiecznym Mieście",
           "type": "multi_select",
-          "prompt": "Zaznacz bóstwa zaliczane w podręczniku do najważniejszych bogów rzymskich.",
+          "prompt": "Zaznacz bóstwa zaliczane do najważniejszych bogów rzymskich.",
           "explanation": "Do najważniejszych bogów rzymskich należeli Jowisz, Junona, Minerwa, Neptun i Mars.",
           "options": [
             "Jowisz",
@@ -3421,8 +3421,8 @@
           "id": "R03_DOK_10",
           "section": "Dokonania starożytnych Rzymian",
           "type": "multi_select",
-          "prompt": "Zaznacz rzymskie zasady prawne opisane w podręczniku jako ważne do dziś.",
-          "explanation": "Podręcznik wymienia zasadę, że prawo nie działa wstecz, oraz zasadę wysłuchania obu stron i prawo do obrony.",
+          "prompt": "Zaznacz rzymskie zasady prawne jako ważne do dziś.",
+          "explanation": "Wymienia się zasadę, że prawo nie działa wstecz, oraz zasadę wysłuchania obu stron i prawo do obrony.",
           "options": [
             "prawo nie działa wstecz",
             "należy wysłuchać obydwu stron",
@@ -3483,7 +3483,7 @@
           "section": "Początki chrześcijaństwa",
           "type": "true_false",
           "prompt": "Jezus został około 33 roku n.e. skazany na śmierć przez ukrzyżowanie.",
-          "explanation": "Śmierć Jezusa przez ukrzyżowanie około 33 roku n.e. podręcznik łączy z początkami chrześcijaństwa.",
+          "explanation": "Śmierć Jezusa przez ukrzyżowanie około 33 roku n.e. łączy się z początkami chrześcijaństwa.",
           "options": null,
           "answer": true
         },
@@ -3505,7 +3505,7 @@
           "id": "R03_CHR_05",
           "section": "Początki chrześcijaństwa",
           "type": "multi_select",
-          "prompt": "Zaznacz zdania zgodne z naukami Jezusa opisanymi w rozdziale.",
+          "prompt": "Zaznacz zdania zgodne z naukami Jezusa.",
           "explanation": "Nauki Jezusa podkreślały miłość, przebaczenie i równość ludzi wobec Boga, a nie walkę polityczną z Rzymem.",
           "options": [
             "Należy kochać Boga i bliźnich.",
@@ -3542,7 +3542,7 @@
           "id": "R03_CHR_07",
           "section": "Początki chrześcijaństwa",
           "type": "match",
-          "prompt": "Połącz postać z rolą opisaną w podręczniku.",
+          "prompt": "Połącz postać z rolą.",
           "explanation": "Piotr, Paweł, Konstantyn i Teodozjusz odegrali różne role w dziejach chrześcijaństwa w świecie rzymskim.",
           "options": null,
           "left": [
@@ -3751,7 +3751,7 @@
           "section": "Bursztynowy szlak",
           "type": "single_choice",
           "prompt": "W rejonie którego współczesnego miasta Rzymianie przerabiali bursztyn na biżuterię i ozdoby?",
-          "explanation": "Podręcznik podaje, że bursztyn przywożono w rejon dzisiejszej Wenecji, gdzie rzemieślnicy wykonywali z niego ozdoby.",
+          "explanation": "Bursztyn przywożono w rejon dzisiejszej Wenecji, gdzie rzemieślnicy wykonywali z niego ozdoby.",
           "options": [
             "Wenecji",
             "Londynu",
@@ -3822,7 +3822,7 @@
           "id": "R03_HARD_02",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz poprawne pary bóstw rzymskich i ich greckich odpowiedników z podręcznika.",
+          "prompt": "Zaznacz poprawne pary bóstw rzymskich i ich greckich odpowiedników.",
           "explanation": "Pod wpływem religii greckiej Rzymianie utożsamiali między innymi Jowisza z Zeusem, Junonę z Herą, Marsa z Aresem, Neptuna z Posejdonem i Wenus z Afrodytą.",
           "options": [
             "Jowisz — Zeus",
@@ -3885,8 +3885,8 @@
           "id": "R03_HARD_05",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz datę z wydarzeniem opisanym w rozdziale.",
-          "explanation": "Daty te pojawiają się w różnych częściach rozdziału i dotyczą wojen, rozrywek, budowli oraz chrześcijaństwa.",
+          "prompt": "Połącz datę z wydarzeniem.",
+          "explanation": "Daty te pojawiają się i dotyczą wojen, rozrywek, budowli oraz chrześcijaństwa.",
           "options": null,
           "left": [
             "146 rok p.n.e.",
@@ -3915,7 +3915,7 @@
           "section": "Super trudne",
           "type": "true_false",
           "prompt": "Pozbawienie władzy Romulusa Augustulusa w 476 roku n.e. historycy uznali za symboliczny koniec starożytności.",
-          "explanation": "Podręcznik wskazuje 476 rok n.e. jako upadek cesarstwa zachodniorzymskiego i symboliczny koniec starożytności.",
+          "explanation": "Wskazuje się 476 rok n.e. jako upadek cesarstwa zachodniorzymskiego i symboliczny koniec starożytności.",
           "options": null,
           "answer": true
         },
@@ -3932,7 +3932,7 @@
           "id": "R03_HARD_08",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Co w podręczniku oznacza zasada „prawo nie działa wstecz”?",
+          "prompt": "Co oznacza zasada „prawo nie działa wstecz”?",
           "explanation": "Zasada ta oznacza, że można karać tylko za czyn, który w chwili popełnienia był uznawany za przestępstwo.",
           "options": [
             "można karać tylko za czyn uznawany za przestępstwo w chwili popełnienia",
@@ -4037,7 +4037,7 @@
           "prompt": "Cesarstwo wschodniorzymskie powstało w 395 roku po podziale Imperium Rzymskiego.",
           "options": null,
           "answer": true,
-          "explanation": "W podręczniku podano, że Bizancjum powstało w 395 roku wskutek podziału Imperium Rzymskiego na część zachodnią i wschodnią."
+          "explanation": "Bizancjum powstało w 395 roku wskutek podziału Imperium Rzymskiego na część zachodnią i wschodnią."
         },
         {
           "id": "R04_BIZ_03",
@@ -4164,7 +4164,7 @@
           "prompt": "Wnętrza kościołów i pałaców bizantyjskich zdobiono freskami oraz mozaikami.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wskazuje freski i mozaiki jako charakterystyczne dekoracje wnętrz bizantyjskich."
+          "explanation": "Wskazuje się freski i mozaiki jako charakterystyczne dekoracje wnętrz bizantyjskich."
         },
         {
           "id": "R04_BIZ_10",
@@ -4213,7 +4213,7 @@
           "id": "R04_ARA_01",
           "section": "Arabowie i początki islamu",
           "type": "single_choice",
-          "prompt": "Gdzie początkowo zamieszkiwali Arabowie opisani w rozdziale?",
+          "prompt": "Gdzie początkowo zamieszkiwali Arabowie?",
           "options": [
             "Na Półwyspie Arabskim",
             "W Galii",
@@ -4350,7 +4350,7 @@
             "Koronację Ottona I"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podkreśla, że za pośrednictwem Arabów do Europy trafiały różne osiągnięcia cywilizacji Wschodu."
+          "explanation": "Za pośrednictwem Arabów do Europy trafiały różne osiągnięcia cywilizacji Wschodu."
         },
         {
           "id": "R04_ARA_09",
@@ -4391,7 +4391,7 @@
           "prompt": "W VIII wieku Arabowie opanowali ziemie od Indii po Morze Śródziemne, północną Afrykę i część dzisiejszej Hiszpanii.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wskazuje taki zasięg podbojów arabskich w VIII wieku.",
+          "explanation": "Wskazuje się taki zasięg podbojów arabskich w VIII wieku.",
           "image": "r04_wojownik_arabski.jpg"
         },
         {
@@ -4489,7 +4489,7 @@
           "id": "R04_FRA_05",
           "section": "Nowe państwa w Europie",
           "type": "multi_select",
-          "prompt": "Zaznacz działania lub osiągnięcia Karola Wielkiego opisane w rozdziale.",
+          "prompt": "Zaznacz działania lub osiągnięcia Karola Wielkiego.",
           "options": [
             "rozszerzył granice państwa Franków",
             "wspierał rozwój szkół przy kościołach i klasztorach",
@@ -4635,7 +4635,7 @@
           "id": "R04_KON_01",
           "section": "Konflikt papiestwa z cesarstwem",
           "type": "single_choice",
-          "prompt": "Jak nazywa się rozłam chrześcijaństwa z 1054 roku opisany w rozdziale?",
+          "prompt": "Jak nazywa się rozłam chrześcijaństwa z 1054 roku?",
           "options": [
             "wielka schizma wschodnia",
             "układ w Verdun",
@@ -4697,7 +4697,7 @@
           "prompt": "Ekskomunika oznaczała największą karę kościelną, czyli wykluczenie ze wspólnoty wiernych.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale ekskomunikę objaśniono jako klątwę i największą karę w Kościele."
+          "explanation": "Ekskomunikę objaśniono jako klątwę i największą karę w Kościele."
         },
         {
           "id": "R04_KON_05",
@@ -4818,7 +4818,7 @@
           "id": "R04_KON_12",
           "section": "Konflikt papiestwa z cesarstwem",
           "type": "sort",
-          "prompt": "Przyporządkuj elementy do chrześcijaństwa zachodniego lub wschodniego według rozdziału.",
+          "prompt": "Przyporządkuj elementy do chrześcijaństwa zachodniego lub wschodniego.",
           "options": null,
           "items": [
             "uznanie zwierzchnictwa papieża",
@@ -4876,7 +4876,7 @@
             1,
             2
           ],
-          "explanation": "Podręcznik wymienia Jerozolimę, Betlejem i Nazaret jako najważniejsze miejsca związane z życiem Jezusa."
+          "explanation": "Wymienia się Jerozolimę, Betlejem i Nazaret jako najważniejsze miejsca związane z życiem Jezusa."
         },
         {
           "id": "R04_WYP_03",
@@ -4908,7 +4908,7 @@
           "prompt": "Nazwa krucjata pochodzi od łacińskiego słowa oznaczającego krzyż.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale wyjaśniono, że nazwa krucjata pochodzi od łacińskiego crux, czyli krzyż."
+          "explanation": "Nazwa krucjata pochodzi od łacińskiego crux, czyli krzyż."
         },
         {
           "id": "R04_WYP_05",
@@ -4963,7 +4963,7 @@
             "joannici": "Zakon Szpitalników świętego Jana z Jerozolimy",
             "templariusze": "Zakon Ubogich Rycerzy Chrystusa i Świątyni Salomona"
           },
-          "explanation": "Rozdział wymienia trzy główne zakony rycerskie oraz ich pełne nazwy.",
+          "explanation": "Wymienia się trzy główne zakony rycerskie oraz ich pełne nazwy.",
           "image": "r04_rycerze_zakonni.jpg"
         },
         {
@@ -5016,7 +5016,7 @@
           "id": "R04_WYP_11",
           "section": "Wyprawy krzyżowe",
           "type": "sort",
-          "prompt": "Podziel skutki wypraw krzyżowych na pozytywne i negatywne dla Europy według rozdziału.",
+          "prompt": "Podziel skutki wypraw krzyżowych na pozytywne i negatywne dla Europy.",
           "options": null,
           "items": [
             "poznanie kultury Bliskiego Wschodu",
@@ -5073,7 +5073,7 @@
             "900 lat"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że Turcy zdobyli Konstantynopol po 53 dniach oblężenia."
+          "explanation": "Turcy zdobyli Konstantynopol po 53 dniach oblężenia."
         },
         {
           "id": "R04_HARD_02",
@@ -5106,7 +5106,7 @@
           "prompt": "Dziecko cesarskie urodzone w komnacie wyłożonej porfirem mogło nosić tytuł Porfirogenety.",
           "options": null,
           "answer": true,
-          "explanation": "Ciekawostka w rozdziale wyjaśnia, że Porfirogeneta znaczył „zrodzony w purpurze” i dawał prawo do tronu."
+          "explanation": "Ciekawostka wyjaśnia, że Porfirogeneta znaczył „zrodzony w purpurze” i dawał prawo do tronu."
         },
         {
           "id": "R04_HARD_04",
@@ -5126,7 +5126,7 @@
           "id": "R04_HARD_05",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz ustalenia konkordatu w Wormacji według rozdziału.",
+          "prompt": "Zaznacz ustalenia konkordatu w Wormacji.",
           "options": [
             "biskupi mieli być wybierani zgodnie z przepisami kościelnymi",
             "wybór biskupów zatwierdzał papież",
@@ -5147,7 +5147,7 @@
           "id": "R04_HARD_06",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż zakony rycerskie według dat powstania podanych w rozdziale, od najwcześniejszego.",
+          "prompt": "Ułóż zakony rycerskie według dat powstania, od najwcześniejszego.",
           "options": null,
           "items": [
             "templariusze",
@@ -5182,7 +5182,7 @@
           "id": "R04_HARD_08",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz osobę z wydarzeniem lub rolą opisaną w rozdziale.",
+          "prompt": "Połącz osobę z wydarzeniem lub rolą.",
           "options": null,
           "left": [
             "al-Mansur",
@@ -5227,7 +5227,7 @@
             "Konkordat wormacki"
           ],
           "answer": 0,
-          "explanation": "W rozdziale o skarbie templariuszy opisano Pergamin z Chinon odnaleziony w Tajnym Archiwum Watykanu."
+          "explanation": "O skarbie templariuszy opisano Pergamin z Chinon odnaleziony w Tajnym Archiwum Watykanu."
         }
       ],
       "kidPrompts": {},
@@ -5683,7 +5683,7 @@
           "id": "R05_RYC_10",
           "section": "Epoka rycerzy",
           "type": "multi_select",
-          "prompt": "Zaznacz powody udziału rycerzy w turniejach wymienione w podręczniku.",
+          "prompt": "Zaznacz powody udziału rycerzy w turniejach.",
           "options": [
             "Chęć zdobycia sławy",
             "Wykonywanie ćwiczeń wojskowych",
@@ -5730,7 +5730,7 @@
           "prompt": "Wskaż, co nie pasuje do pozostałych: Roland, Zawisza Czarny, William Marshal, święty Benedykt.",
           "options": null,
           "answer": "święty Benedykt",
-          "explanation": "Roland, Zawisza Czarny i William Marshal są w rozdziale związani z kulturą rycerską, a święty Benedykt z zakonami."
+          "explanation": "Roland, Zawisza Czarny i William Marshal są związani z kulturą rycerską, a święty Benedykt z zakonami."
         },
         {
           "id": "R05_MIA_01",
@@ -5755,7 +5755,7 @@
           "prompt": "Pierwszych lokacji na ziemiach polskich dokonano już na początku XIII wieku.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że pierwsze lokacje na ziemiach polskich miały miejsce na początku XIII wieku."
+          "explanation": "Pierwsze lokacje na ziemiach polskich miały miejsce na początku XIII wieku."
         },
         {
           "id": "R05_MIA_03",
@@ -5892,7 +5892,7 @@
           "prompt": "Partaczami nazywano rzemieślników nienależących do cechu, którzy wykonywali gorszej jakości produkty z tańszych materiałów.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wyjaśnia, że partacze działali poza cechem i wykonywali tańsze, gorsze wyroby."
+          "explanation": "Partacze działali poza cechem i wykonywali tańsze, gorsze wyroby."
         },
         {
           "id": "R05_MIA_10",
@@ -5981,7 +5981,7 @@
           "id": "R05_KOS_02",
           "section": "Kościół w średniowieczu",
           "type": "multi_select",
-          "prompt": "Zaznacz role duchowieństwa w średniowieczu opisane w podręczniku.",
+          "prompt": "Zaznacz role duchowieństwa w średniowieczu.",
           "options": [
             "Odprawianie nabożeństw",
             "Udzielanie sakramentów",
@@ -6005,7 +6005,7 @@
           "prompt": "Duchowieństwo było w średniowieczu jedyną wykształconą grupą ludności.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podkreśla, że duchowni tworzyli jedyną grupę posiadającą wykształcenie."
+          "explanation": "Duchowni tworzyli jedyną grupę posiadającą wykształcenie."
         },
         {
           "id": "R05_KOS_04",
@@ -6094,7 +6094,7 @@
           "prompt": "Regułę zakonu franciszkanów zatwierdził w 1223 roku papież Honoriusz III.",
           "options": null,
           "answer": true,
-          "explanation": "Tekst źródłowy w rozdziale podaje, że regułę franciszkanów oficjalnie zatwierdzono w 1223 roku."
+          "explanation": "Tekst źródłowy podaje, że regułę franciszkanów oficjalnie zatwierdzono w 1223 roku."
         },
         {
           "id": "R05_KOS_09",
@@ -6198,13 +6198,13 @@
           "prompt": "Wiele średniowiecznych dzieł sztuki jest anonimowych, ponieważ twórcy pracowali na chwałę Boga, a nie dla osobistej sławy.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wyjaśnia, że artyści często nie podpisywali swoich prac z powodów religijnych."
+          "explanation": "Artyści często nie podpisywali swoich prac z powodów religijnych."
         },
         {
           "id": "R05_SZT_04",
           "section": "Sztuka średniowiecza",
           "type": "multi_select",
-          "prompt": "Zaznacz tematy typowe dla dzieł sztuki średniowiecznej opisane w rozdziale.",
+          "prompt": "Zaznacz tematy typowe dla dzieł sztuki średniowiecznej.",
           "options": [
             "Historie z Pisma Świętego",
             "Postaci znane z Biblii",
@@ -6292,7 +6292,7 @@
           "id": "R05_SZT_07",
           "section": "Sztuka średniowiecza",
           "type": "single_choice",
-          "prompt": "Katedra Notre Dame w Paryżu jest w rozdziale podana jako przykład którego stylu?",
+          "prompt": "Katedra Notre Dame w Paryżu jest podana jako przykład którego stylu?",
           "options": [
             "Gotyckiego",
             "Romańskiego",
@@ -6328,13 +6328,13 @@
             ]
           ],
           "image": "r05_architektura_romanska_gotycka.jpg",
-          "explanation": "Rozdział podaje, że romanizm rozpoczął się w X stuleciu, a gotyk wyrósł z rozwiązań wprowadzonych we Francji w połowie XII stulecia."
+          "explanation": "Romanizm rozpoczął się w X stuleciu, a gotyk wyrósł z rozwiązań wprowadzonych we Francji w połowie XII stulecia."
         },
         {
           "id": "R05_SZT_09",
           "section": "Sztuka średniowiecza",
           "type": "multi_select",
-          "prompt": "Zaznacz dziedziny lub dzieła sztuki średniowiecznej wymienione w rozdziale.",
+          "prompt": "Zaznacz dziedziny lub dzieła sztuki średniowiecznej.",
           "options": [
             "Relikwiarze",
             "Ołtarze",
@@ -6351,7 +6351,7 @@
             4
           ],
           "image": "r05_oltarz_sredniowieczny.jpg",
-          "explanation": "Rozdział pokazuje rozwój złotnictwa, malarstwa, rzeźby i miniatur książkowych."
+          "explanation": "Pokazuje się rozwój złotnictwa, malarstwa, rzeźby i miniatur książkowych."
         },
         {
           "id": "R05_SZT_10",
@@ -6403,7 +6403,7 @@
             "Capitulum"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że lenno po łacinie nazywano feudum."
+          "explanation": "Lenno po łacinie nazywano feudum."
         },
         {
           "id": "R05_HARD_02",
@@ -6492,7 +6492,7 @@
           "id": "R05_HARD_07",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz mniej oczywiste pojęcie z rozdziału z jego znaczeniem.",
+          "prompt": "Połącz mniej oczywiste pojęcie z jego znaczeniem.",
           "options": null,
           "left": [
             "szafarz",
@@ -6515,13 +6515,13 @@
             "post": "powstrzymanie się od spożywania określonych pokarmów",
             "celibat": "bezżenność duchownych"
           },
-          "explanation": "Rozdział wyjaśnia zarówno pojęcia społeczne, jak i te związane z klasztorem i życiem religijnym."
+          "explanation": "Wyjaśnia się zarówno pojęcia społeczne, jak i te związane z klasztorem i życiem religijnym."
         },
         {
           "id": "R05_HARD_08",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który święty jest dziś czczony jako patron ekologów według rozdziału?",
+          "prompt": "Który święty jest dziś czczony jako patron ekologów?",
           "options": [
             "Święty Franciszek",
             "Święty Benedykt",
@@ -6532,7 +6532,7 @@
           ],
           "answer": 0,
           "image": "r05_zakony_sredniowieczne.jpg",
-          "explanation": "Rozdział podaje, że święty Franciszek kochał przyrodę i nazywał zwierzęta braćmi, dlatego jest patronem ekologów."
+          "explanation": "Święty Franciszek kochał przyrodę i nazywał zwierzęta braćmi, dlatego jest patronem ekologów."
         },
         {
           "id": "R05_HARD_09",
@@ -6577,7 +6577,7 @@
             ]
           },
           "image": "r05_oltarz_sredniowieczny.jpg",
-          "explanation": "Przykłady z rozdziału pokazują, że sztuka średniowieczna obejmowała różne dziedziny: złotnictwo, malarstwo, rzeźbę i książkarstwo."
+          "explanation": "Przykłady pokazują, że sztuka średniowieczna obejmowała różne dziedziny: złotnictwo, malarstwo, rzeźbę i książkarstwo."
         },
         {
           "id": "R05_HARD_11",
@@ -6587,7 +6587,7 @@
           "options": null,
           "answer": "druk",
           "image": "r05_klasztor_skryptorium.jpg",
-          "explanation": "W średniowieczu księgi przepisywano ręcznie w skryptoriach na pergaminie, a rozdział zaznacza, że nie znano jeszcze techniki drukowania książek."
+          "explanation": "W średniowieczu księgi przepisywano ręcznie w skryptoriach na pergaminie, a techniki drukowania książek jeszcze nie znano."
         },
         {
           "id": "R05_HARD_12",
@@ -6693,13 +6693,13 @@
           "prompt": "Słowianie osiedlali się w Europie wschodniej, środkowej i południowej od V do VIII wieku.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wskazuje V-VIII wiek jako czas zasiedlania tych obszarów Europy przez Słowian."
+          "explanation": "Wskazuje się V-VIII wiek jako czas zasiedlania tych obszarów Europy przez Słowian."
         },
         {
           "id": "R06_ZAN_03",
           "section": "Zanim powstała Polska",
           "type": "multi_select",
-          "prompt": "Zaznacz zajęcia i umiejętności dawnych Słowian wymienione w podręczniku.",
+          "prompt": "Zaznacz zajęcia i umiejętności dawnych Słowian.",
           "options": [
             "Rolnictwo",
             "Rybołówstwo",
@@ -6787,7 +6787,7 @@
             "Świętowit": "pan wojny, płodności i urodzaju",
             "Marzanna": "słowiańska bogini śmierci"
           },
-          "explanation": "Podręcznik opisuje te postacie jako elementy wierzeń dawnych Słowian.",
+          "explanation": "Opisuje się te postacie jako elementy wierzeń dawnych Słowian.",
           "image": "r06_slowianskie_obrzedy.jpg"
         },
         {
@@ -7062,7 +7062,7 @@
           "id": "R06_MIE_11",
           "section": "Mieszko I i początki Polski",
           "type": "multi_select",
-          "prompt": "Zaznacz skutki przyjęcia chrztu przez Mieszka I opisane w podręczniku.",
+          "prompt": "Zaznacz skutki przyjęcia chrztu przez Mieszka I.",
           "options": [
             "Wzrost znaczenia polskiego władcy",
             "Rozwój kultury i piśmiennictwa",
@@ -7135,7 +7135,7 @@
           "id": "R06_CHR_04",
           "section": "Polska Bolesława Chrobrego",
           "type": "multi_select",
-          "prompt": "Zaznacz skutki zjazdu gnieźnieńskiego wymienione w podręczniku.",
+          "prompt": "Zaznacz skutki zjazdu gnieźnieńskiego.",
           "options": [
             "Utworzenie arcybiskupstwa w Gnieźnie",
             "Utworzenie biskupstw w Krakowie, Wrocławiu i Kołobrzegu",
@@ -7282,7 +7282,7 @@
           "id": "R06_CHR_12",
           "section": "Polska Bolesława Chrobrego",
           "type": "scenario",
-          "prompt": "Następcy Chrobrego muszą zmagać się z wrogimi sąsiadami i niezadowoleniem ludności obciążonej daninami na wojny. Jaki wniosek najlepiej pasuje do oceny jego panowania w podręczniku?",
+          "prompt": "Następcy Chrobrego muszą zmagać się z wrogimi sąsiadami i niezadowoleniem ludności obciążonej daninami na wojny. Jaki wniosek najlepiej pasuje do oceny jego panowania?",
           "options": [
             "Sukcesy Chrobrego miały także kosztowne skutki",
             "Chrobry całkowicie zlikwidował daniny",
@@ -7292,7 +7292,7 @@
             "Chrobry zrezygnował z korony"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podkreśla, że sukcesy Chrobrego umocniły Polskę, ale wojny i daniny przyczyniły się do późniejszego kryzysu."
+          "explanation": "Sukcesy Chrobrego umocniły Polskę, ale wojny i daniny przyczyniły się do późniejszego kryzysu."
         },
         {
           "id": "R06_KRY_01",
@@ -7668,7 +7668,7 @@
           "prompt": "Bolesław Krzywousty uzyskał koronę królewską tak jak Bolesław Chrobry i Bolesław Śmiały.",
           "options": null,
           "answer": false,
-          "explanation": "Podręcznik podkreśla, że Bolesław Krzywousty nie uzyskał korony królewskiej."
+          "explanation": "Bolesław Krzywousty nie uzyskał korony królewskiej."
         },
         {
           "id": "R06_KRZ_11",
@@ -7717,7 +7717,7 @@
             "Około tysiąca"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że państwo Mieszka I liczyło zaledwie około miliona ludzi."
+          "explanation": "Państwo Mieszka I liczyło zaledwie około miliona ludzi."
         },
         {
           "id": "R06_SPO_02",
@@ -7761,7 +7761,7 @@
           "prompt": "W czasach Mieszka I pieniądze były rzadko używane, a jako środka płatniczego używano między innymi płatów lnu.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wyjaśnia, że pieniądze były rzadkie, a płaty lnu mogły służyć jako środek płatniczy."
+          "explanation": "Pieniądze były rzadkie, a płaty lnu mogły służyć jako środek płatniczy."
         },
         {
           "id": "R06_SPO_05",
@@ -7816,7 +7816,7 @@
           "id": "R06_SPO_07",
           "section": "Społeczeństwo i kronikarze",
           "type": "multi_select",
-          "prompt": "Zaznacz obowiązki poddanych wobec władcy wymienione w podręczniku.",
+          "prompt": "Zaznacz obowiązki poddanych wobec władcy.",
           "options": [
             "Płacenie danin",
             "Świadczenie posług",
@@ -7911,7 +7911,7 @@
           "id": "R06_SPO_12",
           "section": "Społeczeństwo i kronikarze",
           "type": "match",
-          "prompt": "Połącz źródło lub autora z miejscem pochodzenia wskazanym w podręczniku.",
+          "prompt": "Połącz źródło lub autora z miejscem pochodzenia.",
           "options": null,
           "left": [
             "Kronika Nestora",
@@ -7938,7 +7938,7 @@
           "id": "R06_HARD_01",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż władców w kolejności sprawowania rządów według rozdziału.",
+          "prompt": "Ułóż władców w kolejności sprawowania rządów.",
           "options": null,
           "items": [
             "Bolesław Śmiały",
@@ -7958,7 +7958,7 @@
             "Władysław Herman",
             "Bolesław Krzywousty"
           ],
-          "explanation": "Kolejność głównych władców w rozdziale prowadzi od Mieszka I do Bolesława Krzywoustego."
+          "explanation": "Kolejność głównych władców prowadzi od Mieszka I do Bolesława Krzywoustego."
         },
         {
           "id": "R06_HARD_02",
@@ -8000,29 +8000,29 @@
               "obrona Głogowa"
             ]
           },
-          "explanation": "Każdy zestaw wskazuje charakterystyczne osoby lub skutki najważniejszych wydarzeń z rozdziału."
+          "explanation": "Każdy zestaw wskazuje charakterystyczne osoby lub skutki najważniejszych wydarzeń."
         },
         {
           "id": "R06_HARD_03",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Wincenty Kadłubek opisał zwycięstwo Krzywoustego nad Niemcami na Psim Polu, ale Gall Anonim piszący kilka lat po najazdzie o takiej bitwie nie wspomniał, a badania archeologiczne jej nie potwierdziły. Jaki wniosek przedstawia podręcznik?",
+          "prompt": "Wincenty Kadłubek opisał zwycięstwo Krzywoustego nad Niemcami na Psim Polu, ale Gall Anonim piszący kilka lat po najazdzie o takiej bitwie nie wspomniał, a badania archeologiczne jej nie potwierdziły. Jaki wniosek przedstawia się?",
           "options": [
             "Uczeni uznali opowieść o Psim Polu za wymyśloną",
-            "Bitwa na Psim Polu jest najlepiej potwierdzoną bitwą rozdziału",
+            "Bitwa na Psim Polu jest najlepiej potwierdzoną bitwą tego okresu",
             "Gall Anonim opisał tę bitwę bardzo szczegółowo",
             "Kadłubek pisał przed najazdem Henryka V",
             "Bitwa odbyła się podczas chrztu Polski",
             "Było to starcie Mieszka I z Hodonem"
           ],
           "answer": 0,
-          "explanation": "Podręcznik wyjaśnia, że brak potwierdzenia w starszych źródłach i archeologii sprawił, iż opowieść o Psim Polu uznano za wymyśloną."
+          "explanation": "Brak potwierdzenia w starszych źródłach i archeologii sprawił, iż opowieść o Psim Polu uznano za wymyśloną."
         },
         {
           "id": "R06_HARD_04",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz postanowienia lub skutki testamentu Bolesława Krzywoustego zgodne z podręcznikiem.",
+          "prompt": "Zaznacz prawdziwe postanowienia lub skutki testamentu Bolesława Krzywoustego.",
           "options": [
             "Podział państwa między synów",
             "Wprowadzenie zasady senioratu",
@@ -8079,7 +8079,7 @@
           "prompt": "Ibrahim ibn Jakub podróżował po Słowiańszczyźnie w latach 965-966, a jego relacja należy do źródeł o początkach państwa polskiego.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wymienia relację Ibrahima ibn Jakuba z lat 965-966 jako jedno ze źródeł informacji o początkach Polski."
+          "explanation": "Wymienia się relację Ibrahima ibn Jakuba z lat 965-966 jako jedno ze źródeł informacji o początkach Polski."
         },
         {
           "id": "R06_HARD_08",
@@ -8269,7 +8269,7 @@
           "id": "R07_ROZ_07",
           "section": "Rozbicie dzielnicowe",
           "type": "multi_select",
-          "prompt": "Zaznacz skutki rozbicia dzielnicowego wymienione w podręczniku.",
+          "prompt": "Zaznacz skutki rozbicia dzielnicowego.",
           "options": [
             "Osłabienie znaczenia Piastów na arenie międzynarodowej",
             "Utrata Pomorza Zachodniego i Gdańskiego",
@@ -8375,7 +8375,7 @@
             1,
             2
           ],
-          "explanation": "Podręcznik wymienia próby książąt śląskich, Przemysła II oraz rządy Wacława II, zanim dzieło zjednoczenia podjął Łokietek."
+          "explanation": "Wymienia się próby książąt śląskich, Przemysła II oraz rządy Wacława II, zanim dzieło zjednoczenia podjął Łokietek."
         },
         {
           "id": "R07_ZJE_03",
@@ -8924,7 +8924,7 @@
           "id": "R07_JAG_04",
           "section": "Czasy świetności dynastii Jagiellonów",
           "type": "multi_select",
-          "prompt": "Zaznacz działania Kazimierza Jagiellończyka opisane w podręczniku.",
+          "prompt": "Zaznacz działania Kazimierza Jagiellończyka.",
           "options": [
             "Ograniczył wpływy Zbigniewa Oleśnickiego",
             "Oparł rządy na średniozamożnym rycerstwie",
@@ -9077,7 +9077,7 @@
           "id": "R07_MON_02",
           "section": "Monarchia stanowa w Polsce",
           "type": "multi_select",
-          "prompt": "Zaznacz stany społeczne wymienione w podręczniku jako podstawowe grupy społeczeństwa w Polsce.",
+          "prompt": "Zaznacz stany społeczne jako podstawowe grupy społeczeństwa w Polsce.",
           "options": [
             "duchowieństwo",
             "rycerstwo",
@@ -9228,7 +9228,7 @@
           "id": "R07_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Które wydarzenie podręcznik uznaje za ostateczny upadek zwierzchniej władzy seniora nad pozostałymi Piastami?",
+          "prompt": "Które wydarzenie uznaje się za ostateczny upadek zwierzchniej władzy seniora nad pozostałymi Piastami?",
           "options": [
             "zamordowanie Leszka Białego po zjeździe w Gąsawie",
             "koronację Wacława II w Gnieźnie",
@@ -9239,7 +9239,7 @@
           ],
           "answer": 0,
           "image": "r07_podzial_polski_dzielnice.jpg",
-          "explanation": "Śmierć Leszka Białego w 1227 roku jest w podręczniku wskazana jako ostateczny upadek władzy zwierzchniej seniora."
+          "explanation": "Śmierć Leszka Białego w 1227 roku jest wskazana jako ostateczny upadek władzy zwierzchniej seniora."
         },
         {
           "id": "R07_HARD_02",

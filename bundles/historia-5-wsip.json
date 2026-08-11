@@ -1,8 +1,8 @@
 {
   "id": "historia-5-wsip",
   "title": "Historia 5 WSiP",
-  "version": 2,
-  "contentHash": "1da7e5d4202a16d8c869d99969132fc396039b771fad30017553c21c06d208fb",
+  "version": 3,
+  "contentHash": "38008f4ba17e4e51b432d6bebabd46b003b88c55d0a76505da577c1c36b65308",
   "bookConfig": {
     "id": "historia-5-wsip",
     "title": "Historia 5 WSiP",
@@ -47,7 +47,7 @@
             "Antarktyda"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje, że najstarsi przodkowie ludzi pojawili się w Afryce około 4 milionów lat temu."
+          "explanation": "Najstarsi przodkowie ludzi pojawili się w Afryce około 4 milionów lat temu."
         },
         {
           "id": "R01_NDC_02",
@@ -191,7 +191,7 @@
             3
           ],
           "image": "r01_zyzny_polksiezyc_uprawy.jpg",
-          "explanation": "W podręczniku wymieniono m.in. pszenicę, jęczmień, proso, soczewicę, groch, len i drzewa owocowe."
+          "explanation": "Wymieniono m.in. pszenicę, jęczmień, proso, soczewicę, groch, len i drzewa owocowe."
         },
         {
           "id": "R01_NDC_10",
@@ -411,7 +411,7 @@
           "id": "R01_MEZ_09",
           "section": "Mezopotamia",
           "type": "true_false",
-          "prompt": "W podręczniku przyjęto, że pojawienie się pisma zakończyło prehistorię i rozpoczęło czasy historyczne.",
+          "prompt": "Przyjęto, że pojawienie się pisma zakończyło prehistorię i rozpoczęło czasy historyczne.",
           "options": null,
           "answer": true,
           "explanation": "Pismo pozwoliło utrwalać informacje, dlatego wraz z jego pojawieniem się rozpoczyna się starożytność."
@@ -420,7 +420,7 @@
           "id": "R01_MEZ_10",
           "section": "Mezopotamia",
           "type": "multi_select",
-          "prompt": "Zaznacz osiągnięcia ludów starożytnej Mezopotamii wymienione w podręczniku.",
+          "prompt": "Zaznacz osiągnięcia ludów starożytnej Mezopotamii.",
           "options": [
             "Wynalezienie pisma",
             "Wynalezienie koła",
@@ -489,7 +489,7 @@
           "options": null,
           "answer": true,
           "image": "r01_mapa_egiptu_nil_delta.jpg",
-          "explanation": "Podręcznik podaje, że około 3100 roku p.n.e. dwa królestwa Egiptu połączono pod władzą jednego króla."
+          "explanation": "Około 3100 roku p.n.e. dwa królestwa Egiptu połączono pod władzą jednego króla."
         },
         {
           "id": "R01_EGI_03",
@@ -577,7 +577,7 @@
           "id": "R01_EGI_07",
           "section": "Starożytny Egipt",
           "type": "single_choice",
-          "prompt": "Jak nazywało się uroczyste pismo starożytnych Egipcjan pokazane w podręczniku?",
+          "prompt": "Jak nazywało się uroczyste pismo starożytnych Egipcjan?",
           "options": [
             "Hieroglify",
             "Pismo klinowe",
@@ -620,7 +620,7 @@
           "id": "R01_EGI_10",
           "section": "Starożytny Egipt",
           "type": "multi_select",
-          "prompt": "Zaznacz osiągnięcia starożytnych Egipcjan wymienione w podręczniku.",
+          "prompt": "Zaznacz osiągnięcia starożytnych Egipcjan.",
           "options": [
             "Rozwój medycyny",
             "Obliczanie powierzchni i objętości figur",
@@ -651,7 +651,7 @@
           "id": "R01_EGI_12",
           "section": "Starożytny Egipt",
           "type": "sequence",
-          "prompt": "Ułóż etapy rocznego cyklu rolniczego nad Nilem w kolejności opisanej w podręczniku.",
+          "prompt": "Ułóż etapy rocznego cyklu rolniczego nad Nilem w kolejności.",
           "options": null,
           "items": [
             "wiosenne zbiory",
@@ -683,13 +683,13 @@
             "Kapłanami i urzędnikami"
           ],
           "answer": 0,
-          "explanation": "W podręczniku podano, że Żydów nazywano wówczas Hebrajczykami, a później także Izraelitami."
+          "explanation": "Żydów nazywano wówczas Hebrajczykami, a później także Izraelitami."
         },
         {
           "id": "R01_IZR_02",
           "section": "Starożytny Izrael",
           "type": "true_false",
-          "prompt": "Judaizm jest w podręczniku określony jako najstarsza religia monoteistyczna.",
+          "prompt": "Judaizm jest określony jako najstarsza religia monoteistyczna.",
           "options": null,
           "answer": true,
           "explanation": "Religia żydowska, czyli judaizm, wyróżniała się wiarą w jednego Boga i została nazwana najstarszą religią monoteistyczną."
@@ -722,7 +722,7 @@
           "id": "R01_IZR_04",
           "section": "Starożytny Izrael",
           "type": "multi_select",
-          "prompt": "Zaznacz zasady i cechy religii starożytnego Izraela opisane w podręczniku.",
+          "prompt": "Zaznacz zasady i cechy religii starożytnego Izraela.",
           "options": [
             "Wiara w jednego Boga",
             "Przestrzeganie Dziesięciu Przykazań",
@@ -779,7 +779,7 @@
             "Dawid": "uczynił Jerozolimę stolicą i centrum religijnym",
             "Salomon": "kazał wznieść świątynię Jahwe w Jerozolimie"
           },
-          "explanation": "Abraham, Mojżesz, Dawid i Salomon to najważniejsze postacie biblijnych dziejów Izraela wymienione w rozdziale."
+          "explanation": "Abraham, Mojżesz, Dawid i Salomon to najważniejsze postacie biblijnych dziejów Izraela."
         },
         {
           "id": "R01_IZR_07",
@@ -869,7 +869,7 @@
           "id": "R01_IZR_12",
           "section": "Starożytny Izrael",
           "type": "sequence",
-          "prompt": "Ułóż wydarzenia z dziejów Izraela w kolejności chronologicznej według rozdziału.",
+          "prompt": "Ułóż wydarzenia z dziejów Izraela w kolejności chronologicznej.",
           "options": null,
           "items": [
             "niewola babilońska",
@@ -885,7 +885,7 @@
             "rozpad królestwa po śmierci Salomona",
             "niewola babilońska"
           ],
-          "explanation": "Według narracji rozdziału po Abrahamie nastąpił pobyt i wyjście z Egiptu, potem królestwo Dawida i Salomona, rozpad państwa i niewola babilońska."
+          "explanation": "Według przekazu biblijnego po Abrahamie nastąpił pobyt i wyjście z Egiptu, potem królestwo Dawida i Salomona, rozpad państwa i niewola babilońska."
         },
         {
           "id": "R01_IND_01",
@@ -901,7 +901,7 @@
             "Wyłącznie w górach"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podkreśla, że cywilizacje Indii i Chin rozwinęły się w żyznych dolinach wielkich rzek."
+          "explanation": "Cywilizacje Indii i Chin rozwinęły się w żyznych dolinach wielkich rzek."
         },
         {
           "id": "R01_IND_02",
@@ -930,7 +930,7 @@
           "prompt": "Najstarsza cywilizacja Indii narodziła się około 2400 lat p.n.e. w dolinie Indusu.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale wskazano, że najstarsza cywilizacja Indii powstała około 2400 lat p.n.e. w dolinie Indusu."
+          "explanation": "Najstarsza cywilizacja Indii powstała około 2400 lat p.n.e. w dolinie Indusu."
         },
         {
           "id": "R01_IND_04",
@@ -962,7 +962,7 @@
           "id": "R01_IND_05",
           "section": "Starożytne Indie i Chiny",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy Mohendżo Daro i Harappy opisane w podręczniku.",
+          "prompt": "Zaznacz cechy Mohendżo Daro i Harappy.",
           "options": [
             "Szerokie, równe ulice przecinające się pod kątem prostym",
             "Piętrowe domy z wypalanej cegły",
@@ -1064,7 +1064,7 @@
           "id": "R01_IND_11",
           "section": "Starożytne Indie i Chiny",
           "type": "multi_select",
-          "prompt": "Zaznacz osiągnięcia starożytnych Chin wymienione w podręczniku.",
+          "prompt": "Zaznacz osiągnięcia starożytnych Chin.",
           "options": [
             "Wytwarzanie papieru",
             "Produkcja jedwabiu",
@@ -1150,7 +1150,7 @@
             "około 2400 lat p.n.e.": "powstanie cywilizacji doliny Indusu",
             "około 1200 lat p.n.e.": "początek epoki żelaza"
           },
-          "explanation": "Daty pochodzą z osi czasu i podsumowań rozdziału."
+          "explanation": "Daty pochodzą z osi czasu."
         },
         {
           "id": "R01_HARD_03",
@@ -1209,7 +1209,7 @@
               "prehistoryja"
             ]
           ],
-          "explanation": "Podręcznik wiąże początki pisma w Mezopotamii z około 3500 rokiem p.n.e. i uznaje je za granicę między prehistorią a historią."
+          "explanation": "Wiąże się początki pisma w Mezopotamii z około 3500 rokiem p.n.e. i uznaje je za granicę między prehistorią a historią."
         },
         {
           "id": "R01_HARD_06",
@@ -1224,10 +1224,10 @@
           "id": "R01_HARD_07",
           "section": "Super trudne",
           "type": "true_false",
-          "prompt": "Biblia jest dla badaczy ważnym źródłem do dziejów Izraela, ale podręcznik zaznacza, że naukowcy zestawiają opowieści biblijne z innymi źródłami, zwłaszcza archeologicznymi.",
+          "prompt": "Biblia jest dla badaczy ważnym źródłem do dziejów Izraela, ale naukowcy zestawiają opowieści biblijne z innymi źródłami, zwłaszcza archeologicznymi.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podkreśla religijny charakter Biblii i potrzebę porównywania jej przekazów z innymi źródłami."
+          "explanation": "Podkreśla się religijny charakter Biblii i potrzebę porównywania jej przekazów z innymi źródłami."
         },
         {
           "id": "R01_HARD_08",
@@ -1269,7 +1269,7 @@
               "Jedwabny Szlak"
             ]
           },
-          "explanation": "Każde pojęcie pochodzi z innej części rozdziału i jest charakterystyczne dla wskazanej cywilizacji lub tradycji."
+          "explanation": "Każde pojęcie pochodzi i jest charakterystyczne dla wskazanej cywilizacji lub tradycji."
         },
         {
           "id": "R01_HARD_09",
@@ -1298,7 +1298,7 @@
             "Ludzie znali tylko liczby, ale nie znali żadnych znaków"
           ],
           "answer": 0,
-          "explanation": "W rozdziale kilka razy podkreślono, że dawne systemy pisma zawierały tysiące znaków, dlatego umiejętność pisania była trudna i rzadka."
+          "explanation": "Kilka razy podkreślono, że dawne systemy pisma zawierały tysiące znaków, dlatego umiejętność pisania była trudna i rzadka."
         }
       ],
       "kidPrompts": {},
@@ -2130,13 +2130,13 @@
             3,
             4
           ],
-          "explanation": "W podręczniku wymieniono rozwój matematyki, fizyki, astronomii, wiedzy przyrodniczej i medycyny."
+          "explanation": "Wymieniono rozwój matematyki, fizyki, astronomii, wiedzy przyrodniczej i medycyny."
         },
         {
           "id": "R02_KUL_04",
           "section": "Nauka, literatura i sztuka",
           "type": "match",
-          "prompt": "Połącz postać z dziedziną lub osiągnięciem wskazanym w rozdziale.",
+          "prompt": "Połącz postać z dziedziną lub osiągnięciem.",
           "options": null,
           "left": [
             "Pitagoras",
@@ -2156,7 +2156,7 @@
             "Herodot": "ojciec historii",
             "Homer": "autor Iliady i Odysei"
           },
-          "explanation": "Rozdział pokazuje, że Grecy rozwijali filozofię, medycynę, historię i literaturę."
+          "explanation": "Grecy rozwijali filozofię, medycynę, historię i literaturę."
         },
         {
           "id": "R02_KUL_05",
@@ -2233,7 +2233,7 @@
           "id": "R02_KUL_09",
           "section": "Nauka, literatura i sztuka",
           "type": "match",
-          "prompt": "Połącz porządek architektoniczny z jego miejscem w zestawieniu głowic kolumn z podręcznika.",
+          "prompt": "Połącz porządek architektoniczny z jego miejscem w zestawieniu głowic kolumn.",
           "options": null,
           "left": [
             "dorycki",
@@ -2251,7 +2251,7 @@
             "koryncki": "trzeci w zestawieniu"
           },
           "image": "r02_porzadki_kolumn.jpg",
-          "explanation": "Podręcznik pokazuje trzy porządki greckiej architektury: dorycki, joński i koryncki."
+          "explanation": "Pokazuje się trzy porządki greckiej architektury: dorycki, joński i koryncki."
         },
         {
           "id": "R02_KUL_10",
@@ -2295,7 +2295,7 @@
           "options": null,
           "answer": true,
           "image": "r02_wojny_grecko_perskie_mapa.jpg",
-          "explanation": "Podręcznik podkreśla, że 300 Spartan walczyło do śmierci, aby osłonić odwrót Greków."
+          "explanation": "300 Spartan walczyło do śmierci, aby osłonić odwrót Greków."
         },
         {
           "id": "R02_WOJ_03",
@@ -2468,7 +2468,7 @@
             "rok 334 przed Aleksandrem"
           ],
           "answer": 0,
-          "explanation": "Podręcznik podaje przykład, że 429 rok p.n.e. określano jako 4 rok 87 olimpiady."
+          "explanation": "Podaje się przykład, że 429 rok p.n.e. określano jako 4 rok 87 olimpiady."
         },
         {
           "id": "R02_HARD_02",
@@ -2477,7 +2477,7 @@
           "prompt": "Perykles był wybierany na urząd stratega czternaście razy.",
           "options": null,
           "answer": true,
-          "explanation": "Podpis w podręczniku informuje, że Peryklesa aż 14 razy wybierano na urząd stratega."
+          "explanation": "Podpis informuje, że Peryklesa aż 14 razy wybierano na urząd stratega."
         },
         {
           "id": "R02_HARD_03",
@@ -2507,7 +2507,7 @@
           "id": "R02_HARD_04",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz autora z typem twórczości dramatycznej wymienionym w rozdziale.",
+          "prompt": "Połącz autora z typem twórczości dramatycznej.",
           "options": null,
           "left": [
             "Ajschylos",
@@ -2747,7 +2747,7 @@
           "id": "R03_RKR_04",
           "section": "Rzym od królestwa do republiki",
           "type": "multi_select",
-          "prompt": "Zaznacz prawa i obowiązki obywateli rzymskich wymienione w podręczniku.",
+          "prompt": "Zaznacz prawa i obowiązki obywateli rzymskich.",
           "options": [
             "służba wojskowa",
             "płacenie podatków",
@@ -2881,7 +2881,7 @@
             "w 476 roku n.e."
           ],
           "answer": 2,
-          "explanation": "Podręcznik podaje, że stało się to w połowie III wieku p.n.e."
+          "explanation": "Stało się to w połowie III wieku p.n.e."
         },
         {
           "id": "R03_IMP_02",
@@ -2948,7 +2948,7 @@
             "imperium",
             "Imperium"
           ],
-          "explanation": "Podręcznik definiuje imperium jako potężne państwo, które podbija inne kraje."
+          "explanation": "Definiuje się imperium jako potężne państwo, które podbija inne kraje."
         },
         {
           "id": "R03_IMP_06",
@@ -3028,7 +3028,7 @@
           "id": "R03_IMP_10",
           "section": "Imperium Rzymskie",
           "type": "single_choice",
-          "prompt": "Kogo podręcznik uznaje za pierwszego cesarza rzymskiego?",
+          "prompt": "Kogo uznaje się za pierwszego cesarza rzymskiego?",
           "options": [
             "Romulusa",
             "Tarkwiniusza Pysznego",
@@ -3177,7 +3177,7 @@
           "prompt": "Galia została ostatecznie włączona w granice Rzymu w I wieku p.n.e.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wskazuje, że w I wieku p.n.e. Galia została ostatecznie włączona do Rzymu."
+          "explanation": "W I wieku p.n.e. Galia została ostatecznie włączona do Rzymu."
         },
         {
           "id": "R03_WOJ_10",
@@ -3235,7 +3235,7 @@
           "id": "R03_CYW_02",
           "section": "Cywilizacja starożytnego Rzymu",
           "type": "multi_select",
-          "prompt": "Zaznacz osiągnięcia techniczne lub budowlane Rzymian wymienione w podręczniku.",
+          "prompt": "Zaznacz osiągnięcia techniczne lub budowlane Rzymian.",
           "options": [
             "sieć dróg",
             "łuk i kopuła",
@@ -3439,7 +3439,7 @@
               "Nazaret"
             ]
           ],
-          "explanation": "Podręcznik wskazuje Jezusa z Nazaretu jako założyciela chrześcijaństwa."
+          "explanation": "Wskazuje się Jezusa z Nazaretu jako założyciela chrześcijaństwa."
         },
         {
           "id": "R03_CHR_04",
@@ -3471,7 +3471,7 @@
           "id": "R03_CHR_05",
           "section": "Chrześcijaństwo i schyłek starożytności",
           "type": "multi_select",
-          "prompt": "Zaznacz przyczyny nieufności i prześladowań wobec pierwszych chrześcijan podane w rozdziale.",
+          "prompt": "Zaznacz przyczyny nieufności i prześladowań wobec pierwszych chrześcijan.",
           "options": [
             "odmawiali składania ofiar rzymskim bogom",
             "nie uznawali boskości cesarzy",
@@ -3562,7 +3562,7 @@
           "id": "R03_CHR_10",
           "section": "Chrześcijaństwo i schyłek starożytności",
           "type": "multi_select",
-          "prompt": "Wskaż przyczyny upadku Cesarstwa Rzymskiego na Zachodzie wymienione w rozdziale.",
+          "prompt": "Wskaż przyczyny upadku Cesarstwa Rzymskiego na Zachodzie.",
           "options": [
             "najazdy ludów barbarzyńskich",
             "rabowanie rzymskich ziem",
@@ -3623,7 +3623,7 @@
           "id": "R03_HARD_03",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz zadania senatu rzymskiego wymienione w rozdziale.",
+          "prompt": "Zaznacz zadania senatu rzymskiego.",
           "options": [
             "udzielanie rad urzędnikom",
             "przyjmowanie poselstw zagranicznych",
@@ -3644,7 +3644,7 @@
           "id": "R03_HARD_04",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz autora z dziełem albo rolą wskazaną w podręczniku.",
+          "prompt": "Połącz autora z dziełem albo rolą.",
           "options": null,
           "left": [
             "Wergiliusz",
@@ -3664,7 +3664,7 @@
             "Juliusz Cezar": "O wojnie galijskiej i O wojnie domowej",
             "św. Paweł": "Listy w Nowym Testamencie"
           },
-          "explanation": "Rozdział wymienia Wergiliusza jako autora Eneidy, Cycerona jako wzór mów, Juliusza Cezara jako autora dzieł o wojnach oraz św. Pawła jako autora listów w Nowym Testamencie."
+          "explanation": "Wymienia się Wergiliusza jako autora Eneidy, Cycerona jako wzór mów, Juliusza Cezara jako autora dzieł o wojnach oraz św. Pawła jako autora listów w Nowym Testamencie."
         },
         {
           "id": "R03_HARD_05",
@@ -3682,7 +3682,7 @@
             "republika",
             "cesarstwo"
           ],
-          "explanation": "Dzieje Rzymu w rozdziale porządkują trzy etapy: królestwo, republikę i cesarstwo."
+          "explanation": "Dzieje Rzymu porządkują trzy etapy: królestwo, republikę i cesarstwo."
         },
         {
           "id": "R03_HARD_06",
@@ -3691,7 +3691,7 @@
           "prompt": "Za Oktawiana Augusta formalnie nadal istniały republikańskie urzędy, lecz straciły dawne znaczenie.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podkreśla, że senat, konsulowie i inni urzędnicy nadal istnieli, ale rzeczywistą władzę sprawował Oktawian August."
+          "explanation": "Senat, konsulowie i inni urzędnicy nadal istnieli, ale rzeczywistą władzę sprawował Oktawian August."
         },
         {
           "id": "R03_HARD_07",
@@ -4147,7 +4147,7 @@
           "id": "R04_ARA_07",
           "section": "Arabowie i początki islamu",
           "type": "multi_select",
-          "prompt": "Zaznacz obszary zdobyte przez Arabów według rozdziału.",
+          "prompt": "Zaznacz obszary zdobyte przez Arabów.",
           "options": [
             "Palestyna",
             "Egipt",
@@ -4320,7 +4320,7 @@
           "id": "R04_KAR_05",
           "section": "Państwo karolińskie",
           "type": "multi_select",
-          "prompt": "Zaznacz dokonania Karola Wielkiego opisane w rozdziale.",
+          "prompt": "Zaznacz dokonania Karola Wielkiego.",
           "options": [
             "Pokonał Longobardów w północnej Italii",
             "Wyparł Arabów z części zachodniej Hiszpanii",
@@ -4693,7 +4693,7 @@
           ],
           "answer": 0,
           "image": "r04_mapa_slowianie.jpg",
-          "explanation": "Podręcznik wskazuje, że najdawniejsze siedziby Słowian leżały prawdopodobnie na obszarze dzisiejszej Ukrainy."
+          "explanation": "Najdawniejsze siedziby Słowian leżały prawdopodobnie na obszarze dzisiejszej Ukrainy."
         },
         {
           "id": "R04_SLO_02",
@@ -4744,7 +4744,7 @@
           "id": "R04_SLO_05",
           "section": "Słowiańszczyzna",
           "type": "match",
-          "prompt": "Połącz państwo lub lud z dynastią wymienioną w rozdziale.",
+          "prompt": "Połącz państwo lub lud z dynastią.",
           "options": null,
           "left": [
             "Czechy",
@@ -4765,7 +4765,7 @@
             "Ruś Kijowska": "Rurykowicze"
           },
           "image": "r04_mapa_slowianie.jpg",
-          "explanation": "W rozdziale wskazano najważniejsze dynastie państw Europy Środkowej i Wschodniej."
+          "explanation": "Wskazano najważniejsze dynastie państw Europy Środkowej i Wschodniej."
         },
         {
           "id": "R04_SLO_06",
@@ -4898,14 +4898,14 @@
           "id": "R04_HARD_01",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz trwałe dziedzictwa wczesnego średniowiecza wymienione w podsumowaniu rozdziału.",
+          "prompt": "Zaznacz trwałe dziedzictwa wczesnego średniowiecza.",
           "options": [
             "Nazwa Francji pochodzi od Franków",
             "Nazwa Bułgarii pochodzi od Bułgarów",
             "Nazwa Polski pochodzi od plemienia Polan",
             "Cyrylica jest podstawą alfabetów używanych w części państw słowiańskich",
             "Cyfry arabskie zostały zapożyczone z Indii i uzupełnione o zero",
-            "Nazwa Norwegii pochodzi od Normanów według rozdziału"
+            "Nazwa Norwegii pochodzi od Normanów"
           ],
           "answer": [
             0,
@@ -5131,7 +5131,7 @@
               "Wielkie Morawy"
             ]
           },
-          "explanation": "Ćwiczenie łączy najważniejsze pojęcia z czterema kręgami kulturowymi omawianymi w rozdziale."
+          "explanation": "Ćwiczenie łączy najważniejsze pojęcia z czterema kręgami kulturowymi."
         },
         {
           "id": "R04_HARD_12",
@@ -5225,7 +5225,7 @@
           "prompt": "Wasal miał obowiązek dochować wierności seniorowi, walczyć pod jego dowództwem i służyć mu radą.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wymienia właśnie wierność, służbę wojskową i służenie radą jako podstawowe obowiązki wasala."
+          "explanation": "Wymienia się właśnie wierność, służbę wojskową i służenie radą jako podstawowe obowiązki wasala."
         },
         {
           "id": "R05_RYC_03",
@@ -5403,7 +5403,7 @@
           "prompt": "Większość średniowiecznych chłopów była niezależnymi ludźmi i posiadała na własność uprawianą ziemię.",
           "options": null,
           "answer": false,
-          "explanation": "Podręcznik podkreśla, że większość chłopów była poddanymi właścicieli majątków ziemskich i nie posiadała ziemi na własność."
+          "explanation": "Większość chłopów była poddanymi właścicieli majątków ziemskich i nie posiadała ziemi na własność."
         },
         {
           "id": "R05_WIE_03",
@@ -5454,7 +5454,7 @@
           "id": "R05_WIE_05",
           "section": "Średniowieczna wieś i stany",
           "type": "match",
-          "prompt": "Połącz członków chłopskiej rodziny z typowymi zajęciami opisanymi w podręczniku.",
+          "prompt": "Połącz członków chłopskiej rodziny z typowymi zajęciami.",
           "options": null,
           "left": [
             "mężczyźni",
@@ -5475,7 +5475,7 @@
             "cała rodzina": "udział w pracach gospodarskich"
           },
           "image": "r05_gospodarstwo_chlopskie.jpg",
-          "explanation": "Prace gospodarskie angażowały całą rodzinę, ale podręcznik wskazuje różne typowe zadania mężczyzn, kobiet i starszych dzieci."
+          "explanation": "Prace gospodarskie angażowały całą rodzinę, ale wskazuje się różne typowe zadania mężczyzn, kobiet i starszych dzieci."
         },
         {
           "id": "R05_WIE_06",
@@ -5581,7 +5581,7 @@
             "dopiero po upadku Akki"
           ],
           "answer": 0,
-          "explanation": "Podręcznik wskazuje, że miasta na zachodzie Europy zaczęły odradzać się dopiero w XI wieku."
+          "explanation": "Miasta na zachodzie Europy zaczęły odradzać się dopiero w XI wieku."
         },
         {
           "id": "R05_MIA_02",
@@ -5639,7 +5639,7 @@
           "prompt": "Mieszczanie, w przeciwieństwie do chłopów, byli ludźmi wolnymi.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wyraźnie przeciwstawia wolnych mieszczan poddanym chłopom."
+          "explanation": "Przeciwstawia się wolnych mieszczan poddanym chłopom."
         },
         {
           "id": "R05_MIA_05",
@@ -5798,7 +5798,7 @@
           "id": "R05_KOS_04",
           "section": "Kościół, zakony i kultura",
           "type": "match",
-          "prompt": "Połącz zakon lub grupę zakonną z charakterystyczną informacją z rozdziału.",
+          "prompt": "Połącz zakon lub grupę zakonną z charakterystyczną informacją.",
           "options": null,
           "left": [
             "benedyktyni",
@@ -6103,7 +6103,7 @@
           "prompt": "Konkordat w Wormacji całkowicie zakończył rywalizację między papiestwem a cesarstwem w kolejnych wiekach.",
           "options": null,
           "answer": false,
-          "explanation": "Podręcznik podkreśla, że konkordat nie zakończył całej rywalizacji; spory trwały także później."
+          "explanation": "Konkordat nie zakończył całej rywalizacji; spory trwały także później."
         },
         {
           "id": "R05_WYP_01",
@@ -6128,13 +6128,13 @@
           "prompt": "Arabscy zdobywcy Palestyny zwykle prześladowali chrześcijan i utrudniali im dostęp do Ziemi Świętej.",
           "options": null,
           "answer": false,
-          "explanation": "Podręcznik stwierdza, że Arabowie zwykle nie prześladowali chrześcijan i nie utrudniali im dostępu do Palestyny."
+          "explanation": "Arabowie zwykle nie prześladowali chrześcijan i nie utrudniali im dostępu do Palestyny."
         },
         {
           "id": "R05_WYP_03",
           "section": "Wyprawy krzyżowe",
           "type": "multi_select",
-          "prompt": "Zaznacz przyczyny i motywy udziału w pierwszych wyprawach krzyżowych opisane w podręczniku.",
+          "prompt": "Zaznacz przyczyny i motywy udziału w pierwszych wyprawach krzyżowych.",
           "options": [
             "prześladowanie chrześcijan przez Turków seldżuckich",
             "prośba Bizancjum o zbrojną pomoc",
@@ -6194,7 +6194,7 @@
           "id": "R05_WYP_06",
           "section": "Wyprawy krzyżowe",
           "type": "match",
-          "prompt": "Połącz zakon rycerski lub grupę z informacją z rozdziału.",
+          "prompt": "Połącz zakon rycerski lub grupę z informacją.",
           "options": null,
           "left": [
             "templariusze",
@@ -6256,13 +6256,13 @@
           "prompt": "Czwarta wyprawa krzyżowa zamiast do Palestyny skierowała się przeciw chrześcijańskiemu Bizancjum i doprowadziła do zdobycia Konstantynopola.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik nazywa czwartą krucjatę zaprzeczeniem idei krucjat, ponieważ krzyżowcy złupili Konstantynopol."
+          "explanation": "Nazywa się czwartą krucjatę zaprzeczeniem idei krucjat, ponieważ krzyżowcy złupili Konstantynopol."
         },
         {
           "id": "R05_WYP_10",
           "section": "Wyprawy krzyżowe",
           "type": "multi_select",
-          "prompt": "Zaznacz skutki krucjat opisane w rozdziale.",
+          "prompt": "Zaznacz skutki krucjat.",
           "options": [
             "utrwalenie wrogości między chrześcijanami i muzułmanami",
             "nawiązanie ściślejszych relacji handlowych przez kupców włoskich",
@@ -6384,7 +6384,7 @@
           "id": "R05_HARD_07",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj działania do typów zgromadzeń opisanych w rozdziale.",
+          "prompt": "Przyporządkuj działania do typów zgromadzeń.",
           "options": null,
           "items": [
             "przepisywanie ksiąg",
@@ -6413,13 +6413,13 @@
               "ochrona pielgrzymów"
             ]
           },
-          "explanation": "Rozdział pokazuje różne formy życia zakonnego: klasztorne, żebracze i rycerskie."
+          "explanation": "Pokazuje się różne formy życia zakonnego: klasztorne, żebracze i rycerskie."
         },
         {
           "id": "R05_HARD_08",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz symbol lub znak z sytuacją, w której występuje w rozdziale.",
+          "prompt": "Połącz symbol lub znak z sytuacją, w której występuje.",
           "options": null,
           "left": [
             "włócznia lub chorągiew",
@@ -6440,7 +6440,7 @@
             "krzyż na szacie": "znak uczestnika wyprawy krzyżowej"
           },
           "image": "r05_ceremonia_holdu.jpg",
-          "explanation": "W rozdziale symbole pomagają rozpoznać różne ceremonie i role: inwestyturę lenną, godność kościelną, świeckie lenno i krucjatę."
+          "explanation": "Symbole pomagają rozpoznać różne ceremonie i role: inwestyturę lenną, godność kościelną, świeckie lenno i krucjatę."
         }
       ],
       "kidPrompts": {
@@ -6550,7 +6550,7 @@
           "prompt": "Głównym zajęciem plemion słowiańskich zamieszkujących ziemie polskie było rolnictwo.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wskazuje rolnictwo jako główne zajęcie ówczesnych plemion słowiańskich."
+          "explanation": "Wskazuje się rolnictwo jako główne zajęcie ówczesnych plemion słowiańskich."
         },
         {
           "id": "R06_NAR_04",
@@ -6624,7 +6624,7 @@
             "Siemomysł",
             "Mieszko I"
           ],
-          "explanation": "Podręcznik podaje kolejność: Piast, Siemowit, Leszek, Siemomysł, Mieszko I."
+          "explanation": "Podaje się kolejność: Piast, Siemowit, Leszek, Siemomysł, Mieszko I."
         },
         {
           "id": "R06_NAR_08",
@@ -6741,7 +6741,7 @@
           "prompt": "Biskup Wojciech został wygnany z czeskiej Pragi, a następnie wyruszył z misją do Prusów.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że Wojciech, wygnany z Pragi, udał się z misją chrystianizacyjną do pogańskich Prusów."
+          "explanation": "Wojciech, wygnany z Pragi, udał się z misją chrystianizacyjną do pogańskich Prusów."
         },
         {
           "id": "R06_CHR_03",
@@ -6804,7 +6804,7 @@
           "id": "R06_CHR_06",
           "section": "Panowanie Bolesława Chrobrego",
           "type": "multi_select",
-          "prompt": "Zaznacz skutki śmierci biskupa Wojciecha opisane w podręczniku.",
+          "prompt": "Zaznacz skutki śmierci biskupa Wojciecha.",
           "options": [
             "Wojciech został ogłoszony świętym męczennikiem",
             "Wojciech został uznany za patrona Polski",
@@ -6959,7 +6959,7 @@
           "prompt": "Mieszko II koronował się na króla w 1025 roku, czyli w tym samym roku, w którym zmarł Bolesław Chrobry.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że Mieszko II objął rządy po śmierci Chrobrego i jeszcze w 1025 roku koronował się na króla."
+          "explanation": "Mieszko II objął rządy po śmierci Chrobrego i jeszcze w 1025 roku koronował się na króla."
         },
         {
           "id": "R06_ODB_03",
@@ -7116,7 +7116,7 @@
           "id": "R06_ODB_12",
           "section": "Upadek i odbudowa państwa Piastów",
           "type": "sort",
-          "prompt": "Przyporządkuj postacie do etapu dziejów, z którym są najmocniej związane w podręczniku.",
+          "prompt": "Przyporządkuj postacie do etapu dziejów, z którym są najmocniej związane.",
           "options": null,
           "items": [
             "Mieszko II",
@@ -7188,7 +7188,7 @@
           "prompt": "Zbigniew prowadził ostrożną politykę i podporządkował się cesarzowi, a młodszy Bolesław działał bardziej samodzielnie i wojowniczo.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wyraźnie przeciwstawia ostrożną politykę Zbigniewa samodzielniejszym i wojowniczym działaniom Bolesława Krzywoustego."
+          "explanation": "Przeciwstawia się ostrożną politykę Zbigniewa samodzielniejszym i wojowniczym działaniom Bolesława Krzywoustego."
         },
         {
           "id": "R06_KRZ_04",
@@ -7243,7 +7243,7 @@
               "Bolesława Krzywoustego"
             ]
           ],
-          "explanation": "Podręcznik podaje, że w 1122 roku całe Pomorze znalazło się pod władzą Bolesława Krzywoustego."
+          "explanation": "W 1122 roku całe Pomorze znalazło się pod władzą Bolesława Krzywoustego."
         },
         {
           "id": "R06_KRZ_07",
@@ -7364,7 +7364,7 @@
           "id": "R06_SPO_02",
           "section": "Społeczeństwo pierwszych Piastów",
           "type": "multi_select",
-          "prompt": "Zaznacz zajęcia lub uprawy ludności wiejskiej wymienione w podręczniku.",
+          "prompt": "Zaznacz zajęcia lub uprawy ludności wiejskiej.",
           "options": [
             "Uprawa prosa",
             "Uprawa jęczmienia i żyta",
@@ -7388,7 +7388,7 @@
           "prompt": "W X wieku w państwie piastowskim żyło około miliona ludzi, a dużą część kraju pokrywały puszcze.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że w X wieku państwo piastowskie liczyło około miliona mieszkańców, a niemal całą powierzchnię kraju pokrywały puszcze."
+          "explanation": "W X wieku państwo piastowskie liczyło około miliona mieszkańców, a niemal całą powierzchnię kraju pokrywały puszcze."
         },
         {
           "id": "R06_SPO_04",
@@ -7605,7 +7605,7 @@
           "id": "R06_HARD_03",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz autora lub źródło z informacją, którą podręcznik z nim wiąże.",
+          "prompt": "Połącz autora lub źródło z informacją, która go dotyczy.",
           "options": null,
           "left": [
             "Thietmar",
@@ -7625,7 +7625,7 @@
             "Wincenty Kadłubek": "opis gestu Ottona wobec Bolesława",
             "Drzwi Gnieźnieńskie": "sceny z życia św. Wojciecha"
           },
-          "explanation": "Podręcznik przywołuje kilku kronikarzy i źródła, aby opisać początki państwa Piastów oraz późniejszą pamięć o tych wydarzeniach."
+          "explanation": "Przywołuje się kilku kronikarzy i źródła, aby opisać początki państwa Piastów oraz późniejszą pamięć o tych wydarzeniach."
         },
         {
           "id": "R06_HARD_04",
@@ -7649,7 +7649,7 @@
             "Najazd Henryka V",
             "Śmierć Bolesława Krzywoustego"
           ],
-          "explanation": "Daty z rozdziału układają się od chrztu Mieszka I w 966 roku do śmierci Bolesława Krzywoustego i początku rozbicia dzielnicowego w 1138 roku."
+          "explanation": "Daty układają się od chrztu Mieszka I w 966 roku do śmierci Bolesława Krzywoustego i początku rozbicia dzielnicowego w 1138 roku."
         },
         {
           "id": "R06_HARD_05",
@@ -7695,7 +7695,7 @@
           "prompt": "Bolesław Śmiały doprowadził do ustanowienia nowego biskupstwa w Płocku.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik podaje, że Bolesław Śmiały troszczył się o Kościół i doprowadził do ustanowienia biskupstwa w Płocku."
+          "explanation": "Bolesław Śmiały troszczył się o Kościół i doprowadził do ustanowienia biskupstwa w Płocku."
         },
         {
           "id": "R06_HARD_08",
@@ -7744,7 +7744,7 @@
               "cudzoziemski duchowny"
             ]
           ],
-          "explanation": "Podręcznik wyjaśnia, że Gall Anonim był cudzoziemskim duchownym przebywającym na dworze Bolesława Krzywoustego."
+          "explanation": "Gall Anonim był cudzoziemskim duchownym przebywającym na dworze Bolesława Krzywoustego."
         }
       ],
       "kidPrompts": {},
@@ -7834,7 +7834,7 @@
           "id": "R07_RDZ_03",
           "section": "Rozbicie dzielnicowe",
           "type": "multi_select",
-          "prompt": "Zaznacz skutki rozbicia dzielnicowego opisane w podręczniku.",
+          "prompt": "Zaznacz skutki rozbicia dzielnicowego.",
           "options": [
             "Powstanie kilkunastu księstw piastowskich",
             "Częste walki między książętami",
@@ -8003,7 +8003,7 @@
           "prompt": "Do Polski w okresie rozbicia dzielnicowego napływali głównie osadnicy z Niemiec.",
           "options": null,
           "answer": true,
-          "explanation": "Podręcznik wskazuje, że przybysze przybywali głównie z Niemiec i posługiwali się własnym prawem osadniczym."
+          "explanation": "Przybysze przybywali głównie z Niemiec i posługiwali się własnym prawem osadniczym."
         },
         {
           "id": "R07_GOS_03",
@@ -8540,7 +8540,7 @@
           "prompt": "Unia personalna oznacza połączenie państw pod władzą jednego monarchy przy zachowaniu ich odrębności.",
           "options": null,
           "answer": true,
-          "explanation": "Tak podręcznik definiuje unię personalną, na przykład związek Polski i Węgier pod rządami Ludwika."
+          "explanation": "Tak definiuje się unię personalną, na przykład związek Polski i Węgier pod rządami Ludwika."
         },
         {
           "id": "R07_UNI_03",
@@ -8954,7 +8954,7 @@
             2,
             3
           ],
-          "explanation": "Cztery pierwsze pary łączą władców z wydarzeniami opisanymi w rozdziale; dwie ostatnie mieszają fakty z innych czasów."
+          "explanation": "Cztery pierwsze pary łączą władców z wydarzeniami; dwie ostatnie mieszają fakty z innych czasów."
         },
         {
           "id": "R07_HARD_02",

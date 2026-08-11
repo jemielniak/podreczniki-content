@@ -1,8 +1,8 @@
 {
   "id": "to-nasz-swiat-geografia-6",
   "title": "To nasz świat. Geografia 6",
-  "version": 1,
-  "contentHash": "04a30e07679531f0d6e9a3aef4ffe3c0ecb2aab7c6f43813ae2bd8efa05bd401",
+  "version": 2,
+  "contentHash": "c89224cda948c15c7eafe1ac5064158f908314410e1d3e68decb53155ae68898",
   "bookConfig": {
     "id": "to-nasz-swiat-geografia-6",
     "title": "To nasz świat. Geografia 6",
@@ -35,7 +35,7 @@
           "id": "R01_UKL_01",
           "section": "Układ Słoneczny",
           "type": "single_choice",
-          "prompt": "Ile w przybliżeniu lat ma Wszechświat według rozdziału?",
+          "prompt": "Ile w przybliżeniu lat ma Wszechświat?",
           "options": [
             "13,8 mld lat",
             "4,6 mld lat",
@@ -45,7 +45,7 @@
             "24 godziny"
           ],
           "answer": 0,
-          "explanation": "Rozdział podaje, że Wszechświat powstał około 13,8 mld lat temu, a jego narodziny nazywa się Wielkim Wybuchem.",
+          "explanation": "Wszechświat powstał około 13,8 mld lat temu, a jego narodziny nazywa się Wielkim Wybuchem.",
           "image": "r01_galaktyka_spiralna.jpg"
         },
         {
@@ -55,13 +55,13 @@
           "prompt": "Planety świecą własnym światłem tak jak gwiazdy.",
           "options": null,
           "answer": false,
-          "explanation": "Planety nie świecą własnym światłem. W rozdziale podano, że własne światło wytwarzają gwiazdy."
+          "explanation": "Planety nie świecą własnym światłem. Własne światło wytwarzają gwiazdy."
         },
         {
           "id": "R01_UKL_03",
           "section": "Układ Słoneczny",
           "type": "multi_select",
-          "prompt": "Zaznacz mniejsze ciała niebieskie wymienione w rozdziale jako obiekty Układu Słonecznego oprócz planet.",
+          "prompt": "Zaznacz mniejsze ciała niebieskie jako obiekty Układu Słonecznego oprócz planet.",
           "options": [
             "planety karłowate",
             "planetoidy",
@@ -99,13 +99,13 @@
               "Drogi Mlecznej"
             ]
           ],
-          "explanation": "Rozdział podaje wiek Układu Słonecznego na około 4,6 mld lat i wskazuje, że należy on do Drogi Mlecznej."
+          "explanation": "Podaje się wiek Układu Słonecznego na około 4,6 mld lat i wskazuje, że należy on do Drogi Mlecznej."
         },
         {
           "id": "R01_UKL_05",
           "section": "Układ Słoneczny",
           "type": "sort",
-          "prompt": "Przyporządkuj planety do dwóch grup wymienionych w rozdziale.",
+          "prompt": "Przyporządkuj planety do dwóch grup.",
           "options": null,
           "items": [
             "Merkury",
@@ -162,7 +162,7 @@
             "planeta": "ciało niebieskie często krążące wokół gwiazdy",
             "orbita": "tor ruchu ciała niebieskiego wokół innego ciała"
           },
-          "explanation": "Te definicje pochodzą z opisów Wszechświata, Układu Słonecznego i orbity w rozdziale.",
+          "explanation": "Te definicje pochodzą z opisów Wszechświata, Układu Słonecznego i orbity.",
           "image": "r01_galaktyka_spiralna.jpg"
         },
         {
@@ -228,7 +228,7 @@
           "id": "R01_UKL_11",
           "section": "Układ Słoneczny",
           "type": "single_choice",
-          "prompt": "Która planeta ma według rozdziału najwięcej księżyców w Układzie Słonecznym?",
+          "prompt": "Która planeta ma najwięcej księżyców w Układzie Słonecznym?",
           "options": [
             "Saturn",
             "Jowisz",
@@ -238,7 +238,7 @@
             "Ziemia"
           ],
           "answer": 0,
-          "explanation": "Rozdział podaje, że Saturn ma najwięcej księżyców w Układzie Słonecznym - 146."
+          "explanation": "Saturn ma najwięcej księżyców w Układzie Słonecznym - 146."
         },
         {
           "id": "R01_UKL_12",
@@ -264,7 +264,7 @@
             "meteoroidy": "małe odłamki skalne",
             "meteoryty": "fragmenty meteoroidów docierające do powierzchni Ziemi"
           },
-          "explanation": "Rozdział rozróżnia mniejsze ciała niebieskie: naturalne satelity, komety, meteoroidy i meteoryty.",
+          "explanation": "Rozróżnia się mniejsze ciała niebieskie: naturalne satelity, komety, meteoroidy i meteoryty.",
           "image": "r01_ciala_niebieskie_mniejsze.jpg"
         },
         {
@@ -314,7 +314,7 @@
               "poludniowego"
             ]
           ],
-          "explanation": "W rozdziale oś Ziemi opisano jako prostą linię prowadzącą przez środek Ziemi od bieguna północnego do bieguna południowego."
+          "explanation": "Oś Ziemi opisano jako prostą linię prowadzącą przez środek Ziemi od bieguna północnego do bieguna południowego."
         },
         {
           "id": "R01_OBR_04",
@@ -340,7 +340,7 @@
             "zachód Słońca": "zniknięcie Słońca za horyzontem",
             "horyzont": "linia oddzielająca widoczną część nieba od niewidocznej"
           },
-          "explanation": "Rozdział wyjaśnia wschód, górowanie i zachód Słońca oraz definiuje horyzont.",
+          "explanation": "Wyjaśnia się wschód, górowanie i zachód Słońca oraz definiuje horyzont.",
           "image": "r01_pozorna_wedrowka_slonca.jpg"
         },
         {
@@ -363,7 +363,7 @@
           "id": "R01_OBR_06",
           "section": "Ruch obrotowy Ziemi",
           "type": "multi_select",
-          "prompt": "Zaznacz skutki ruchu obrotowego Ziemi opisane w rozdziale.",
+          "prompt": "Zaznacz skutki ruchu obrotowego Ziemi.",
           "options": [
             "występowanie dnia i nocy",
             "pozorna wędrówka Słońca po niebie",
@@ -424,14 +424,14 @@
           "prompt": "Im dalej na zachód położone jest miejsce na Ziemi, tym wcześniejsza jest tam godzina.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje zasadę: im dalej na zachód, tym wcześniejsza godzina, a im dalej na wschód, tym późniejsza.",
+          "explanation": "Podaje się zasadę: im dalej na zachód, tym wcześniejsza godzina, a im dalej na wschód, tym późniejsza.",
           "image": "r01_strefy_czasowe_mapa.jpg"
         },
         {
           "id": "R01_OBR_11",
           "section": "Ruch obrotowy Ziemi",
           "type": "sort",
-          "prompt": "Przyporządkuj miejsca do różnicy czasu względem Polski zgodnie z zasadą z rozdziału.",
+          "prompt": "Przyporządkuj miejsca do różnicy czasu względem Polski zgodnie z zasadą.",
           "options": null,
           "items": [
             "Lizbona",
@@ -521,7 +521,7 @@
               "49 minut"
             ]
           ],
-          "explanation": "Rozdział podaje dokładniejszy czas obiegu Ziemi wokół Słońca: 365 dni, 5 godzin i 49 minut."
+          "explanation": "Podaje się dokładniejszy czas obiegu Ziemi wokół Słońca: 365 dni, 5 godzin i 49 minut."
         },
         {
           "id": "R01_OBI_03",
@@ -536,7 +536,7 @@
           "id": "R01_OBI_04",
           "section": "Ruch obiegowy Ziemi",
           "type": "multi_select",
-          "prompt": "Zaznacz skutki ruchu obiegowego Ziemi wymienione w rozdziale.",
+          "prompt": "Zaznacz skutki ruchu obiegowego Ziemi.",
           "options": [
             "występowanie pór roku",
             "występowanie dnia polarnego i nocy polarnej",
@@ -629,7 +629,7 @@
           "id": "R01_OBI_08",
           "section": "Ruch obiegowy Ziemi",
           "type": "scenario",
-          "prompt": "W Polsce wypada najkrótszy dzień i najdłuższa noc w roku. Która data z rozdziału pasuje do tej sytuacji?",
+          "prompt": "W Polsce wypada najkrótszy dzień i najdłuższa noc w roku. Która data pasuje do tej sytuacji?",
           "options": [
             "około 22 grudnia",
             "około 22 czerwca",
@@ -708,7 +708,7 @@
             "przesilenie": "doba z najdłuższym albo najkrótszym dniem w roku",
             "równonoc": "doba z dniem i nocą tej samej długości"
           },
-          "explanation": "Rozdział definiuje dzień i noc polarną oraz wyjaśnia różnicę między przesileniem i równonocą."
+          "explanation": "Definiuje się dzień i noc polarną oraz wyjaśnia różnicę między przesileniem i równonocą."
         },
         {
           "id": "R01_STR_01",
@@ -742,7 +742,7 @@
               "powierzchnią Ziemi"
             ]
           ],
-          "explanation": "Rozdział definiuje kąt padania promieni słonecznych jako kąt między promieniami a powierzchnią Ziemi.",
+          "explanation": "Definiuje się kąt padania promieni słonecznych jako kąt między promieniami a powierzchnią Ziemi.",
           "image": "r01_kat_padania_promieni.jpg"
         },
         {
@@ -758,7 +758,7 @@
           "id": "R01_STR_04",
           "section": "Strefowość oświetlenia Ziemi",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy strefy międzyzwrotnikowej podane w rozdziale.",
+          "prompt": "Zaznacz cechy strefy międzyzwrotnikowej.",
           "options": [
             "leży między zwrotnikiem Raka a zwrotnikiem Koziorożca",
             "Słońce może świecić w zenicie",
@@ -862,7 +862,7 @@
           "id": "R01_STR_08",
           "section": "Strefowość oświetlenia Ziemi",
           "type": "single_choice",
-          "prompt": "Na co wpływa ilość energii słonecznej docierającej do danego obszaru według rozdziału?",
+          "prompt": "Na co wpływa ilość energii słonecznej docierającej do danego obszaru?",
           "options": [
             "na klimat i w konsekwencji na krajobraz",
             "wyłącznie na nazwy kontynentów",
@@ -878,10 +878,10 @@
           "id": "R01_STR_09",
           "section": "Strefowość oświetlenia Ziemi",
           "type": "odd_one_out",
-          "prompt": "Co nie układa się w rozdziale równoleżnikowo i symetrycznie względem równika: strefy oświetlenia, strefy klimatyczne, strefy krajobrazowe, strefy czasowe.",
+          "prompt": "Co nie układa się równoleżnikowo i symetrycznie względem równika: strefy oświetlenia, strefy klimatyczne, strefy krajobrazowe, strefy czasowe.",
           "options": null,
           "answer": "strefy czasowe",
-          "explanation": "Rozdział wskazuje podobieństwa w równoleżnikowym układzie stref oświetlenia, klimatycznych i krajobrazowych, a nie stref czasowych."
+          "explanation": "Wskazuje się podobieństwa w równoleżnikowym układzie stref oświetlenia, klimatycznych i krajobrazowych, a nie stref czasowych."
         },
         {
           "id": "R01_STR_10",
@@ -899,7 +899,7 @@
           "id": "R01_STR_11",
           "section": "Strefowość oświetlenia Ziemi",
           "type": "scenario",
-          "prompt": "Badacz porównuje dwa miejsca. W pierwszym promienie słoneczne padają pod dużym kątem, w drugim pod małym. Gdzie według rozdziału będzie cieplej?",
+          "prompt": "Badacz porównuje dwa miejsca. W pierwszym promienie słoneczne padają pod dużym kątem, w drugim pod małym. Gdzie będzie cieplej?",
           "options": [
             "w miejscu z dużym kątem padania promieni",
             "w miejscu z małym kątem padania promieni",
@@ -945,7 +945,7 @@
           "prompt": "Droga Mleczna jest jedyną galaktyką we Wszechświecie.",
           "options": null,
           "answer": false,
-          "explanation": "Rozdział podaje, że Droga Mleczna jest tylko jedną z miliardów galaktyk."
+          "explanation": "Droga Mleczna jest tylko jedną z miliardów galaktyk."
         },
         {
           "id": "R01_KOS_03",
@@ -964,7 +964,7 @@
           "id": "R01_KOS_04",
           "section": "Poznawanie kosmosu",
           "type": "single_choice",
-          "prompt": "Ile gwiazdozbiorów wyróżnia się według rozdziału?",
+          "prompt": "Ile gwiazdozbiorów wyróżnia się?",
           "options": [
             "88",
             "24",
@@ -980,7 +980,7 @@
           "id": "R01_KOS_05",
           "section": "Poznawanie kosmosu",
           "type": "multi_select",
-          "prompt": "Zaznacz przykłady, od których według rozdziału nadawano nazwy gwiazdozbiorom.",
+          "prompt": "Zaznacz przykłady, od których nadawano nazwy gwiazdozbiorom.",
           "options": [
             "zwierzęta",
             "mityczne stworzenia",
@@ -1042,7 +1042,7 @@
           "id": "R01_KOS_08",
           "section": "Poznawanie kosmosu",
           "type": "match",
-          "prompt": "Połącz nazwę z informacją z rozdziału.",
+          "prompt": "Połącz nazwę z informacją.",
           "options": null,
           "left": [
             "Jurij Gagarin",
@@ -1062,7 +1062,7 @@
             "Wostok 1": "statek, którym odbyto lot na orbitę okołoziemską w 1961 roku",
             "Apollo 11": "misja, podczas której człowiek stanął na Księżycu w 1969 roku"
           },
-          "explanation": "Rozdział opisuje lot Jurija Gagarina statkiem Wostok 1 oraz misję Apollo 11, podczas której Neil Armstrong stanął na Księżycu.",
+          "explanation": "Opisuje się lot Jurija Gagarina statkiem Wostok 1 oraz misję Apollo 11, podczas której Neil Armstrong stanął na Księżycu.",
           "image": "r01_teleskop_kosmiczny.jpg"
         },
         {
@@ -1089,7 +1089,7 @@
           "id": "R01_KOS_10",
           "section": "Poznawanie kosmosu",
           "type": "sort",
-          "prompt": "Przyporządkuj elementy do sposobu poznawania nieba opisanego w rozdziale.",
+          "prompt": "Przyporządkuj elementy do sposobu poznawania nieba.",
           "options": null,
           "items": [
             "fragment Drogi Mlecznej nocą",
@@ -1130,14 +1130,14 @@
           "prompt": "Na opublikowanym w 2019 roku pierwszym zdjęciu czarnej dziury widoczna jest sama czarna dziura.",
           "options": null,
           "answer": false,
-          "explanation": "Rozdział wyjaśnia, że samej czarnej dziury nie można zobaczyć; na zdjęciu widać to, co jest przez nią wsysane.",
+          "explanation": "Samej czarnej dziury nie można zobaczyć; na zdjęciu widać to, co jest przez nią wsysane.",
           "image": "r01_czarna_dziura_artystycznie.jpg"
         },
         {
           "id": "R01_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Która odpowiedź najdokładniej podaje czas pełnego obiegu Ziemi wokół Słońca z rozdziału?",
+          "prompt": "Która odpowiedź najdokładniej podaje czas pełnego obiegu Ziemi wokół Słońca?",
           "options": [
             "365 dni, 5 godzin i 49 minut",
             "365 dni dokładnie",
@@ -1147,13 +1147,13 @@
             "165 lat"
           ],
           "answer": 0,
-          "explanation": "Rozdział podaje, że pełne okrążenie Słońca przez Ziemię trwa rok, a dokładniej 365 dni, 5 godzin i 49 minut."
+          "explanation": "Pełne okrążenie Słońca przez Ziemię trwa rok, a dokładniej 365 dni, 5 godzin i 49 minut."
         },
         {
           "id": "R01_HARD_02",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy gazowych olbrzymów podane w rozdziale.",
+          "prompt": "Zaznacz cechy gazowych olbrzymów.",
           "options": [
             "składają się głównie z gazów",
             "nie mają stałej powierzchni",
@@ -1174,7 +1174,7 @@
           "id": "R01_HARD_03",
           "section": "Super trudne",
           "type": "true_false",
-          "prompt": "Według rozdziału Saturn ma 146 księżyców, a Jowisz 95 księżyców.",
+          "prompt": "Saturn ma 146 księżyców, a Jowisz 95 księżyców.",
           "options": null,
           "answer": true,
           "explanation": "W opisach planet podano, że Saturn ma 146 księżyców, a Jowisz 95."
@@ -1199,13 +1199,13 @@
               "165 lat"
             ]
           ],
-          "explanation": "Rozdział porównuje czas obiegu planet: Merkuremu wystarczy 88 dni, Ziemi około 365 dni, a Neptunowi 165 lat."
+          "explanation": "Porównuje się czas obiegu planet: Merkuremu wystarczy 88 dni, Ziemi około 365 dni, a Neptunowi 165 lat."
         },
         {
           "id": "R01_HARD_05",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz planetę z charakterystyczną liczbą lub cechą z rozdziału.",
+          "prompt": "Połącz planetę z charakterystyczną liczbą lub cechą.",
           "options": null,
           "left": [
             "Wenus",
@@ -1225,7 +1225,7 @@
             "Neptun": "wiatry osiągające nawet 2100 km/h",
             "Merkury": "nocą średnio -163°C"
           },
-          "explanation": "Opisy planet w rozdziale zawierają charakterystyczne wartości: Wenus jest bardzo gorąca, Uran najzimniejszy, Neptun ma najsilniejsze wiatry, a Merkury ma bardzo niską nocną temperaturę."
+          "explanation": "Opisy planet zawierają charakterystyczne wartości: Wenus jest bardzo gorąca, Uran najzimniejszy, Neptun ma najsilniejsze wiatry, a Merkury ma bardzo niską nocną temperaturę."
         },
         {
           "id": "R01_HARD_06",
@@ -1290,7 +1290,7 @@
           "id": "R01_HARD_09",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Podróżnik leci z Polski do kraju położonego daleko na wschód. Jaką ogólną zmianę czasu powinien przewidzieć według zasady z rozdziału?",
+          "prompt": "Podróżnik leci z Polski do kraju położonego daleko na wschód. Jaką ogólną zmianę czasu powinien przewidzieć według zasady?",
           "options": [
             "będzie tam późniejsza godzina",
             "będzie tam wcześniejsza godzina",
@@ -1300,7 +1300,7 @@
             "nastąpi dzień polarny"
           ],
           "answer": 0,
-          "explanation": "Rozdział podaje, że im dalej na wschód, tym późniejsza godzina.",
+          "explanation": "Im dalej na wschód, tym późniejsza godzina.",
           "image": "r01_strefy_czasowe_mapa.jpg"
         },
         {
@@ -1313,14 +1313,14 @@
           "altAnswers": [
             "gnomon"
           ],
-          "explanation": "W doświadczeniu z rozdziału prosty patyk wbity pionowo w ziemię staje się gnomonem, czyli przyrządem do obserwacji cienia.",
+          "explanation": "W doświadczeniu prosty patyk wbity pionowo w ziemię staje się gnomonem, czyli przyrządem do obserwacji cienia.",
           "image": "r01_gnomon_cien.jpg"
         },
         {
           "id": "R01_HARD_11",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz zjawisko z datą podaną w rozdziale.",
+          "prompt": "Połącz zjawisko z datą.",
           "options": null,
           "left": [
             "równonoc wiosenna",
@@ -1340,13 +1340,13 @@
             "równonoc jesienna": "około 23 września",
             "przesilenie zimowe": "około 22 grudnia"
           },
-          "explanation": "Daty początków astronomicznych pór roku w rozdziale to około 21 marca, 22 czerwca, 23 września i 22 grudnia."
+          "explanation": "Daty początków astronomicznych pór roku to około 21 marca, 22 czerwca, 23 września i 22 grudnia."
         },
         {
           "id": "R01_HARD_12",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje o gwiazdozbiorach i gwiazdach zgodne z rozdziałem.",
+          "prompt": "Zaznacz prawdziwe informacje o gwiazdozbiorach i gwiazdach.",
           "options": [
             "Wyróżnia się 88 gwiazdozbiorów",
             "Gwiazda Polarna należy do Małej Niedźwiedzicy",
@@ -1361,7 +1361,7 @@
             2,
             3
           ],
-          "explanation": "Rozdział podaje liczbę 88 gwiazdozbiorów, opisuje Gwiazdę Polarną w Małej Niedźwiedzicy oraz wskazuje, że Wielki Wóz jest częścią Wielkiej Niedźwiedzicy."
+          "explanation": "Podaje się liczbę 88 gwiazdozbiorów, opisuje Gwiazdę Polarną w Małej Niedźwiedzicy oraz wskazuje, że Wielki Wóz jest częścią Wielkiej Niedźwiedzicy."
         }
       ],
       "kidPrompts": {}
@@ -1498,7 +1498,7 @@
           "id": "R02_LAT_08",
           "section": "Równoleżniki i szerokość geograficzna",
           "type": "match",
-          "prompt": "Połącz miejsce z szerokością geograficzną podaną w rozdziale.",
+          "prompt": "Połącz miejsce z szerokością geograficzną.",
           "options": null,
           "left": [
             "Kair",
@@ -1516,7 +1516,7 @@
             "Britstown": "30°S"
           },
           "image": "r02_mapa_szerokosci_przyklady.jpg",
-          "explanation": "W przykładach z rozdziału Kair ma 30°N, Kampala leży na równiku i ma 0°, a Britstown ma 30°S."
+          "explanation": "W przykładach Kair ma 30°N, Kampala leży na równiku i ma 0°, a Britstown ma 30°S."
         },
         {
           "id": "R02_LAT_09",
@@ -1681,7 +1681,7 @@
           "id": "R02_LON_08",
           "section": "Południki i długość geograficzna",
           "type": "match",
-          "prompt": "Połącz miejsce z długością geograficzną podaną w rozdziale.",
+          "prompt": "Połącz miejsce z długością geograficzną.",
           "options": null,
           "left": [
             "Park Narodowy Grenlandii",
@@ -1699,7 +1699,7 @@
             "Dhaka": "90°E"
           },
           "image": "r02_mapa_dlugosci_przyklady.jpg",
-          "explanation": "W przykładach z rozdziału Park Narodowy Grenlandii ma 30°W, Londyn leży na południku 0°, a Dhaka ma 90°E."
+          "explanation": "W przykładach Park Narodowy Grenlandii ma 30°W, Londyn leży na południku 0°, a Dhaka ma 90°E."
         },
         {
           "id": "R02_LON_09",
@@ -1968,7 +1968,7 @@
               "szescdziesiat"
             ]
           ],
-          "explanation": "W rozdziale podano, że 1° dzieli się na 60 minut."
+          "explanation": "Podano, że 1° dzieli się na 60 minut."
         },
         {
           "id": "R02_GPS_04",
@@ -1988,7 +1988,7 @@
           "id": "R02_GPS_05",
           "section": "Stopnie, minuty i GPS",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje zgodne z opisem działania GPS w rozdziale.",
+          "prompt": "Zaznacz informacje zgodne z opisem działania GPS.",
           "options": [
             "GPS korzysta ze sztucznych satelitów",
             "satelity wysyłają sygnały radiowe",
@@ -2026,7 +2026,7 @@
           "id": "R02_GPS_07",
           "section": "Stopnie, minuty i GPS",
           "type": "match",
-          "prompt": "Połącz zapis dziesiętny z oznaczeniem półkuli według zasad podanych w rozdziale.",
+          "prompt": "Połącz zapis dziesiętny z oznaczeniem półkuli według zasad.",
           "options": null,
           "left": [
             "pierwsza wartość dodatnia",
@@ -2052,7 +2052,7 @@
           "id": "R02_GPS_08",
           "section": "Stopnie, minuty i GPS",
           "type": "single_choice",
-          "prompt": "Jakie współrzędne Przylądka Rozewie podano w rozdziale?",
+          "prompt": "Jakie współrzędne Przylądka Rozewie podano?",
           "options": [
             "54°50'N 18°20'E",
             "54°20'N 18°50'E",
@@ -2063,7 +2063,7 @@
           ],
           "answer": 0,
           "image": "r02_przyladek_rozewie.jpg",
-          "explanation": "W przykładzie z rozdziału Przylądek Rozewie ma współrzędne 54°50'N 18°20'E."
+          "explanation": "W przykładzie Przylądek Rozewie ma współrzędne 54°50'N 18°20'E."
         },
         {
           "id": "R02_GPS_09",
@@ -2072,7 +2072,7 @@
           "prompt": "Wartości po kropce w zapisie z aplikacji GPS można przeliczyć na minuty, mnożąc je przez 60.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale podano zasadę: wartości po kropce należy przeliczyć na minuty przez pomnożenie razy 60."
+          "explanation": "Podano zasadę: wartości po kropce należy przeliczyć na minuty przez pomnożenie razy 60."
         },
         {
           "id": "R02_GPS_10",
@@ -2135,7 +2135,7 @@
           "prompt": "Aby określić położenie rozległego obszaru, można podać współrzędne czterech punktów wysuniętych najdalej w każdą stronę świata.",
           "options": null,
           "answer": true,
-          "explanation": "Dla obszarów takich jak państwa lub kontynenty rozdział wskazuje cztery skrajne punkty: północny, południowy, zachodni i wschodni."
+          "explanation": "Dla obszarów takich jak państwa lub kontynenty wskazuje się cztery skrajne punkty: północny, południowy, zachodni i wschodni."
         },
         {
           "id": "R02_EXT_04",
@@ -2267,7 +2267,7 @@
           "id": "R02_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Miasto Hawana leży w połowie drogi między równoleżnikami 22° i 24°. Jaką przybliżoną szerokość geograficzną podano w rozdziale?",
+          "prompt": "Miasto Hawana leży w połowie drogi między równoleżnikami 22° i 24°. Jaką przybliżoną szerokość geograficzną podano?",
           "options": [
             "23°N",
             "22°N",
@@ -2302,7 +2302,7 @@
           "prompt": "Na mapie świata południk 180° może być umieszczony dwa razy, na obu krawędziach mapy, choć na globusie jest to jeden południk.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wyjaśnia, że na mapie świata południk 180° pojawia się na obu krawędziach, ale na globusie jest jeden i ten sam."
+          "explanation": "Na mapie świata południk 180° pojawia się na obu krawędziach, ale na globusie jest jeden i ten sam."
         },
         {
           "id": "R02_HARD_04",
@@ -2353,7 +2353,7 @@
           "id": "R02_HARD_07",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz miejsca z przykładów, które w rozdziale leżą na półkuli zachodniej.",
+          "prompt": "Zaznacz miejsca z przykładów, które leżą na półkuli zachodniej.",
           "options": [
             "Park Narodowy Grenlandii",
             "Hilo",
@@ -2374,7 +2374,7 @@
           "id": "R02_HARD_08",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Uczeń widzi w aplikacji GPS zapis 54.679599, 18.385639. Zasady z rozdziału każą pomnożyć części po kropce przez 60. Który zapis minutowy podano w przykładzie?",
+          "prompt": "Uczeń widzi w aplikacji GPS zapis 54.679599, 18.385639. Zasady każą pomnożyć części po kropce przez 60. Który zapis minutowy podano w przykładzie?",
           "options": [
             "54°41'N 18°23'E",
             "54°23'N 18°41'E",
@@ -2391,7 +2391,7 @@
           "id": "R02_HARD_09",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz przykład z rozdziału z podaną współrzędną lub parą współrzędnych.",
+          "prompt": "Połącz przykład z podaną współrzędną lub parą współrzędnych.",
           "options": null,
           "left": [
             "Tampa",
@@ -2435,7 +2435,7 @@
           "id": "R02_HARD_12",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który zapis odpowiada biegunowi południowemu według rozdziału?",
+          "prompt": "Który zapis odpowiada biegunowi południowemu?",
           "options": [
             "90°S",
             "90°N",
@@ -2451,7 +2451,7 @@
           "id": "R02_HARD_13",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz dziedziny lub działania, w których rozdział wskazuje zastosowanie precyzyjnego określania położenia.",
+          "prompt": "Zaznacz dziedziny lub działania, w których wskazuje się zastosowanie precyzyjnego określania położenia.",
           "options": [
             "planowanie zagospodarowania przestrzennego",
             "transport",
@@ -2466,13 +2466,13 @@
             2,
             3
           ],
-          "explanation": "W rozdziale jako zastosowania precyzyjnego określania położenia wymieniono planowanie zagospodarowania przestrzennego, transport, wojskowość i ochronę przyrody."
+          "explanation": "Jako zastosowania precyzyjnego określania położenia wymieniono planowanie zagospodarowania przestrzennego, transport, wojskowość i ochronę przyrody."
         },
         {
           "id": "R02_HARD_14",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż etapy pracy z GPS opisane w rozdziale w poprawnej kolejności.",
+          "prompt": "Ułóż etapy pracy z GPS w poprawnej kolejności.",
           "options": null,
           "items": [
             "odczytać współrzędne z białego pola",
@@ -2486,7 +2486,7 @@
             "zobaczyć pinezkę i współrzędne",
             "odczytać współrzędne z białego pola"
           ],
-          "explanation": "Ćwiczenie z rozdziału prowadzi od otwarcia Google Maps przez stuknięcie w mapę, pojawienie się pinezki i współrzędnych, aż po ich odczytanie."
+          "explanation": "Ćwiczenie prowadzi od otwarcia Google Maps przez stuknięcie w mapę, pojawienie się pinezki i współrzędnych, aż po ich odczytanie."
         }
       ],
       "kidPrompts": {}
@@ -2534,7 +2534,7 @@
           "id": "R03_POL_02",
           "section": "Położenie i państwa Europy",
           "type": "multi_select",
-          "prompt": "Zaznacz półkule, na których według rozdziału leży Europa.",
+          "prompt": "Zaznacz półkule, na których leży Europa.",
           "options": [
             "półkula północna",
             "półkula wschodnia",
@@ -2609,7 +2609,7 @@
           "options": null,
           "answer": true,
           "image": "r03_mapa_polityczna_europy.jpg",
-          "explanation": "Rozdział podaje liczbę 47 państw w Europie i zaznacza, że Kosowo nie przez wszystkie kraje jest uznawane."
+          "explanation": "Podaje się liczbę 47 państw w Europie i zaznacza, że Kosowo nie przez wszystkie kraje jest uznawane."
         },
         {
           "id": "R03_POL_06",
@@ -2631,7 +2631,7 @@
           "prompt": "Wskaż, co nie pasuje do wód otaczających Europę: Ocean Arktyczny, Ocean Atlantycki, Morze Śródziemne, Ocean Indyjski.",
           "options": null,
           "answer": "Ocean Indyjski",
-          "explanation": "Ocean Indyjski nie jest wymieniony w rozdziale jako woda otaczająca Europę; Europę oblewają m.in. Ocean Arktyczny, Ocean Atlantycki i Morze Śródziemne."
+          "explanation": "Ocean Indyjski nie jest jako woda otaczająca Europę; Europę oblewają m.in. Ocean Arktyczny, Ocean Atlantycki i Morze Śródziemne."
         },
         {
           "id": "R03_POL_08",
@@ -2663,7 +2663,7 @@
           "id": "R03_POL_09",
           "section": "Położenie i państwa Europy",
           "type": "scenario",
-          "prompt": "Uczeń szuka w rozdziale państw położonych częściowo w Europie i częściowo w Azji. Oprócz Rosji powinien wskazać dwa kraje. Który zestaw jest poprawny?",
+          "prompt": "Uczeń szuka państw położonych częściowo w Europie i częściowo w Azji. Oprócz Rosji powinien wskazać dwa kraje. Który zestaw jest poprawny?",
           "options": [
             "Kazachstan i Turcja",
             "Ukraina i Niemcy",
@@ -2673,13 +2673,13 @@
             "Belgia i Holandia"
           ],
           "answer": 0,
-          "explanation": "Rozdział wymienia Rosję, Kazachstan i Turcję jako państwa położone częściowo w Europie i Azji."
+          "explanation": "Wymienia się Rosję, Kazachstan i Turcję jako państwa położone częściowo w Europie i Azji."
         },
         {
           "id": "R03_POL_10",
           "section": "Położenie i państwa Europy",
           "type": "sort",
-          "prompt": "Przyporządkuj państwa do opisów z rozdziału.",
+          "prompt": "Przyporządkuj państwa do opisów.",
           "options": null,
           "items": [
             "Ukraina",
@@ -2742,7 +2742,7 @@
           "prompt": "Wszystkie niziny w Europie są idealnie płaskimi równinami bez pagórków.",
           "options": null,
           "answer": false,
-          "explanation": "Rozdział podkreśla, że niziny nie wszędzie są równinami; część takich obszarów ma niewysokie pagórki."
+          "explanation": "Niziny nie wszędzie są równinami; część takich obszarów ma niewysokie pagórki."
         },
         {
           "id": "R03_UKS_03",
@@ -2783,7 +2783,7 @@
           "id": "R03_UKS_05",
           "section": "Ukształtowanie i wody Europy",
           "type": "match",
-          "prompt": "Połącz obiekt geograficzny z przykładem z rozdziału.",
+          "prompt": "Połącz obiekt geograficzny z przykładem.",
           "options": null,
           "left": [
             "największe jezioro Europy",
@@ -2803,7 +2803,7 @@
             "największy europejski półwysep": "Półwysep Skandynawski",
             "największa europejska wyspa": "Wielka Brytania"
           },
-          "explanation": "Rozdział wskazuje Ładogę, Wołgę, Półwysep Skandynawski i Wielką Brytanię jako największe lub najdłuższe obiekty w swoich kategoriach."
+          "explanation": "Wskazuje się Ładogę, Wołgę, Półwysep Skandynawski i Wielką Brytanię jako największe lub najdłuższe obiekty w swoich kategoriach."
         },
         {
           "id": "R03_UKS_06",
@@ -2881,7 +2881,7 @@
             "zatoka"
           ],
           "answer": 0,
-          "explanation": "Część nizin leżących poniżej poziomu morza to depresje. W rozdziale podano przykłady z Holandii i Żuław Wiślanych."
+          "explanation": "Część nizin leżących poniżej poziomu morza to depresje. Podano przykłady z Holandii i Żuław Wiślanych."
         },
         {
           "id": "R03_UKS_10",
@@ -2891,13 +2891,13 @@
           "options": null,
           "answer": true,
           "image": "r03_wulkan_etna.jpg",
-          "explanation": "Rozdział wymienia Włochy, Grecję, Islandię i norweską wyspę Jan Mayen jako miejsca występowania czynnych wulkanów w Europie."
+          "explanation": "Wymienia się Włochy, Grecję, Islandię i norweską wyspę Jan Mayen jako miejsca występowania czynnych wulkanów w Europie."
         },
         {
           "id": "R03_KLI_01",
           "section": "Klimat i zmiana klimatu",
           "type": "multi_select",
-          "prompt": "Zaznacz czynniki kształtujące klimat Europy wymienione w rozdziale.",
+          "prompt": "Zaznacz czynniki kształtujące klimat Europy.",
           "options": [
             "szerokość geograficzna",
             "ukształtowanie terenu i wysokość nad poziomem morza",
@@ -2921,7 +2921,7 @@
           "prompt": "Wraz ze wzrostem wysokości nad poziomem morza temperatura powietrza spada mniej więcej o 6°C na każde 1000 metrów.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że co każde 1000 m wysokości temperatura powietrza maleje mniej więcej o 6°C."
+          "explanation": "Co każde 1000 m wysokości temperatura powietrza maleje mniej więcej o 6°C."
         },
         {
           "id": "R03_KLI_03",
@@ -2992,7 +2992,7 @@
           "prompt": "Wskaż, co nie jest czynnikiem kształtującym klimat Europy: szerokość geograficzna, wysokość nad poziomem morza, ciepłe prądy morskie, religia dominująca.",
           "options": null,
           "answer": "religia dominująca",
-          "explanation": "Religia dominująca nie jest czynnikiem klimatotwórczym. W rozdziale wymieniono m.in. szerokość geograficzną, wysokość terenu i ciepłe prądy morskie."
+          "explanation": "Religia dominująca nie jest czynnikiem klimatotwórczym. Wymieniono m.in. szerokość geograficzną, wysokość terenu i ciepłe prądy morskie."
         },
         {
           "id": "R03_KLI_07",
@@ -3099,7 +3099,7 @@
           "id": "R03_LUD_02",
           "section": "Ludność i migracje",
           "type": "multi_select",
-          "prompt": "Zaznacz czynniki sprzyjające osiedlaniu się ludności wymienione w rozdziale.",
+          "prompt": "Zaznacz czynniki sprzyjające osiedlaniu się ludności.",
           "options": [
             "nizinna rzeźba terenu",
             "ciepły klimat z umiarkowaną ilością opadów",
@@ -3137,7 +3137,7 @@
             ]
           ],
           "image": "r03_europejski_banan_mapa.jpg",
-          "explanation": "Rozdział podaje, że w Europie mieszka ponad 744 mln ludzi, a bardzo zaludniony obszar przypominający kształtem banan nazywa się europejskim bananem."
+          "explanation": "W Europie mieszka ponad 744 mln ludzi, a bardzo zaludniony obszar przypominający kształtem banan nazywa się europejskim bananem."
         },
         {
           "id": "R03_LUD_04",
@@ -3192,7 +3192,7 @@
           "id": "R03_LUD_07",
           "section": "Ludność i migracje",
           "type": "scenario",
-          "prompt": "Rodzina opuszcza ojczyznę z powodu wojny i zagrożenia życia. Jak rozdział nazywa takie osoby?",
+          "prompt": "Rodzina opuszcza ojczyznę z powodu wojny i zagrożenia życia. Jak nazywa się takie osoby?",
           "options": [
             "uchodźcy",
             "turyści",
@@ -3241,7 +3241,7 @@
           "id": "R03_LUD_09",
           "section": "Ludność i migracje",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do religii i ich odłamów z rozdziału: katolicyzm, protestantyzm, prawosławie, elektrownia wodna.",
+          "prompt": "Wskaż, co nie pasuje do religii i ich odłamów: katolicyzm, protestantyzm, prawosławie, elektrownia wodna.",
           "options": null,
           "answer": "elektrownia wodna",
           "explanation": "Katolicyzm, protestantyzm i prawosławie są odłamami chrześcijaństwa, a elektrownia wodna należy do tematu energetyki."
@@ -3250,7 +3250,7 @@
           "id": "R03_LUD_10",
           "section": "Ludność i migracje",
           "type": "multi_select",
-          "prompt": "Zaznacz powody migracji wymienione w rozdziale.",
+          "prompt": "Zaznacz powody migracji.",
           "options": [
             "nauka",
             "chęć zmiany",
@@ -3265,7 +3265,7 @@
             2,
             3
           ],
-          "explanation": "Rozdział wymienia m.in. naukę, chęć zmiany, migracje zarobkowe oraz konieczność ucieczki przed wojną lub prześladowaniami."
+          "explanation": "Wymienia się m.in. naukę, chęć zmiany, migracje zarobkowe oraz konieczność ucieczki przed wojną lub prześladowaniami."
         },
         {
           "id": "R03_GOS_01",
@@ -3325,7 +3325,7 @@
           "prompt": "Wykorzystanie węgla, ropy naftowej i gazu ziemnego powoduje zanieczyszczenie środowiska, głównie powietrza.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wskazuje, że wykorzystanie tych paliw kopalnych skutkuje zanieczyszczeniem środowiska, głównie powietrza."
+          "explanation": "Wykorzystanie tych paliw kopalnych skutkuje zanieczyszczeniem środowiska, głównie powietrza."
         },
         {
           "id": "R03_GOS_04",
@@ -3371,13 +3371,13 @@
           ],
           "answer": 0,
           "image": "r03_elektrownia_wodna_norwegia.jpg",
-          "explanation": "Rozdział opisuje Norwegię jako górzysty kraj, w którym szybkie rzeki sprzyjają energetyce wodnej."
+          "explanation": "Opisuje się Norwegię jako górzysty kraj, w którym szybkie rzeki sprzyjają energetyce wodnej."
         },
         {
           "id": "R03_GOS_06",
           "section": "Gospodarka i energetyka",
           "type": "single_choice",
-          "prompt": "Które źródło energii ma bardzo duże znaczenie w Danii według rozdziału?",
+          "prompt": "Które źródło energii ma bardzo duże znaczenie w Danii?",
           "options": [
             "wiatr",
             "uran",
@@ -3394,7 +3394,7 @@
           "id": "R03_GOS_07",
           "section": "Gospodarka i energetyka",
           "type": "multi_select",
-          "prompt": "Zaznacz przykłady działalności zaliczanych w rozdziale do rolnictwa.",
+          "prompt": "Zaznacz przykłady działalności zaliczanych do rolnictwa.",
           "options": [
             "uprawa roślin",
             "chów zwierząt",
@@ -3436,7 +3436,7 @@
               "uslugi"
             ]
           ],
-          "explanation": "Trzy sektory gospodarki wymienione w rozdziale to rolnictwo, przemysł i usługi."
+          "explanation": "Trzy sektory gospodarki to rolnictwo, przemysł i usługi."
         },
         {
           "id": "R03_GOS_09",
@@ -3468,13 +3468,13 @@
             "przemysł": "produkcja serów",
             "usługi": "przewóz i sprzedaż produktów"
           },
-          "explanation": "W przykładzie z rozdziału rolnictwo obejmuje chów krów, przemysł produkcję serów, a usługi ich przewóz i sprzedaż."
+          "explanation": "W przykładzie rolnictwo obejmuje chów krów, przemysł produkcję serów, a usługi ich przewóz i sprzedaż."
         },
         {
           "id": "R03_UNI_01",
           "section": "Unia Europejska i NATO",
           "type": "single_choice",
-          "prompt": "Jaki jest główny cel Unii Europejskiej według rozdziału?",
+          "prompt": "Jaki jest główny cel Unii Europejskiej?",
           "options": [
             "współpraca gospodarcza, polityczna i społeczna",
             "podział Europy na nowe kontynenty",
@@ -3506,7 +3506,7 @@
               "Bruksela"
             ]
           ],
-          "explanation": "Rozdział podaje, że Unia Europejska powstała w 1993 r., a za jej stolicę uznaje się Brukselę."
+          "explanation": "Unia Europejska powstała w 1993 r., a za jej stolicę uznaje się Brukselę."
         },
         {
           "id": "R03_UNI_03",
@@ -3515,7 +3515,7 @@
           "prompt": "W 2024 r. Unia Europejska zrzeszała 27 państw, a Wielka Brytania już do niej nie należała.",
           "options": null,
           "answer": true,
-          "explanation": "Według danych w rozdziale UE zrzesza 27 państw, a Wielka Brytania wystąpiła z organizacji do 2020 r."
+          "explanation": "UE zrzesza 27 państw, a Wielka Brytania wystąpiła z organizacji do 2020 r."
         },
         {
           "id": "R03_UNI_04",
@@ -3545,7 +3545,7 @@
           "id": "R03_UNI_05",
           "section": "Unia Europejska i NATO",
           "type": "multi_select",
-          "prompt": "Zaznacz działania Unii Europejskiej wymienione w rozdziale.",
+          "prompt": "Zaznacz działania Unii Europejskiej.",
           "options": [
             "wspieranie rozwoju państw członkowskich",
             "ujednolicanie niektórych przepisów",
@@ -3581,13 +3581,13 @@
           "prompt": "W 2024 r. strefę euro tworzyło 20 z 27 państw Unii Europejskiej.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że do strefy euro należało 20 z 27 państw UE."
+          "explanation": "Do strefy euro należało 20 z 27 państw UE."
         },
         {
           "id": "R03_UNI_08",
           "section": "Unia Europejska i NATO",
           "type": "scenario",
-          "prompt": "Podróżny chce przekraczać granice wielu europejskich państw bez kontroli, zwykle z samym dowodem osobistym. O jakim obszarze mówi rozdział?",
+          "prompt": "Podróżny chce przekraczać granice wielu europejskich państw bez kontroli, zwykle z samym dowodem osobistym. O jakim obszarze mówi się?",
           "options": [
             "strefa Schengen",
             "strefa biegunowa",
@@ -3652,7 +3652,7 @@
           "id": "R03_HARD_01",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż elementy granicy Europy z Azją w kolejności zgodnej z podsumowaniem rozdziału.",
+          "prompt": "Ułóż elementy granicy Europy z Azją w kolejności zgodnej.",
           "options": null,
           "items": [
             "Morze Czarne",
@@ -3699,7 +3699,7 @@
           "id": "R03_HARD_03",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz miejsce z typem klimatu pokazanym lub opisanym w rozdziale.",
+          "prompt": "Połącz miejsce z typem klimatu pokazanym lub.",
           "options": null,
           "left": [
             "Dublin",
@@ -3722,7 +3722,7 @@
             "Palermo": "podzwrotnikowy morski",
             "Bodo": "umiarkowany chłodny morski"
           },
-          "explanation": "Klimatogramy w rozdziale pokazują przykłady typów klimatu dla Dublina, Uralska, Kirkenes, Palermo i Bodo."
+          "explanation": "Klimatogramy pokazują przykłady typów klimatu dla Dublina, Uralska, Kirkenes, Palermo i Bodo."
         },
         {
           "id": "R03_HARD_04",
@@ -3745,7 +3745,7 @@
           "id": "R03_HARD_05",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz skutki obecnego ocieplania klimatu wymienione w rozdziale.",
+          "prompt": "Zaznacz skutki obecnego ocieplania klimatu.",
           "options": [
             "podnoszenie poziomu mórz i oceanów",
             "zalewanie nisko położonych wybrzeży",
@@ -3761,7 +3761,7 @@
             3
           ],
           "image": "r03_susza_poludnie_europy.jpg",
-          "explanation": "Rozdział wymienia m.in. topnienie lądolodów, wzrost poziomu mórz, zalewanie wybrzeży, gwałtowne zjawiska pogodowe, susze i pożary."
+          "explanation": "Wymienia się m.in. topnienie lądolodów, wzrost poziomu mórz, zalewanie wybrzeży, gwałtowne zjawiska pogodowe, susze i pożary."
         },
         {
           "id": "R03_HARD_06",
@@ -3778,7 +3778,7 @@
           ],
           "answer": 0,
           "image": "r03_elektrownia_wodna_norwegia.jpg",
-          "explanation": "Rozdział opisuje Islandię jako kraj z lodowcami i wulkanami, co sprzyja energetyce wodnej oraz geotermalnej."
+          "explanation": "Opisuje się Islandię jako kraj z lodowcami i wulkanami, co sprzyja energetyce wodnej oraz geotermalnej."
         },
         {
           "id": "R03_HARD_07",
@@ -3852,13 +3852,13 @@
           "prompt": "Uran jest odnawialnym źródłem energii, ponieważ jego wykorzystanie w elektrowniach jądrowych nie powoduje emisji substancji szkodliwych dla środowiska i klimatu.",
           "options": null,
           "answer": false,
-          "explanation": "Rozdział zalicza uran do źródeł nieodnawialnych. To, że jego wykorzystanie nie powoduje takich emisji, nie czyni go źródłem odnawialnym."
+          "explanation": "Zalicza się uran do źródeł nieodnawialnych. To, że jego wykorzystanie nie powoduje takich emisji, nie czyni go źródłem odnawialnym."
         },
         {
           "id": "R03_HARD_11",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz religię lub określenie z informacją z rozdziału.",
+          "prompt": "Połącz religię lub określenie z informacją.",
           "options": null,
           "left": [
             "chrześcijaństwo",
@@ -3878,13 +3878,13 @@
             "świątynie islamu": "meczety",
             "świątynie prawosławne": "cerkwie"
           },
-          "explanation": "Rozdział pokazuje, że wyznawcy chrześcijaństwa to chrześcijanie, wyznawcy islamu to muzułmanie, świątynie islamu to meczety, a świątynie prawosławne to cerkwie."
+          "explanation": "Wyznawcy chrześcijaństwa to chrześcijanie, wyznawcy islamu to muzułmanie, świątynie islamu to meczety, a świątynie prawosławne to cerkwie."
         },
         {
           "id": "R03_HARD_12",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "W państwie więcej ludzi osiedla się z zagranicy, niż wyprowadza się do innych krajów. Jak rozdział nazywa takie państwo?",
+          "prompt": "W państwie więcej ludzi osiedla się z zagranicy, niż wyprowadza się do innych krajów. Jak nazywa się takie państwo?",
           "options": [
             "kraj imigracyjny",
             "kraj emigracyjny",
@@ -3966,7 +3966,7 @@
           "id": "R04_ISL_03",
           "section": "Wulkany i trzęsienia ziemi na Islandii",
           "type": "multi_select",
-          "prompt": "Zaznacz typy ruchu płyt litosfery opisane w rozdziale.",
+          "prompt": "Zaznacz typy ruchu płyt litosfery.",
           "image": "r04_ruchy_plyt_litosfery.jpg",
           "options": [
             "rozsuwanie się",
@@ -3990,13 +3990,13 @@
           "prompt": "Litosfera składa się z fragmentów różnej wielkości nazywanych płytami litosfery lub płytami tektonicznymi.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wyjaśnia, że litosfera nie jest jednolita, lecz składa się z płyt litosfery."
+          "explanation": "Litosfera nie jest jednolita, lecz składa się z płyt litosfery."
         },
         {
           "id": "R04_ISL_05",
           "section": "Wulkany i trzęsienia ziemi na Islandii",
           "type": "scenario",
-          "prompt": "Po wybuchu wulkanu w powietrzu unosi się dużo pyłu. Który skutek opisany w rozdziale może wystąpić nawet poza najbliższą okolicą wulkanu?",
+          "prompt": "Po wybuchu wulkanu w powietrzu unosi się dużo pyłu. Który skutek może wystąpić nawet poza najbliższą okolicą wulkanu?",
           "image": "r04_erupcja_wulkanu.jpg",
           "options": [
             "Utrudnienia w ruchu lotniczym",
@@ -4121,7 +4121,7 @@
             "Brak opadów przez cały rok"
           ],
           "answer": 0,
-          "explanation": "Rozdział podkreśla, że gleby wulkaniczne są bardzo żyzne, dlatego mogą sprzyjać rolnictwu."
+          "explanation": "Gleby wulkaniczne są bardzo żyzne, dlatego mogą sprzyjać rolnictwu."
         },
         {
           "id": "R04_ISL_12",
@@ -4130,7 +4130,7 @@
           "prompt": "Trzęsienia ziemi mogą występować także podczas erupcji wulkanicznych.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale zapisano, że trzęsienia ziemi występują także podczas erupcji wulkanicznych."
+          "explanation": "Trzęsienia ziemi występują także podczas erupcji wulkanicznych."
         },
         {
           "id": "R04_ISL_13",
@@ -4177,13 +4177,13 @@
           "prompt": "Francja leży w zachodniej Europie i należy do Unii Europejskiej oraz NATO.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że Francja jest państwem zachodniej Europy oraz członkiem Unii Europejskiej i NATO."
+          "explanation": "Francja jest państwem zachodniej Europy oraz członkiem Unii Europejskiej i NATO."
         },
         {
           "id": "R04_FRA_03",
           "section": "Nowoczesna gospodarka Francji",
           "type": "fill_in",
-          "prompt": "Najwyższy szczyt Europy według rozdziału to __________, leżący przy granicy Francji z Włochami.",
+          "prompt": "Najwyższy szczyt Europy to __________, leżący przy granicy Francji z Włochami.",
           "image": "r04_mapa_francji.jpg",
           "options": null,
           "answer": [
@@ -4201,7 +4201,7 @@
           "id": "R04_FRA_04",
           "section": "Nowoczesna gospodarka Francji",
           "type": "multi_select",
-          "prompt": "Zaznacz przykłady francuskich firm lub marek wymienionych w rozdziale.",
+          "prompt": "Zaznacz przykłady francuskich firm lub marek.",
           "image": "r04_marki_francuskie.jpg",
           "options": [
             "Carrefour",
@@ -4237,7 +4237,7 @@
           "id": "R04_FRA_06",
           "section": "Nowoczesna gospodarka Francji",
           "type": "match",
-          "prompt": "Połącz francuską firmę lub markę z branżą wskazaną w rozdziale.",
+          "prompt": "Połącz francuską firmę lub markę z branżą.",
           "image": "r04_marki_francuskie.jpg",
           "options": null,
           "left": [
@@ -4258,7 +4258,7 @@
             "Orange": "telekomunikacja",
             "Chanel": "odzież i perfumy"
           },
-          "explanation": "Rozdział pokazuje przykłady znanych francuskich marek z różnych branż, m.in. samolotów, opon, telekomunikacji oraz odzieży i perfum."
+          "explanation": "Pokazuje się przykłady znanych francuskich marek z różnych branż, m.in. samolotów, opon, telekomunikacji oraz odzieży i perfum."
         },
         {
           "id": "R04_FRA_07",
@@ -4311,7 +4311,7 @@
           "id": "R04_FRA_09",
           "section": "Nowoczesna gospodarka Francji",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy przemysłu high-tech opisane w rozdziale.",
+          "prompt": "Zaznacz cechy przemysłu high-tech.",
           "options": [
             "zatrudnia świetnie wykształconych specjalistów",
             "inwestuje dużo w badania i testy",
@@ -4361,7 +4361,7 @@
           "prompt": "Sophia Antipolis to największa technopolia we Francji i w Europie.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wskazuje, że największą technopolią we Francji i Europie jest Sophia Antipolis w południowej części kraju."
+          "explanation": "Największą technopolią we Francji i Europie jest Sophia Antipolis w południowej części kraju."
         },
         {
           "id": "R04_FRA_13",
@@ -4377,7 +4377,7 @@
             "Paryż nie jest stolicą Francji"
           ],
           "answer": 0,
-          "explanation": "Rozdział podaje, że we francuskiej gospodarce zdecydowanie dominują usługi, a nie rolnictwo."
+          "explanation": "We francuskiej gospodarce zdecydowanie dominują usługi, a nie rolnictwo."
         },
         {
           "id": "R04_MET_01",
@@ -4450,7 +4450,7 @@
           "prompt": "Londyn jest największym miastem Wielkiej Brytanii.",
           "options": null,
           "answer": true,
-          "explanation": "W rozdziale zapisano, że Londyn jest stolicą i zarazem największym miastem Wielkiej Brytanii."
+          "explanation": "Londyn jest stolicą i zarazem największym miastem Wielkiej Brytanii."
         },
         {
           "id": "R04_MET_05",
@@ -4520,7 +4520,7 @@
             "tower bridge",
             "most Tower Bridge"
           ],
-          "explanation": "Rozdział podaje, że brzegi Tamizy łączy wiele mostów, a najsłynniejszym jest Tower Bridge."
+          "explanation": "Brzegi Tamizy łączy wiele mostów, a najsłynniejszym jest Tower Bridge."
         },
         {
           "id": "R04_MET_08",
@@ -4540,7 +4540,7 @@
           "id": "R04_MET_09",
           "section": "Londyn i Paryż — europejskie metropolie",
           "type": "scenario",
-          "prompt": "Miasto ma siedziby międzynarodowych firm, przyciąga studentów z całego świata i odgrywa ważną rolę w biznesie. Jakiego określenia używa rozdział dla takich miast?",
+          "prompt": "Miasto ma siedziby międzynarodowych firm, przyciąga studentów z całego świata i odgrywa ważną rolę w biznesie. Jakiego określenia używa się dla takich miast?",
           "options": [
             "metropolia globalna",
             "wyspa wulkaniczna",
@@ -4570,13 +4570,13 @@
             "Paryż 1924",
             "Londyn 1948"
           ],
-          "explanation": "Rozdział wymienia igrzyska w Paryżu w 1900, Londynie w 1908, Paryżu w 1924 oraz Londynie w 1948 roku."
+          "explanation": "Wymienia się igrzyska w Paryżu w 1900, Londynie w 1908, Paryżu w 1924 oraz Londynie w 1948 roku."
         },
         {
           "id": "R04_MET_11",
           "section": "Londyn i Paryż — europejskie metropolie",
           "type": "single_choice",
-          "prompt": "Które zdanie zgodnie z rozdziałem opisuje Paryż?",
+          "prompt": "Które zdanie opisuje Paryż?",
           "options": [
             "Leży nad Sekwaną i jest stolicą Francji",
             "Leży nad Tamizą i jest stolicą Wielkiej Brytanii",
@@ -4606,13 +4606,13 @@
           "image": "r04_atrakcje_paryza.jpg",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podkreśla znaczenie Paryża dla światowej kultury, zwłaszcza mody."
+          "explanation": "Podkreśla się znaczenie Paryża dla światowej kultury, zwłaszcza mody."
         },
         {
           "id": "R04_TUR_01",
           "section": "Turystyka w południowej Europie",
           "type": "single_choice",
-          "prompt": "Czym według rozdziału jest turystyka?",
+          "prompt": "Czym jest turystyka?",
           "options": [
             "podróżowaniem krótszym niż rok w celach innych niż zarobkowe",
             "stałą pracą zarobkową za granicą",
@@ -4628,7 +4628,7 @@
           "id": "R04_TUR_02",
           "section": "Turystyka w południowej Europie",
           "type": "multi_select",
-          "prompt": "Zaznacz częste powody wyjazdów turystycznych wymienione w rozdziale.",
+          "prompt": "Zaznacz częste powody wyjazdów turystycznych.",
           "options": [
             "wypoczynek",
             "zwiedzanie",
@@ -4726,7 +4726,7 @@
           "image": "r04_walory_turystyczne.jpg",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wyjaśnia, że turystyka odgrywa ważną rolę w gospodarce i jest częścią sektora usług."
+          "explanation": "Turystyka odgrywa ważną rolę w gospodarce i jest częścią sektora usług."
         },
         {
           "id": "R04_TUR_07",
@@ -4753,7 +4753,7 @@
           "id": "R04_TUR_08",
           "section": "Turystyka w południowej Europie",
           "type": "match",
-          "prompt": "Połącz miejsce z atrakcją opisaną w rozdziale.",
+          "prompt": "Połącz miejsce z atrakcją.",
           "image": "r04_atrakcje_poludniowej_europy.jpg",
           "options": null,
           "left": [
@@ -4774,7 +4774,7 @@
             "Barcelona": "Sagrada Familia",
             "Ateny": "Akropol"
           },
-          "explanation": "Rozdział wymienia m.in. Wenecję z kanałami, Rzym z Koloseum i Forum Romanum, Barcelonę z Sagradą Familią oraz Ateny z Akropolem."
+          "explanation": "Wymienia się m.in. Wenecję z kanałami, Rzym z Koloseum i Forum Romanum, Barcelonę z Sagradą Familią oraz Ateny z Akropolem."
         },
         {
           "id": "R04_TUR_09",
@@ -4795,7 +4795,7 @@
           "id": "R04_TUR_10",
           "section": "Turystyka w południowej Europie",
           "type": "scenario",
-          "prompt": "Turysta wybiera miejsce, gdzie ciepła i czysta woda sprzyja sportom wodnym, np. nurkowaniu. Który akwen opisuje rozdział w tym kontekście?",
+          "prompt": "Turysta wybiera miejsce, gdzie ciepła i czysta woda sprzyja sportom wodnym, np. nurkowaniu. Który akwen opisuje się w tym kontekście?",
           "image": "r04_atrakcje_poludniowej_europy.jpg",
           "options": [
             "Morze Śródziemne",
@@ -4806,13 +4806,13 @@
             "Kanał La Manche"
           ],
           "answer": 0,
-          "explanation": "Rozdział wskazuje, że ciepła i czysta woda Morza Śródziemnego sprzyja sportom wodnym, np. nurkowaniu."
+          "explanation": "Ciepła i czysta woda Morza Śródziemnego sprzyja sportom wodnym, np. nurkowaniu."
         },
         {
           "id": "R04_TUR_11",
           "section": "Turystyka w południowej Europie",
           "type": "single_choice",
-          "prompt": "Który zestaw obejmuje trzy wielkie półwyspy południowej Europy opisane w rozdziale?",
+          "prompt": "Który zestaw obejmuje trzy wielkie półwyspy południowej Europy?",
           "image": "r04_mapa_poludniowej_europy.jpg",
           "options": [
             "Iberyjski, Apeniński i Bałkański",
@@ -4823,7 +4823,7 @@
             "Iberyjski, Geysir i Akropol"
           ],
           "answer": 0,
-          "explanation": "W rozdziale wymieniono półwyspy Iberyjski, Apeniński i Bałkański."
+          "explanation": "Wymieniono półwyspy Iberyjski, Apeniński i Bałkański."
         },
         {
           "id": "R04_TUR_12",
@@ -4953,7 +4953,7 @@
           "id": "R04_HARD_05",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz element gospodarki Francji z właściwym przykładem z rozdziału.",
+          "prompt": "Połącz element gospodarki Francji z właściwym przykładem.",
           "image": "r04_pociag_tgv.jpg",
           "options": null,
           "left": [
@@ -5020,7 +5020,7 @@
               "około 15 mln"
             ]
           ],
-          "explanation": "Rozdział podaje, że Londyn ma prawie 10 mln mieszkańców, a aglomeracja około 15 mln."
+          "explanation": "Londyn ma prawie 10 mln mieszkańców, a aglomeracja około 15 mln."
         },
         {
           "id": "R04_HARD_08",
@@ -5075,7 +5075,7 @@
           "id": "R04_HARD_10",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do atrakcji południowej Europy opisanych w rozdziale: Canale Grande, Sagrada Familia, Akropol, Big Ben.",
+          "prompt": "Wskaż, co nie pasuje do atrakcji południowej Europy: Canale Grande, Sagrada Familia, Akropol, Big Ben.",
           "image": "r04_atrakcje_poludniowej_europy.jpg",
           "options": null,
           "answer": "Big Ben",
@@ -5085,7 +5085,7 @@
           "id": "R04_HARD_11",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz atrakcję z miejscem, z którym została opisana w rozdziale.",
+          "prompt": "Połącz atrakcję z miejscem, z którym została.",
           "image": "r04_atrakcje_poludniowej_europy.jpg",
           "options": null,
           "left": [
@@ -5109,7 +5109,7 @@
             "Akropol": "Ateny",
             "Jeziora Plitwickie": "Chorwacja"
           },
-          "explanation": "Rozdział przypisuje Canale Grande Wenecji, Forum Romanum Rzymowi, Sagradę Familię Barcelonie, Akropol Atenom i Jeziora Plitwickie Chorwacji."
+          "explanation": "Przypisuje się Canale Grande Wenecji, Forum Romanum Rzymowi, Sagradę Familię Barcelonie, Akropol Atenom i Jeziora Plitwickie Chorwacji."
         },
         {
           "id": "R04_HARD_12",
@@ -5158,7 +5158,7 @@
               "bałkański"
             ]
           ],
-          "explanation": "Rozdział wymienia trzy wielkie półwyspy: Iberyjski, Apeniński i Bałkański."
+          "explanation": "Wymienia się trzy wielkie półwyspy: Iberyjski, Apeniński i Bałkański."
         },
         {
           "id": "R04_HARD_14",
@@ -5184,7 +5184,7 @@
           "prompt": "Walory kulturowe południowej Europy obejmują m.in. liczne zabytki, zabudowę miast, kuchnię, muzykę i taniec.",
           "options": null,
           "answer": true,
-          "explanation": "W podsumowaniu rozdziału walory kulturowe południowej Europy obejmują m.in. zabytki z różnych epok, zabudowę miast, kuchnię, muzykę i taniec."
+          "explanation": "Walory kulturowe południowej Europy obejmują m.in. zabytki z różnych epok, zabudowę miast, kuchnię, muzykę i taniec."
         },
         {
           "id": "R04_HARD_16",
@@ -5276,7 +5276,7 @@
               "Nysą Łużycką"
             ]
           ],
-          "explanation": "W rozdziale podano, że granica między Polską a Niemcami biegnie głównie wzdłuż Odry i Nysy Łużyckiej."
+          "explanation": "Granica między Polską a Niemcami biegnie głównie wzdłuż Odry i Nysy Łużyckiej."
         },
         {
           "id": "R05_NIE_03",
@@ -5291,7 +5291,7 @@
           "id": "R05_NIE_04",
           "section": "Niemcy: gospodarka i przemysł",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje pasujące do gospodarki Niemiec według rozdziału.",
+          "prompt": "Zaznacz informacje pasujące do gospodarki Niemiec.",
           "options": [
             "Jest najsilniejszą gospodarką w Europie.",
             "Jej główną część stanowi sektor usług.",
@@ -5306,7 +5306,7 @@
             3,
             4
           ],
-          "explanation": "Rozdział wskazuje, że gospodarka Niemiec jest najsilniejsza w Europie, ważny jest sektor usług, rozwinął się przemysł high-tech, a kraj słynie z marek samochodów."
+          "explanation": "Gospodarka Niemiec jest najsilniejsza w Europie, ważny jest sektor usług, rozwinął się przemysł high-tech, a kraj słynie z marek samochodów."
         },
         {
           "id": "R05_NIE_05",
@@ -5389,7 +5389,7 @@
           "prompt": "Co nie pasuje do niemieckich marek samochodów: Audi, BMW, Porsche, Bayer, Volkswagen.",
           "options": null,
           "answer": "Bayer",
-          "explanation": "Audi, BMW, Porsche i Volkswagen to marki samochodów wymienione w rozdziale. Bayer jest firmą farmaceutyczną."
+          "explanation": "Audi, BMW, Porsche i Volkswagen to marki samochodów. Bayer jest firmą farmaceutyczną."
         },
         {
           "id": "R05_NIE_09",
@@ -5445,7 +5445,7 @@
           ],
           "answer": 0,
           "image": "r05_zaglebie_ruhry_przemysl.jpg",
-          "explanation": "Rozdział podaje, że część dawnych obiektów przemysłowych przekształcono na muzea usługowo-kulturalne."
+          "explanation": "Część dawnych obiektów przemysłowych przekształcono na muzea usługowo-kulturalne."
         },
         {
           "id": "R05_CZS_01",
@@ -5470,7 +5470,7 @@
           "prompt": "Czechy i Słowacja należą do Unii Europejskiej i NATO.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział wyraźnie podaje, że oba państwa są członkami Unii Europejskiej i NATO."
+          "explanation": "Oba państwa są członkami Unii Europejskiej i NATO."
         },
         {
           "id": "R05_CZS_03",
@@ -5502,7 +5502,7 @@
           "id": "R05_CZS_04",
           "section": "Czechy i Słowacja",
           "type": "multi_select",
-          "prompt": "Zaznacz walory przyrodnicze Czech wymienione w rozdziale.",
+          "prompt": "Zaznacz walory przyrodnicze Czech.",
           "options": [
             "Adrszpaskie Skalne Miasto",
             "Hradczany z Zamkiem Praskim",
@@ -5522,7 +5522,7 @@
           "id": "R05_CZS_05",
           "section": "Czechy i Słowacja",
           "type": "single_choice",
-          "prompt": "Co wyróżnia Morawski Kras według rozdziału?",
+          "prompt": "Co wyróżnia Morawski Kras?",
           "options": [
             "Ponad 1600 jaskiń, z których cztery udostępniono zwiedzającym.",
             "Najwyższy szczyt Tatr i całych Karpat.",
@@ -5605,7 +5605,7 @@
           "prompt": "Co nie pasuje do słowackich pasm górskich: Tatry, Niżne Tatry, Wielka Fatra, Rudawy, Bieszczady.",
           "options": null,
           "answer": "Rudawy",
-          "explanation": "Rudawy wymieniono przy opisie gór otaczających Czechy. Pozostałe nazwy podano w rozdziale jako pasma górskie Słowacji."
+          "explanation": "Rudawy wymieniono przy opisie gór otaczających Czechy. Pozostałe nazwy podano jako pasma górskie Słowacji."
         },
         {
           "id": "R05_CZS_10",
@@ -5712,13 +5712,13 @@
           "options": null,
           "answer": true,
           "image": "r05_odessa_port_morze_czarne.jpg",
-          "explanation": "Rozdział podaje, że południowa część Ukrainy leży nad Morzem Czarnym, a znanym dużym miastem z portem jest Odessa."
+          "explanation": "Południowa część Ukrainy leży nad Morzem Czarnym, a znanym dużym miastem z portem jest Odessa."
         },
         {
           "id": "R05_UKR_05",
           "section": "Ukraina: wojna i społeczeństwo",
           "type": "multi_select",
-          "prompt": "Zaznacz powody osłabienia gospodarki Ukrainy wskazane w rozdziale.",
+          "prompt": "Zaznacz powody osłabienia gospodarki Ukrainy.",
           "options": [
             "Zniszczenie lub zatrzymanie części elementów gospodarki.",
             "Przeznaczanie środków finansowych na zbrojenia.",
@@ -5804,7 +5804,7 @@
           "prompt": "Co nie pasuje do największych miast zajętych przez okupanta: Donieck, Ługańsk, Mariupol, Symferopol, Kijów.",
           "options": null,
           "answer": "Kijów",
-          "explanation": "Wśród największych miast zajętych przez okupanta rozdział wymienia Donieck, Ługańsk, Sewastopol, Mariupol i Symferopol. Kijów jest stolicą Ukrainy, ale nie znajduje się na tej liście."
+          "explanation": "Wśród największych miast zajętych przez okupanta wymienia się Donieck, Ługańsk, Sewastopol, Mariupol i Symferopol. Kijów jest stolicą Ukrainy, ale nie znajduje się na tej liście."
         },
         {
           "id": "R05_UKR_10",
@@ -5893,7 +5893,7 @@
           "id": "R05_BIL_04",
           "section": "Białoruś i Litwa",
           "type": "multi_select",
-          "prompt": "Zaznacz walory przyrodnicze Białorusi wymienione w rozdziale.",
+          "prompt": "Zaznacz walory przyrodnicze Białorusi.",
           "options": [
             "Puszcza Białowieska",
             "Park Narodowy Jeziora Brasławskie",
@@ -6047,7 +6047,7 @@
               "200 lat"
             ]
           ],
-          "explanation": "Według rozdziału w 2024 r. na Litwie mieszka około 180 tys. Polaków, a dawna wspólna państwowość Polski i Litwy trwała ponad 200 lat."
+          "explanation": "W 2024 r. na Litwie mieszka około 180 tys. Polaków, a dawna wspólna państwowość Polski i Litwy trwała ponad 200 lat."
         },
         {
           "id": "R05_ROS_01",
@@ -6119,7 +6119,7 @@
           "id": "R05_ROS_05",
           "section": "Rosja i relacje z sąsiadami",
           "type": "multi_select",
-          "prompt": "Zaznacz surowce mineralne wydobywane w Rosji i sprzedawane za granicę według rozdziału.",
+          "prompt": "Zaznacz surowce mineralne wydobywane w Rosji i sprzedawane za granicę.",
           "options": [
             "ropa naftowa",
             "gaz ziemny",
@@ -6136,7 +6136,7 @@
             4,
             5
           ],
-          "explanation": "Rozdział wymienia między innymi ropę naftową, gaz ziemny, węgiel kamienny, uran, żelazo, miedź, nikiel, złoto i diamenty. Kakao i banany nie są w nim podane jako rosyjskie surowce mineralne."
+          "explanation": "Wymienia się między innymi ropę naftową, gaz ziemny, węgiel kamienny, uran, żelazo, miedź, nikiel, złoto i diamenty. Kakao i banany nie są w nim podane jako rosyjskie surowce mineralne."
         },
         {
           "id": "R05_ROS_06",
@@ -6211,13 +6211,13 @@
             "Ukraina"
           ],
           "answer": 0,
-          "explanation": "Rozdział opisuje Białoruś jako państwo nienależące do NATO ani UE, nieszanowujące demokracji, wolności słowa i praw człowieka oraz prowadzące wrogie działania na granicy z Polską."
+          "explanation": "Opisuje się Białoruś jako państwo nienależące do NATO ani UE, nieszanowujące demokracji, wolności słowa i praw człowieka oraz prowadzące wrogie działania na granicy z Polską."
         },
         {
           "id": "R05_ROS_10",
           "section": "Rosja i relacje z sąsiadami",
           "type": "sequence",
-          "prompt": "Ułóż typy klimatu Rosji od północy ku południu według opisu w rozdziale.",
+          "prompt": "Ułóż typy klimatu Rosji od północy ku południu według opisu.",
           "options": null,
           "items": [
             "umiarkowany ciepły kontynentalny",
@@ -6237,7 +6237,7 @@
           "id": "R05_ROS_11",
           "section": "Rosja i relacje z sąsiadami",
           "type": "single_choice",
-          "prompt": "Który sąsiad Polski jest w rozdziale nazwany głównym partnerem handlowym Polski?",
+          "prompt": "Który sąsiad Polski jest nazwany głównym partnerem handlowym Polski?",
           "options": [
             "Niemcy",
             "Białoruś",
@@ -6253,7 +6253,7 @@
           "id": "R05_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który zestaw miast podano w rozdziale jako przykłady miast tworzących konurbację w Zagłębiu Ruhry?",
+          "prompt": "Który zestaw miast podano jako przykłady miast tworzących konurbację w Zagłębiu Ruhry?",
           "options": [
             "Dortmund, Essen, Bochum i Duisburg",
             "Berlin, Monachium, Hamburg i Kolonia",
@@ -6269,7 +6269,7 @@
           "id": "R05_HARD_02",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz pozytywne skutki przemian przemysłu w Zagłębiu Ruhry wymienione w rozdziale.",
+          "prompt": "Zaznacz pozytywne skutki przemian przemysłu w Zagłębiu Ruhry.",
           "options": [
             "Powstanie licznych uczelni wyższych.",
             "Powstanie instytucji kulturalnych.",
@@ -6294,7 +6294,7 @@
           "prompt": "W Morawskim Krasie znajduje się ponad 1600 jaskiń, a cztery z nich udostępniono zwiedzającym.",
           "options": null,
           "answer": true,
-          "explanation": "Rozdział podaje, że Morawski Kras ma ponad 1600 jaskiń, w tym cztery udostępnione dla zwiedzających."
+          "explanation": "Morawski Kras ma ponad 1600 jaskiń, w tym cztery udostępnione dla zwiedzających."
         },
         {
           "id": "R05_HARD_04",
@@ -6387,7 +6387,7 @@
           "id": "R05_HARD_09",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj sąsiadów Polski do relacji opisanych w rozdziale.",
+          "prompt": "Przyporządkuj sąsiadów Polski do relacji.",
           "options": null,
           "items": [
             "Niemcy",
@@ -6424,11 +6424,11 @@
           "id": "R05_HARD_10",
           "section": "Super trudne",
           "type": "true_false",
-          "prompt": "Rosja ma dostęp do Morza Kaspijskiego, które w rozdziale nazwano największym jeziorem na świecie.",
+          "prompt": "Rosja ma dostęp do Morza Kaspijskiego, które nazwano największym jeziorem na świecie.",
           "options": null,
           "answer": true,
           "image": "r05_morze_kaspijskie.jpg",
-          "explanation": "Rozdział podaje, że Rosja ma dostęp do Morza Kaspijskiego, czyli największego jeziora na świecie."
+          "explanation": "Rosja ma dostęp do Morza Kaspijskiego, czyli największego jeziora na świecie."
         },
         {
           "id": "R05_HARD_11",
@@ -6454,7 +6454,7 @@
           "id": "R05_HARD_12",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz prawdziwe informacje o wodach Rosji według rozdziału.",
+          "prompt": "Zaznacz prawdziwe informacje o wodach Rosji.",
           "options": [
             "W europejskiej części Rosja ma dostęp do Morza Bałtyckiego i Morza Czarnego.",
             "Wołga jest najdłuższą rzeką Europy.",
