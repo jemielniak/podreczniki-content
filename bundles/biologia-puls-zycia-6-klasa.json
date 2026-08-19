@@ -1,8 +1,8 @@
 {
   "id": "biologia-puls-zycia-6-klasa",
   "title": "Biologia Puls życia 6",
-  "version": 2,
-  "contentHash": "538c8f955aa5bf906db7b1570a784d77e45ffb79958324f8c2e1ca3d9f7aa76f",
+  "version": 3,
+  "contentHash": "16594b544474aa5a8d1b02f502f593b3fc567e267c85dfc6d1aa6ac3b6286833",
   "bookConfig": {
     "id": "biologia-puls-zycia-6-klasa",
     "title": "Biologia Puls życia 6",
@@ -112,7 +112,7 @@
             "narząd": "serce",
             "układ narządów": "układ krwionośny"
           },
-          "explanation": "Pokazuje się hierarchię na przykładzie komórki mięśniowej serca, tkanki mięśniowej serca, serca i układu krwionośnego."
+          "explanation": "Hierarchię organizacji ciała można przedstawić jako ciąg: komórka mięśniowa serca, tkanka mięśniowa serca, serce i układ krwionośny."
         },
         {
           "id": "R01_KRO_05",
@@ -174,7 +174,7 @@
             "Parzydełkowce"
           ],
           "answer": 0,
-          "explanation": "Ryby opisano jako kręgowce o zwykle opływowym kształcie ciała, wyposażone w płetwy i łuski.",
+          "explanation": "Ryby są kręgowcami o zwykle opływowym kształcie ciała, wyposażonymi w płetwy i łuski.",
           "image": "r01_grupy_kregowcow.jpg"
         },
         {
@@ -344,7 +344,7 @@
             "jednowarstwowy walcowaty": "wnętrze jelita cienkiego",
             "wielowarstwowy płaski": "zewnętrzna warstwa skóry"
           },
-          "explanation": "Podaje się przykłady występowania czterech typów nabłonków w płucach, nerkach, jelicie cienkim i skórze.",
+          "explanation": "Cztery typy nabłonków występują między innymi w płucach, nerkach, jelicie cienkim i skórze.",
           "image": "r01_nablonki_rodzaje.jpg"
         },
         {
@@ -695,7 +695,7 @@
             2,
             3
           ],
-          "explanation": "Wymieniono między innymi tkankę chrzęstną, kostną, tłuszczową i krew jako rodzaje tkanki łącznej.",
+          "explanation": "Do tkanki łącznej należą między innymi tkanka chrzęstna, kostna, tłuszczowa i krew.",
           "image": "r01_tkanka_laczna_typy.jpg"
         },
         {
@@ -870,7 +870,7 @@
           "id": "R01_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Które zwierzęta opisano jako jedyne, które nie wykształcają tkanek, narządów i układów?",
+          "prompt": "Które zwierzęta jako jedyne nie wykształcają tkanek, narządów i układów?",
           "options": [
             "Gąbki",
             "Parzydełkowce",
@@ -880,7 +880,7 @@
             "Mięczaki"
           ],
           "answer": 0,
-          "explanation": "Gąbki są opisane jako jedyne zwierzęta, które nie wykształcają tkanek, narządów i układów.",
+          "explanation": "Gąbki są jedynymi zwierzętami, które nie wykształcają tkanek, narządów i układów.",
           "image": "r01_gabki_morskie.jpg"
         },
         {
@@ -1208,7 +1208,7 @@
           "id": "R02_PAR_05",
           "section": "Parzydełkowce",
           "type": "single_choice",
-          "prompt": "Który parzydełkowiec jest wymieniony jako najbardziej znany przedstawiciel tej grupy w Polsce?",
+          "prompt": "Który parzydełkowiec jest najbardziej znanym przedstawicielem tej grupy w Polsce?",
           "options": [
             "Chełbia modra",
             "Pijawka lekarska",
@@ -1218,7 +1218,7 @@
             "Włosień spiralny"
           ],
           "answer": 0,
-          "explanation": "W tekście podano, że w Polsce najbardziej znanym przedstawicielem parzydełkowców jest chełbia modra.",
+          "explanation": "W Polsce najbardziej znanym przedstawicielem parzydełkowców jest chełbia modra.",
           "image": "r02_chelbie_i_koralowce.jpg"
         },
         {
@@ -1515,7 +1515,7 @@
           "id": "R02_PLA_12",
           "section": "Płazińce",
           "type": "single_choice",
-          "prompt": "Czym tasiemiec uzbrojony różni się od tasiemca nieuzbrojonego według opisu główki?",
+          "prompt": "Czym różni się budowa główki tasiemca uzbrojonego od główki tasiemca nieuzbrojonego?",
           "options": [
             "Ma przyssawki i wieniec haczyków",
             "Nie ma przyssawek",
@@ -1549,7 +1549,7 @@
           "id": "R02_NIC_02",
           "section": "Nicienie",
           "type": "multi_select",
-          "prompt": "Zaznacz nicienie wymienione jako pasożyty wewnętrzne człowieka.",
+          "prompt": "Zaznacz nicienie będące pasożytami wewnętrznymi człowieka.",
           "options": [
             "Glista ludzka",
             "Owsik ludzki",
@@ -1562,7 +1562,7 @@
             1,
             2
           ],
-          "explanation": "Wymieniono glistę ludzką, owsika ludzkiego i włośnia spiralnego jako nicienie pasożytujące u człowieka."
+          "explanation": "Glista ludzka, owsik ludzki i włosień spiralny to nicienie pasożytujące u człowieka."
         },
         {
           "id": "R02_NIC_03",
@@ -1594,7 +1594,7 @@
           "id": "R02_NIC_05",
           "section": "Nicienie",
           "type": "sequence",
-          "prompt": "Ułóż etapy rozwoju glisty ludzkiej zgodnie z opisem.",
+          "prompt": "Ułóż etapy rozwoju glisty ludzkiej we właściwej kolejności.",
           "options": null,
           "items": [
             "Larwy wędrują przez narządy ciała",
@@ -1675,7 +1675,7 @@
             "Parzydełkowanie"
           ],
           "answer": 0,
-          "explanation": "Swędzenie okolic odbytu nasilające się w nocy jest opisane jako objaw owsicy wywołanej przez owsika ludzkiego.",
+          "explanation": "Swędzenie okolic odbytu nasilające się w nocy jest charakterystycznym objawem owsicy wywołanej przez owsika ludzkiego.",
           "image": "r02_owsiki_i_wlosnie.jpg"
         },
         {
@@ -1882,14 +1882,14 @@
             2,
             4
           ],
-          "explanation": "Pijawka ma przyssawki, nie ma głowy i żywi się krwią, a podano, że pijawka lekarska osiąga około 15 cm długości.",
+          "explanation": "Pijawka ma przyssawki, nie ma głowy i żywi się krwią, a pijawka lekarska osiąga około 15 cm długości.",
           "image": "r02_nereida_i_pijawka.jpg"
         },
         {
           "id": "R02_PIE_10",
           "section": "Pierścienice",
           "type": "single_choice",
-          "prompt": "Jaki organizm wymieniono jako pokarm dla ryb akwariowych hodowany przez człowieka?",
+          "prompt": "Jaki organizm jest hodowany przez człowieka jako pokarm dla ryb akwariowych?",
           "options": [
             "Rureczniki",
             "Koral szlachetny",
@@ -1908,7 +1908,7 @@
           "prompt": "Nereida różnokolorowa żyje na dnie mórz, także Morza Bałtyckiego.",
           "options": null,
           "answer": true,
-          "explanation": "Opisuje się nereidę jako morską pierścienicę żyjącą na dnie mórz, również w Morzu Bałtyckim."
+          "explanation": "Nereida jest morską pierścienicą żyjącą na dnie mórz, również w Morzu Bałtyckim."
         },
         {
           "id": "R02_PIE_12",
@@ -1946,7 +1946,7 @@
           "id": "R02_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Która cecha z tabeli podsumowującej najlepiej odróżnia meduzę od polipa pod względem galaretowatej substancji?",
+          "prompt": "Która cecha najlepiej odróżnia meduzę od polipa pod względem grubości warstwy galaretowatej substancji?",
           "options": [
             "Meduza ma bardzo grubą warstwę tej substancji",
             "Meduza nie ma jej wcale",
@@ -1955,14 +1955,14 @@
             "Substancja występuje tylko u koralowców"
           ],
           "answer": 0,
-          "explanation": "W podsumowaniu porównano polipa i meduzę: u polipa warstwa galaretowatej substancji jest cienka, a u meduzy bardzo gruba.",
+          "explanation": "U polipa warstwa galaretowatej substancji jest cienka, a u meduzy bardzo gruba.",
           "image": "r02_polip_i_meduza.jpg"
         },
         {
           "id": "R02_HARD_02",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje zgodne z opisem raf koralowych i koralowców.",
+          "prompt": "Zaznacz prawidłowe informacje o rafach koralowych i koralowcach.",
           "options": [
             "Rafy należą do najbogatszych środowisk życia na Ziemi",
             "Rafy występują w ciepłych morzach",
@@ -2048,7 +2048,7 @@
             "Choroba raf"
           ],
           "answer": 0,
-          "explanation": "Opis dotyczy włośnia spiralnego: dorosłe osobniki żyją w jelicie cienkim, a larwy trafiają do mięśni i otaczają się ochronną torebką.",
+          "explanation": "Włosień spiralny ma dorosłe osobniki żyjące w jelicie cienkim, a jego larwy trafiają do mięśni i otaczają się ochronną torebką.",
           "image": "r02_owsiki_i_wlosnie.jpg"
         },
         {
@@ -2064,7 +2064,7 @@
           "id": "R02_HARD_08",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Jaki wynik opisano w doświadczeniu dotyczącym wpływu dżdżownic na żyzność gleby?",
+          "prompt": "Jaki wynik uzyskano w doświadczeniu dotyczącym wpływu dżdżownic na żyzność gleby?",
           "options": [
             "Rośliny w słoju z dżdżownicami były wyższe o około 0,5 cm",
             "Rośliny bez dżdżownic były wyższe o około 5 cm",
@@ -2085,7 +2085,7 @@
           "answer": [
             "20 cm"
           ],
-          "explanation": "Opis nereidy podaje, że osiąga ona około 20 cm długości i żyje na dnie mórz, także Morza Bałtyckiego.",
+          "explanation": "Nereida osiąga około 20 cm długości i żyje na dnie mórz, także Morza Bałtyckiego.",
           "altAnswers": [
             [
               "20 cm",
@@ -2115,7 +2115,7 @@
             "pijawka lekarska": "osiąga 15 cm długości",
             "robak palolo": "osiąga około 40 cm długości"
           },
-          "explanation": "Podaje się liczby dla kilku pierścienic: dżdżownica ma około 100 segmentów, pijawka lekarska 15 cm, a palolo około 40 cm.",
+          "explanation": "Dżdżownica ma około 100 segmentów, pijawka lekarska osiąga około 15 cm długości, a palolo około 40 cm.",
           "image": "r02_nereida_i_pijawka.jpg"
         },
         {
@@ -2125,7 +2125,7 @@
           "prompt": "Rozmnażanie się i rozwój pasożytniczych nicieni zachodzą w organizmie jednego żywiciela.",
           "options": null,
           "answer": true,
-          "explanation": "W podsumowaniu zaznaczono, że rozwój pasożytniczych nicieni zachodzi w organizmie jednego żywiciela, w przeciwieństwie do tasiemców."
+          "explanation": "Rozwój pasożytniczych nicieni zachodzi w organizmie jednego żywiciela, w przeciwieństwie do tasiemców."
         },
         {
           "id": "R02_HARD_12",
@@ -2137,7 +2137,7 @@
             "20°C",
             "26°C"
           ],
-          "explanation": "W tekście o zagrożeniach raf podano, że koralowce najlepiej rozwijają się w wodzie o temperaturze od 20°C do 26°C.",
+          "explanation": "Koralowce najlepiej rozwijają się w wodzie o temperaturze od 20°C do 26°C.",
           "altAnswers": [
             [
               "20°C",
@@ -2445,7 +2445,7 @@
           "id": "R03_CST_12",
           "section": "Cechy stawonogów",
           "type": "single_choice",
-          "prompt": "Który przedstawiciel stawonogów jest podany jako największy na świecie?",
+          "prompt": "Który przedstawiciel stawonogów jest największy na świecie?",
           "options": [
             "krab olbrzymi",
             "stonoga murowa",
@@ -2455,7 +2455,7 @@
             "homar europejski"
           ],
           "answer": 0,
-          "explanation": "Jako największy stawonóg opisany jest krab olbrzymi żyjący na dnie Oceanu Spokojnego."
+          "explanation": "Największym stawonogiem jest krab olbrzymi żyjący na dnie Oceanu Spokojnego."
         },
         {
           "id": "R03_SKO_01",
@@ -3067,7 +3067,7 @@
           "id": "R03_PAJ_11",
           "section": "Pajęczaki",
           "type": "single_choice",
-          "prompt": "Jakie oczy mają pająki według opisu?",
+          "prompt": "Jakie oczy mają pająki?",
           "options": [
             "od dwóch do ośmiu oczu prostych",
             "dwa oczy złożone",
@@ -3120,7 +3120,7 @@
           "prompt": "Mięczaki mają miękkie i niesegmentowane ciało.",
           "options": null,
           "answer": true,
-          "explanation": "Opisuje się mięczaki jako zwierzęta o delikatnym, miękkim i niesegmentowanym ciele."
+          "explanation": "Mięczaki mają delikatne, miękkie i niesegmentowane ciało."
         },
         {
           "id": "R03_MIE_03",
@@ -3538,7 +3538,7 @@
             "pajęczaki": "brak czułków i cztery pary odnóży",
             "mięczaki": "miękkie niesegmentowane ciało"
           },
-          "explanation": "Tabela podsumowująca porównuje się stawonogi z mięczakami i wskazuje najważniejsze cechy rozpoznawcze każdej grupy."
+          "explanation": "Stawonogi i mięczaki różnią się najważniejszymi cechami budowy charakterystycznymi dla każdej z tych grup."
         }
       ],
       "kidPrompts": {},
@@ -4236,7 +4236,7 @@
             "ropucha aga",
             "aga"
           ],
-          "explanation": "Opisano przykład ropuchy olbrzymiej, która zamiast zwalczyć szkodniki zaczęła się gwałtownie rozprzestrzeniać."
+          "explanation": "Ropucha olbrzymia, wprowadzona w celu zwalczania szkodników, zaczęła się gwałtownie rozprzestrzeniać."
         },
         {
           "id": "R04_ZPL_09",
@@ -4671,7 +4671,7 @@
           "id": "R04_HARD_05",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz działania ochronne wymienione przy wędrówkach płazów przez drogi.",
+          "prompt": "Zaznacz działania chroniące płazy podczas ich wędrówek przez drogi.",
           "options": [
             "ustawianie tablic ostrzegawczych",
             "budowanie tuneli pod drogami",
@@ -4744,7 +4744,7 @@
           "prompt": "Wskaż zwierzę niepasujące do przykładów opieki nad jajami lub potomstwem: pyszczak, skalar, pętówka, tuńczyk.",
           "options": null,
           "answer": "tuńczyk",
-          "explanation": "Pyszczaki, skalary i pętówki są przykładami opieki nad jajami lub potomstwem; tuńczyk nie został podany jako taki przykład."
+          "explanation": "Pyszczaki, skalary i pętówki opiekują się jajami lub potomstwem; tuńczyk nie należy do takich przykładów."
         },
         {
           "id": "R04_HARD_10",
@@ -4819,7 +4819,7 @@
             "skorupiaki"
           ],
           "answer": 0,
-          "explanation": "Opis dotyczy płazów, których rozwój przebiega w wodzie i obejmuje stadium kijanki."
+          "explanation": "Płazy rozwijają się w wodzie, a ich rozwój obejmuje stadium kijanki."
         },
         {
           "id": "R04_HARD_14",
@@ -4936,7 +4936,7 @@
           "prompt": "Stałocieplność oznacza zdolność utrzymywania stałej temperatury ciała niezależnie od temperatury otoczenia.",
           "options": null,
           "answer": true,
-          "explanation": "Stałocieplność zdefiniowano właśnie jako utrzymywanie stałej temperatury ciała mimo zmian temperatury otoczenia."
+          "explanation": "Stałocieplność oznacza utrzymywanie stałej temperatury ciała mimo zmian temperatury otoczenia."
         },
         {
           "id": "R05_PTL_04",
@@ -5052,14 +5052,12 @@
             "skrzydła",
             "dziób",
             "pazury",
-            "powieki",
             "kości wypełnione powietrzem"
           ],
           "categories": [
             "lot",
             "pobieranie pokarmu",
             "ochrona i chwytanie",
-            "ochrona oka",
             "zmniejszanie masy ciała"
           ],
           "answer": {
@@ -5072,14 +5070,11 @@
             "ochrona i chwytanie": [
               "pazury"
             ],
-            "ochrona oka": [
-              "powieki"
-            ],
             "zmniejszanie masy ciała": [
               "kości wypełnione powietrzem"
             ]
           },
-          "explanation": "Skrzydła umożliwiają lot, dziób służy głównie do pobierania pokarmu, pazury chronią palce i pomagają chwytać, powieki zabezpieczają oczy, a kości z powietrzem zmniejszają masę ciała.",
+          "explanation": "Skrzydła umożliwiają lot, dziób służy głównie do pobierania pokarmu, pazury chronią palce i pomagają chwytać, a kości z powietrzem zmniejszają masę ciała.",
           "image": "r05_budowa_ptaka.jpg"
         },
         {
@@ -5117,7 +5112,7 @@
           "id": "R05_ZPT_01",
           "section": "Ptaki: różnorodność i znaczenie",
           "type": "single_choice",
-          "prompt": "Która para ptaków jest podana jako przykład ptaków nielotnych?",
+          "prompt": "Która para obejmuje ptaki nielotne?",
           "options": [
             "pingwin i struś",
             "jaskółka i koliber",
@@ -5127,7 +5122,7 @@
             "kaczka i łabędź"
           ],
           "answer": 0,
-          "explanation": "Wskazuje się pingwiny i strusie jako skrajne przykłady przystosowań, u których pojawia się brak zdolności do lotu.",
+          "explanation": "Pingwiny i strusie są ptakami nielotnymi o skrajnie odmiennych przystosowaniach.",
           "image": "r05_ptaki_nielotne.jpg"
         },
         {
@@ -5191,7 +5186,7 @@
             "do kucia dziupli"
           ],
           "answer": 0,
-          "explanation": "Tak opisano dziób łabędzia, który dzięki listewkom odcedza z wody pokarm, głównie roślinny.",
+          "explanation": "Dziób łabędzia dzięki listewkom umożliwia odcedzanie z wody pokarmu, głównie roślinnego.",
           "image": "r05_dzioby_ptakow.jpg"
         },
         {
@@ -5201,7 +5196,7 @@
           "prompt": "Czaple mają cechy ptaków brodzących w wodzie, na przykład długą szyję i długie cienkie nogi.",
           "options": null,
           "answer": true,
-          "explanation": "Czaple są opisane jako ptaki brodzące w wodzie w poszukiwaniu pokarmu."
+          "explanation": "Czaple są ptakami brodzącymi w wodzie w poszukiwaniu pokarmu."
         },
         {
           "id": "R05_ZPT_06",
@@ -5245,7 +5240,7 @@
             "szpak",
             "szpaki"
           ],
-          "explanation": "Wskazano szpaki jako ptaki, które uszkadzają owoce w sadach."
+          "explanation": "Szpaki mogą uszkadzać owoce w sadach."
         },
         {
           "id": "R05_ZPT_09",
@@ -5381,14 +5376,12 @@
           "options": null,
           "items": [
             "jeleń",
-            "małpa",
             "kret",
             "delfin",
             "nietoperz"
           ],
           "categories": [
             "naziemne",
-            "w koronach drzew",
             "pod ziemią",
             "w wodzie",
             "aktywnie latające"
@@ -5396,9 +5389,6 @@
           "answer": {
             "naziemne": [
               "jeleń"
-            ],
-            "w koronach drzew": [
-              "małpa"
             ],
             "pod ziemią": [
               "kret"
@@ -5410,7 +5400,7 @@
               "nietoperz"
             ]
           },
-          "explanation": "Podaje się przykłady ssaków naziemnych, nadrzewnych, podziemnych, wodnych oraz aktywnie latających.",
+          "explanation": "Ssaki mogą prowadzić naziemny, podziemny lub wodny tryb życia, a niektóre potrafią aktywnie latać.",
           "image": "r05_srodowiska_ssakow.jpg"
         },
         {
@@ -5501,7 +5491,7 @@
           "prompt": "Małżowina uszna występuje tylko u ssaków i ułatwia wychwytywanie dźwięków z otoczenia.",
           "options": null,
           "answer": true,
-          "explanation": "W opisie budowy ssaków podano, że małżowina uszna jest cechą ssaków i pomaga odbierać dźwięki."
+          "explanation": "Małżowina uszna jest cechą ssaków i pomaga odbierać dźwięki."
         },
         {
           "id": "R05_SSB_10",
@@ -5704,7 +5694,7 @@
             "jako przykład stałocieplności"
           ],
           "answer": 0,
-          "explanation": "Niszczenie zapasów żywności przez myszy jest podane jako przykład szkód wyrządzanych przez ssaki."
+          "explanation": "Niszczenie zapasów żywności przez myszy jest przykładem szkód wyrządzanych przez ssaki."
         },
         {
           "id": "R05_ZSS_09",
@@ -5719,7 +5709,7 @@
           "id": "R05_ZSS_10",
           "section": "Ssaki: odżywianie i znaczenie",
           "type": "single_choice",
-          "prompt": "Które ssaki wymieniono jako przenoszące wirusa wścieklizny?",
+          "prompt": "Które ssaki mogą przenosić wirusa wścieklizny?",
           "options": [
             "lisy, borsuki, nietoperze, psy i koty",
             "kury, kaczki, gęsi i indyki",
@@ -5735,7 +5725,7 @@
           "id": "R05_ZSS_11",
           "section": "Ssaki: odżywianie i znaczenie",
           "type": "sequence",
-          "prompt": "Ułóż drogę nasiona rozsiewanego przez sarnę zgodnie z opisem.",
+          "prompt": "Ułóż kolejne etapy rozsiewania nasiona przez sarnę.",
           "options": null,
           "items": [
             "nasiono zostaje usunięte z kałem",
@@ -5804,7 +5794,7 @@
             "budowa dróg przez siedliska"
           ],
           "answer": 0,
-          "explanation": "Zakładanie skrzynek lęgowych i karmników jest wskazane jako działanie pomagające chronić ptaki.",
+          "explanation": "Zakładanie skrzynek lęgowych i karmników pomaga chronić ptaki.",
           "image": "r05_ochrona_zwierzat.jpg"
         },
         {
@@ -5831,7 +5821,7 @@
             "przezroczyste ekrany akustyczne": "ptaki",
             "rozbudowa miast niszcząca siedliska": "ssaki"
           },
-          "explanation": "Wycieki ropy i przezroczyste ekrany opisano przy zagrożeniach dla ptaków, a drogi rozdzielające terytoria i rozbudowę miast przy zagrożeniach dla ssaków."
+          "explanation": "Wycieki ropy i przezroczyste ekrany stanowią zagrożenia dla ptaków, a drogi rozdzielające terytoria i rozbudowa miast zagrażają ssakom."
         },
         {
           "id": "R05_OCH_05",
@@ -5871,7 +5861,7 @@
             "przenoszenie wirusa wścieklizny"
           ],
           "answer": 0,
-          "explanation": "Przy szczególnie surowych zimach wskazuje się dokarmianie jako pomoc dla ptaków i ssaków."
+          "explanation": "Przy szczególnie surowych zimach dokarmianie może pomagać ptakom i ssakom."
         },
         {
           "id": "R05_OCH_07",
@@ -5974,13 +5964,13 @@
           "prompt": "Ochrona ptaków i ssaków polega między innymi na dbaniu o miejsca, w których te zwierzęta żyją.",
           "options": null,
           "answer": true,
-          "explanation": "Wskazuje się ochronę miejsc występowania jako wspólny sposób ochrony ptaków i ssaków."
+          "explanation": "Ochrona miejsc występowania jest wspólnym sposobem ochrony ptaków i ssaków."
         },
         {
           "id": "R05_HARD_01",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Badacz śledzi trasę bociana białego lecącego z Europy do Afryki. Jaki zakres długości takiej drogi podaje się?",
+          "prompt": "Badacz śledzi trasę bociana białego lecącego z Europy do Afryki. Jaki zakres długości może mieć taka droga?",
           "options": [
             "od 2 tys. do 10 tys. km",
             "od 20 km do 100 km",
@@ -5990,7 +5980,7 @@
             "od 1 m do 3 m"
           ],
           "answer": 0,
-          "explanation": "Pod ilustracją z wędrówką bocianów podano, że w drodze do Afryki pokonują od 2 tys. do 10 tys. km."
+          "explanation": "Bociany białe w drodze do Afryki pokonują od 2 tys. do 10 tys. km."
         },
         {
           "id": "R05_HARD_02",
@@ -6045,7 +6035,7 @@
           "id": "R05_HARD_04",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje o pingwinie cesarskim zgodne z tekstem.",
+          "prompt": "Zaznacz prawidłowe informacje o pingwinie cesarskim.",
           "options": [
             "Samica składa w zimie jedno jajo",
             "Samiec ogrzewa jajo na stopach fałdem brzusznym",
@@ -6060,7 +6050,7 @@
             2,
             3
           ],
-          "explanation": "Opis pingwina cesarskiego mówi o jednym jaju składanym zimą, wysiadywanym przez samca na stopach. Samiec pości, a samica wraca przy wykluwaniu pisklęcia."
+          "explanation": "Samica pingwina cesarskiego składa zimą jedno jajo, które samiec ogrzewa na stopach. Samiec pości, a samica wraca w czasie wykluwania pisklęcia."
         },
         {
           "id": "R05_HARD_05",
@@ -6089,7 +6079,7 @@
             "kozica skok około 8 m",
             "zając szarak do 80 km/godz."
           ],
-          "explanation": "Ryjówka jest najmniejsza, żubr najpotężniejszy, kozica jest najlepszym skoczkiem, a zając szarak najszybszym ssakiem Polski według podanych rekordów."
+          "explanation": "Wśród ssaków Polski ryjówka jest najmniejsza, żubr najpotężniejszy, kozica jest najlepszym skoczkiem, a zając szarak najszybszy."
         },
         {
           "id": "R05_HARD_07",
@@ -6098,7 +6088,7 @@
           "prompt": "Dziobaki to ssaki jajorodne zamieszkujące rzeki, stawy i jeziora Australii.",
           "options": null,
           "answer": true,
-          "explanation": "W tekście dodatkowym podano, że dziobaki są ssakami jajorodnymi wodno-lądowymi żyjącymi w Australii."
+          "explanation": "Dziobaki są jajorodnymi ssakami wodno-lądowymi żyjącymi w Australii."
         },
         {
           "id": "R05_HARD_08",
@@ -6172,7 +6162,7 @@
               "skok około 8 m"
             ]
           },
-          "explanation": "Wśród rekordzistów ssaków Polski wymienia się żubra, ryjówkę, zająca szaraka i kozicę z tymi właśnie wartościami."
+          "explanation": "Żubr osiąga do 2 m wysokości i tonę masy, ryjówka ma od 7 do 10 cm długości, zając szarak osiąga do 80 km/godz., a kozica skacze na około 8 m."
         },
         {
           "id": "R05_HARD_11",
@@ -6209,7 +6199,7 @@
             2,
             3
           ],
-          "explanation": "Podsumowanie wskazuje, że kolibry i niektóre nietoperze zapylają kwiaty, a jemiołuszki i wiewiórki pomagają rozsiewać nasiona.",
+          "explanation": "Kolibry i niektóre nietoperze zapylają kwiaty, a jemiołuszki i wiewiórki pomagają rozsiewać nasiona.",
           "image": "r05_pokarm_i_rozsiewanie.jpg"
         }
       ],

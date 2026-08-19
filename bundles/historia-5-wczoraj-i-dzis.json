@@ -1,8 +1,8 @@
 {
   "id": "historia-5-wczoraj-i-dzis",
   "title": "Historia 5 Wczoraj i dziś",
-  "version": 5,
-  "contentHash": "f1271773c49cb91ccc42511728ce7b00c617db0ee7c6c8d1121f25d5327e8ba3",
+  "version": 6,
+  "contentHash": "dab441a4942bd859ac0e59df2ec803ec4c40209cd550d62861e8449a8991112a",
   "bookConfig": {
     "id": "historia-5-wczoraj-i-dzis",
     "title": "Historia 5 Wczoraj i dziś",
@@ -172,7 +172,7 @@
             "brąz": "stop miedzi i cyny",
             "mowa": "sposób szybszego przekazywania informacji"
           },
-          "explanation": "Pięściaki, dymarki, brąz i mowa odnoszą się do różnych umiejętności oraz wynalazków opisanych w temacie."
+          "explanation": "Pięściak był kamiennym narzędziem, dymarka służyła do wytopu żelaza, brąz jest stopem miedzi i cyny, a mowa ułatwiała przekazywanie informacji."
         },
         {
           "id": "R01_ZYC_09",
@@ -541,7 +541,7 @@
             "Hatszepsut": "kobieta-faraon",
             "Howard Carter": "odkrywca grobowca Tutenchamona"
           },
-          "explanation": "Te postacie i bóstwa pojawiają się w opisach religii, władzy oraz odkryć dotyczących Egiptu."
+          "explanation": "Te postacie i bóstwa są związane z religią, władzą oraz odkryciami dotyczącymi Egiptu."
         },
         {
           "id": "R01_EGI_08",
@@ -641,7 +641,7 @@
           "id": "R01_IZR_04",
           "section": "W starożytnym Izraelu",
           "type": "multi_select",
-          "prompt": "Zaznacz pojęcia związane z judaizmem opisane w temacie.",
+          "prompt": "Zaznacz pojęcia związane z judaizmem.",
           "options": [
             "Jahwe",
             "Tora",
@@ -721,7 +721,7 @@
             "Dawid": "zjednoczył plemiona i zdobył Jerozolimę",
             "Salomon": "słynął z mądrości i był synem Dawida"
           },
-          "explanation": "Abraham, Mojżesz, Dawid i Salomon to najważniejsze postacie opisane w temacie o Izraelitach."
+          "explanation": "Abraham, Mojżesz, Dawid i Salomon należą do najważniejszych postaci w dziejach starożytnych Izraelitów."
         },
         {
           "id": "R01_IZR_08",
@@ -769,7 +769,7 @@
           "id": "R01_IND_01",
           "section": "Cywilizacje Indii i Chin",
           "type": "single_choice",
-          "prompt": "Gdzie narodziła się najstarsza cywilizacja Azji Środkowej opisana w temacie?",
+          "prompt": "Gdzie narodziła się najstarsza cywilizacja Azji Środkowej?",
           "options": [
             "w dolinie rzeki Indus",
             "nad Nilem",
@@ -830,7 +830,7 @@
             1,
             2
           ],
-          "explanation": "Jako najważniejszych bogów hinduizmu wymieniono Brahmę, Wisznu i Sziwę."
+          "explanation": "Do najważniejszych bogów hinduizmu należą Brahma, Wisznu i Sziwa."
         },
         {
           "id": "R01_IND_05",
@@ -1063,7 +1063,7 @@
           "id": "R01_PIS_07",
           "section": "Od hieroglifów do alfabetu",
           "type": "sequence",
-          "prompt": "Ułóż etapy rozwoju znaku pisma zgodnie z infografiką.",
+          "prompt": "Ułóż etapy rozwoju znaku pisma w kolejności od najstarszego do współczesnego.",
           "options": null,
           "items": [
             "litera grecka",
@@ -1081,7 +1081,7 @@
             "litera łacińska",
             "pismo współczesne"
           ],
-          "explanation": "Infografika pokazuje przejście od hieroglifu przez pisma alfabetyczne do pisma współczesnego.",
+          "explanation": "Rozwój pisma prowadził od hieroglifów i uproszczonych form pisma egipskiego przez alfabet fenicki, grecki i łaciński do pisma współczesnego.",
           "image": "r01_hieroglify_alfabety.jpg"
         },
         {
@@ -1210,7 +1210,7 @@
             "społeczeństwa bez władzy"
           ],
           "answer": 0,
-          "explanation": "Mezopotamia, Egipt, dolina Indusu i Chiny to przykłady cywilizacji rozwijających się w dolinach wielkich rzek."
+          "explanation": "Mezopotamia, Egipt, dolina Indusu i Chiny rozwijały się w dolinach wielkich rzek."
         },
         {
           "id": "R01_HARD_05",
@@ -1843,7 +1843,7 @@
             "Apollo": "lira",
             "Hades": "Cerber"
           },
-          "explanation": "Greckich bogów rozpoznawano po atrybutach, na przykład Zeus miał piorun, a Posejdon trójząb.",
+          "explanation": "Greckich bogów rozpoznawano po atrybutach: Zeus miał piorun, a Posejdon trójząb.",
           "image": "r02_bogowie_olimpijscy_atrybuty.jpg"
         },
         {
@@ -2170,7 +2170,7 @@
           "id": "R02_KUL_10",
           "section": "Kultura starożytnej Grecji",
           "type": "multi_select",
-          "prompt": "Zaznacz konkurencje wchodzące w skład pięcioboju olimpijskiego według infografiki.",
+          "prompt": "Zaznacz konkurencje wchodzące w skład pięcioboju olimpijskiego.",
           "options": [
             "bieg",
             "skok w dal",
@@ -2237,7 +2237,7 @@
           "prompt": "Macedonia leżała na północ od Grecji i w IV wieku p.n.e. stała się silnym państwem.",
           "options": null,
           "answer": true,
-          "explanation": "Opisuje się Macedonię jako krainę na północ od Grecji, która za Filipa II bardzo się wzmocniła."
+          "explanation": "Macedonia leżała na północ od Grecji i za panowania Filipa II bardzo się wzmocniła."
         },
         {
           "id": "R02_ALE_03",
@@ -2284,7 +2284,7 @@
               "323 roku"
             ]
           ],
-          "explanation": "Oś czasu wskazuje: początek podboju Persji w 334 roku p.n.e., bitwę pod Issos w 333 roku p.n.e. i śmierć Aleksandra w 323 roku p.n.e."
+          "explanation": "Aleksander rozpoczął podbój Persji w 334 roku p.n.e., zwyciężył pod Issos w 333 roku p.n.e., a zmarł w 323 roku p.n.e."
         },
         {
           "id": "R02_ALE_05",
@@ -2465,7 +2465,7 @@
             "334 p.n.e.": "początek podboju Persji przez Aleksandra",
             "323 p.n.e.": "śmierć Aleksandra Wielkiego"
           },
-          "explanation": "Te daty wyznaczają najważniejsze wydarzenia z tematów o igrzyskach, wojnach perskich i wyprawie Aleksandra."
+          "explanation": "Te daty odnoszą się do igrzysk olimpijskich, wojen perskich i wyprawy Aleksandra Wielkiego."
         },
         {
           "id": "R02_HARD_03",
@@ -2540,7 +2540,7 @@
           "id": "R02_HARD_06",
           "section": "Super trudne",
           "type": "fill_in",
-          "prompt": "Latarnia morska na Faros została wzniesiona w __________ wieku p.n.e.; według tekstu ogień na jej około __________-metrowej wieży widziano nawet z __________ kilometrów.",
+          "prompt": "Latarnia morska na Faros została wzniesiona w __________ wieku p.n.e.; ogień na jej około __________-metrowej wieży widziano nawet z __________ kilometrów.",
           "options": null,
           "answer": [
             "III",
@@ -2562,14 +2562,14 @@
               "60 kilometrów"
             ]
           ],
-          "explanation": "Tekst o Faros podaje III wiek p.n.e., około 130 metrów wysokości i widoczność ognia nawet z 60 kilometrów.",
+          "explanation": "Latarnię na Faros wzniesiono w III wieku p.n.e.; miała około 130 metrów wysokości, a jej ogień był widoczny nawet z 60 kilometrów.",
           "image": "r02_latarnia_faros.jpg"
         },
         {
           "id": "R02_HARD_07",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Jak nazywał się architekt, któremu tekst przypisuje projekt latarni aleksandryjskiej na Faros?",
+          "prompt": "Jak nazywał się architekt, któremu przypisuje się projekt latarni aleksandryjskiej na Faros?",
           "options": [
             "Sostratos",
             "Fidiasz",
@@ -2579,7 +2579,7 @@
             "Arystofanes"
           ],
           "answer": 0,
-          "explanation": "W tekście jako projektant latarni występuje Sostratos.",
+          "explanation": "Projekt latarni aleksandryjskiej na Faros przypisuje się Sostratosowi.",
           "image": "r02_latarnia_faros.jpg"
         },
         {
@@ -3633,7 +3633,7 @@
           "id": "R03_BUR_02",
           "section": "Bursztynowy szlak",
           "type": "multi_select",
-          "prompt": "Zaznacz ślady kontaktów ziem polskich z Imperium Rzymskim wymienione w tekście o bursztynowym szlaku.",
+          "prompt": "Zaznacz ślady kontaktów ziem polskich z Imperium Rzymskim związane z bursztynowym szlakiem.",
           "explanation": "Na terenach Polski znajdowano składy bursztynu, rzymskie monety i przedmioty codziennego użytku.",
           "options": [
             "składy bursztynu",
@@ -3684,8 +3684,8 @@
           "id": "R03_BUR_05",
           "section": "Bursztynowy szlak",
           "type": "match",
-          "prompt": "Połącz nazwę z opisem z tekstu o bursztynowym szlaku.",
-          "explanation": "Tekst o bursztynowym szlaku łączy Ptolemeusza, Calisię, Bramę Morawską i Pruszcz Gdański z kontaktami handlowymi.",
+          "prompt": "Połącz nazwę z właściwym opisem.",
+          "explanation": "Ptolemeusz był greckim geografem i astronomem, Calisia pojawia się w starożytnym źródle, Brama Morawska tworzy naturalne przejście między Sudetami i Karpatami, a w Pruszczu Gdańskim zrekonstruowano osadę z czasów rzymskich.",
           "options": null,
           "left": [
             "Ptolemeusz",
@@ -3915,7 +3915,7 @@
           "section": "Super trudne",
           "type": "true_false",
           "prompt": "Pozbawienie władzy Romulusa Augustulusa w 476 roku n.e. historycy uznali za symboliczny koniec starożytności.",
-          "explanation": "Wskazuje się 476 rok n.e. jako upadek cesarstwa zachodniorzymskiego i symboliczny koniec starożytności.",
+          "explanation": "Rok 476 n.e. uznaje się za datę upadku cesarstwa zachodniorzymskiego i symboliczny koniec starożytności.",
           "options": null,
           "answer": true
         },
@@ -4164,7 +4164,7 @@
           "prompt": "Wnętrza kościołów i pałaców bizantyjskich zdobiono freskami oraz mozaikami.",
           "options": null,
           "answer": true,
-          "explanation": "Wskazuje się freski i mozaiki jako charakterystyczne dekoracje wnętrz bizantyjskich."
+          "explanation": "Freski i mozaiki były charakterystycznymi dekoracjami wnętrz bizantyjskich."
         },
         {
           "id": "R04_BIZ_10",
@@ -4391,7 +4391,7 @@
           "prompt": "W VIII wieku Arabowie opanowali ziemie od Indii po Morze Śródziemne, północną Afrykę i część dzisiejszej Hiszpanii.",
           "options": null,
           "answer": true,
-          "explanation": "Wskazuje się taki zasięg podbojów arabskich w VIII wieku.",
+          "explanation": "W VIII wieku podboje arabskie objęły ziemie od Indii po Morze Śródziemne, północną Afrykę i część dzisiejszej Hiszpanii.",
           "image": "r04_wojownik_arabski.jpg"
         },
         {
@@ -4862,7 +4862,7 @@
           "id": "R04_WYP_02",
           "section": "Wyprawy krzyżowe",
           "type": "multi_select",
-          "prompt": "Zaznacz miasta Ziemi Świętej wymienione jako związane z życiem i działalnością Jezusa.",
+          "prompt": "Zaznacz miasta Ziemi Świętej związane z życiem i działalnością Jezusa.",
           "options": [
             "Jerozolima",
             "Betlejem",
@@ -5096,7 +5096,7 @@
               "30 metrów"
             ]
           ],
-          "explanation": "Infografika o Hagia Sophia podaje, że kopuła jest z cegieł i ma ponad 30 metrów średnicy.",
+          "explanation": "Kopułę Hagia Sophia wymurowano z cegieł; ma ponad 30 metrów średnicy.",
           "image": "r04_hagia_sophia_kopula.jpg"
         },
         {
@@ -5202,7 +5202,7 @@
             "Klemens V": "papież, który rozwiązał zakon templariuszy",
             "Filip IV Piękny": "król Francji, który przejął majątek templariuszy"
           },
-          "explanation": "Teksty źródłowe i opowieść o templariuszach podają te mniej oczywiste postacie i ich role."
+          "explanation": "Al-Mansur i al-Ma'mun byli kalifami związanymi z pozyskiwaniem i tłumaczeniem dzieł naukowych, a Klemens V i Filip IV Piękny odegrali kluczowe role w likwidacji zakonu templariuszy."
         },
         {
           "id": "R04_HARD_09",
@@ -5227,7 +5227,7 @@
             "Konkordat wormacki"
           ],
           "answer": 0,
-          "explanation": "O skarbie templariuszy opisano Pergamin z Chinon odnaleziony w Tajnym Archiwum Watykanu."
+          "explanation": "Pergamin z Chinon, odnaleziony w 2001 roku w Tajnym Archiwum Watykanu, miał potwierdzać, że templariusze nie odstąpili od wiary chrześcijańskiej."
         }
       ],
       "kidPrompts": {},
@@ -5498,7 +5498,7 @@
             0,
             1
           ],
-          "explanation": "Podsumowanie tematu wskazuje duchownych i rycerzy jako stany, które uzyskały wpływ na rządy."
+          "explanation": "Duchowieństwo i rycerstwo dzięki przywilejom uzyskały wpływ na rządy w państwie."
         },
         {
           "id": "R05_RYC_01",
@@ -5812,7 +5812,7 @@
           "id": "R05_MIA_05",
           "section": "Średniowieczne miasto i wieś",
           "type": "multi_select",
-          "prompt": "Zaznacz organy samorządu miejskiego wymienione w podsumowaniu tematu.",
+          "prompt": "Zaznacz organy samorządu miejskiego.",
           "options": [
             "Rada miejska",
             "Burmistrz",
@@ -6094,7 +6094,7 @@
           "prompt": "Regułę zakonu franciszkanów zatwierdził w 1223 roku papież Honoriusz III.",
           "options": null,
           "answer": true,
-          "explanation": "Tekst źródłowy podaje, że regułę franciszkanów oficjalnie zatwierdzono w 1223 roku."
+          "explanation": "Regułę franciszkanów oficjalnie zatwierdzono w 1223 roku."
         },
         {
           "id": "R05_KOS_09",
@@ -6292,7 +6292,7 @@
           "id": "R05_SZT_07",
           "section": "Sztuka średniowiecza",
           "type": "single_choice",
-          "prompt": "Katedra Notre Dame w Paryżu jest podana jako przykład którego stylu?",
+          "prompt": "Do którego stylu architektonicznego należy katedra Notre Dame w Paryżu?",
           "options": [
             "Gotyckiego",
             "Romańskiego",
@@ -6409,7 +6409,7 @@
           "id": "R05_HARD_02",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz symbole nadania lenna wymienione przy opisie hołdu lennego.",
+          "prompt": "Zaznacz symbole nadania lenna podczas hołdu lennego.",
           "options": [
             "Włócznia",
             "Chorągiew",
@@ -6433,7 +6433,7 @@
           "prompt": "W średniowiecznej Hiszpanii jeden średniej klasy rumak mógł być wart tyle co 40 krów.",
           "options": null,
           "answer": true,
-          "explanation": "W tekście o turniejach podano, że przegrana mogła być kosztowna, bo koń bojowy miał ogromną wartość."
+          "explanation": "Przegrana w turnieju mogła być kosztowna, ponieważ koń bojowy miał ogromną wartość."
         },
         {
           "id": "R05_HARD_04",
@@ -6449,7 +6449,7 @@
             "Złożenie ślubów zakonnych"
           ],
           "answer": 0,
-          "explanation": "Przykład Williama Marshala pokazuje, że turnieje mogły być sposobem zdobycia dużych korzyści materialnych."
+          "explanation": "William Marshal zdobywał podczas turniejów konie, zbroje i okupy, dlatego udział w nich mógł przynosić duże korzyści materialne."
         },
         {
           "id": "R05_HARD_05",
@@ -6577,7 +6577,7 @@
             ]
           },
           "image": "r05_oltarz_sredniowieczny.jpg",
-          "explanation": "Przykłady pokazują, że sztuka średniowieczna obejmowała różne dziedziny: złotnictwo, malarstwo, rzeźbę i książkarstwo."
+          "explanation": "Sztuka średniowieczna obejmowała między innymi złotnictwo, malarstwo, rzeźbę i książkarstwo."
         },
         {
           "id": "R05_HARD_11",
@@ -6693,7 +6693,7 @@
           "prompt": "Słowianie osiedlali się w Europie wschodniej, środkowej i południowej od V do VIII wieku.",
           "options": null,
           "answer": true,
-          "explanation": "Wskazuje się V-VIII wiek jako czas zasiedlania tych obszarów Europy przez Słowian."
+          "explanation": "Słowianie zasiedlali te obszary Europy od V do VIII wieku."
         },
         {
           "id": "R06_ZAN_03",
@@ -6787,7 +6787,7 @@
             "Świętowit": "pan wojny, płodności i urodzaju",
             "Marzanna": "słowiańska bogini śmierci"
           },
-          "explanation": "Opisuje się te postacie jako elementy wierzeń dawnych Słowian.",
+          "explanation": "Swaróg, Perun, Świętowit i Marzanna należeli do postaci obecnych w wierzeniach dawnych Słowian.",
           "image": "r06_slowianskie_obrzedy.jpg"
         },
         {
@@ -7787,7 +7787,7 @@
             "Kupcy": "sprzedaż towarów na targach",
             "Wojowie": "obrona grodu i okolicznych ziem"
           },
-          "explanation": "Infografika o grodzie w Gnieźnie pokazuje różne grupy mieszkańców i ich zadania.",
+          "explanation": "W grodzie i podgrodziu mieszkali między innymi chłopi, rzemieślnicy, kupcy i wojowie, którzy pełnili różne funkcje.",
           "image": "r06_grod_gniezno.jpg"
         },
         {
@@ -7838,7 +7838,7 @@
           "id": "R06_SPO_08",
           "section": "Społeczeństwo i kronikarze",
           "type": "single_choice",
-          "prompt": "Kto według infografiki najczęściej mieszkał na podgrodziu?",
+          "prompt": "Kto najczęściej mieszkał na podgrodziu?",
           "options": [
             "Rzemieślnicy i kupcy",
             "Tylko książę i jego rodzina",
@@ -8000,13 +8000,13 @@
               "obrona Głogowa"
             ]
           },
-          "explanation": "Każdy zestaw wskazuje charakterystyczne osoby lub skutki najważniejszych wydarzeń."
+          "explanation": "Poszczególne osoby i skutki są związane z chrztem Mieszka I, zjazdem gnieźnieńskim, kryzysem XI wieku lub najazdem z 1109 roku."
         },
         {
           "id": "R06_HARD_03",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Wincenty Kadłubek opisał zwycięstwo Krzywoustego nad Niemcami na Psim Polu, ale Gall Anonim piszący kilka lat po najazdzie o takiej bitwie nie wspomniał, a badania archeologiczne jej nie potwierdziły. Jaki wniosek przedstawia się?",
+          "prompt": "Wincenty Kadłubek opisał zwycięstwo Krzywoustego nad Niemcami na Psim Polu, ale Gall Anonim piszący kilka lat po najazdzie o takiej bitwie nie wspomniał, a badania archeologiczne jej nie potwierdziły. Jaki wniosek jest najbardziej uzasadniony?",
           "options": [
             "Uczeni uznali opowieść o Psim Polu za wymyśloną",
             "Bitwa na Psim Polu jest najlepiej potwierdzoną bitwą tego okresu",
@@ -8339,7 +8339,7 @@
           "prompt": "Wskaż, co nie pasuje do pozostałych: Plątonogi, Łysy, Garbaty, Wierzynek.",
           "options": null,
           "answer": "Wierzynek",
-          "explanation": "Plątonogi, Łysy i Garbaty to przykłady przydomków książąt piastowskich, a Wierzynek był krakowskim mieszczaninem z czasów Kazimierza Wielkiego."
+          "explanation": "Plątonogi, Łysy i Garbaty były przydomkami książąt piastowskich, a Wierzynek był krakowskim mieszczaninem z czasów Kazimierza Wielkiego."
         },
         {
           "id": "R07_ZJE_01",
@@ -9239,7 +9239,7 @@
           ],
           "answer": 0,
           "image": "r07_podzial_polski_dzielnice.jpg",
-          "explanation": "Śmierć Leszka Białego w 1227 roku jest wskazana jako ostateczny upadek władzy zwierzchniej seniora."
+          "explanation": "Śmierć Leszka Białego w 1227 roku uznaje się za ostateczny upadek zwierzchniej władzy seniora nad pozostałymi Piastami."
         },
         {
           "id": "R07_HARD_02",

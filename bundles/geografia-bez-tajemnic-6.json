@@ -1,8 +1,8 @@
 {
   "id": "geografia-bez-tajemnic-6",
   "title": "Geografia bez tajemnic. Klasa 6",
-  "version": 4,
-  "contentHash": "5a5e450215219a056c6944d893391b3043de2eb2e0ff22279f38da62a0f58ab8",
+  "version": 5,
+  "contentHash": "326e8ec54f615f13b38462dad5c74cad4e1c4ce1a8d7a588c06e32c0f672e008",
   "bookConfig": {
     "id": "geografia-bez-tajemnic-6",
     "title": "Geografia bez tajemnic. Klasa 6",
@@ -88,7 +88,7 @@
             2
           ],
           "image": "r01_poludniki_globus.jpg",
-          "explanation": "Długość geograficzną podaje się w miarach kątowych, odczytuje z południków i określa jako wschodnią lub zachodnią."
+          "explanation": "Długość geograficzna jest wyrażana w miarach kątowych, odczytywana z południków i określana jako wschodnia lub zachodnia."
         },
         {
           "id": "R01_DLU_05",
@@ -438,7 +438,7 @@
           "id": "R01_WSP_04",
           "section": "Współrzędne geograficzne",
           "type": "scenario",
-          "prompt": "Organizator wycieczki podał współrzędne 53°46'N, 20°28'E. Który Olsztyn wskazują te współrzędne według przykładu?",
+          "prompt": "Organizator wycieczki podał współrzędne 53°46'N, 20°28'E. Który Olsztyn wskazują te współrzędne?",
           "options": [
             "Olsztyn na Pojezierzu Mazurskim",
             "Olsztyn na Wyżynie Krakowsko-Częstochowskiej",
@@ -495,7 +495,7 @@
           "id": "R01_WSP_07",
           "section": "Współrzędne geograficzne",
           "type": "multi_select",
-          "prompt": "Zaznacz sytuacje z życia codziennego, w których wskazuje się wykorzystanie współrzędnych geograficznych.",
+          "prompt": "Zaznacz sytuacje z życia codziennego, w których wykorzystuje się współrzędne geograficzne.",
           "options": [
             "wyznaczanie trasy podróży",
             "śledzenie zamówionej przesyłki",
@@ -509,7 +509,7 @@
             1,
             2
           ],
-          "explanation": "Przykłady związane z GPS to: wyznaczanie trasy, śledzenie przesyłki i gry wymagające określenia lokalizacji."
+          "explanation": "GPS wykorzystuje się m.in. do wyznaczania trasy, śledzenia przesyłki i w grach wymagających określenia lokalizacji."
         },
         {
           "id": "R01_WSP_08",
@@ -640,13 +640,13 @@
             "odejmujemy",
             "dodajemy"
           ],
-          "explanation": "Pokazano zasadę: na tej samej półkuli wartości odejmujemy, a na różnych półkulach dodajemy."
+          "explanation": "Na tej samej półkuli wartości odejmuje się, a na różnych półkulach dodaje."
         },
         {
           "id": "R01_ROZ_05",
           "section": "Rozciągłość obszarów",
           "type": "scenario",
-          "prompt": "Afryka ma punkt najdalej na północ przy 37°N i punkt najdalej na południe przy 35°S. Ile wynosi jej rozciągłość południkowa według przykładu?",
+          "prompt": "Afryka ma punkt najdalej na północ przy 37°N i punkt najdalej na południe przy 35°S. Ile wynosi jej rozciągłość południkowa?",
           "options": [
             "72°",
             "2°",
@@ -663,7 +663,7 @@
           "id": "R01_ROZ_06",
           "section": "Rozciągłość obszarów",
           "type": "scenario",
-          "prompt": "Afryka ma punkt najdalej na zachód przy 18°W i punkt najdalej na wschód przy 51°E. Ile wynosi jej rozciągłość równoleżnikowa według przykładu?",
+          "prompt": "Afryka ma punkt najdalej na zachód przy 18°W i punkt najdalej na wschód przy 51°E. Ile wynosi jej rozciągłość równoleżnikowa?",
           "options": [
             "69°",
             "33°",
@@ -701,7 +701,7 @@
             "Przylądek Raas Xaafuun": "10°N, 51°E"
           },
           "image": "r01_afryka_skrajne_punkty.jpg",
-          "explanation": "Przykład podaje współrzędne czterech skrajnych punktów Afryki."
+          "explanation": "Cztery skrajne punkty Afryki mają określone współrzędne geograficzne."
         },
         {
           "id": "R01_ROZ_08",
@@ -759,7 +759,7 @@
           "id": "R01_ROZ_11",
           "section": "Rozciągłość obszarów",
           "type": "scenario",
-          "prompt": "Skrajny zachodni punkt lądowej Australii podano przy 113°E, a skrajny wschodni przy 154°E. Ile wynosi rozciągłość równoleżnikowa?",
+          "prompt": "Skrajny zachodni punkt lądowej Australii leży przy 113°E, a skrajny wschodni przy 154°E. Ile wynosi rozciągłość równoleżnikowa?",
           "options": [
             "41°",
             "267°",
@@ -775,7 +775,7 @@
           "id": "R01_ROZ_12",
           "section": "Rozciągłość obszarów",
           "type": "sequence",
-          "prompt": "Ułóż działania potrzebne do obliczenia rozciągłości Afryki w przykładzie.",
+          "prompt": "Ułóż działania potrzebne do obliczenia rozciągłości Afryki.",
           "options": null,
           "items": [
             "Oblicz rozciągłość równoleżnikową z długości punktów W i E",
@@ -790,7 +790,7 @@
             "Oblicz rozciągłość równoleżnikową z długości punktów W i E"
           ],
           "image": "r01_afryka_skrajne_punkty.jpg",
-          "explanation": "Najpierw wskazuje się skrajne punkty, potem zapisuje współrzędne N i S oraz W i E, a następnie wykonuje odpowiednie dodawanie albo odejmowanie."
+          "explanation": "Najpierw należy ustalić skrajne punkty, potem zapisać współrzędne N i S oraz W i E, a następnie wykonać odpowiednie dodawanie albo odejmowanie."
         },
         {
           "id": "R01_GPS_01",
@@ -840,7 +840,7 @@
             4
           ],
           "image": "r01_odbiornik_gps.jpg",
-          "explanation": "Wymienia się między innymi podawanie współrzędnych, wyszukiwanie punktu, zapis trasy, obliczanie długości i pokonanej wysokości oraz wskazywanie kierunków świata."
+          "explanation": "GPS umożliwia m.in. podawanie współrzędnych, wyszukiwanie punktu, zapis trasy, obliczanie długości i pokonanej wysokości oraz wskazywanie kierunków świata."
         },
         {
           "id": "R01_GPS_04",
@@ -855,7 +855,7 @@
           "id": "R01_GPS_05",
           "section": "GPS i siatki",
           "type": "scenario",
-          "prompt": "Aplikacja pokazuje położenie raz jako 51°50'36'N, 19°28'37'E, a raz jako 51.843333N, 19.476944E. Co pokazuje ten przykład?",
+          "prompt": "Aplikacja pokazuje położenie raz jako 51°50'36'N, 19°28'37'E, a raz jako 51.843333N, 19.476944E. Co wynika z tych dwóch zapisów?",
           "options": [
             "dwa sposoby zapisu współrzędnych geograficznych",
             "dwie różne półkule jednocześnie",
@@ -994,7 +994,7 @@
             "równoleżnik"
           ],
           "image": "r01_siatka_geograficzna_globus.jpg",
-          "explanation": "Podsumowanie działu podaje, że przez każdy punkt poza biegunami przechodzi jeden południk i jeden równoleżnik."
+          "explanation": "Przez każdy punkt na powierzchni Ziemi, poza biegunami, przechodzi jeden południk i jeden równoleżnik."
         },
         {
           "id": "R01_HARD_01",
@@ -1029,7 +1029,7 @@
             ]
           ],
           "image": "r01_greenwich_obserwatorium.jpg",
-          "explanation": "Wskazano obserwatorium w Greenwich jako miejsce dawnego południka początkowego."
+          "explanation": "Dawny południk początkowy przebiegał przez obserwatorium w Greenwich."
         },
         {
           "id": "R01_HARD_03",
@@ -1102,7 +1102,7 @@
           "id": "R01_HARD_07",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz nazwy szerokości geograficznych na półkuli południowej wymienione w ciekawostce żeglarskiej.",
+          "prompt": "Zaznacz żeglarskie określenia szerokości geograficznych na półkuli południowej.",
           "options": [
             "ryczące czterdziestki",
             "wyjące pięćdziesiątki",
@@ -1185,7 +1185,7 @@
           "id": "R01_HARD_11",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz dwa sposoby zapisu tej samej wartości współrzędnych z przykładu aplikacji GPS.",
+          "prompt": "Połącz dwa sposoby zapisu tej samej wartości współrzędnych geograficznych.",
           "options": null,
           "left": [
             "51°50'36'N",
@@ -1210,7 +1210,7 @@
           "options": null,
           "answer": "Greenwich",
           "image": "r01_afryka_skrajne_punkty.jpg",
-          "explanation": "Trzy pierwsze nazwy to skrajne punkty Afryki z przykładu, a Greenwich dotyczy południka początkowego."
+          "explanation": "Trzy pierwsze nazwy to skrajne punkty Afryki, a Greenwich dotyczy południka początkowego."
         },
         {
           "id": "R01_HARD_13",
@@ -1285,7 +1285,7 @@
             "teoria stref czasowych"
           ],
           "answer": 0,
-          "explanation": "Opisuje się teorię Wielkiego Wybuchu: początkowo materia i energia były skupione w jednym punkcie, a około 13,8 miliarda lat temu nastąpił gwałtowny wybuch."
+          "explanation": "Teoria Wielkiego Wybuchu zakłada, że początkowo materia i energia były skupione w jednym punkcie, a około 13,8 miliarda lat temu nastąpił gwałtowny wybuch."
         },
         {
           "id": "R02_ZWS_02",
@@ -1325,7 +1325,7 @@
             "Słońce",
             "Ziemia"
           ],
-          "explanation": "W podsumowaniu pokazano drogę od grup galaktyk przez Galaktykę i układ planetarny do Słońca oraz planet.",
+          "explanation": "Od największej do najmniejszej skali kolejność obejmuje grupę galaktyk, Galaktykę, układ planetarny, Słońce i planety.",
           "image": "r02_uklad_sloneczny.jpg"
         },
         {
@@ -1539,7 +1539,7 @@
             1,
             2
           ],
-          "explanation": "Podsumowanie wymienia jako następstwa ruchu obrotowego: dzień i noc, pozorny ruch Słońca oraz różnice czasu między punktami na różnych długościach geograficznych."
+          "explanation": "Następstwami ruchu obrotowego są dzień i noc, pozorny ruch Słońca oraz różnice czasu między punktami na różnych długościach geograficznych."
         },
         {
           "id": "R02_ROB_05",
@@ -1669,7 +1669,7 @@
           "id": "R02_CZA_02",
           "section": "Czas na Ziemi",
           "type": "match",
-          "prompt": "Połącz kąt obrotu Ziemi z czasem podanym w podsumowaniu.",
+          "prompt": "Połącz kąt obrotu Ziemi z odpowiadającym mu czasem.",
           "options": null,
           "left": [
             "1 stopień",
@@ -1689,7 +1689,7 @@
             "180 stopni": "12 godzin",
             "360 stopni": "24 godziny"
           },
-          "explanation": "Podsumowanie pokazuje zależności między kątem obrotu Ziemi a czasem: 1 stopień w 4 minuty, 15 stopni w godzinę, 180 stopni w 12 godzin i 360 stopni w 24 godziny."
+          "explanation": "Zależność między kątem obrotu Ziemi a czasem wynosi: 1 stopień w 4 minuty, 15 stopni w godzinę, 180 stopni w 12 godzin i 360 stopni w 24 godziny."
         },
         {
           "id": "R02_CZA_03",
@@ -1765,7 +1765,7 @@
             1,
             2
           ],
-          "explanation": "Czas urzędowy wynika z decyzji administracyjnych; w Polsce obowiązuje czas letni i zimowy, a czas letni opisano jako wschodnioeuropejski."
+          "explanation": "Czas urzędowy wynika z decyzji administracyjnych; w Polsce obowiązuje czas letni i zimowy, a czas letni odpowiada czasowi wschodnioeuropejskiemu."
         },
         {
           "id": "R02_CZA_08",
@@ -1827,7 +1827,7 @@
             "Dzielimy 360 stopni przez 24",
             "Wniosek: w godzinę Ziemia obraca się o 15 stopni"
           ],
-          "explanation": "Pokazuje się zależność 360 stopni w 24 godziny, a po podzieleniu otrzymujemy 15 stopni w godzinę."
+          "explanation": "Ziemia obraca się o 360 stopni w 24 godziny, czyli o 15 stopni w ciągu godziny."
         },
         {
           "id": "R02_ROG_01",
@@ -1878,7 +1878,7 @@
           "id": "R02_ROG_04",
           "section": "Ruch obiegowy Ziemi",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy ruchu obiegowego Ziemi podane w podsumowaniu.",
+          "prompt": "Zaznacz cechy ruchu obiegowego Ziemi.",
           "options": [
             "Ziemia obiega Słońce po orbicie w kształcie elipsy",
             "Ziemia porusza się przeciwnie do ruchu wskazówek zegara",
@@ -1891,7 +1891,7 @@
             1,
             2
           ],
-          "explanation": "Podsumowanie wskazuje eliptyczną orbitę, kierunek przeciwny do ruchu wskazówek zegara oraz stałe nachylenie osi do płaszczyzny orbity."
+          "explanation": "Ruch obiegowy Ziemi odbywa się po eliptycznej orbicie, przeciwnie do ruchu wskazówek zegara, przy stałym nachyleniu osi do płaszczyzny orbity."
         },
         {
           "id": "R02_ROG_05",
@@ -1917,7 +1917,7 @@
             "23 września": "jesień",
             "22 grudnia": "zima"
           },
-          "explanation": "Na półkuli północnej podano daty początków pór roku: 21 marca, 22 czerwca, 23 września i 22 grudnia."
+          "explanation": "Na półkuli północnej początki pór roku przypadają na 21 marca, 22 czerwca, 23 września i 22 grudnia."
         },
         {
           "id": "R02_ROG_06",
@@ -2141,7 +2141,7 @@
             "galaktyczna"
           ],
           "answer": 0,
-          "explanation": "Tak opisano strefy podbiegunowe: Słońce góruje tam nisko, a do powierzchni dociera mało energii."
+          "explanation": "W strefach podbiegunowych Słońce góruje nisko, a do powierzchni dociera mało energii."
         },
         {
           "id": "R02_STO_09",
@@ -2305,7 +2305,7 @@
             "zaczyna się rok przestępny"
           ],
           "answer": 0,
-          "explanation": "Mapa i opis linii zmiany daty podają, że przy przekraczaniu jej z zachodu na wschód zyskujemy jeden dzień.",
+          "explanation": "Przy przekraczaniu międzynarodowej linii zmiany daty z zachodu na wschód zyskuje się jeden dzień.",
           "image": "r02_linia_zmiany_daty.jpg"
         },
         {
@@ -2324,7 +2324,7 @@
               "46 sekund"
             ]
           ],
-          "explanation": "Podaje się dokładny czas pełnego obiegu Ziemi jako 365 dni 5 godz. 48 min 46 s."
+          "explanation": "Pełny obieg Ziemi wokół Słońca trwa 365 dni 5 godz. 48 min 46 s."
         },
         {
           "id": "R02_HARD_10",
@@ -2340,7 +2340,7 @@
             "180 stopni"
           ],
           "answer": 0,
-          "explanation": "W opisie ruchu obiegowego podano, że oś Ziemi jest nachylona do płaszczyzny orbity pod stałym kątem 66 stopni 34 minuty."
+          "explanation": "Oś Ziemi jest nachylona do płaszczyzny orbity pod stałym kątem 66 stopni 34 minuty."
         },
         {
           "id": "R02_HARD_11",
@@ -2551,7 +2551,7 @@
             "najdłuższa rzeka Europy": "Wołga",
             "najwyższy szczyt Europy": "Mont Blanc"
           },
-          "explanation": "Wskazuje się Wielką Brytanię, Półwysep Skandynawski, Wołgę i Mont Blanc jako ważne europejskie przykłady geograficzne."
+          "explanation": "Wielka Brytania, Półwysep Skandynawski, Wołga i Mont Blanc należą do ważnych europejskich obiektów geograficznych."
         },
         {
           "id": "R03_POL_07",
@@ -2608,7 +2608,7 @@
             "Polska",
             "kraje bałtyckie"
           ],
-          "explanation": "Opisuje się pas nizin od Francji przez Belgię, Holandię, Niemcy i Polskę po kraje bałtyckie."
+          "explanation": "Pas nizin rozciąga się od Francji przez Belgię, Holandię, Niemcy i Polskę po kraje bałtyckie."
         },
         {
           "id": "R03_POL_09",
@@ -2645,7 +2645,7 @@
           "id": "R03_POL_11",
           "section": "Położenie i krajobrazy Europy",
           "type": "single_choice",
-          "prompt": "Który łańcuch górski wyznacza wschodnią granicę Europy w opisie?",
+          "prompt": "Który łańcuch górski wyznacza wschodnią granicę Europy?",
           "options": [
             "Alpy",
             "Pireneje",
@@ -3044,7 +3044,7 @@
           "id": "R03_ISL_08",
           "section": "Islandia - wyspa ognia",
           "type": "scenario",
-          "prompt": "W 2010 roku pyły i popioły z islandzkiej erupcji doprowadziły do kilkudniowego paraliżu ruchu lotniczego w Europie. Który wulkan podaje się jako przykład?",
+          "prompt": "W 2010 roku pyły i popioły z islandzkiej erupcji doprowadziły do kilkudniowego paraliżu ruchu lotniczego w Europie. Który wulkan wywołał tę erupcję?",
           "options": [
             "Eyjafjallajökull",
             "Etna",
@@ -3055,7 +3055,7 @@
           ],
           "answer": 0,
           "image": "r03_erupcja_eyjafjallajokull.jpg",
-          "explanation": "Opisuje się erupcję wulkanu Eyjafjallajökull z 2010 roku, której pyły utrudniły komunikację lotniczą."
+          "explanation": "Erupcja wulkanu Eyjafjallajökull w 2010 roku spowodowała emisję pyłów, które utrudniły komunikację lotniczą."
         },
         {
           "id": "R03_ISL_09",
@@ -3121,7 +3121,7 @@
             "zmiana granicy Europy"
           ],
           "answer": 0,
-          "explanation": "Podaje się wydarzenia z lat 2021-2024 koło Grindavik jako przykład zagrożeń związanych z aktywnymi wulkanami."
+          "explanation": "Wydarzenia z lat 2021-2024 w rejonie Grindaviku pokazują zagrożenia związane z aktywnymi wulkanami."
         },
         {
           "id": "R03_ENE_01",
@@ -3241,7 +3241,7 @@
           "id": "R03_ENE_06",
           "section": "Energia w Europie",
           "type": "single_choice",
-          "prompt": "Który kraj wskazuje się jako państwo o największym udziale elektrowni jądrowych w ogólnej produkcji energii?",
+          "prompt": "Który kraj ma największy udział elektrowni jądrowych w ogólnej produkcji energii?",
           "options": [
             "Francja",
             "Islandia",
@@ -3251,7 +3251,7 @@
             "Norwegia"
           ],
           "answer": 0,
-          "explanation": "Podaje się Francję jako kraj o największym udziale elektrowni jądrowych w ogólnej produkcji energii."
+          "explanation": "Francja ma największy udział elektrowni jądrowych w ogólnej produkcji energii."
         },
         {
           "id": "R03_ENE_07",
@@ -3407,7 +3407,7 @@
               "gorące"
             ]
           ],
-          "explanation": "Wskazuje się słoneczne, upalne lato oraz łagodną, deszczową zimę jako cechy sprzyjające turystyce i uprawom."
+          "explanation": "Słoneczne, upalne lato oraz łagodna, deszczowa zima sprzyjają turystyce i uprawom."
         },
         {
           "id": "R03_TUR_04",
@@ -3434,7 +3434,7 @@
             "Bazylika św. Piotra": "Watykan"
           },
           "image": "r03_zabytki_morza_srodziemnego.jpg",
-          "explanation": "Wymienia się Akropol w Atenach, Koloseum w Rzymie, Sagradę Familię w Barcelonie i Bazylikę św. Piotra w Watykanie."
+          "explanation": "Do ważnych zabytków należą Akropol w Atenach, Koloseum w Rzymie, Sagrada Familia w Barcelonie i Bazylika św. Piotra w Watykanie."
         },
         {
           "id": "R03_TUR_05",
@@ -3495,7 +3495,7 @@
           ],
           "answer": 0,
           "image": "r03_zabytki_morza_srodziemnego.jpg",
-          "explanation": "Bazylika św. Piotra znajduje się w Watykanie, który podaje się jako przykład miejsca kultu religijnego."
+          "explanation": "Bazylika św. Piotra znajduje się w Watykanie, ważnym miejscu kultu religijnego."
         },
         {
           "id": "R03_TUR_08",
@@ -3631,7 +3631,7 @@
             ]
           ],
           "image": "r03_mapa_hipsometryczna_europy.jpg",
-          "explanation": "Podaje się długość wybrzeży bez wysp jako 38 tys. km i wskazuje, że półwyspy zajmują około jedną czwartą kontynentu."
+          "explanation": "Długość wybrzeży Europy bez wysp wynosi około 38 tys. km, a półwyspy zajmują około jedną czwartą kontynentu."
         },
         {
           "id": "R03_HARD_03",
@@ -3722,7 +3722,7 @@
           "id": "R03_HARD_08",
           "section": "Super trudne",
           "type": "riddle",
-          "prompt": "Państwo kościelne na terenie Rzymu, wymienione jako ważne miejsce kultu religijnego, to...",
+          "prompt": "Państwo kościelne na terenie Rzymu, będące ważnym miejscem kultu religijnego, to...",
           "options": null,
           "answer": "Watykan",
           "altAnswers": [
@@ -3739,7 +3739,7 @@
           "prompt": "Węgiel kamienny dawniej stanowił główne źródło energii w Europie, ale obecnie jego wydobycie i udział w produkcji energii spadają.",
           "options": null,
           "answer": true,
-          "explanation": "Wskazuje się spadek znaczenia węgla, choć część krajów nadal posiada kopalnie i elektrownie węglowe."
+          "explanation": "Znaczenie węgla spada, choć część krajów nadal posiada kopalnie i elektrownie węglowe."
         },
         {
           "id": "R03_HARD_10",
@@ -3890,7 +3890,7 @@
             3
           ],
           "image": "r04_flaga_unii_europejskiej.jpg",
-          "explanation": "Wskazuje się m.in. swobodniejsze podróżowanie, możliwość pracy w innych krajach, łatwiejszy handel bez ceł oraz wykorzystanie środków ze wspólnego budżetu."
+          "explanation": "Do skutków integracji europejskiej należą m.in. swobodniejsze podróżowanie, możliwość pracy w innych krajach, łatwiejszy handel bez ceł oraz wykorzystanie środków ze wspólnego budżetu."
         },
         {
           "id": "R04_UNI_03",
@@ -4057,7 +4057,7 @@
           "prompt": "Gęstość zaludnienia to liczba osób przypadających na jednostkę powierzchni, zwykle na kilometr kwadratowy.",
           "options": null,
           "answer": true,
-          "explanation": "Tak definiuje się gęstość zaludnienia. Dzięki temu można porównywać zaludnienie państw i regionów o różnej powierzchni."
+          "explanation": "Gęstość zaludnienia to liczba osób przypadających na jednostkę powierzchni. Dzięki temu można porównywać zaludnienie państw i regionów o różnej powierzchni."
         },
         {
           "id": "R04_LUD_04",
@@ -4081,7 +4081,7 @@
               "ok. 70"
             ]
           ],
-          "explanation": "Podaje się oba wskaźniki jako przykłady opisu zaludnienia: liczbę ludności oraz gęstość zaludnienia."
+          "explanation": "Zaludnienie można określać za pomocą liczby ludności oraz gęstości zaludnienia."
         },
         {
           "id": "R04_LUD_05",
@@ -4121,7 +4121,7 @@
           ],
           "answer": 0,
           "image": "r04_osiedle_robotnicze_gorny_slask.jpg",
-          "explanation": "Rozwój kopalń i zakładów przetwarzających surowce przyciągał pracowników. podano przykład Górnego Śląska."
+          "explanation": "Rozwój kopalń i zakładów przetwarzających surowce przyciągał pracowników, czego przykładem jest Górny Śląsk."
         },
         {
           "id": "R04_LUD_08",
@@ -4223,7 +4223,7 @@
             3,
             4
           ],
-          "explanation": "Wymieniono m.in. chęć zdobycia wykształcenia, karierę, niezależność finansową, realizację pasji, wysokie ceny mieszkań i niestabilną sytuację zawodową."
+          "explanation": "Do przyczyn odkładania decyzji o założeniu rodziny należą m.in. chęć zdobycia wykształcenia, kariera, niezależność finansowa, realizacja pasji, wysokie ceny mieszkań i niestabilna sytuacja zawodowa."
         },
         {
           "id": "R04_STA_03",
@@ -4445,7 +4445,7 @@
           "prompt": "Co nie pasuje do prac często wykonywanych przez imigrantów: usługi porządkowe, usługi budowlane, usługi gastronomiczne, wydobycie węgla.",
           "options": null,
           "answer": "wydobycie węgla",
-          "explanation": "Jako częste zajęcia imigrantów wskazano m.in. usługi porządkowe, budowlane, gastronomiczne i transportowe, a nie wydobycie węgla."
+          "explanation": "Imigranci często pracują m.in. w usługach porządkowych, budowlanych, gastronomicznych i transportowych, a nie przy wydobyciu węgla."
         },
         {
           "id": "R04_MIG_07",
@@ -4538,7 +4538,7 @@
           ],
           "answer": 0,
           "image": "r04_centra_londynu_paryza.jpg",
-          "explanation": "Londyńskie City jest opisane jako jedno z najważniejszych centrów finansowych na świecie."
+          "explanation": "Londyńskie City jest jednym z najważniejszych centrów finansowych na świecie."
         },
         {
           "id": "R04_MIA_02",
@@ -4605,7 +4605,7 @@
             "aglomeracja",
             "aglomerację"
           ],
-          "explanation": "Tak definiuje się aglomerację. Paryż i Londyn tworzą aglomeracje liczące ponad 10 milionów mieszkańców."
+          "explanation": "Aglomeracja to zespół miast powiązanych funkcjonalnie z dominującym ośrodkiem centralnym. Paryż i Londyn tworzą aglomeracje liczące ponad 10 milionów mieszkańców."
         },
         {
           "id": "R04_MIA_06",
@@ -4716,7 +4716,7 @@
             2,
             3
           ],
-          "explanation": "Wskazuje się m.in. przewagę zatrudnienia w usługach, wysoką wydajność pracy i wykorzystywanie najnowszych osiągnięć techniki, komputerów oraz robotów."
+          "explanation": "Nowoczesną gospodarkę cechują m.in. przewaga zatrudnienia w usługach, wysoka wydajność pracy i wykorzystywanie najnowszych osiągnięć techniki, komputerów oraz robotów."
         },
         {
           "id": "R04_FRA_03",
@@ -4748,7 +4748,7 @@
             ]
           ],
           "image": "r04_elektrownia_jadrowa_francja.jpg",
-          "explanation": "Opisano energetykę jądrową oraz przemysł lotniczy jako ważne elementy nowoczesnej gospodarki Francji."
+          "explanation": "Energetyka jądrowa oraz przemysł lotniczy są ważnymi elementami nowoczesnej gospodarki Francji."
         },
         {
           "id": "R04_FRA_05",
@@ -4771,7 +4771,7 @@
           "prompt": "Co nie pasuje do kategorii usług: usługi finansowe, usługi medyczne, usługi transportowe, wydobycie surowców.",
           "options": null,
           "answer": "wydobycie surowców",
-          "explanation": "Wydobycie surowców należy do przemysłu, a nie do usług. Usługi finansowe, medyczne i transportowe są podane jako ważne kategorie usług."
+          "explanation": "Wydobycie surowców należy do przemysłu, a nie do usług. Do ważnych kategorii usług należą usługi finansowe, medyczne i transportowe."
         },
         {
           "id": "R04_FRA_07",
@@ -4845,7 +4845,7 @@
               "transport TGV"
             ]
           },
-          "explanation": "Energetyka, lotnictwo i produkcja gier są opisane jako przykłady nowoczesnego przemysłu lub działalności przemysłowo-technologicznej, a bankowość, medycyna i transport jako usługi."
+          "explanation": "Energetyka, lotnictwo i produkcja gier należą do nowoczesnego przemysłu lub działalności przemysłowo-technologicznej, a bankowość, medycyna i transport do usług."
         },
         {
           "id": "R04_HARD_01",
@@ -4886,7 +4886,7 @@
             4
           ],
           "image": "r04_mapa_podzialu_politycznego_europy.jpg",
-          "explanation": "Po rozpadzie Związku Sowieckiego powstały m.in. Rosja, Ukraina, Białoruś, Estonia, Litwa, Łotwa i Mołdawia. Słowenia i Chorwacja są wymienione przy rozpadzie Jugosławii."
+          "explanation": "Po rozpadzie Związku Sowieckiego powstały m.in. Rosja, Ukraina, Białoruś, Estonia, Litwa, Łotwa i Mołdawia. Słowenia i Chorwacja powstały po rozpadzie Jugosławii."
         },
         {
           "id": "R04_HARD_03",
@@ -4895,7 +4895,7 @@
           "prompt": "Turcja i Kazachstan leżą w większości w Azji, a tylko ich niewielkie fragmenty należą do Europy.",
           "options": null,
           "answer": true,
-          "explanation": "Podaje się te dwa państwa jako przykłady krajów, które według części kryteriów zalicza się do Europy tylko fragmentarycznie."
+          "explanation": "Rosja i Turcja według części kryteriów są zaliczane do Europy tylko fragmentarycznie."
         },
         {
           "id": "R04_HARD_04",
@@ -4939,7 +4939,7 @@
           "prompt": "Co nie pasuje do przeszkód w zakładaniu rodziny: wysokie ceny mieszkań, niestabilna sytuacja zawodowa, zdobywanie wykształcenia, stabilna sytuacja zawodowa.",
           "options": null,
           "answer": "stabilna sytuacja zawodowa",
-          "explanation": "Stabilna sytuacja zawodowa nie jest przeszkodą. Wskazuje się raczej niestabilną sytuację zawodową, koszty mieszkań oraz odkładanie rodziny z powodu edukacji i kariery."
+          "explanation": "Stabilna sytuacja zawodowa nie jest przeszkodą; znaczenie mają raczej niestabilność zatrudnienia, koszty mieszkań oraz odkładanie rodziny z powodu edukacji i kariery."
         },
         {
           "id": "R04_HARD_07",
@@ -5181,7 +5181,7 @@
               "ciężki"
             ]
           ],
-          "explanation": "Zagłębie Ruhry przedstawiono jako jedno z głównych skupisk przemysłu ciężkiego Niemiec.",
+          "explanation": "Zagłębie Ruhry było jednym z głównych skupisk przemysłu ciężkiego w Niemczech.",
           "image": "r05_zaglebie_ruhry_kopalnie.jpg"
         },
         {
@@ -5196,7 +5196,7 @@
             "Nadrenia Polnocna-Westfalia",
             "Nadrenia Północna Westfalia"
           ],
-          "explanation": "Zmiany w niemieckim przemyśle omówiono na przykładzie Nadrenii Północnej-Westfalii, wskazanej jako najbardziej uprzemysłowiony region kraju.",
+          "explanation": "Nadrenia Północna-Westfalia jest najbardziej uprzemysłowionym regionem Niemiec i dobrze ilustruje przemiany niemieckiego przemysłu.",
           "image": "r05_nadrenia_przemysl.jpg"
         },
         {
@@ -5247,7 +5247,7 @@
             "Lata 60. i 70. XX wieku": "decyzja o stopniowej likwidacji kopalń",
             "Początek XXI wieku": "automatyzacja i komputeryzacja zakładów"
           },
-          "explanation": "Tabela rozwoju regionu pokazuje przejście od górnictwa i hutnictwa przez powojenny szczyt przemysłu ciężkiego do likwidacji kopalń oraz nowoczesnej produkcji."
+          "explanation": "Rozwój regionu przebiegał od górnictwa i hutnictwa przez powojenny szczyt przemysłu ciężkiego do likwidacji kopalń oraz nowoczesnej produkcji."
         },
         {
           "id": "R05_NIEM_09",
@@ -5435,7 +5435,7 @@
             "Mińsk": "nowoczesny gmach Biblioteki Narodowej",
             "Nowogródek": "dzieciństwo Adama Mickiewicza"
           },
-          "explanation": "Wskazuje się Wilno jako dawny ośrodek polskiej kultury, Troki jako dawną stolicę z zamkiem na wyspie, Mińsk jako miasto z Biblioteką Narodową, a Nowogródek jako miejsce dzieciństwa Mickiewicza."
+          "explanation": "Wilno było ważnym ośrodkiem polskiej kultury, Troki dawną stolicą z zamkiem na wyspie, w Mińsku znajduje się Biblioteka Narodowa, a Nowogródek był miejscem dzieciństwa Mickiewicza."
         },
         {
           "id": "R05_LITB_09",
@@ -5467,7 +5467,7 @@
               "Mińsk"
             ]
           },
-          "explanation": "Podsumowanie wyróżnia po stronie Litwy m.in. Mierzeję Kurońską, Wilno i Troki, a po stronie Białorusi Mińsk oraz zamki w Nieświeżu i Mirze."
+          "explanation": "Do ważnych walorów Litwy należą m.in. Mierzeja Kurońska, Wilno i Troki, a Białorusi — Mińsk oraz zamki w Nieświeżu i Mirze."
         },
         {
           "id": "R05_LITB_10",
@@ -5503,7 +5503,7 @@
             "Praga"
           ],
           "answer": 0,
-          "explanation": "Gerlach, mający 2655 m n.p.m., został przedstawiony jako najwyższy szczyt Tatr i Słowacji."
+          "explanation": "Gerlach, mający 2655 m n.p.m., jest najwyższym szczytem Tatr i Słowacji."
         },
         {
           "id": "R05_CZSL_02",
@@ -5593,7 +5593,7 @@
             "Zagłębie Ruhry"
           ],
           "answer": 0,
-          "explanation": "Kras Morawski opisano jako jeden z największych obszarów krasowych w Czechach, z ponad 1000 rozpoznanych jaskiń i pięcioma udostępnionymi do zwiedzania."
+          "explanation": "Kras Morawski jest jednym z największych obszarów krasowych w Czechach, z ponad 1000 rozpoznanych jaskiń i pięcioma udostępnionymi do zwiedzania."
         },
         {
           "id": "R05_CZSL_08",
@@ -5651,7 +5651,7 @@
               "Bratysława"
             ]
           },
-          "explanation": "W podsumowaniu wymieniono czeskie zamki Krumlov, Karlsztejn i Bouzov oraz słowackie przykłady: Bojnice, Bratysławę i Zamek Spiski."
+          "explanation": "Do ważnych zamków i obiektów należą w Czechach Krumlov, Karlsztejn i Bouzov, a na Słowacji Bojnice, Bratysława i Zamek Spiski."
         },
         {
           "id": "R05_CZSL_10",
@@ -5671,7 +5671,7 @@
             "Karkonosze",
             "Śnieżka"
           ],
-          "explanation": "Opisuje się Czechy, przez które przebiegają Sudety; Karkonosze są ich najwyższym pasmem, a Śnieżka jest najwyższym szczytem Karkonoszy i Czech."
+          "explanation": "Przez Czechy przebiegają Sudety; Karkonosze są ich najwyższym pasmem, a Śnieżka jest najwyższym szczytem Karkonoszy i Czech."
         },
         {
           "id": "R05_UKR_01",
@@ -5717,7 +5717,7 @@
             2,
             3
           ],
-          "explanation": "Wśród problemów Ukrainy po 1991 roku wymieniono zależność od Rosji, słabe struktury państwa, korupcję, brak własnej waluty i kapitału oraz podziały społeczne."
+          "explanation": "Do problemów Ukrainy po 1991 roku należały zależność od Rosji, słabe struktury państwa, korupcja, brak własnej waluty i kapitału oraz podziały społeczne."
         },
         {
           "id": "R05_UKR_04",
@@ -5899,7 +5899,7 @@
             2,
             3
           ],
-          "explanation": "Podsumowanie wymienia m.in. wieloletnią zmarzlinę na Syberii, wulkany Kamczatki, roślinność śródziemnomorską nad Morzem Czarnym i jezioro Bajkał."
+          "explanation": "Rosję wyróżniają m.in. wieloletnia zmarzlina na Syberii, wulkany Kamczatki, roślinność śródziemnomorska nad Morzem Czarnym i jezioro Bajkał."
         },
         {
           "id": "R05_ROS_04",
@@ -5953,7 +5953,7 @@
           "id": "R05_ROS_07",
           "section": "Zróżnicowanie środowiska przyrodniczego Rosji",
           "type": "scenario",
-          "prompt": "W miejscowości nad Morzem Czarnym zimy są łagodne, lata gorące, rosną palmy i uprawia się winogrona. Który region Rosji opisuje się?",
+          "prompt": "W miejscowości nad Morzem Czarnym zimy są łagodne, lata gorące, rosną palmy i uprawia się winogrona. Który region Rosji ma takie warunki?",
           "options": [
             "Kraj Krasnodarski",
             "Kamczatkę",
@@ -6045,7 +6045,7 @@
           "id": "R05_REL_01",
           "section": "Relacje Polski z sąsiadami",
           "type": "single_choice",
-          "prompt": "Który kraj jest największym odbiorcą polskiego eksportu według wykresu?",
+          "prompt": "Który kraj jest największym odbiorcą polskiego eksportu?",
           "options": [
             "Niemcy",
             "Ukraina",
@@ -6248,7 +6248,7 @@
           "id": "R05_HARD_02",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz skutki utraty przewagi technologicznej niemieckiego przemysłu opisane w tabeli wyzwań.",
+          "prompt": "Zaznacz skutki utraty przewagi technologicznej niemieckiego przemysłu.",
           "options": [
             "klienci wybierają bardziej zaawansowane wyroby z USA, Japonii lub Korei Południowej",
             "niemieckie firmy osiągają mniejsze zyski",
@@ -6261,7 +6261,7 @@
             1,
             2
           ],
-          "explanation": "Tabela wskazuje, że utrata przewagi technologicznej oznacza konkurencję nowocześniejszych wyrobów z innych krajów, mniejsze zyski firm i bankructwa w niektórych branżach."
+          "explanation": "Utrata przewagi technologicznej oznacza konkurencję nowocześniejszych wyrobów z innych krajów, mniejsze zyski firm i bankructwa w niektórych branżach."
         },
         {
           "id": "R05_HARD_03",
@@ -6323,7 +6323,7 @@
             "w Nizinie Wschodnioeuropejskiej"
           ],
           "answer": 0,
-          "explanation": "Tak opisano Półwysep Kamczatka we wschodniej części Rosji: występuje tam około 300 wulkanów, w tym 29 wysoko aktywnych.",
+          "explanation": "Na Półwyspie Kamczatka we wschodniej części Rosji występuje około 300 wulkanów, w tym 29 wysoko aktywnych.",
           "image": "r05_kamczatka_wulkany.jpg"
         },
         {
@@ -6350,7 +6350,7 @@
             "wojna informacyjna": "celowe rozpowszechnianie fałszywych informacji",
             "wojna hybrydowa": "wykorzystywanie migrantów do atakowania granicy"
           },
-          "explanation": "Definiuje się eksklawę i aneksję oraz opisuje wojnę informacyjną i hybrydową jako elementy współczesnych konfliktów."
+          "explanation": "Eksklawa i aneksja to pojęcia geopolityczne, a wojna informacyjna i hybrydowa należą do form współczesnych konfliktów."
         },
         {
           "id": "R05_HARD_08",
@@ -6417,7 +6417,7 @@
           "id": "R05_HARD_11",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który region Rosji opisano jako mający klimat łączący cechy klimatu umiarkowanego i śródziemnomorskiego?",
+          "prompt": "Który region Rosji ma klimat łączący cechy klimatu umiarkowanego i śródziemnomorskiego?",
           "options": [
             "Kraj Krasnodarski",
             "Syberia",
@@ -6427,26 +6427,26 @@
             "tundra"
           ],
           "answer": 0,
-          "explanation": "Kraj Krasnodarski na południowo-zachodnim krańcu Rosji opisano jako region, którego klimat łączy cechy klimatu umiarkowanego i śródziemnomorskiego."
+          "explanation": "Kraj Krasnodarski na południowo-zachodnim krańcu Rosji ma klimat łączący cechy klimatu umiarkowanego i śródziemnomorskiego."
         },
         {
           "id": "R05_HARD_12",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje o relacjach Polski z Litwą, które wynikają.",
+          "prompt": "Zaznacz prawdziwe informacje o relacjach Polski z Litwą.",
           "options": [
             "relacje należą do przyjaznych",
             "ich jakość ulega poprawie",
             "w 2022 roku Litwa uznała prawo do zapisu nazwiska w języku ojczystym",
             "wszystkie kwestie polskiej mniejszości zostały rozwiązane",
-            "Litwa jest opisana jako główny odbiorca polskiego eksportu"
+            "Litwa jest głównym odbiorcą polskiego eksportu"
           ],
           "answer": [
             0,
             1,
             2
           ],
-          "explanation": "Relacje Polski z Litwą opisano jako przyjazne i poprawiające się, a w 2022 roku Litwa uznała prawo mniejszości do zapisu nazwiska w języku ojczystym; część kwestii nadal pozostaje nierozwiązana."
+          "explanation": "Relacje Polski z Litwą są przyjazne i poprawiają się, a w 2022 roku Litwa uznała prawo mniejszości do zapisu nazwiska w języku ojczystym; część kwestii nadal pozostaje nierozwiązana."
         }
       ],
       "kidPrompts": {}

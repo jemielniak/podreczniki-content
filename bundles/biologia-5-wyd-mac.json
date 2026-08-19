@@ -1,8 +1,8 @@
 {
   "id": "biologia-5-wyd-mac",
   "title": "Biologia 5. Wyd. MAC",
-  "version": 5,
-  "contentHash": "6e1c5dcd9f4a1066f92155019869149641021d87656dfa229ddbd57a5b913ec8",
+  "version": 6,
+  "contentHash": "be9ced690158d1919b018386829e6caae976d490f3e83ae920ce7e6b1a8a37cd",
   "bookConfig": {
     "id": "biologia-5-wyd-mac",
     "title": "Biologia 5. Wyd. MAC",
@@ -307,7 +307,7 @@
           "prompt": "Szkolne mikroskopy świetlne umożliwiają oglądanie obiektów w powiększeniu od około 100 do 1200 razy.",
           "options": null,
           "answer": true,
-          "explanation": "Podaje się taki zakres powiększeń dla mikroskopów świetlnych używanych w pracowniach szkolnych."
+          "explanation": "Szkolne mikroskopy świetlne umożliwiają zwykle uzyskanie powiększeń od około 100 do 1200 razy."
         },
         {
           "id": "R01_MIK_04",
@@ -785,7 +785,7 @@
             ]
           ],
           "image": "r01_drzewo_zycia.jpg",
-          "explanation": "Przedstawia się organizmy jako jedną wielką rodzinę pochodzącą od wspólnego przodka."
+          "explanation": "Wszystkie gatunki na Ziemi są ze sobą spokrewnione ewolucyjnie i pochodzą od wspólnego przodka."
         },
         {
           "id": "R01_KLW_03",
@@ -885,7 +885,7 @@
           "id": "R01_KLW_09",
           "section": "Klasyfikacja i wirusy",
           "type": "riddle",
-          "prompt": "Jak nazywa się wirus atakujący bakterie, przedstawiany jako kształt przypominający małego robota?",
+          "prompt": "Jak nazywa się wirus atakujący bakterie, który często ma kształt przypominający małego robota?",
           "options": null,
           "answer": "bakteriofag",
           "altAnswers": [
@@ -1083,7 +1083,7 @@
             "wapń": "buduje kości i szkliwo",
             "magnez": "wchodzi w skład kości i zębów"
           },
-          "explanation": "Na stronach o pierwiastkach dla aktywnych opisano znaczenie sodu, potasu, wapnia i magnezu."
+          "explanation": "Sód, potas, wapń i magnez pełnią ważne funkcje w organizmie, między innymi regulują gospodarkę wodną, wspierają pracę serca oraz budują kości i zęby."
         },
         {
           "id": "R01_HARD_06",
@@ -1243,7 +1243,7 @@
             "protisty zawsze wielokomórkowe"
           ],
           "answer": 0,
-          "explanation": "Bakterie opisano jako mikroskopijne organizmy jednokomórkowe pozbawione jądra komórkowego."
+          "explanation": "Bakterie to mikroskopijne organizmy jednokomórkowe pozbawione jądra komórkowego."
         },
         {
           "id": "R02_BAK_02",
@@ -1258,7 +1258,7 @@
           "id": "R02_BAK_03",
           "section": "Bakterie - budowa i życie",
           "type": "multi_select",
-          "prompt": "Zaznacz podstawowe kształty komórek bakteryjnych wymienione w podsumowaniu tematu.",
+          "prompt": "Zaznacz podstawowe kształty komórek bakteryjnych.",
           "options": [
             "kulisty",
             "wydłużony",
@@ -1295,7 +1295,7 @@
             ]
           ],
           "image": "r02_komorka_bakteryjna.jpg",
-          "explanation": "Schemat komórki bakteryjnej pokazuje brak jądra komórkowego i chloroplastów. Materiał genetyczny leży w cytoplazmie."
+          "explanation": "Komórka bakteryjna nie ma jądra komórkowego ani chloroplastów. Materiał genetyczny znajduje się w cytoplazmie."
         },
         {
           "id": "R02_BAK_05",
@@ -1387,7 +1387,7 @@
           "id": "R02_BAK_10",
           "section": "Bakterie - budowa i życie",
           "type": "sort",
-          "prompt": "Przyporządkuj elementy do typu komórki, w którym występują według porównania.",
+          "prompt": "Przyporządkuj elementy do odpowiedniej kategorii dotyczącej komórki bakteryjnej.",
           "options": null,
           "items": [
             "cytoplazma",
@@ -1506,7 +1506,7 @@
               "sery"
             ]
           ],
-          "explanation": "Jako przykłady produktów spożywczych uzyskiwanych dzięki bakteriom podano kiszoną kapustę i sery."
+          "explanation": "Bakterie są wykorzystywane między innymi do kiszenia kapusty i produkcji serów."
         },
         {
           "id": "R02_BCZ_05",
@@ -1584,7 +1584,7 @@
             "salmonelloza": "pałeczka salmonelli"
           },
           "image": "r02_drogi_zakazen.jpg",
-          "explanation": "Wymieniono laseczki tężca, krętki boreliozy, prątki gruźlicy i pałeczki salmonelli jako przyczyny odpowiednich chorób."
+          "explanation": "Tężec wywołują laseczki tężca, boreliozę krętki boreliozy, gruźlicę prątki gruźlicy, a salmonellozę pałeczki salmonelli."
         },
         {
           "id": "R02_BCZ_09",
@@ -2093,7 +2093,7 @@
           "id": "R02_PRO_02",
           "section": "Protisty",
           "type": "multi_select",
-          "prompt": "Zaznacz środowiska życia protistów wymienione w podsumowaniu.",
+          "prompt": "Zaznacz środowiska, w których żyją protisty.",
           "options": [
             "woda",
             "wilgotna gleba",
@@ -2164,7 +2164,7 @@
             "świdrowiec gambijski": "jednokomórkowy pasożyt wywołujący śpiączkę afrykańską"
           },
           "image": "r02_protisty_roznorodnosc.jpg",
-          "explanation": "Podano przykłady bardzo różnych protistów, od jednokomórkowych okrzemek po wielokomórkowy morszcz."
+          "explanation": "Protisty są bardzo zróżnicowane: należą do nich między innymi jednokomórkowe okrzemki i wielokomórkowy morszcz."
         },
         {
           "id": "R02_PRO_06",
@@ -2316,7 +2316,7 @@
             2,
             3
           ],
-          "explanation": "Podsumowanie wskazuje szczepionkę przy gruźlicy i tężcu, higienę przy salmonellozie, czerwonce pełzakowatej i toksoplazmozie oraz leki przeciwmalaryczne przy malarii."
+          "explanation": "Profilaktyka chorób zakaźnych obejmuje między innymi szczepienia przeciw gruźlicy i tężcowi, higienę przy salmonellozie, czerwonce pełzakowatej i toksoplazmozie oraz leki przeciwmalaryczne przy malarii."
         },
         {
           "id": "R02_HARD_02",
@@ -2368,11 +2368,11 @@
           "id": "R02_HARD_04",
           "section": "Super trudne",
           "type": "true_false",
-          "prompt": "Według mapy i opisu malaria występuje w krajach Afryki, Ameryki Południowej oraz południowej Azji, gdzie jest gorąco.",
+          "prompt": "Malaria występuje między innymi w gorących regionach Afryki, Ameryki Południowej i południowej Azji.",
           "options": null,
           "answer": true,
           "image": "r02_mapa_malarii.jpg",
-          "explanation": "To prawda. Opis pod mapą wskazuje te obszary jako miejsca występowania malarii."
+          "explanation": "To prawda. Malaria występuje w wielu gorących regionach Afryki, Ameryki Południowej i południowej Azji."
         },
         {
           "id": "R02_HARD_05",
@@ -2395,13 +2395,13 @@
             ]
           ],
           "image": "r02_szalka_fleminga.jpg",
-          "explanation": "Podaje się datę 3 września 1928 roku dla obserwacji Fleminga oraz 1940 rok dla eksperymentu Howarda Floreya."
+          "explanation": "Fleming dokonał tej obserwacji 3 września 1928 roku, a Howard Florey przeprowadził eksperyment na myszach w 1940 roku."
         },
         {
           "id": "R02_HARD_06",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż wydarzenia związane z penicyliną w kolejności podanej w tekście.",
+          "prompt": "Ułóż wydarzenia związane z penicyliną w kolejności chronologicznej.",
           "options": null,
           "items": [
             "eksperyment Floreya na myszach",
@@ -2422,7 +2422,7 @@
           "id": "R02_HARD_07",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "W tekście o penicylinie podano, że w Londynie w 1942 roku tylko połowa chorych na gruźlicę miała szansę przeżyć, a dwadzieścia lat później umierał jeden pacjent na dziesięciu. Co pokazuje ten przykład?",
+          "prompt": "W Londynie w 1942 roku tylko połowa chorych na gruźlicę miała szansę przeżyć, a dwadzieścia lat później umierał jeden pacjent na dziesięciu. Co pokazuje ta zmiana?",
           "options": [
             "spadek śmiertelności po upowszechnieniu antybiotyków",
             "całkowite zniknięcie gruźlicy w 1942 roku",
@@ -2433,7 +2433,7 @@
           ],
           "answer": 0,
           "image": "r02_szalka_fleminga.jpg",
-          "explanation": "Tekst pokazuje, że rozpowszechnienie antybiotyków bardzo zmniejszyło śmiertelność z powodu gruźlicy."
+          "explanation": "Rozpowszechnienie antybiotyków bardzo zmniejszyło śmiertelność z powodu gruźlicy."
         },
         {
           "id": "R02_HARD_08",
@@ -3279,7 +3279,7 @@
           "prompt": "Igły sosny zwyczajnej wyrastają po dwie obok siebie.",
           "options": null,
           "answer": true,
-          "explanation": "W opisie sosny zwyczajnej podano, że jej igły są osadzone po dwie."
+          "explanation": "Igły sosny zwyczajnej są osadzone po dwie."
         },
         {
           "id": "R03_ZNA_01",
@@ -3317,7 +3317,7 @@
             2,
             3
           ],
-          "explanation": "Wśród polskich nagonasiennych wymieniono między innymi sosnę zwyczajną, świerk pospolity, jodłę pospolitą i modrzew europejski."
+          "explanation": "Do nagonasiennych naturalnie występujących w Polsce należą między innymi sosna zwyczajna, świerk pospolity, jodła pospolita i modrzew europejski."
         },
         {
           "id": "R03_ZNA_03",
@@ -3353,7 +3353,7 @@
           "prompt": "Drewno sosnowe jest wykorzystywane w stolarstwie, ponieważ łatwo poddaje się obróbce.",
           "options": null,
           "answer": true,
-          "explanation": "Podaje się drewno sosnowe jako przykład surowca chętnie wykorzystywanego w stolarstwie."
+          "explanation": "Drewno sosnowe jest chętnie wykorzystywane w stolarstwie, ponieważ łatwo poddaje się obróbce."
         },
         {
           "id": "R03_ZNA_05",
@@ -3381,7 +3381,7 @@
           "id": "R03_ZNA_06",
           "section": "Znaczenie nagonasiennych",
           "type": "scenario",
-          "prompt": "Oznaczasz drzewo z miękkimi igłami zebranymi w pęczki, które opadają na zimę. Do jakiego gatunku prowadzi klucz?",
+          "prompt": "Oznaczasz drzewo z miękkimi igłami zebranymi w pęczki, które opadają na zimę. Jaki to gatunek?",
           "options": [
             "modrzew europejski",
             "cis pospolity",
@@ -3389,7 +3389,7 @@
             "świerk pospolity"
           ],
           "answer": 0,
-          "explanation": "Klucz do oznaczania wskazuje, że miękkie igły zebrane w pęczki i opadające na zimę prowadzą do modrzewia europejskiego."
+          "explanation": "Miękkie igły zebrane w pęczki i opadające na zimę są charakterystyczne dla modrzewia europejskiego."
         },
         {
           "id": "R03_ZNA_07",
@@ -3499,7 +3499,7 @@
             1,
             2
           ],
-          "explanation": "Korek, drewno i twardzica są opisane jako zbudowane z martwych komórek. Łyko i zwarcica tworzą komórki żywe."
+          "explanation": "Korek, drewno i twardzica są zbudowane z martwych komórek. Łyko i zwarcica tworzą komórki żywe."
         },
         {
           "id": "R03_HARD_03",
@@ -3581,7 +3581,7 @@
           "prompt": "Salwinia pływająca jest przykładem paproci żyjącej w środowisku wodnym.",
           "options": null,
           "answer": true,
-          "explanation": "Podano salwinię pływającą jako nieliczny przykład paproci spotykanej w stawach i wolno płynących rzekach."
+          "explanation": "Salwinia pływająca jest jedną z nielicznych paproci spotykanych w stawach i wolno płynących rzekach."
         },
         {
           "id": "R03_HARD_08",
@@ -3596,7 +3596,7 @@
           "id": "R03_HARD_09",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj gatunki do liczby lub ułożenia igieł z klucza.",
+          "prompt": "Przyporządkuj gatunki do właściwej liczby lub ułożenia igieł.",
           "options": null,
           "items": [
             "sosna zwyczajna",
@@ -3635,7 +3635,7 @@
           "prompt": "Szyszki jodły pospolitej rosną do góry i rozpadają się po dojrzeniu.",
           "options": null,
           "answer": true,
-          "explanation": "Opis jodły pospolitej wskazuje, że jej szyszki są walcowate, rosną do góry i po dojrzeniu rozpadają się."
+          "explanation": "Szyszki jodły pospolitej są walcowate, rosną do góry i po dojrzeniu rozpadają się."
         },
         {
           "id": "R03_HARD_11",
@@ -3875,7 +3875,7 @@
           "id": "R04_CHAR_08",
           "section": "Charakterystyka i organy",
           "type": "scenario",
-          "prompt": "Roślina rośnie na glebie ubogiej w azot. Jej liście mają włoski z lepką cieczą, do której przyklejają się owady. Jaki rodzaj modyfikacji liści opisano?",
+          "prompt": "Roślina rośnie na glebie ubogiej w azot. Jej liście mają włoski z lepką cieczą, do której przyklejają się owady. Jaka modyfikacja liści występuje u tej rośliny?",
           "options": [
             "liście pułapkowe",
             "liście spichrzowe",
@@ -4105,7 +4105,7 @@
           "id": "R04_ROZM_09",
           "section": "Rozmnażanie i kwiaty",
           "type": "scenario",
-          "prompt": "Truskawka wytwarza boczny pęd zwany rozłogiem. Gdy rozłóg zetknie się z ziemią, wypuszcza korzenie i daje początek nowej roślinie. Jaki typ rozmnażania opisano?",
+          "prompt": "Truskawka wytwarza boczny pęd zwany rozłogiem. Gdy rozłóg zetknie się z ziemią, wypuszcza korzenie i daje początek nowej roślinie. Jaki to typ rozmnażania?",
           "options": [
             "rozmnażanie wegetatywne",
             "zapylenie wiatropylne",
@@ -4269,7 +4269,7 @@
           "id": "R04_NAS_07",
           "section": "Nasiona i owoce",
           "type": "scenario",
-          "prompt": "Dojrzały owoc rośliny pęka po dotknięciu albo podmuchu wiatru i wyrzuca nasiona na znaczną odległość. Jaki sposób rozsiewania opisano?",
+          "prompt": "Dojrzały owoc rośliny pęka po dotknięciu albo podmuchu wiatru i wyrzuca nasiona na znaczną odległość. Jaki to sposób rozsiewania nasion?",
           "options": [
             "samorzutny",
             "przez wodę",
@@ -4445,7 +4445,7 @@
           "id": "R04_DRZ_06",
           "section": "Drzewa liściaste",
           "type": "scenario",
-          "prompt": "Drzewo ma charakterystyczną białą korę. Jego liście są rombowate lub trójkątne, a owoce to małe orzeszki ze skrzydełkami. Który gatunek opisano?",
+          "prompt": "Drzewo ma charakterystyczną białą korę. Jego liście są rombowate lub trójkątne, a owoce to małe orzeszki ze skrzydełkami. Jaki to gatunek?",
           "options": [
             "brzoza brodawkowata",
             "kasztanowiec pospolity",
@@ -4510,7 +4510,7 @@
             "buk zwyczajny": "orzeszki ukryte w kolczastej łupinie",
             "klon jesionolistny": "liście pierzastozłożone o 3-7 listkach"
           },
-          "explanation": "Podaje się charakterystyczne cechy wybranych gatunków drzew liściastych spotykanych w Polsce.",
+          "explanation": "Wybrane gatunki drzew liściastych spotykanych w Polsce można rozpoznawać po charakterystycznych cechach liści i owoców.",
           "image": "r04_drzewa_lisciaste.jpg"
         },
         {
@@ -4629,7 +4629,7 @@
             2,
             3
           ],
-          "explanation": "Wśród materiałów pochodzących z roślin okrytonasiennych wymieniono wiklinę, bawełnę, korek i drewno.",
+          "explanation": "Wiklina, bawełna, korek i drewno są materiałami pochodzącymi z roślin okrytonasiennych.",
           "image": "r04_zastosowania_roslin.jpg"
         },
         {
@@ -4732,7 +4732,7 @@
           "id": "R04_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Ile gatunków roślin okrytonasiennych podano jako poznanych przez naukę?",
+          "prompt": "Ile gatunków roślin okrytonasiennych poznano?",
           "options": [
             "ponad 320 tysięcy",
             "około 36 tysięcy",
@@ -4812,14 +4812,14 @@
             "brylancik niebieskogardły": "koliber",
             "nietoperz wieprzoryjek meksykański": "ssak zapylający kwiaty"
           },
-          "explanation": "Pokazuje się różne zwierzęta zapylające: owady, ptaki i ssaki.",
+          "explanation": "Zapylaczami mogą być różne zwierzęta, między innymi owady, ptaki i ssaki.",
           "image": "r04_zapylacze_swiata.jpg"
         },
         {
           "id": "R04_HARD_05",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Której barwy pszczoły nie rozróżniają według ciekawostki?",
+          "prompt": "Której barwy pszczoły nie rozróżniają?",
           "options": [
             "czerwonej",
             "żółtej",
@@ -4829,7 +4829,7 @@
             "białej"
           ],
           "answer": 0,
-          "explanation": "W ciekawostce podano, że pszczoły nie rozróżniają barwy czerwonej, ale dostrzegają niewidoczne dla człowieka promieniowanie ultrafioletowe.",
+          "explanation": "Pszczoły nie rozróżniają barwy czerwonej, ale dostrzegają niewidoczne dla człowieka promieniowanie ultrafioletowe.",
           "image": "r04_zapylacze_swiata.jpg"
         },
         {
@@ -4863,7 +4863,7 @@
           "id": "R04_HARD_08",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz zwierzę z miejscem do odnalezienia na mapie.",
+          "prompt": "Połącz zwierzę z miejscem jego występowania.",
           "options": null,
           "left": [
             "brylancik niebieskogardły",
@@ -4880,7 +4880,7 @@
             "wari czarno-biały": "Madagaskar",
             "wieprzoryjek meksykański": "Meksyk"
           },
-          "explanation": "Zachęca się do znalezienia na mapie miejsc występowania tych zwierząt: Ekwadoru, Madagaskaru i Meksyku."
+          "explanation": "Brylantik niebieskogardły występuje w Ekwadorze, wari czarno-biały na Madagaskarze, a wieprzoryjek meksykański w Meksyku."
         },
         {
           "id": "R04_HARD_09",
@@ -4941,7 +4941,7 @@
             2,
             3
           ],
-          "explanation": "Instrukcja tworzenia plakatu podkreśla tytuł, dobór obiektu, materiały, przewagę obrazu nad tekstem oraz wypisanie źródeł."
+          "explanation": "Dobry plakat informacyjny ma wyraźny tytuł, przedstawia podstawowe dane głównie za pomocą obrazu i zawiera źródła wykorzystanych informacji."
         },
         {
           "id": "R04_HARD_12",

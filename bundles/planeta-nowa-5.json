@@ -1,8 +1,8 @@
 {
   "id": "planeta-nowa-5",
   "title": "Planeta Nowa 5",
-  "version": 4,
-  "contentHash": "878a72e731150b3d4a5e28228908554946c9ebbd346a36641b1de3726a91bfb3",
+  "version": 5,
+  "contentHash": "5c1959d294947217be0ae85368cde11d78ea69e45b71d51b1b4a25abdc76d331",
   "bookConfig": {
     "id": "planeta-nowa-5",
     "title": "Planeta Nowa 5",
@@ -60,7 +60,7 @@
             "skala",
             "legenda",
             "tytuł",
-            "spis treści podręcznika",
+            "spis treści książki",
             "prognoza pogody"
           ],
           "answer": [
@@ -518,15 +518,13 @@
             "odcienie zieleni od 0 do 300 m n.p.m.",
             "odcienie żółci powyżej 300 m n.p.m.",
             "pomarańczowy i czerwony powyżej 500 m n.p.m.",
-            "ciemnozielony poniżej poziomu morza",
-            "niebieski"
+            "ciemnozielony poniżej poziomu morza"
           ],
           "categories": [
             "niziny",
             "wyżyny",
             "góry",
-            "depresje",
-            "wody"
+            "depresje"
           ],
           "answer": {
             "niziny": [
@@ -540,13 +538,10 @@
             ],
             "depresje": [
               "ciemnozielony poniżej poziomu morza"
-            ],
-            "wody": [
-              "niebieski"
             ]
           },
           "image": "r01_barwy_hipsometryczne.jpg",
-          "explanation": "Na mapach hipsometrycznych niziny, wyżyny, góry, depresje i wody oznacza się różnymi barwami."
+          "explanation": "Na mapach hipsometrycznych niziny, wyżyny, góry i depresje oznacza się różnymi barwami."
         },
         {
           "id": "R01_UKS_09",
@@ -1119,7 +1114,7 @@
           "id": "R01_HARD_09",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż zakresy wysokości od najniższego do najwyższego według opisu barw hipsometrycznych.",
+          "prompt": "Ułóż zakresy wysokości od najniższego do najwyższego.",
           "options": null,
           "items": [
             "góry powyżej 500 m n.p.m.",
@@ -1554,7 +1549,7 @@
           ],
           "answer": 0,
           "image": "r02_jeziora_mazurskie.jpg",
-          "explanation": "Pojezierze Mazurskie jest opisane jako dobre miejsce do uprawiania żeglarstwa i kajakarstwa."
+          "explanation": "Pojezierze Mazurskie, z licznymi połączonymi jeziorami, sprzyja żeglarstwu i kajakarstwu."
         },
         {
           "id": "R02_NIW_01",
@@ -1647,7 +1642,7 @@
             "Stadion Narodowy": "arena wydarzeń sportowych i kulturalnych"
           },
           "image": "r02_warszawa_panorama.jpg",
-          "explanation": "Przedstawia się kilka znanych atrakcji Warszawy."
+          "explanation": "Stare Miasto, Łazienki Królewskie, Centrum Nauki Kopernik i Stadion Narodowy to znane atrakcje Warszawy."
         },
         {
           "id": "R02_NIW_06",
@@ -1734,7 +1729,7 @@
             "Tarnowskie Góry"
           ],
           "answer": 0,
-          "explanation": "Muzeum w Żelazowej Woli jest przedstawione jako atrakcja Niziny Mazowieckiej związana z koncertami fortepianowymi."
+          "explanation": "Żelazowa Wola jest miejscem urodzenia Fryderyka Chopina i ważnym miejscem związanym z jego muzyką."
         },
         {
           "id": "R02_WSL_01",
@@ -1929,7 +1924,7 @@
           ],
           "answer": 0,
           "image": "r02_wawoz_lessowy.jpg",
-          "explanation": "Tak opisano rolniczy krajobraz Wyżyny Lubelskiej."
+          "explanation": "Żyzne gleby oraz uprawy pszenicy, buraków cukrowych, tytoniu i chmielu są charakterystyczne dla rolniczego krajobrazu Wyżyny Lubelskiej."
         },
         {
           "id": "R02_JUT_01",
@@ -2163,7 +2158,7 @@
           "prompt": "Stalaktyty w jaskiniach wydłużają się bardzo powoli, około 1 mm na rok.",
           "options": null,
           "answer": true,
-          "explanation": "Schemat rzeźby krasowej podaje, że stalaktyty wydłużają się bardzo powoli, około 1 mm rocznie."
+          "explanation": "Stalaktyty wydłużają się bardzo powoli, około 1 mm rocznie."
         },
         {
           "id": "R02_HARD_04",
@@ -2208,7 +2203,7 @@
             "600 m": "długość podziemnego przepływu w Sztolni Czarnego Pstrąga",
             "4 grudnia": "data Barbórki"
           },
-          "explanation": "Te liczby pojawiają się w opisach konkretnych krajobrazów i obiektów."
+          "explanation": "2499 m n.p.m. to wysokość Rysów, 163 km to długość Szlaku Orlich Gniazd, 600 m to długość podziemnego przepływu w Sztolni Czarnego Pstrąga, a 4 grudnia przypada Barbórka."
         },
         {
           "id": "R02_HARD_06",
@@ -2509,8 +2504,8 @@
           "id": "R03_ZIE_11",
           "section": "Ziemia i globus",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje zgodne z opisem Ziemi.",
-          "explanation": "Podkreśla się kulisty kształt Ziemi, jej obrót wokół osi oraz spłaszczenie na biegunach.",
+          "prompt": "Zaznacz prawdziwe informacje o Ziemi.",
+          "explanation": "Ziemia ma kształt zbliżony do kuli, obraca się wokół własnej osi i jest lekko spłaszczona na biegunach.",
           "options": [
             "Ziemia obraca się wokół własnej osi",
             "Ziemia jest idealnym sześcianem",
@@ -2624,7 +2619,7 @@
           "section": "Siatka geograficzna i półkule",
           "type": "multi_select",
           "prompt": "Zaznacz równoleżniki, którym nadano własne nazwy.",
-          "explanation": "Wymieniono równik, dwa zwrotniki i dwa koła podbiegunowe.",
+          "explanation": "Własne nazwy mają równik, dwa zwrotniki i dwa koła podbiegunowe.",
           "options": [
             "równik",
             "zwrotnik Raka",
@@ -2779,7 +2774,7 @@
           "section": "Kontynenty i oceany",
           "type": "single_choice",
           "prompt": "Ile kontynentów wyróżnia się na Ziemi?",
-          "explanation": "Wymienia się siedem kontynentów.",
+          "explanation": "Na Ziemi wyróżnia się siedem kontynentów.",
           "options": [
             "pięć",
             "sześć",
@@ -2975,7 +2970,7 @@
           "section": "Kontynenty i oceany",
           "type": "true_false",
           "prompt": "Kontynenty zajmują większą powierzchnię na półkuli północnej niż na półkuli południowej.",
-          "explanation": "Pod mapą podano, że rozmieszczenie kontynentów nie jest równomierne i więcej lądów znajduje się na półkuli północnej.",
+          "explanation": "Kontynenty są rozmieszczone nierównomiernie, a większa powierzchnia lądów znajduje się na półkuli północnej.",
           "options": null,
           "answer": true,
           "image": "r03_kontynenty_oceany_mapa.jpg"
@@ -3014,7 +3009,7 @@
           "section": "Wielkie odkrycia geograficzne",
           "type": "fill_in",
           "prompt": "Wyprawa Marca Polo w głąb Azji trwała od roku __________ do roku __________.",
-          "explanation": "Podano lata 1271-1295.",
+          "explanation": "Wyprawa Marca Polo trwała od 1271 do 1295 roku.",
           "options": null,
           "answer": [
             "1271",
@@ -3052,7 +3047,7 @@
           "section": "Wielkie odkrycia geograficzne",
           "type": "multi_select",
           "prompt": "Które towary zaczęto sprowadzać z Azji dzięki poznaniu odległych państw przez Europejczyków?",
-          "explanation": "Wymieniono przyprawy: pieprz, cynamon, goździki i gałkę muszkatołową.",
+          "explanation": "Do przypraw sprowadzanych z Azji należały pieprz, cynamon, goździki i gałka muszkatołowa.",
           "options": [
             "pieprz",
             "cynamon",
@@ -3155,7 +3150,7 @@
           "section": "Wielkie odkrycia geograficzne",
           "type": "scenario",
           "prompt": "Żeglarz płynie na zachód przez Ocean Atlantycki, chce dotrzeć do Indii, ale trafia na Bahamy, Kubę i Haiti. Kto to jest?",
-          "explanation": "Tak opisana jest wyprawa Krzysztofa Kolumba z 1492 roku.",
+          "explanation": "Krzysztof Kolumb w 1492 roku popłynął na zachód przez Atlantyk i dotarł do wysp Ameryki.",
           "options": [
             "Krzysztof Kolumb",
             "Vasco da Gama",
@@ -3307,7 +3302,7 @@
           "section": "Badacze i podróże nowożytne",
           "type": "single_choice",
           "prompt": "Który podróżnik trzykrotnie opłynął Ziemię i odkrył wiele wysp na Oceanie Spokojnym, m.in. Hawaje?",
-          "explanation": "Tak opisano Jamesa Cooka.",
+          "explanation": "James Cook trzykrotnie opłynął Ziemię i odkrył wiele wysp na Oceanie Spokojnym, w tym Hawaje.",
           "options": [
             "James Cook",
             "Willem Janszoon",
@@ -3323,7 +3318,7 @@
           "section": "Badacze i podróże nowożytne",
           "type": "single_choice",
           "prompt": "Kto odkrył Australię w 1605 roku?",
-          "explanation": "Wskazuje się holenderskiego żeglarza Willema Janszoona.",
+          "explanation": "Willem Janszoon był holenderskim żeglarzem, który dotarł do Australii w 1605 roku.",
           "options": [
             "Willem Janszoon",
             "James Cook",
@@ -3437,7 +3432,7 @@
           "id": "R03_HARD_02",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz obszary wymienione w opisie trasy Marca Polo.",
+          "prompt": "Zaznacz obszary, przez które przebiegała trasa Marca Polo.",
           "explanation": "Trasa Marca Polo wiodła między innymi przez Nizinę Mezopotamską, Wyżynę Irańską, Pamir i pustynię Gobi.",
           "options": [
             "Nizina Mezopotamska",
@@ -3484,7 +3479,7 @@
           "section": "Super trudne",
           "type": "match",
           "prompt": "Połącz obiekt geograficzny z podróżnikiem, którego dotyczy.",
-          "explanation": "Każdy obiekt pojawia się przy opisie innej wyprawy lub odkrycia.",
+          "explanation": "Góry Pamir wiążą się z podróżą Marca Polo, Przylądek Igielny z wyprawą Vasco da Gamy, Wodospady Wiktorii z Davidem Livingstone’em, a Hawaje z Jamesem Cookiem.",
           "options": null,
           "left": [
             "góry Pamir",
@@ -3510,7 +3505,7 @@
           "section": "Super trudne",
           "type": "fill_in",
           "prompt": "Marek Kamiński w 1995 roku zdobył najpierw biegun __________, a później samotnie biegun __________.",
-          "explanation": "Ciekawostka podaje, że w marcu 1995 roku dotarł do bieguna północnego, a w grudniu samotnie zdobył biegun południowy.",
+          "explanation": "Marek Kamiński dotarł do bieguna północnego w marcu 1995 roku, a w grudniu samotnie zdobył biegun południowy.",
           "options": null,
           "answer": [
             "północny",
@@ -3533,7 +3528,7 @@
           "section": "Super trudne",
           "type": "scenario",
           "prompt": "Badacz XIX wieku bada okolice jeziora Tanganika, biegi rzek Zambezi i Konga oraz odkrywa Wodospady Wiktorii. Kto to jest?",
-          "explanation": "Taki opis dotyczy Davida Livingstone’a.",
+          "explanation": "David Livingstone badał okolice jeziora Tanganika oraz biegi Zambezi i Konga, a także odkrył Wodospady Wiktorii.",
           "options": [
             "David Livingstone",
             "Henry Stanley",
@@ -3824,7 +3819,7 @@
             1,
             2
           ],
-          "explanation": "Wskazuje się ukształtowanie powierzchni oraz odległość od mórz i oceanów jako ważne czynniki różnicujące klimat."
+          "explanation": "Ukształtowanie powierzchni, odległość od mórz i oceanów oraz wysokość bezwzględna wpływają na zróżnicowanie klimatu."
         },
         {
           "id": "R04_STR_04",
@@ -3991,7 +3986,7 @@
           "id": "R04_LAS_04",
           "section": "Lasy świata",
           "type": "multi_select",
-          "prompt": "Zaznacz zwierzęta wymienione przy wilgotnych lasach równikowych.",
+          "prompt": "Zaznacz zwierzęta charakterystyczne dla wilgotnych lasów równikowych.",
           "options": [
             "małpy",
             "jaguary",
@@ -4006,7 +4001,7 @@
             2,
             3
           ],
-          "explanation": "Przy lasach równikowych pojawiają się między innymi małpy, ptaki, tapiry i jaguary."
+          "explanation": "W wilgotnych lasach równikowych żyją między innymi małpy, ptaki, tapiry i jaguary."
         },
         {
           "id": "R04_LAS_05",
@@ -4102,7 +4097,7 @@
           "prompt": "Strefa lasów liściastych i mieszanych występuje przede wszystkim w Ameryce Północnej, Europie i Azji.",
           "options": null,
           "answer": true,
-          "explanation": "Wskazuje się te trzy kontynenty jako główne obszary lasów liściastych i mieszanych."
+          "explanation": "Lasy liściaste i mieszane występują przede wszystkim w Ameryce Północnej, Europie i Azji."
         },
         {
           "id": "R04_LAS_10",
@@ -4419,7 +4414,7 @@
           "id": "R04_SRO_07",
           "section": "Krajobraz śródziemnomorski",
           "type": "scenario",
-          "prompt": "Rodzina planuje wakacje nad Morzem Śródziemnym w lipcu. Jakich warunków powinna się spodziewać według opisu klimatu tej strefy?",
+          "prompt": "Rodzina planuje wakacje nad Morzem Śródziemnym w lipcu. Jakich warunków klimatycznych powinna się spodziewać?",
           "options": [
             "gorącego i suchego lata",
             "mroźnej zimy z wieloletnią zmarzliną",
@@ -4453,7 +4448,7 @@
             "turystyka": "ważne zajęcie mieszkańców",
             "rolnictwo": "uprawa m.in. oliwek i winorośli"
           },
-          "explanation": "Klimat, makia, turystyka i rolnictwo są głównymi elementami opisu tej strefy."
+          "explanation": "Klimat, makia, turystyka i rolnictwo to ważne elementy krajobrazu śródziemnomorskiego."
         },
         {
           "id": "R04_TTG_01",
@@ -4693,13 +4688,13 @@
           ],
           "answer": 0,
           "image": "r04_klimatogram_schemat.jpg",
-          "explanation": "W przykładzie z Oslo najniższa średnia temperatura występuje w lutym."
+          "explanation": "W Oslo najniższa średnia temperatura występuje w lutym."
         },
         {
           "id": "R04_HARD_02",
           "section": "Super trudne",
           "type": "fill_in",
-          "prompt": "Na podstawie danych dla Oslo średnia roczna temperatura wynosi około __________°C, a roczna suma opadów __________ mm.",
+          "prompt": "Suma średnich miesięcznych temperatur dla Oslo wynosi 47,6°C, a suma miesięcznych opadów 845 mm. Średnia roczna temperatura wynosi około __________°C, a roczna suma opadów __________ mm.",
           "options": null,
           "answer": [
             "4,0",
@@ -4716,16 +4711,16 @@
               "845 mm"
             ]
           ],
-          "explanation": "Pokazuje się obliczenia: 47,6: 12 ≈ 4,0°C oraz suma opadów 845 mm."
+          "explanation": "Średnia roczna temperatura wynosi 47,6 : 12 ≈ 4,0°C, a roczna suma opadów wynosi 845 mm."
         },
         {
           "id": "R04_HARD_03",
           "section": "Super trudne",
           "type": "true_false",
-          "prompt": "W Oslo najwyższa miesięczna suma opadów w przykładzie przypada na październik.",
+          "prompt": "W Oslo najwyższa miesięczna suma opadów przypada na październik.",
           "options": null,
           "answer": true,
-          "explanation": "W opisie klimatogramu Oslo podano najwyższe opady w październiku."
+          "explanation": "Najwyższa miesięczna suma opadów w Oslo występuje w październiku."
         },
         {
           "id": "R04_HARD_04",
@@ -4773,7 +4768,7 @@
           "id": "R04_HARD_06",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż krajobrazy od równika ku biegunowi na półkuli północnej zgodnie z uproszczonym schematem.",
+          "prompt": "Ułóż krajobrazy od równika ku biegunowi na półkuli północnej.",
           "options": null,
           "items": [
             "tajga",
@@ -4793,7 +4788,7 @@
             "tundra",
             "pustynie lodowe"
           ],
-          "explanation": "Schemat pokazuje kolejność od wilgotnych lasów równikowych przez sawanny, pustynie gorące, roślinność śródziemnomorską, lasy, tajgę, tundrę do pustyń lodowych."
+          "explanation": "W uproszczeniu kolejność prowadzi od wilgotnych lasów równikowych przez sawanny, pustynie gorące, lasy liściaste i mieszane, tajgę i tundrę do pustyń lodowych."
         },
         {
           "id": "R04_HARD_07",

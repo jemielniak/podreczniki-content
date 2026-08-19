@@ -1,8 +1,8 @@
 {
   "id": "to-nasz-swiat-geografia-6",
   "title": "To nasz świat. Geografia 6",
-  "version": 3,
-  "contentHash": "1581aabd22c5ffb6a32670fd7f79279ada9e5cf909d0d49f658b839c5ebb67dc",
+  "version": 4,
+  "contentHash": "8747f6ddc62e3958ce4366a7962682d2cbf9bfba70bee3963abf7691b0b4a223",
   "bookConfig": {
     "id": "to-nasz-swiat-geografia-6",
     "title": "To nasz świat. Geografia 6",
@@ -99,7 +99,7 @@
               "Drogi Mlecznej"
             ]
           ],
-          "explanation": "Podaje się wiek Układu Słonecznego na około 4,6 mld lat i wskazuje, że należy on do Drogi Mlecznej."
+          "explanation": "Układ Słoneczny ma około 4,6 mld lat i należy do Drogi Mlecznej."
         },
         {
           "id": "R01_UKL_05",
@@ -162,7 +162,7 @@
             "planeta": "ciało niebieskie często krążące wokół gwiazdy",
             "orbita": "tor ruchu ciała niebieskiego wokół innego ciała"
           },
-          "explanation": "Te definicje pochodzą z opisów Wszechświata, Układu Słonecznego i orbity.",
+          "explanation": "Galaktyka, gwiazda, planeta i orbita to podstawowe pojęcia związane z opisem Wszechświata i Układu Słonecznego.",
           "image": "r01_galaktyka_spiralna.jpg"
         },
         {
@@ -314,7 +314,7 @@
               "poludniowego"
             ]
           ],
-          "explanation": "Oś Ziemi opisano jako prostą linię prowadzącą przez środek Ziemi od bieguna północnego do bieguna południowego."
+          "explanation": "Oś Ziemi to prosta linia prowadząca przez środek Ziemi od bieguna północnego do bieguna południowego."
         },
         {
           "id": "R01_OBR_04",
@@ -424,7 +424,7 @@
           "prompt": "Im dalej na zachód położone jest miejsce na Ziemi, tym wcześniejsza jest tam godzina.",
           "options": null,
           "answer": true,
-          "explanation": "Podaje się zasadę: im dalej na zachód, tym wcześniejsza godzina, a im dalej na wschód, tym późniejsza.",
+          "explanation": "Im dalej na zachód, tym wcześniejsza godzina, a im dalej na wschód, tym późniejsza.",
           "image": "r01_strefy_czasowe_mapa.jpg"
         },
         {
@@ -521,7 +521,7 @@
               "49 minut"
             ]
           ],
-          "explanation": "Podaje się dokładniejszy czas obiegu Ziemi wokół Słońca: 365 dni, 5 godzin i 49 minut."
+          "explanation": "Dokładniejszy czas obiegu Ziemi wokół Słońca wynosi 365 dni, 5 godzin i 49 minut."
         },
         {
           "id": "R01_OBI_03",
@@ -881,7 +881,7 @@
           "prompt": "Co nie układa się równoleżnikowo i symetrycznie względem równika: strefy oświetlenia, strefy klimatyczne, strefy krajobrazowe, strefy czasowe.",
           "options": null,
           "answer": "strefy czasowe",
-          "explanation": "Wskazuje się podobieństwa w równoleżnikowym układzie stref oświetlenia, klimatycznych i krajobrazowych, a nie stref czasowych."
+          "explanation": "Strefy oświetlenia, klimatyczne i krajobrazowe mają podobny równoleżnikowy układ; strefy czasowe nie mają takiego układu."
         },
         {
           "id": "R01_STR_10",
@@ -925,7 +925,7 @@
           "id": "R01_KOS_01",
           "section": "Poznawanie kosmosu",
           "type": "single_choice",
-          "prompt": "Ile gwiazd znajduje się według tekstu w Drodze Mlecznej?",
+          "prompt": "Ile gwiazd znajduje się w Drodze Mlecznej?",
           "options": [
             "około 400 miliardów",
             "około 88",
@@ -935,7 +935,7 @@
             "około 300 tysięcy"
           ],
           "answer": 0,
-          "explanation": "Tekst o Drodze Mlecznej podaje, że w tej galaktyce znajduje się około 400 miliardów gwiazd.",
+          "explanation": "W Drodze Mlecznej znajduje się około 400 miliardów gwiazd.",
           "image": "r01_droga_mleczna_nocne_niebo.jpg"
         },
         {
@@ -1018,7 +1018,7 @@
               "100000"
             ]
           ],
-          "explanation": "W tekście podano prędkość światła prawie 300 tys. km/s oraz ogrom Drogi Mlecznej: światło potrzebuje 100 tys. lat, aby przebyć ją od krańca do krańca.",
+          "explanation": "Prędkość światła wynosi prawie 300 tys. km/s, a przebycie Drogi Mlecznej od krańca do krańca zajęłoby światłu około 100 tys. lat.",
           "image": "r01_droga_mleczna_nocne_niebo.jpg"
         },
         {
@@ -1062,7 +1062,7 @@
             "Wostok 1": "statek, którym odbyto lot na orbitę okołoziemską w 1961 roku",
             "Apollo 11": "misja, podczas której człowiek stanął na Księżycu w 1969 roku"
           },
-          "explanation": "Opisuje się lot Jurija Gagarina statkiem Wostok 1 oraz misję Apollo 11, podczas której Neil Armstrong stanął na Księżycu.",
+          "explanation": "Jurij Gagarin odbył lot statkiem Wostok 1, a podczas misji Apollo 11 Neil Armstrong stanął na Księżycu.",
           "image": "r01_teleskop_kosmiczny.jpg"
         },
         {
@@ -1177,7 +1177,7 @@
           "prompt": "Saturn ma 146 księżyców, a Jowisz 95 księżyców.",
           "options": null,
           "answer": true,
-          "explanation": "W opisach planet podano, że Saturn ma 146 księżyców, a Jowisz 95."
+          "explanation": "Saturn ma 146 księżyców, a Jowisz 95."
         },
         {
           "id": "R01_HARD_04",
@@ -1290,7 +1290,7 @@
           "id": "R01_HARD_09",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Podróżnik leci z Polski do kraju położonego daleko na wschód. Jaką ogólną zmianę czasu powinien przewidzieć według zasady?",
+          "prompt": "Podróżnik leci z Polski do kraju położonego daleko na wschód. Jaką ogólną zmianę czasu powinien przewidzieć?",
           "options": [
             "będzie tam późniejsza godzina",
             "będzie tam wcześniejsza godzina",
@@ -1361,7 +1361,7 @@
             2,
             3
           ],
-          "explanation": "Podaje się liczbę 88 gwiazdozbiorów, opisuje Gwiazdę Polarną w Małej Niedźwiedzicy oraz wskazuje, że Wielki Wóz jest częścią Wielkiej Niedźwiedzicy."
+          "explanation": "Na niebie wyróżnia się 88 gwiazdozbiorów, Gwiazda Polarna należy do Małej Niedźwiedzicy, a Wielki Wóz jest częścią Wielkiej Niedźwiedzicy."
         }
       ],
       "kidPrompts": {}
@@ -1516,7 +1516,7 @@
             "Britstown": "30°S"
           },
           "image": "r02_mapa_szerokosci_przyklady.jpg",
-          "explanation": "W przykładach Kair ma 30°N, Kampala leży na równiku i ma 0°, a Britstown ma 30°S."
+          "explanation": "Kair ma szerokość 30°N, Kampala leży na równiku i ma 0°, a Britstown ma 30°S."
         },
         {
           "id": "R02_LAT_09",
@@ -1699,7 +1699,7 @@
             "Dhaka": "90°E"
           },
           "image": "r02_mapa_dlugosci_przyklady.jpg",
-          "explanation": "W przykładach Park Narodowy Grenlandii ma 30°W, Londyn leży na południku 0°, a Dhaka ma 90°E."
+          "explanation": "Park Narodowy Grenlandii ma długość 30°W, Londyn leży na południku 0°, a Dhaka ma 90°E."
         },
         {
           "id": "R02_LON_09",
@@ -1950,7 +1950,7 @@
           "prompt": "Współrzędne geograficzne można podawać z dokładnością do stopni i minut.",
           "options": null,
           "answer": true,
-          "explanation": "Gdy potrzebna jest większa dokładność, obok stopni podaje się także minuty."
+          "explanation": "Gdy potrzebna jest większa dokładność, obok stopni zapisuje się także minuty."
         },
         {
           "id": "R02_GPS_03",
@@ -1968,7 +1968,7 @@
               "szescdziesiat"
             ]
           ],
-          "explanation": "Podano, że 1° dzieli się na 60 minut."
+          "explanation": "Jeden stopień dzieli się na 60 minut kątowych."
         },
         {
           "id": "R02_GPS_04",
@@ -1988,7 +1988,7 @@
           "id": "R02_GPS_05",
           "section": "Stopnie, minuty i GPS",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje zgodne z opisem działania GPS.",
+          "prompt": "Zaznacz poprawne informacje o działaniu GPS.",
           "options": [
             "GPS korzysta ze sztucznych satelitów",
             "satelity wysyłają sygnały radiowe",
@@ -2026,7 +2026,7 @@
           "id": "R02_GPS_07",
           "section": "Stopnie, minuty i GPS",
           "type": "match",
-          "prompt": "Połącz zapis dziesiętny z oznaczeniem półkuli według zasad.",
+          "prompt": "Połącz zapis dziesiętny z właściwym oznaczeniem półkuli.",
           "options": null,
           "left": [
             "pierwsza wartość dodatnia",
@@ -2052,7 +2052,7 @@
           "id": "R02_GPS_08",
           "section": "Stopnie, minuty i GPS",
           "type": "single_choice",
-          "prompt": "Jakie współrzędne Przylądka Rozewie podano?",
+          "prompt": "Jakie są współrzędne Przylądka Rozewie?",
           "options": [
             "54°50'N 18°20'E",
             "54°20'N 18°50'E",
@@ -2063,7 +2063,7 @@
           ],
           "answer": 0,
           "image": "r02_przyladek_rozewie.jpg",
-          "explanation": "W przykładzie Przylądek Rozewie ma współrzędne 54°50'N 18°20'E."
+          "explanation": "Przylądek Rozewie ma współrzędne 54°50'N 18°20'E."
         },
         {
           "id": "R02_GPS_09",
@@ -2072,7 +2072,7 @@
           "prompt": "Wartości po kropce w zapisie z aplikacji GPS można przeliczyć na minuty, mnożąc je przez 60.",
           "options": null,
           "answer": true,
-          "explanation": "Podano zasadę: wartości po kropce należy przeliczyć na minuty przez pomnożenie razy 60."
+          "explanation": "Wartości po kropce należy przeliczyć na minuty przez pomnożenie przez 60."
         },
         {
           "id": "R02_GPS_10",
@@ -2135,7 +2135,7 @@
           "prompt": "Aby określić położenie rozległego obszaru, można podać współrzędne czterech punktów wysuniętych najdalej w każdą stronę świata.",
           "options": null,
           "answer": true,
-          "explanation": "Dla obszarów takich jak państwa lub kontynenty wskazuje się cztery skrajne punkty: północny, południowy, zachodni i wschodni."
+          "explanation": "Państwa i kontynenty mają cztery skrajne punkty: północny, południowy, zachodni i wschodni."
         },
         {
           "id": "R02_EXT_04",
@@ -2267,7 +2267,7 @@
           "id": "R02_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Miasto Hawana leży w połowie drogi między równoleżnikami 22° i 24°. Jaką przybliżoną szerokość geograficzną podano?",
+          "prompt": "Miasto Hawana leży w połowie drogi między równoleżnikami 22° i 24°. Jaka jest jego przybliżona szerokość geograficzna?",
           "options": [
             "23°N",
             "22°N",
@@ -2327,33 +2327,33 @@
           "id": "R02_HARD_05",
           "section": "Super trudne",
           "type": "riddle",
-          "prompt": "Miejscowość na Hawajach, której szerokość geograficzną podano jako 22°N, to...",
+          "prompt": "Miejscowość na Hawajach położona na szerokości 22°N to...",
           "options": null,
           "answer": "Lihue",
           "altAnswers": [
             "Lihue",
             "lihue"
           ],
-          "explanation": "W przykładzie fragmentu mapy półkuli północnej szerokość geograficzna miejscowości Lihue wynosi 22°N."
+          "explanation": "Szerokość geograficzna miejscowości Lihue wynosi 22°N."
         },
         {
           "id": "R02_HARD_06",
           "section": "Super trudne",
           "type": "riddle",
-          "prompt": "Miasto w Indonezji, którego długość geograficzną podano jako 112°E, to...",
+          "prompt": "Miasto w Indonezji położone na długości 112°E to...",
           "options": null,
           "answer": "Kediri",
           "altAnswers": [
             "Kediri",
             "kediri"
           ],
-          "explanation": "Na fragmencie mapy półkuli wschodniej podano przykład miasta Kediri o długości geograficznej 112°E."
+          "explanation": "Kediri leży na długości geograficznej 112°E."
         },
         {
           "id": "R02_HARD_07",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz miejsca z przykładów, które leżą na półkuli zachodniej.",
+          "prompt": "Zaznacz miejsca leżące na półkuli zachodniej.",
           "options": [
             "Park Narodowy Grenlandii",
             "Hilo",
@@ -2368,13 +2368,13 @@
             2,
             5
           ],
-          "explanation": "Zachodnią długość geograficzną oznacza litera W. W przykładach 30°W ma Park Narodowy Grenlandii, 155°W Hilo, 84°W San José, a około 83°W Puerto Limón."
+          "explanation": "Zachodnią długość geograficzną oznacza litera W. Park Narodowy Grenlandii ma 30°W, Hilo 155°W, San José 84°W, a Puerto Limón około 83°W."
         },
         {
           "id": "R02_HARD_08",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Uczeń widzi w aplikacji GPS zapis 54.679599, 18.385639. Zasady każą pomnożyć części po kropce przez 60. Który zapis minutowy podano w przykładzie?",
+          "prompt": "Uczeń widzi w aplikacji GPS zapis 54.679599, 18.385639. Części po kropce należy pomnożyć przez 60. Który zapis minutowy jest poprawny?",
           "options": [
             "54°41'N 18°23'E",
             "54°23'N 18°41'E",
@@ -2385,13 +2385,13 @@
           ],
           "answer": 0,
           "image": "r02_smartfon_gps.jpg",
-          "explanation": "W przykładzie 0.679599 daje około 41 minut, a 0.385639 około 23 minuty, więc zapisano 54°41'N 18°23'E."
+          "explanation": "0.679599 daje około 41 minut, a 0.385639 około 23 minuty, więc otrzymujemy zapis 54°41'N 18°23'E."
         },
         {
           "id": "R02_HARD_09",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz przykład z podaną współrzędną lub parą współrzędnych.",
+          "prompt": "Połącz miejsce z właściwą współrzędną lub parą współrzędnych.",
           "options": null,
           "left": [
             "Tampa",
@@ -2451,7 +2451,7 @@
           "id": "R02_HARD_13",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz dziedziny lub działania, w których wskazuje się zastosowanie precyzyjnego określania położenia.",
+          "prompt": "Zaznacz dziedziny lub działania, w których wykorzystuje się precyzyjne określanie położenia.",
           "options": [
             "planowanie zagospodarowania przestrzennego",
             "transport",
@@ -2466,7 +2466,7 @@
             2,
             3
           ],
-          "explanation": "Jako zastosowania precyzyjnego określania położenia wymieniono planowanie zagospodarowania przestrzennego, transport, wojskowość i ochronę przyrody."
+          "explanation": "Precyzyjne określanie położenia wykorzystuje się w planowaniu zagospodarowania przestrzennego, transporcie, wojskowości i ochronie przyrody."
         },
         {
           "id": "R02_HARD_14",
@@ -2609,7 +2609,7 @@
           "options": null,
           "answer": true,
           "image": "r03_mapa_polityczna_europy.jpg",
-          "explanation": "Podaje się liczbę 47 państw w Europie i zaznacza, że Kosowo nie przez wszystkie kraje jest uznawane."
+          "explanation": "W Europie znajduje się 47 państw, a niepodległość Kosowa nie jest uznawana przez wszystkie kraje."
         },
         {
           "id": "R03_POL_06",
@@ -2631,7 +2631,7 @@
           "prompt": "Wskaż, co nie pasuje do wód otaczających Europę: Ocean Arktyczny, Ocean Atlantycki, Morze Śródziemne, Ocean Indyjski.",
           "options": null,
           "answer": "Ocean Indyjski",
-          "explanation": "Ocean Indyjski nie jest jako woda otaczająca Europę; Europę oblewają m.in. Ocean Arktyczny, Ocean Atlantycki i Morze Śródziemne."
+          "explanation": "Ocean Indyjski nie otacza Europy; Europę oblewają m.in. Ocean Arktyczny, Ocean Atlantycki i Morze Śródziemne."
         },
         {
           "id": "R03_POL_08",
@@ -2673,7 +2673,7 @@
             "Belgia i Holandia"
           ],
           "answer": 0,
-          "explanation": "Wymienia się Rosję, Kazachstan i Turcję jako państwa położone częściowo w Europie i Azji."
+          "explanation": "Rosja, Kazachstan i Turcja są państwami położonymi częściowo w Europie i częściowo w Azji."
         },
         {
           "id": "R03_POL_10",
@@ -2748,7 +2748,7 @@
           "id": "R03_UKS_03",
           "section": "Ukształtowanie i wody Europy",
           "type": "multi_select",
-          "prompt": "Zaznacz morza wymienione jako części Morza Śródziemnego.",
+          "prompt": "Zaznacz morza będące częściami Morza Śródziemnego.",
           "options": [
             "Morze Adriatyckie",
             "Morze Tyrreńskie",
@@ -2803,7 +2803,7 @@
             "największy europejski półwysep": "Półwysep Skandynawski",
             "największa europejska wyspa": "Wielka Brytania"
           },
-          "explanation": "Wskazuje się Ładogę, Wołgę, Półwysep Skandynawski i Wielką Brytanię jako największe lub najdłuższe obiekty w swoich kategoriach."
+          "explanation": "Ładoga, Wołga, Półwysep Skandynawski i Wielka Brytania należą do największych lub najdłuższych obiektów w swoich kategoriach."
         },
         {
           "id": "R03_UKS_06",
@@ -2881,7 +2881,7 @@
             "zatoka"
           ],
           "answer": 0,
-          "explanation": "Część nizin leżących poniżej poziomu morza to depresje. Podano przykłady z Holandii i Żuław Wiślanych."
+          "explanation": "Część nizin leżących poniżej poziomu morza to depresje; występują one m.in. w Holandii i na Żuławach Wiślanych."
         },
         {
           "id": "R03_UKS_10",
@@ -2891,7 +2891,7 @@
           "options": null,
           "answer": true,
           "image": "r03_wulkan_etna.jpg",
-          "explanation": "Wymienia się Włochy, Grecję, Islandię i norweską wyspę Jan Mayen jako miejsca występowania czynnych wulkanów w Europie."
+          "explanation": "Czynne wulkany w Europie występują m.in. we Włoszech, Grecji, Islandii i na norweskiej wyspie Jan Mayen."
         },
         {
           "id": "R03_KLI_01",
@@ -2927,7 +2927,7 @@
           "id": "R03_KLI_03",
           "section": "Klimat i zmiana klimatu",
           "type": "single_choice",
-          "prompt": "Gdzie w Europie jest najcieplej według zależności od szerokości geograficznej?",
+          "prompt": "Gdzie w Europie jest najcieplej ze względu na szerokość geograficzną?",
           "options": [
             "na południu kontynentu",
             "na północy kontynentu",
@@ -3147,7 +3147,7 @@
           "options": null,
           "answer": true,
           "image": "r03_europejski_banan_mapa.jpg",
-          "explanation": "Mapa i podsumowanie wskazują, że europejski banan obejmuje m.in. północne Włochy, zachodnie Niemcy, Belgię, Holandię oraz południową i środkową Wielką Brytanię."
+          "explanation": "Europejski banan obejmuje m.in. północne Włochy, zachodnie Niemcy, Belgię, Holandię oraz południową i środkową Wielką Brytanię."
         },
         {
           "id": "R03_LUD_05",
@@ -3265,7 +3265,7 @@
             2,
             3
           ],
-          "explanation": "Wymienia się m.in. naukę, chęć zmiany, migracje zarobkowe oraz konieczność ucieczki przed wojną lub prześladowaniami."
+          "explanation": "Do przyczyn migracji należą m.in. nauka, chęć zmiany, migracje zarobkowe oraz konieczność ucieczki przed wojną lub prześladowaniami."
         },
         {
           "id": "R03_GOS_01",
@@ -3371,7 +3371,7 @@
           ],
           "answer": 0,
           "image": "r03_elektrownia_wodna_norwegia.jpg",
-          "explanation": "Opisuje się Norwegię jako górzysty kraj, w którym szybkie rzeki sprzyjają energetyce wodnej."
+          "explanation": "Norwegia jest krajem górzystym, a szybkie rzeki sprzyjają tam energetyce wodnej."
         },
         {
           "id": "R03_GOS_06",
@@ -3394,7 +3394,7 @@
           "id": "R03_GOS_07",
           "section": "Gospodarka i energetyka",
           "type": "multi_select",
-          "prompt": "Zaznacz przykłady działalności zaliczanych do rolnictwa.",
+          "prompt": "Zaznacz przykłady działalności należących do rolnictwa.",
           "options": [
             "uprawa roślin",
             "chów zwierząt",
@@ -3409,7 +3409,7 @@
             2,
             3
           ],
-          "explanation": "Do rolnictwa zaliczono uprawę roślin, chów zwierząt, rybołówstwo i pozyskiwanie drewna. Bankowość to usługi, a produkcja komputerów to przemysł."
+          "explanation": "Do rolnictwa należą uprawa roślin, chów zwierząt, rybołówstwo i pozyskiwanie drewna. Bankowość to usługi, a produkcja komputerów to przemysł."
         },
         {
           "id": "R03_GOS_08",
@@ -3451,7 +3451,7 @@
           "id": "R03_GOS_10",
           "section": "Gospodarka i energetyka",
           "type": "match",
-          "prompt": "Połącz sektor gospodarki z przykładem z procesu produkcji i sprzedaży serów.",
+          "prompt": "Połącz sektor gospodarki z odpowiednim etapem produkcji i sprzedaży serów.",
           "options": null,
           "left": [
             "rolnictwo",
@@ -3468,7 +3468,7 @@
             "przemysł": "produkcja serów",
             "usługi": "przewóz i sprzedaż produktów"
           },
-          "explanation": "W przykładzie rolnictwo obejmuje chów krów, przemysł produkcję serów, a usługi ich przewóz i sprzedaż."
+          "explanation": "Rolnictwo obejmuje chów krów, przemysł produkcję serów, a usługi ich przewóz i sprzedaż."
         },
         {
           "id": "R03_UNI_01",
@@ -3761,13 +3761,13 @@
             3
           ],
           "image": "r03_susza_poludnie_europy.jpg",
-          "explanation": "Wymienia się m.in. topnienie lądolodów, wzrost poziomu mórz, zalewanie wybrzeży, gwałtowne zjawiska pogodowe, susze i pożary."
+          "explanation": "Do skutków zmiany klimatu należą m.in. topnienie lądolodów, wzrost poziomu mórz, zalewanie wybrzeży, gwałtowne zjawiska pogodowe, susze i pożary."
         },
         {
           "id": "R03_HARD_06",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "W pewnym kraju lodowce dają początek licznym rzekom, a liczne wulkany sprawiają, że pod ziemią jest wysoka temperatura. Dlatego dobrze rozwijają się tam energetyka wodna i geotermalna. Który kraj opisano?",
+          "prompt": "W pewnym kraju lodowce dają początek licznym rzekom, a liczne wulkany sprawiają, że pod ziemią jest wysoka temperatura. Dlatego dobrze rozwijają się tam energetyka wodna i geotermalna. O jaki kraj chodzi?",
           "options": [
             "Islandia",
             "Dania",
@@ -3778,7 +3778,7 @@
           ],
           "answer": 0,
           "image": "r03_elektrownia_wodna_norwegia.jpg",
-          "explanation": "Opisuje się Islandię jako kraj z lodowcami i wulkanami, co sprzyja energetyce wodnej oraz geotermalnej."
+          "explanation": "Islandia ma liczne lodowce i wulkany, co sprzyja energetyce wodnej oraz geotermalnej."
         },
         {
           "id": "R03_HARD_07",
@@ -3843,7 +3843,7 @@
           "prompt": "Wskaż, co nie pasuje do krajów spoza UE używających euro jako głównej waluty: Andora, Czarnogóra, Kosowo, Monako, Niemcy.",
           "options": null,
           "answer": "Niemcy",
-          "explanation": "Andora, Czarnogóra, Kosowo i Monako są wymienione jako kraje nienależące do UE, w których euro jest główną walutą. Niemcy są państwem członkowskim UE i strefy euro."
+          "explanation": "Andora, Czarnogóra, Kosowo i Monako nie należą do UE, ale euro jest w nich główną walutą. Niemcy są państwem członkowskim UE i strefy euro."
         },
         {
           "id": "R03_HARD_10",
@@ -4217,7 +4217,7 @@
             2,
             3
           ],
-          "explanation": "Wśród francuskich firm i marek wymieniono m.in. Carrefour, Auchan, Renault, Airbus i Danone."
+          "explanation": "Do francuskich firm i marek należą m.in. Carrefour, Auchan, Renault, Airbus i Danone."
         },
         {
           "id": "R04_FRA_05",
@@ -4570,7 +4570,7 @@
             "Paryż 1924",
             "Londyn 1948"
           ],
-          "explanation": "Wymienia się igrzyska w Paryżu w 1900, Londynie w 1908, Paryżu w 1924 oraz Londynie w 1948 roku."
+          "explanation": "Igrzyska olimpijskie odbyły się w Paryżu w 1900 i 1924 roku oraz w Londynie w 1908 i 1948 roku."
         },
         {
           "id": "R04_MET_11",
@@ -4774,7 +4774,7 @@
             "Barcelona": "Sagrada Familia",
             "Ateny": "Akropol"
           },
-          "explanation": "Wymienia się m.in. Wenecję z kanałami, Rzym z Koloseum i Forum Romanum, Barcelonę z Sagradą Familią oraz Ateny z Akropolem."
+          "explanation": "Wenecja słynie z kanałów, Rzym z Koloseum i Forum Romanum, Barcelona z Sagrady Familii, a Ateny z Akropolu."
         },
         {
           "id": "R04_TUR_09",
@@ -4795,7 +4795,7 @@
           "id": "R04_TUR_10",
           "section": "Turystyka w południowej Europie",
           "type": "scenario",
-          "prompt": "Turysta wybiera miejsce, gdzie ciepła i czysta woda sprzyja sportom wodnym, np. nurkowaniu. Który akwen opisuje się w tym kontekście?",
+          "prompt": "Turysta wybiera miejsce, gdzie ciepła i czysta woda sprzyja sportom wodnym, np. nurkowaniu. Który akwen zapewnia takie warunki?",
           "image": "r04_atrakcje_poludniowej_europy.jpg",
           "options": [
             "Morze Śródziemne",
@@ -4823,7 +4823,7 @@
             "Iberyjski, Geysir i Akropol"
           ],
           "answer": 0,
-          "explanation": "Wymieniono półwyspy Iberyjski, Apeniński i Bałkański."
+          "explanation": "Do wielkich półwyspów południowej Europy należą Iberyjski, Apeniński i Bałkański."
         },
         {
           "id": "R04_TUR_12",
@@ -4980,7 +4980,7 @@
           "id": "R04_HARD_06",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz wszystkie zdania zgodne z opisem francuskiego przemysłu high-tech.",
+          "prompt": "Zaznacz wszystkie poprawne zdania o francuskim przemyśle high-tech.",
           "options": [
             "pracują w nim świetnie wykształceni specjaliści",
             "duże środki przeznacza się na badania i testy",
@@ -5079,7 +5079,7 @@
           "image": "r04_atrakcje_poludniowej_europy.jpg",
           "options": null,
           "answer": "Big Ben",
-          "explanation": "Big Ben jest symbolem Londynu, a pozostałe obiekty opisano w części o atrakcjach południowej Europy."
+          "explanation": "Big Ben jest symbolem Londynu, a pozostałe obiekty są atrakcjami południowej Europy."
         },
         {
           "id": "R04_HARD_11",
@@ -5158,7 +5158,7 @@
               "bałkański"
             ]
           ],
-          "explanation": "Wymienia się trzy wielkie półwyspy: Iberyjski, Apeniński i Bałkański."
+          "explanation": "Trzy wielkie półwyspy południowej Europy to Iberyjski, Apeniński i Bałkański."
         },
         {
           "id": "R04_HARD_14",
@@ -5605,7 +5605,7 @@
           "prompt": "Co nie pasuje do słowackich pasm górskich: Tatry, Niżne Tatry, Wielka Fatra, Rudawy, Bieszczady.",
           "options": null,
           "answer": "Rudawy",
-          "explanation": "Rudawy wymieniono przy opisie gór otaczających Czechy. Pozostałe nazwy podano jako pasma górskie Słowacji."
+          "explanation": "Rudawy należą do gór otaczających Czechy. Pozostałe nazwy to pasma górskie Słowacji."
         },
         {
           "id": "R05_CZS_10",
@@ -5804,7 +5804,7 @@
           "prompt": "Co nie pasuje do największych miast zajętych przez okupanta: Donieck, Ługańsk, Mariupol, Symferopol, Kijów.",
           "options": null,
           "answer": "Kijów",
-          "explanation": "Wśród największych miast zajętych przez okupanta wymienia się Donieck, Ługańsk, Sewastopol, Mariupol i Symferopol. Kijów jest stolicą Ukrainy, ale nie znajduje się na tej liście."
+          "explanation": "Do największych miast zajętych przez okupanta należą Donieck, Ługańsk, Sewastopol, Mariupol i Symferopol. Kijów jest stolicą Ukrainy, ale nie znajduje się na tej liście."
         },
         {
           "id": "R05_UKR_10",
@@ -5991,7 +5991,7 @@
           "prompt": "Co nie pasuje do litewskich walorów kulturowych: zamek w Trokach, Stare Miasto w Wilnie, Stare Miasto w Kownie, zamek w Nieświeżu.",
           "options": null,
           "answer": "zamek w Nieświeżu",
-          "explanation": "Zamek w Nieświeżu jest walorem kulturowym Białorusi. Zamek w Trokach oraz stare miasta w Wilnie i Kownie wymieniono przy Litwie."
+          "explanation": "Zamek w Nieświeżu jest walorem kulturowym Białorusi. Zamek w Trokach oraz stare miasta w Wilnie i Kownie są walorami kulturowymi Litwy."
         },
         {
           "id": "R05_BIL_09",
@@ -6136,13 +6136,13 @@
             4,
             5
           ],
-          "explanation": "Wymienia się między innymi ropę naftową, gaz ziemny, węgiel kamienny, uran, żelazo, miedź, nikiel, złoto i diamenty. Kakao i banany nie są w nim podane jako rosyjskie surowce mineralne."
+          "explanation": "Do rosyjskich surowców należą między innymi ropa naftowa, gaz ziemny, węgiel kamienny, uran, żelazo, miedź, nikiel, złoto i diamenty. Kakao i banany nie są surowcami mineralnymi."
         },
         {
           "id": "R05_ROS_06",
           "section": "Rosja i relacje z sąsiadami",
           "type": "sort",
-          "prompt": "Przyporządkuj strefy krajobrazowe i cechy do części Rosji, w której je opisano.",
+          "prompt": "Przyporządkuj strefy krajobrazowe i cechy do odpowiednich części Rosji.",
           "options": null,
           "items": [
             "stepy",
@@ -6211,13 +6211,13 @@
             "Ukraina"
           ],
           "answer": 0,
-          "explanation": "Opisuje się Białoruś jako państwo nienależące do NATO ani UE, nieszanowujące demokracji, wolności słowa i praw człowieka oraz prowadzące wrogie działania na granicy z Polską."
+          "explanation": "Białoruś nie należy do NATO ani UE, nie przestrzega demokracji, wolności słowa i praw człowieka oraz prowadzi wrogie działania na granicy z Polską."
         },
         {
           "id": "R05_ROS_10",
           "section": "Rosja i relacje z sąsiadami",
           "type": "sequence",
-          "prompt": "Ułóż typy klimatu Rosji od północy ku południu według opisu.",
+          "prompt": "Ułóż typy klimatu Rosji od północy ku południu.",
           "options": null,
           "items": [
             "umiarkowany ciepły kontynentalny",
@@ -6247,13 +6247,13 @@
             "Litwa"
           ],
           "answer": 0,
-          "explanation": "W części o relacjach Polski z sąsiadami podano, że Niemcy są głównym partnerem handlowym Polski."
+          "explanation": "Niemcy są głównym partnerem handlowym Polski."
         },
         {
           "id": "R05_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który zestaw miast podano jako przykłady miast tworzących konurbację w Zagłębiu Ruhry?",
+          "prompt": "Który zestaw miast tworzy konurbację w Zagłębiu Ruhry?",
           "options": [
             "Dortmund, Essen, Bochum i Duisburg",
             "Berlin, Monachium, Hamburg i Kolonia",
@@ -6263,7 +6263,7 @@
             "Moskwa, Petersburg, Kazań i Omsk"
           ],
           "answer": 0,
-          "explanation": "Przy opisie Zagłębia Ruhry wymieniono miasta Dortmund, Essen, Bochum i Duisburg, które utworzyły konurbację."
+          "explanation": "Dortmund, Essen, Bochum i Duisburg tworzą konurbację w Zagłębiu Ruhry."
         },
         {
           "id": "R05_HARD_02",
@@ -6318,7 +6318,7 @@
               "Nizne"
             ]
           ],
-          "explanation": "Jasna w Niżnych Tatrach jest wymieniona jako jeden z najważniejszych słowackich ośrodków narciarskich."
+          "explanation": "Jasna w Niżnych Tatrach jest jednym z najważniejszych słowackich ośrodków narciarskich."
         },
         {
           "id": "R05_HARD_05",
@@ -6364,7 +6364,7 @@
           "prompt": "Co nie pasuje do elementów kultury ludowej i kuchni Białorusi: Maslenica, draniki, babka ziemniaczana, kartacze.",
           "options": null,
           "answer": "kartacze",
-          "explanation": "Kartacze podano jako tradycyjną potrawę litewską. Maslenica, draniki i babka ziemniaczana pojawiają się przy opisie kultury Białorusi."
+          "explanation": "Kartacze są tradycyjną potrawą litewską. Maslenica, draniki i babka ziemniaczana są elementami kultury Białorusi."
         },
         {
           "id": "R05_HARD_08",

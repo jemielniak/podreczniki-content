@@ -1,8 +1,8 @@
 {
   "id": "biologia-bez-tajemnic-klasa-6",
   "title": "Biologia bez tajemnic klasa 6",
-  "version": 4,
-  "contentHash": "d1c6f1e9bcea2630548f3ad698dc2ee6b4c52904a0528cf1591c2fcafe2d1a2f",
+  "version": 5,
+  "contentHash": "3f05cf958cc425aa6e01575bcfa701ab4f972a0e05c7f3499bc0897ec7013664",
   "bookConfig": {
     "id": "biologia-bez-tajemnic-klasa-6",
     "title": "Biologia bez tajemnic klasa 6",
@@ -530,7 +530,7 @@
             ]
           ],
           "image": "r01_krew_skladniki.jpg",
-          "explanation": "Opisuje się krew jako płynną tkankę łączną z krwinkami zawieszonymi w osoczu."
+          "explanation": "Krew jest płynną tkanką łączną, w której krwinki są zawieszone w osoczu."
         },
         {
           "id": "R01_LAC_04",
@@ -578,7 +578,7 @@
             3
           ],
           "image": "r01_krew_skladniki.jpg",
-          "explanation": "Opisano krwinki czerwone, krwinki białe, płytki krwi i osocze."
+          "explanation": "Krew składa się z osocza oraz elementów morfotycznych: krwinek czerwonych, krwinek białych i płytek krwi."
         },
         {
           "id": "R01_LAC_06",
@@ -632,7 +632,7 @@
           "options": null,
           "answer": true,
           "image": "r01_tkanka_kostna_i_chrzestna.jpg",
-          "explanation": "To prawda. Opisuje się komórki chrzęstne jako mniej liczne i ułożone po 2-3 w jamkach."
+          "explanation": "To prawda. Komórki chrzęstne są stosunkowo nieliczne i mogą być ułożone po 2-3 w jamkach."
         },
         {
           "id": "R01_LAC_10",
@@ -666,7 +666,7 @@
             "tkanka kostna",
             "tkanka chrzęstna"
           ],
-          "explanation": "Przykłady pokazują, że tkanki łączne tworzą różne struktury i pełnią różne funkcje."
+          "explanation": "Tkanki łączne tworzą różne struktury i pełnią różne funkcje."
         },
         {
           "id": "R01_LAC_11",
@@ -1022,7 +1022,7 @@
           "id": "R01_MIX_05",
           "section": "Powtórka mieszana",
           "type": "multi_select",
-          "prompt": "Zaznacz miejsca lub narządy, w których wskazano tkankę nabłonkową.",
+          "prompt": "Zaznacz miejsca lub narządy, w których występuje tkanka nabłonkowa.",
           "options": [
             "skóra",
             "pęcherzyki płucne",
@@ -1039,7 +1039,7 @@
             4
           ],
           "image": "r01_lokalizacja_tkanek_w_ciele.jpg",
-          "explanation": "Pokazuje się nabłonek m.in. w skórze, pęcherzykach płucnych, kanalikach nerkowych, żołądku i jamie nosowej."
+          "explanation": "Tkanka nabłonkowa występuje m.in. w skórze, pęcherzykach płucnych, kanalikach nerkowych, żołądku i jamie nosowej."
         },
         {
           "id": "R01_MIX_06",
@@ -1092,7 +1092,7 @@
           ],
           "answer": 0,
           "image": "r01_tkanka_tluszczowa_i_krew.jpg",
-          "explanation": "Opis odpowiada tkance tłuszczowej."
+          "explanation": "Takie cechy ma tkanka tłuszczowa."
         },
         {
           "id": "R01_MIX_10",
@@ -1178,7 +1178,7 @@
             "wielowarstwowy płaski"
           ],
           "image": "r01_lokalizacja_tkanek_w_ciele.jpg",
-          "explanation": "Pokazuje się różne nabłonki w różnych miejscach organizmu, m.in. w płucach, nerkach, drogach oddechowych, jamie nosowej, żołądku i skórze."
+          "explanation": "Różne rodzaje nabłonków występują w różnych miejscach organizmu, m.in. w płucach, nerkach, drogach oddechowych, jamie nosowej, żołądku i skórze."
         },
         {
           "id": "R01_HARD_02",
@@ -1195,7 +1195,7 @@
           ],
           "answer": 0,
           "image": "r01_tkanki_miesniowe_porownanie.jpg",
-          "explanation": "Opis dotyczy tkanki mięśniowej poprzecznie prążkowanej serca."
+          "explanation": "Takie cechy ma tkanka mięśniowa poprzecznie prążkowana serca."
         },
         {
           "id": "R01_HARD_03",
@@ -1205,7 +1205,7 @@
           "options": null,
           "answer": true,
           "image": "r01_gabka_beztkankowa.jpg",
-          "explanation": "To prawda. Opisuje się gąbki jako proste zwierzęta beztkankowe o nieregularnym kształcie ciała."
+          "explanation": "To prawda. Gąbki są prostymi zwierzętami beztkankowymi o nieregularnym kształcie ciała."
         },
         {
           "id": "R01_HARD_04",
@@ -1276,7 +1276,7 @@
           "id": "R01_HARD_07",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz nabłonki jednowarstwowe, które opisano z dodatkowymi strukturami lub komórkami między nabłonkowymi.",
+          "prompt": "Zaznacz nabłonki jednowarstwowe mające dodatkowe struktury lub wyspecjalizowane komórki.",
           "options": [
             "migawkowy",
             "zmysłowy",
@@ -1707,7 +1707,7 @@
             "Nicienie nigdy nie są pasożytami roślin."
           ],
           "answer": 0,
-          "explanation": "Podaje się przykłady nicieni wolno żyjących oraz pasożytów roślin i zwierząt."
+          "explanation": "Wśród nicieni występują gatunki wolno żyjące oraz pasożyty roślin i zwierząt."
         },
         {
           "id": "R02_NIC_06",
@@ -1804,7 +1804,7 @@
             "guzak północny": "atakuje system korzeniowy warzyw i tworzy guzki",
             "mątwik ziemniaczany": "tworzy cysty na korzeniach ziemniaka i innych roślin"
           },
-          "explanation": "Przedstawione gatunki pokazują, że nicienie mogą pasożytować zarówno u człowieka i innych ssaków, jak i u roślin."
+          "explanation": "Nicienie mogą pasożytować zarówno u człowieka i innych ssaków, jak i u roślin."
         },
         {
           "id": "R02_NIC_11",
@@ -1914,7 +1914,7 @@
           "id": "R02_PIE_03",
           "section": "Pierścienice",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje zgodne z opisem środowisk i trybu życia pierścienic.",
+          "prompt": "Zaznacz prawidłowe informacje o środowiskach i trybie życia pierścienic.",
           "options": [
             "zasiedlają środowisko lądowe",
             "zasiedlają środowisko wodne",
@@ -2129,7 +2129,7 @@
               "Sabella pavonina"
             ]
           },
-          "explanation": "Większość wymienionych pierścienic porusza się aktywnie, natomiast rurecznik i Sabella są przykładami gatunków prowadzących osiadły tryb życia."
+          "explanation": "Większość tych pierścienic porusza się aktywnie, natomiast rurecznik i Sabella prowadzą osiadły tryb życia."
         },
         {
           "id": "R02_CHO_01",
@@ -2257,7 +2257,7 @@
             "u ryb karpiowatych"
           ],
           "answer": 0,
-          "explanation": "Owsica jest opisana jako częsta choroba pasożytnicza, zwykle występująca u dzieci w wieku przedszkolnym i wczesnoszkolnym."
+          "explanation": "Owsica jest częstą chorobą pasożytniczą, która zwykle występuje u dzieci w wieku przedszkolnym i wczesnoszkolnym."
         },
         {
           "id": "R02_CHO_09",
@@ -2316,7 +2316,7 @@
             "kołysanie tylnej części ciała"
           ],
           "answer": 0,
-          "explanation": "W opisie glisty ludzkiej podano, że charakterystycznym objawem glistnicy jest kaszel wywoływany przez wędrujące larwy."
+          "explanation": "Charakterystycznym objawem glistnicy jest kaszel wywoływany przez wędrujące larwy."
         },
         {
           "id": "R02_CHO_12",
@@ -2409,7 +2409,7 @@
             0,
             1
           ],
-          "explanation": "Podsumowanie wskazuje przewód pokarmowy u nicieni i pierścienic; tasiemce są przykładem płazińców pozbawionych przewodu pokarmowego."
+          "explanation": "Nicienie i pierścienice mają przewód pokarmowy, natomiast tasiemce są płazińcami pozbawionymi przewodu pokarmowego."
         },
         {
           "id": "R02_MIE_04",
@@ -2500,7 +2500,7 @@
               "pijawka rybia"
             ]
           },
-          "explanation": "Tasiemce i wymienione nicienie żyją wewnątrz ciała żywiciela, a pijawki przyczepiają się do zewnętrznej powierzchni ciała."
+          "explanation": "Tasiemiec uzbrojony, owsik ludzki i glista ludzka żyją wewnątrz ciała żywiciela, a pijawki przyczepiają się do zewnętrznej powierzchni ciała."
         },
         {
           "id": "R02_MIE_09",
@@ -2565,7 +2565,7 @@
           "id": "R02_HARD_01",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Które warunki panujące w jelicie cienkim żywiciela opisano jako ważne dla życia tasiemca?",
+          "prompt": "Które warunki panujące w jelicie cienkim żywiciela są ważne dla życia tasiemca?",
           "options": [
             "rytmiczne skurcze mięśni przesuwające treść pokarmową",
             "obecność enzymów trawiennych",
@@ -2587,7 +2587,7 @@
           "id": "R02_HARD_02",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Jaka średnia długość jelita cienkiego dorosłego człowieka została podana w opisie tasiemców?",
+          "prompt": "Jaka jest średnia długość jelita cienkiego dorosłego człowieka?",
           "options": [
             "około 6 m",
             "około 1 cm",
@@ -2603,7 +2603,7 @@
           "id": "R02_HARD_03",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Jaką długość może osiągać ciało tasiemca według schematu budowy?",
+          "prompt": "Jaką długość może osiągać ciało tasiemca?",
           "options": [
             "2–10 m",
             "1 mm",
@@ -2613,13 +2613,13 @@
             "100 m"
           ],
           "answer": 0,
-          "explanation": "Na schemacie budowy tasiemca podano, że jego płaskie i długie ciało może mieć 2–10 m."
+          "explanation": "Płaskie i długie ciało tasiemca może osiągać 2–10 m długości."
         },
         {
           "id": "R02_HARD_04",
           "section": "Super trudne",
           "type": "true_false",
-          "prompt": "Caenorhabditis elegans ma według tekstu zawsze dokładnie 959 komórek, a około jedną trzecią z nich stanowią komórki nerwowe.",
+          "prompt": "Caenorhabditis elegans ma zawsze dokładnie 959 komórek, a około jedną trzecią z nich stanowią komórki nerwowe.",
           "options": null,
           "answer": true,
           "explanation": "Ten modelowy nicień jest zbudowany z 959 komórek, z czego około jedną trzecią stanowią komórki nerwowe."
@@ -2641,7 +2641,7 @@
           "id": "R02_HARD_06",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Która pierścienica została wspomniana jako przysmak kulinarny w niektórych krajach?",
+          "prompt": "Która pierścienica jest uznawana za przysmak kulinarny w niektórych krajach?",
           "options": [
             "robak palolo",
             "pijawka rybia",
@@ -2651,13 +2651,13 @@
             "tasiemiec uzbrojony"
           ],
           "answer": 0,
-          "explanation": "W części o znaczeniu pierścienic podano, że w niektórych krajach przysmakiem kulinarnym jest robak palolo."
+          "explanation": "W niektórych krajach robak palolo jest uznawany za przysmak kulinarny."
         },
         {
           "id": "R02_HARD_07",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Na pastwisku pies pasterski rozsiewa z kałem człony tasiemca wypełnione jajami. U owiec larwy osiedlają się zwykle w mózgu i mogą powodować kręcenie się w miejscu. Który tasiemiec opisano w tej ciekawostce?",
+          "prompt": "Na pastwisku pies pasterski rozsiewa z kałem człony tasiemca wypełnione jajami. U owiec larwy osiedlają się zwykle w mózgu i mogą powodować kręcenie się w miejscu. Który tasiemiec wywołuje taki przebieg zakażenia?",
           "options": [
             "tasiemiec kręćkowy",
             "tasiemiec nieuzbrojony",
@@ -2667,7 +2667,7 @@
             "węgorek octowy"
           ],
           "answer": 0,
-          "explanation": "Opis dotyczy tasiemca kręćkowego, którego żywicielem ostatecznym są najczęściej psy pasterskie, a pośrednim owce."
+          "explanation": "Tasiemiec kręćkowy ma najczęściej psy pasterskie jako żywicieli ostatecznych, a owce jako żywicieli pośrednich."
         },
         {
           "id": "R02_HARD_08",
@@ -2775,7 +2775,7 @@
           "prompt": "Stawonogi tworzą jedną z najliczniejszych i najbardziej różnorodnych grup zwierząt.",
           "options": null,
           "answer": true,
-          "explanation": "Opisano ponad milion gatunków stawonogów."
+          "explanation": "Znanych jest ponad milion gatunków stawonogów."
         },
         {
           "id": "R03_STA_03",
@@ -3251,15 +3251,13 @@
             "odnóża kroczne",
             "odnóża skoczne",
             "odnóża pływne",
-            "odnóża grzebne",
-            "odnóża chwytne"
+            "odnóża grzebne"
           ],
           "categories": [
             "poruszanie po powierzchni",
             "skakanie",
             "pływanie",
-            "kopanie",
-            "łapanie ofiary"
+            "kopanie"
           ],
           "answer": {
             "poruszanie po powierzchni": [
@@ -3273,13 +3271,10 @@
             ],
             "kopanie": [
               "odnóża grzebne"
-            ],
-            "łapanie ofiary": [
-              "odnóża chwytne"
             ]
           },
           "image": "r03_odnoza_owadow_typy.jpg",
-          "explanation": "Odnóża owadów mogą być przystosowane do różnych funkcji, takich jak chodzenie, skakanie, pływanie, grzebanie lub chwytanie."
+          "explanation": "Odnóża owadów mogą być przystosowane do różnych funkcji, takich jak chodzenie, skakanie, pływanie lub grzebanie."
         },
         {
           "id": "R03_ZNA_01",
@@ -3321,7 +3316,7 @@
           "id": "R03_ZNA_02",
           "section": "Znaczenie stawonogów",
           "type": "single_choice",
-          "prompt": "Który skorupiak jest opisany jako składnik planktonu słodkowodnego i filtrator wód?",
+          "prompt": "Który skorupiak jest składnikiem planktonu słodkowodnego i filtruje wodę?",
           "options": [
             "rozwielitka",
             "homar europejski",
@@ -3541,7 +3536,7 @@
               "ujemne"
             ]
           ],
-          "explanation": "Opisano zarówno korzyści ze stawonogów, jak i szkody oraz zagrożenia powodowane przez niektóre gatunki."
+          "explanation": "Stawonogi mogą przynosić człowiekowi korzyści, ale niektóre gatunki powodują także szkody i zagrożenia."
         },
         {
           "id": "R03_MIE_01",
@@ -3944,7 +3939,7 @@
           ],
           "answer": 0,
           "image": "r03_slimak_budowa.jpg",
-          "explanation": "Opis wskazuje na ślimaka, który jest mięczakiem."
+          "explanation": "Ślimak jest mięczakiem."
         },
         {
           "id": "R03_MIX_09",
@@ -4014,7 +4009,7 @@
           "id": "R03_MIX_12",
           "section": "Powtórka mieszana",
           "type": "single_choice",
-          "prompt": "Która para zawiera wyłącznie zwierzęta opisane jako filtratory lub oczyszczające wodę?",
+          "prompt": "Która para zawiera wyłącznie zwierzęta filtrujące lub oczyszczające wodę?",
           "options": [
             "rozwielitka i omułek jadalny",
             "kleszcz i wesz ludzka",
@@ -4188,7 +4183,7 @@
           ],
           "answer": 0,
           "image": "r03_malze_budowa.jpg",
-          "explanation": "Opis wskazuje na małża, który pobiera wodę przez syfon i może oczyszczać zbiorniki wodne przez filtrowanie."
+          "explanation": "Małż pobiera wodę przez syfon i może oczyszczać zbiorniki wodne przez filtrowanie."
         },
         {
           "id": "R03_HARD_10",
@@ -5239,7 +5234,7 @@
           "id": "R04_ZPG_02",
           "section": "Płazy i gady: znaczenie",
           "type": "single_choice",
-          "prompt": "Który płaz jest opisany jako największy polski płaz?",
+          "prompt": "Który płaz jest największym polskim płazem?",
           "options": [
             "salamandra plamista",
             "rzekotka drzewna",
@@ -5250,7 +5245,7 @@
           ],
           "answer": 0,
           "image": "r04_przedstawiciele_plazow.jpg",
-          "explanation": "Salamandra plamista została opisana jako największy polski płaz."
+          "explanation": "Salamandra plamista jest największym polskim płazem."
         },
         {
           "id": "R04_ZPG_03",
@@ -6395,7 +6390,7 @@
           "id": "R05_ZPT_03",
           "section": "Ptaki: znaczenie i ochrona",
           "type": "match",
-          "prompt": "Połącz dziób z funkcją wynikającą z opisu.",
+          "prompt": "Połącz typ dzioba z jego funkcją.",
           "options": null,
           "left": [
             "krótki, mocny dziób bogatki",
@@ -6906,15 +6901,13 @@
             "foka",
             "delfin",
             "nietoperz",
-            "kangur rudy",
-            "tygrys syberyjski"
+            "kangur rudy"
           ],
           "categories": [
             "wody słodkie",
             "morza",
             "aktywny lot",
-            "pustynie i suche obszary",
-            "zimne strefy"
+            "pustynie i suche obszary"
           ],
           "answer": {
             "wody słodkie": [
@@ -6929,9 +6922,6 @@
             ],
             "pustynie i suche obszary": [
               "kangur rudy"
-            ],
-            "zimne strefy": [
-              "tygrys syberyjski"
             ]
           },
           "image": "r05_srodowiska_ssakow.jpg",
@@ -7166,7 +7156,7 @@
           "id": "R05_ZSS_07",
           "section": "Ssaki: znaczenie i ochrona",
           "type": "single_choice",
-          "prompt": "Który gatunek inwazyjny wymieniono jako przykład zagrożenia dla rodzimych ssaków?",
+          "prompt": "Który gatunek inwazyjny stanowi zagrożenie dla rodzimych ssaków?",
           "options": [
             "szop pracz",
             "jeż zachodni",
@@ -7177,13 +7167,13 @@
           ],
           "answer": 0,
           "image": "r05_zagrozenia_ssakow.jpg",
-          "explanation": "Jako przykład gatunku inwazyjnego podano m.in. szopa pracza."
+          "explanation": "Szop pracz jest gatunkiem inwazyjnym, który może zagrażać rodzimym ssakom."
         },
         {
           "id": "R05_ZSS_08",
           "section": "Ssaki: znaczenie i ochrona",
           "type": "single_choice",
-          "prompt": "Które ssaki wymieniono jako zwierzęta mogące pracować w policji, wojsku, ratownictwie i służbach celnych?",
+          "prompt": "Które ssaki mogą pracować w policji, wojsku, ratownictwie i służbach celnych?",
           "options": [
             "psy",
             "koty",
@@ -7305,7 +7295,7 @@
           "id": "R05_HARD_03",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Na ilustracji widać pisklę ślepe, nieopierzone i całkowicie zależne od rodziców. Do której grupy należy?",
+          "prompt": "Pisklę jest ślepe, nieopierzone i całkowicie zależne od rodziców. Do której grupy należy?",
           "options": [
             "gniazdowniki",
             "zagniazdowniki",

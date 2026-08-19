@@ -1,8 +1,8 @@
 {
   "id": "historia-6-gwo",
   "title": "Historia 6 GWO",
-  "version": 2,
-  "contentHash": "d8123cf2301999de19dc673052682da2b74a63f4a1b11308be6ec6cf26b29002",
+  "version": 3,
+  "contentHash": "57316b0933c3ccbf652e18a57175b46fe4cd98b0ebdf9e03c5cba3d4cb05db63",
   "bookConfig": {
     "id": "historia-6-gwo",
     "title": "Historia 6 GWO",
@@ -76,7 +76,7 @@
           "options": null,
           "answer": true,
           "image": "r01_santa_maria_na_atlantyku.jpg",
-          "explanation": "W materiale karawelę i większą od niej karakę wskazano jako statki nadające się do dalekich wypraw oceanicznych."
+          "explanation": "Karawela i większa od niej karaka były statkami nadającymi się do dalekich wypraw oceanicznych."
         },
         {
           "id": "R01_ODK_04",
@@ -118,10 +118,10 @@
           "id": "R01_ODK_06",
           "section": "Wielkie odkrycia geograficzne",
           "type": "odd_one_out",
-          "prompt": "Wskaż element niepasujący do pozostałych jako pomoc w dalekiej żegludze: karawela, karaka, dokładniejsze mapy, silnik parowy.",
+          "prompt": "Wskaż element niepasujący do pozostałych jako pomoc w dalekiej żegludze: karawela, karaka, dokładniejsze mapy, plantacja.",
           "options": null,
-          "answer": "silnik parowy",
-          "explanation": "Karawele, karaki i dokładniejsze mapy pomagały w wyprawach oceanicznych XV wieku. Silnik parowy wynaleziono ponad trzysta lat później - statki Kolumba pływały wyłącznie pod żaglami."
+          "answer": "plantacja",
+          "explanation": "Karawela, karaka i dokładniejsze mapy pomagały w wyprawach oceanicznych. Plantacja to duży obszar zajęty pod uprawę jednej rośliny."
         },
         {
           "id": "R01_ODK_07",
@@ -282,7 +282,7 @@
           "options": null,
           "answer": true,
           "image": "r01_tenochtitlan_miasto.jpg",
-          "explanation": "Materiał opisuje Tenochtitlan jako około 200-tysięczne miasto, które Hiszpanie zburzyli podczas podboju państwa Azteków."
+          "explanation": "Tenochtitlan było około 200-tysięcznym miastem, które Hiszpanie zburzyli podczas podboju państwa Azteków."
         },
         {
           "id": "R01_KOL_04",
@@ -304,7 +304,7 @@
               "koń"
             ]
           ],
-          "explanation": "Wśród roślin sprowadzonych z Ameryki wymieniono kukurydzę i ziemniaki, a wśród zwierząt sprowadzonych z Europy do Ameryki konie, bydło i owce."
+          "explanation": "Z Ameryki do Europy sprowadzono kukurydzę i ziemniaki, a z Europy do Ameryki konie, bydło i owce."
         },
         {
           "id": "R01_KOL_05",
@@ -439,7 +439,7 @@
             1,
             2
           ],
-          "explanation": "Wymieniono pracę ponad siły w kopalniach i na plantacjach, choroby przywiezione z Europy, takie jak ospa, oraz okrucieństwa popełniane przez Europejczyków."
+          "explanation": "Do przyczyn masowej śmierci Indian należały praca ponad siły w kopalniach i na plantacjach, choroby przywiezione z Europy, takie jak ospa, oraz okrucieństwa popełniane przez Europejczyków."
         },
         {
           "id": "R01_HUM_01",
@@ -602,7 +602,7 @@
               "zainteresowanie naukami przyrodniczymi"
             ]
           },
-          "explanation": "W materiale zestawiono średniowieczne skupienie na grzeszności i zbawieniu z renesansowym podkreślaniem godności, indywidualnych potrzeb oraz rozwoju człowieka."
+          "explanation": "Myśliciele średniowieczni skupiali się na grzeszności i zbawieniu, a humaniści renesansu podkreślali godność człowieka, jego indywidualne potrzeby i rozwój."
         },
         {
           "id": "R01_HUM_10",
@@ -896,7 +896,7 @@
           "prompt": "W luteranizmie duchownym wolno było się żenić.",
           "options": null,
           "answer": true,
-          "explanation": "W zestawieniu różnic między katolicyzmem a luteranizmem wskazano, że luterańscy duchowni mogą się żenić, a zakony zostają zniesione."
+          "explanation": "W luteranizmie duchowni mogli się żenić, a zakony zostały zniesione."
         },
         {
           "id": "R01_REF_04",
@@ -1027,7 +1027,7 @@
               "duchownym wolno się żenić"
             ]
           },
-          "explanation": "Materiał porównuje oba wyznania pod względem zbawienia, autorytetu Kościoła, kultu świętych, celibatu i języka nabożeństw."
+          "explanation": "Katolicyzm i luteranizm różniły się m.in. poglądami na zbawienie, autorytet Kościoła, kult świętych, celibat i język nabożeństw."
         },
         {
           "id": "R01_REF_10",
@@ -1076,7 +1076,7 @@
           "id": "R01_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Ile kosztowało 100 kg goździków w Londynie w przykładzie pokazującym wzrost ceny przypraw na drodze z Azji do Europy?",
+          "prompt": "Ile kosztowało 100 kg goździków w Londynie na trasie handlowej z Azji do Europy?",
           "options": [
             "213 dukatów",
             "2 dukaty",
@@ -1086,7 +1086,7 @@
             "150 dukatów"
           ],
           "answer": 0,
-          "explanation": "W przykładzie 100 kg goździków kosztowało 2 dukaty na wyspach dzisiejszej Indonezji, 50 dukatów w Kalikacie i 213 dukatów w Londynie."
+          "explanation": "Cena 100 kg goździków wynosiła 2 dukaty na wyspach dzisiejszej Indonezji, 50 dukatów w Kalikacie i 213 dukatów w Londynie."
         },
         {
           "id": "R01_HARD_02",
@@ -1163,7 +1163,7 @@
             "ponad 50 tysięcy"
           ],
           "image": "r01_tenochtitlan_miasto.jpg",
-          "explanation": "Opis azteckiej stolicy podaje, że mieszkańcy mieli ponad 50 tysięcy łodzi."
+          "explanation": "Mieszkańcy Tenochtitlanu mieli ponad 50 tysięcy łodzi służących do transportu ludzi i towarów."
         },
         {
           "id": "R01_HARD_06",
@@ -1189,7 +1189,7 @@
             "Michał Anioł": "1475-1564",
             "Rafael Santi": "1483-1520"
           },
-          "explanation": "W materiale podano daty życia Leonarda da Vinci, Kopernika, Michała Anioła i Rafaela."
+          "explanation": "Leonardo da Vinci żył w latach 1452-1519, Mikołaj Kopernik w latach 1473-1543, Michał Anioł w latach 1475-1564, a Rafael Santi w latach 1483-1520."
         },
         {
           "id": "R01_HARD_07",
@@ -1217,7 +1217,7 @@
           "id": "R01_HARD_08",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Ile dzieci miał papież Aleksander VI, którego przykład podano jako ilustrację kryzysu obyczajów w Kościele na przełomie XV i XVI wieku?",
+          "prompt": "Ile dzieci miał papież Aleksander VI, który na przełomie XV i XVI wieku powierzał swoim dzieciom całe księstwa?",
           "options": [
             "9",
             "3",
@@ -1227,7 +1227,7 @@
             "18"
           ],
           "answer": 0,
-          "explanation": "W materiale podano, że Aleksander VI miał dziewięcioro dzieci, którym powierzał całe księstwa."
+          "explanation": "Aleksander VI miał dziewięcioro dzieci, którym powierzał całe księstwa."
         },
         {
           "id": "R01_HARD_09",
@@ -1292,7 +1292,7 @@
           "id": "R01_HARD_12",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Jaki odsetek wyroków inkwizycji stanowiły kary śmierci według podanych w materiale współczesnych ustaleń?",
+          "prompt": "Jaki odsetek wyroków inkwizycji stanowiły kary śmierci według współczesnych ustaleń?",
           "options": [
             "około 1%",
             "około 10%",
@@ -1302,7 +1302,7 @@
             "niemal 100%"
           ],
           "answer": 0,
-          "explanation": "W materiale wskazano, że kary śmierci stanowiły około 1% wyroków inkwizycji, a znacznie częstsze były kary pokutne."
+          "explanation": "Kary śmierci stanowiły około 1% wyroków inkwizycji, a znacznie częstsze były kary pokutne."
         },
         {
           "id": "R01_HARD_13",
@@ -1373,7 +1373,24 @@
           "explanation": "Jezuici mieli nawracać pogan, zachęcać protestantów do powrotu do Kościoła Katolickiego i prowadzić szkoły. Zniesienie celibatu nie było ich celem."
         }
       ],
-      "kidPrompts": {}
+      "kidPrompts": {},
+      "visuals": [
+        {
+          "file": "r01/01_wielkie_odkrycia_geograficzne.jpg",
+          "title": "Wielkie odkrycia geograficzne",
+          "kind": "infografika"
+        },
+        {
+          "file": "r01/02_spotkanie_swiatow_i_kolonie.jpg",
+          "title": "Spotkanie światów i kolonie",
+          "kind": "infografika"
+        },
+        {
+          "file": "r01/03_renesans_i_reformacja_europy.jpg",
+          "title": "Renesans i reformacja Europy",
+          "kind": "infografika"
+        }
+      ]
     },
     {
       "id": "r02",
@@ -1431,7 +1448,7 @@
             2,
             3
           ],
-          "explanation": "Podkreśla się potęgę Polski i Litwy, wzrost eksportu zboża, rozwój kultury i tolerancję religijną. Wojny nie niszczyły wówczas państwa.",
+          "explanation": "Czasy zygmuntowskie przyniosły wzrost znaczenia Polski i Litwy, eksportu zboża, kultury i tolerancji religijnej. Wojny nie niszczyły wówczas państwa.",
           "image": "r02_zloty_wiek_dworska_scena.jpg"
         },
         {
@@ -1441,7 +1458,7 @@
           "prompt": "Złoty wiek Polski i Litwy obejmował czasy zygmuntowskie oraz kilkanaście następnych lat, aż do śmierci Stefana Batorego w 1586 r.",
           "options": null,
           "answer": true,
-          "explanation": "Tak. Złoty wiek obejmuje czasy zygmuntowskie i okres do śmierci Stefana Batorego w 1586 r."
+          "explanation": "Tak. Złoty wiek obejmował czasy zygmuntowskie i okres do śmierci Stefana Batorego w 1586 r."
         },
         {
           "id": "R02_ZYG_04",
@@ -1487,7 +1504,7 @@
           "prompt": "Wskaż, co nie pasuje do działań Zygmunta Starego: zwiększanie dochodów skarbu, dobór doradców spośród senatorów, zapewnianie bezpieczeństwa granicom, koronacja Barbary Radziwiłłówny.",
           "options": null,
           "answer": "koronacja Barbary Radziwiłłówny",
-          "explanation": "Koronację Barbary Radziwiłłówny przeprowadził Zygmunt II August. Pozostałe działania przypisuje się Zygmuntowi Staremu.",
+          "explanation": "Koronację Barbary Radziwiłłówny przeprowadził Zygmunt II August. Pozostałe działania podejmował Zygmunt Stary.",
           "image": "r02_zygmunt_stary_portret.jpg"
         },
         {
@@ -1531,7 +1548,7 @@
             "Zygmunt II August": "Od 1548 r. sprawował samodzielne rządy",
             "Stefan Batory": "Jego śmierć w 1586 r. zamyka okres złotego wieku"
           },
-          "explanation": "Daty 1506, 1530, 1548 i 1586 porządkują najważniejsze informacje o początkach i końcu okresu opisanego jako złoty wiek."
+          "explanation": "Daty 1506, 1530, 1548 i 1586 porządkują najważniejsze wydarzenia związane z początkiem i końcem złotego wieku."
         },
         {
           "id": "R02_ZYG_09",
@@ -1708,7 +1725,7 @@
           "prompt": "Wskaż, co nie pasuje do przemian państwa krzyżackiego w Prusach: Prusy Królewskie, Prusy Zakonne, Prusy Książęce, Mazowsze.",
           "options": null,
           "answer": "Mazowsze",
-          "explanation": "Mazowsze nie było nazwą części państwa krzyżackiego. Pozostałe trzy nazwy występują w opisie stosunków Polski z zakonem i skutków hołdu pruskiego."
+          "explanation": "Mazowsze nie było nazwą części państwa krzyżackiego. Prusy Królewskie, Prusy Zakonne i Prusy Książęce były związane z przemianami państwa zakonnego i skutkami hołdu pruskiego."
         },
         {
           "id": "R02_PRU_08",
@@ -1911,7 +1928,7 @@
           "id": "R02_TUR_08",
           "section": "Turcja i Mazowsze",
           "type": "riddle",
-          "prompt": "Tytuł władcy Imperium Osmańskiego używany to...",
+          "prompt": "Jak brzmiał tytuł władcy Imperium Osmańskiego?",
           "options": null,
           "answer": "sułtan",
           "altAnswers": [
@@ -2243,7 +2260,7 @@
             "Połock",
             "Polock"
           ],
-          "explanation": "W 1563 r. wojska moskiewskie zdobyły Połock, wydarzenie pokazane na ilustracji.",
+          "explanation": "W 1563 r. wojska moskiewskie zdobyły Połock.",
           "image": "r02_polock_szturm_1563.jpg"
         },
         {
@@ -2253,7 +2270,7 @@
           "prompt": "Wskaż państwo, które nie należało do czterech rywali o Inflanty: Litwa, Moskwa, Dania, Szwecja, Imperium Osmańskie.",
           "options": null,
           "answer": "Imperium Osmańskie",
-          "explanation": "O Inflanty rywalizowały Litwa, Moskwa, Dania i Szwecja. Imperium Osmańskie występuje w innym kontekście."
+          "explanation": "O Inflanty rywalizowały Litwa, Moskwa, Dania i Szwecja. Imperium Osmańskie nie uczestniczyło w tej rywalizacji."
         },
         {
           "id": "R02_INF_07",
@@ -2463,7 +2480,7 @@
               "247 lat"
             ]
           ],
-          "explanation": "W części poświęconej ocenie hołdu pruskiego podano, że od 1525 do 1772 r. minęło 247 lat. To argument przeciw obciążaniu Zygmunta Starego odpowiedzialnością za wydarzenia odległe o ponad dwa stulecia."
+          "explanation": "Od hołdu pruskiego w 1525 r. do pierwszego rozbioru w 1772 r. minęło 247 lat. Tak duży odstęp czasu przemawia przeciw obciążaniu Zygmunta Starego odpowiedzialnością za wydarzenia odległe o ponad dwa stulecia."
         },
         {
           "id": "R02_HARD_05",
@@ -2496,13 +2513,13 @@
             "Rozbiory nastąpiły za życia Zygmunta Augusta"
           ],
           "answer": 0,
-          "explanation": "Zwraca uwagę się na 247 lat dzielących hołd pruski od pierwszego rozbioru i ostrzega przed ocenianiem dawnych decyzji z wiedzą o bardzo odległych skutkach."
+          "explanation": "Hołd pruski i pierwszy rozbiór dzieliło 247 lat, dlatego bezpośrednie łączenie tych wydarzeń pomija bardzo duży odstęp czasu i późniejsze przemiany polityczne."
         },
         {
           "id": "R02_HARD_07",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż postać, która nie była związana z konfliktem polsko-krzyżackim ani jego opisanymi następstwami: Albrecht Hohenzollern, Marcin Luter, Mikołaj Kopernik, Barbara Radziwiłłówna.",
+          "prompt": "Wskaż postać, która nie była związana z konfliktem polsko-krzyżackim ani jego następstwami: Albrecht Hohenzollern, Marcin Luter, Mikołaj Kopernik, Barbara Radziwiłłówna.",
           "options": null,
           "answer": "Barbara Radziwiłłówna",
           "explanation": "Albrecht był wielkim mistrzem, Luter doradzał mu sekularyzację, a Kopernik bronił Olsztyna przed Krzyżakami. Barbara Radziwiłłówna wiąże się z życiem Zygmunta Augusta."
@@ -2615,7 +2632,24 @@
           "explanation": "Sekularyzacja państwa Albrechta i hołd pruski przypadły na 1525 r., a rozwiązanie zakonu kawalerów mieczowych i poddanie Inflant na 1561 r."
         }
       ],
-      "kidPrompts": {}
+      "kidPrompts": {},
+      "visuals": [
+        {
+          "file": "r02/01_zloty_wiek_polski_i_litwy.jpg",
+          "title": "Złoty wiek Polski i Litwy",
+          "kind": "infografika"
+        },
+        {
+          "file": "r02/02_hold_pruski_i_polityka_zygmunta_starego.jpg",
+          "title": "Hołd pruski i polityka Zygmunta Starego",
+          "kind": "infografika"
+        },
+        {
+          "file": "r02/03_zygmunt_august_i_inflanty.jpg",
+          "title": "Zygmunt August i Inflanty",
+          "kind": "infografika"
+        }
+      ]
     },
     {
       "id": "r03",
@@ -3797,7 +3831,7 @@
           "prompt": "Co nie pasuje do sarmackiego ideału: szlachcic ziemianin, obrońca wiary katolickiej, strażnik złotej wolności, zwolennik gruntownej reformy ustroju.",
           "options": null,
           "answer": "zwolennik gruntownej reformy ustroju",
-          "explanation": "Sarmaci bronili istniejącego ustroju i sprzeciwiali się jego zmianom. Pozostałe określenia należą do opisywanego ideału Sarmaty.",
+          "explanation": "Sarmaci bronili istniejącego ustroju i sprzeciwiali się jego zmianom. Pozostałe określenia należą do ideału Sarmaty.",
           "image": "r03_sarmata.jpg"
         },
         {
@@ -4080,7 +4114,24 @@
           "image": "r03_sejm_liberum_veto.jpg"
         }
       ],
-      "kidPrompts": {}
+      "kidPrompts": {},
+      "visuals": [
+        {
+          "file": "r03/01_wojny_rzeczpospolitej_w_xvii_wieku.jpg",
+          "title": "Wojny Rzeczpospolitej w XVII wieku",
+          "kind": "infografika"
+        },
+        {
+          "file": "r03/02_kryzys_rzeczpospolitej_po_potopie.jpg",
+          "title": "Kryzys Rzeczpospolitej po potopie",
+          "kind": "infografika"
+        },
+        {
+          "file": "r03/03_barok_i_sarmatyzm_w_rzeczpospolitej.jpg",
+          "title": "Barok i sarmatyzm w Rzeczpospolitej",
+          "kind": "infografika"
+        }
+      ]
     },
     {
       "id": "r04",
@@ -4383,7 +4434,7 @@
           "id": "R04_ANG_05",
           "section": "Anglia parlamentarna",
           "type": "multi_select",
-          "prompt": "Zaznacz postanowienia Deklaracji praw z 1689 r. opisane w materiale.",
+          "prompt": "Zaznacz postanowienia Deklaracji praw z 1689 r.",
           "options": [
             "Król nie może wykonywać praw bez zgody parlamentu",
             "Król nie może ściągać pieniędzy bez zgody parlamentu",
@@ -4569,7 +4620,7 @@
           "prompt": "Oświecenie zaczęło się w Anglii i Francji pod koniec XVII w., a trwało do pierwszych lat XIX w.",
           "options": null,
           "answer": true,
-          "explanation": "Taką chronologię oświecenia podaje materiał: początki pod koniec XVII w. w Anglii i Francji, a koniec w pierwszych latach XIX w."
+          "explanation": "Oświecenie rozpoczęło się pod koniec XVII w. w Anglii i Francji, a zakończyło w pierwszych latach XIX w."
         },
         {
           "id": "R04_OSW_06",
@@ -5091,7 +5142,7 @@
             "około 100 tysięcy"
           ],
           "answer": 3,
-          "explanation": "Materiał podaje około 3 tysięcy ofiar w samym Paryżu i około 30 tysięcy w całej Francji."
+          "explanation": "Podczas masakr związanych z nocą św. Bartłomieja zginęło około 3 tysięcy osób w Paryżu i około 30 tysięcy w całej Francji."
         },
         {
           "id": "R04_HARD_02",
@@ -5100,7 +5151,7 @@
           "prompt": "Istnieją pewne dowody, że Ludwik XIV naprawdę wypowiedział słowa: Państwo to ja.",
           "options": null,
           "answer": false,
-          "explanation": "Materiał zaznacza, że nie ma dowodów na wypowiedzenie przez Ludwika XIV słów przypisywanych mu jako Państwo to ja.",
+          "explanation": "Nie ma dowodów, że Ludwik XIV rzeczywiście wypowiedział słowa Państwo to ja.",
           "image": "r04_ludwik_xiv_portret.jpg"
         },
         {
@@ -5119,7 +5170,7 @@
           "id": "R04_HARD_04",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz postać z okresem jej rządów podanym w materiale.",
+          "prompt": "Połącz postać z właściwym okresem jej rządów.",
           "options": null,
           "left": [
             "Kardynał Richelieu",
@@ -5179,14 +5230,14 @@
             "Karol I"
           ],
           "answer": 0,
-          "explanation": "Opis dotyczy Fryderyka II, twórcy potęgi Prus i przedstawiciela absolutyzmu oświeconego.",
+          "explanation": "Chodzi o Fryderyka II, twórcę potęgi Prus i przedstawiciela absolutyzmu oświeconego.",
           "image": "r04_fryderyk_ii_portret.jpg"
         },
         {
           "id": "R04_HARD_07",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz reformy Józefa II wymienione w materiale.",
+          "prompt": "Zaznacz reformy przeprowadzone przez Józefa II.",
           "options": [
             "Wprowadzenie wolności osobistej chłopów",
             "Wprowadzenie tolerancji religijnej",
@@ -5247,7 +5298,7 @@
           "id": "R04_HARD_11",
           "section": "Super trudne",
           "type": "odd_one_out",
-          "prompt": "Wskaż postać, która nie została stracona w wyniku opisywanych konfliktów politycznych: Karol I, Ludwik XVI, Maksymilian Robespierre, Wilhelm III Orański.",
+          "prompt": "Wskaż postać, która jako jedyna z wymienionych nie została stracona w wyniku konfliktów politycznych: Karol I, Ludwik XVI, Maksymilian Robespierre, Wilhelm III Orański.",
           "options": null,
           "answer": "Wilhelm III Orański",
           "explanation": "Karol I został ścięty, Ludwik XVI i Robespierre zostali zgilotynowani. Wilhelm III Orański objął tron Anglii po chwalebnej rewolucji i nie został stracony."
@@ -5306,7 +5357,7 @@
           "id": "R04_HARD_15",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Które z wymienionych państw miało pod koniec XVIII w. najliczniejszą armię według porównania w materiale?",
+          "prompt": "Które z tych państw miało pod koniec XVIII w. najliczniejszą armię?",
           "options": [
             "Prusy",
             "Austria",
@@ -5316,7 +5367,7 @@
             "Anglia"
           ],
           "answer": 2,
-          "explanation": "W porównaniu podanym przy reformach Józefa II armia rosyjska liczyła około 400 tysięcy żołnierzy, austriacka około 280 tysięcy, a pruska 186 tysięcy."
+          "explanation": "Pod koniec XVIII w. armia rosyjska liczyła około 400 tysięcy żołnierzy, austriacka około 280 tysięcy, a pruska 186 tysięcy."
         }
       ],
       "kidPrompts": {
@@ -5326,7 +5377,24 @@
         "R04_USA_02": "Dlaczego kolonie kłóciły się z Wielką Brytanią?",
         "R04_REW_02": "Dlaczego we Francji wybuchła rewolucja?",
         "R04_REW_08": "Jak nazwali się przedstawiciele stanu trzeciego w 1789 r.?"
-      }
+      },
+      "visuals": [
+        {
+          "file": "r04/01_francja_ludwika_xiv_monarchia_absolutna.jpg",
+          "title": "Francja Ludwika XIV - monarchia absolutna",
+          "kind": "infografika"
+        },
+        {
+          "file": "r04/02_anglia_monarchia_parlamentarna.jpg",
+          "title": "Anglia - monarchia parlamentarna",
+          "kind": "infografika"
+        },
+        {
+          "file": "r04/03_oswiecenie_i_epoka_rewolucji.jpg",
+          "title": "Oświecenie i epoka rewolucji",
+          "kind": "infografika"
+        }
+      ]
     },
     {
       "id": "r05",
@@ -5950,7 +6018,7 @@
           "id": "R05_SEJM_07",
           "section": "Sejm Wielki i Konstytucja 3 maja",
           "type": "match",
-          "prompt": "Połącz władzę z instytucją wskazaną w ustroju Konstytucji 3 maja.",
+          "prompt": "Połącz rodzaj władzy z odpowiadającą mu instytucją w ustroju Konstytucji 3 maja.",
           "options": null,
           "left": [
             "władza ustawodawcza",
@@ -6392,7 +6460,7 @@
             2,
             3
           ],
-          "explanation": "Podaje się wzrost ludności z ok. 6 do ok. 11 mln, około 650 kadetów Szkoły Rycerskiej oraz ponad 300 tys. tomów biblioteki Załuskich."
+          "explanation": "Liczba ludności wzrosła z ok. 6 do ok. 11 mln, Szkołę Rycerską ukończyło około 650 kadetów, a biblioteka Załuskich zgromadziła ponad 300 tys. tomów."
         },
         {
           "id": "R05_HARD_05",
@@ -6593,7 +6661,24 @@
           "explanation": "Racławice były 4 kwietnia, powstanie w Warszawie rozpoczęło się 17 kwietnia, Uniwersał połaniecki ogłoszono w maju, Maciejowice były w październiku, a rzeź Pragi 4 listopada 1794 r."
         }
       ],
-      "kidPrompts": {}
+      "kidPrompts": {},
+      "visuals": [
+        {
+          "file": "r05/01_czasy_saskie_slabosc_i_przebudzenie.jpg",
+          "title": "Czasy saskie - słabość i przebudzenie",
+          "kind": "infografika"
+        },
+        {
+          "file": "r05/02_reformy_i_kultura_stanislawowska.jpg",
+          "title": "Reformy i kultura stanisławowska",
+          "kind": "infografika"
+        },
+        {
+          "file": "r05/03_od_konstytucji_do_upadku.jpg",
+          "title": "Od Konstytucji do upadku",
+          "kind": "infografika"
+        }
+      ]
     },
     {
       "id": "r06",
@@ -6630,7 +6715,7 @@
           ],
           "answer": 0,
           "image": "r06_napoleon_portret.jpg",
-          "explanation": "Napoleon urodził się na Korsyce. Nie był Francuzem z urodzenia."
+          "explanation": "Napoleon urodził się na Korsyce i nie był Francuzem z urodzenia."
         },
         {
           "id": "R06_WLA_02",
@@ -6660,7 +6745,7 @@
           "prompt": "Okres rządów Napoleona jako pierwszego konsula, zwany konsulatem, trwał od 1799 do 1804 roku.",
           "options": null,
           "answer": true,
-          "explanation": "Określa się lata 1799-1804 jako pięcioletni okres konsulatu Napoleona."
+          "explanation": "Konsulat Napoleona trwał pięć lat, od 1799 do 1804 r."
         },
         {
           "id": "R06_WLA_04",
@@ -6849,7 +6934,7 @@
           "prompt": "Wojny napoleońskie trwały w latach 1799-1815 i objęły większość Europy.",
           "options": null,
           "answer": true,
-          "explanation": "Podaje się lata 1799-1815 i zaznacza, że wojny napoleońskie ogarnęły większość Europy, od Portugalii po Rosję."
+          "explanation": "Wojny napoleońskie trwały w latach 1799-1815 i ogarnęły większość Europy, od Portugalii po Rosję."
         },
         {
           "id": "R06_WOJ_03",
@@ -7504,7 +7589,7 @@
           "prompt": "Francuzi stanowili około jednej trzeciej ponad 600-tysięcznej Wielkiej Armii zebranej przeciw Rosji.",
           "options": null,
           "answer": true,
-          "explanation": "Francuzi stanowili jedną trzecią armii, a resztę tworzyli m.in. Polacy oraz sojusznicy z innych państw."
+          "explanation": "Francuzi stanowili jedną trzecią Wielkiej Armii, a resztę tworzyli m.in. Polacy oraz sojusznicy z innych państw."
         },
         {
           "id": "R06_UPA_04",
@@ -7825,7 +7910,7 @@
           "id": "R06_HARD_09",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz etap wyprawy na Rosję z przybliżoną liczebnością Wielkiej Armii podaną w materiale.",
+          "prompt": "Połącz etap wyprawy na Rosję z przybliżoną liczebnością Wielkiej Armii.",
           "options": null,
           "left": [
             "początek wyprawy",
@@ -7899,7 +7984,24 @@
           "explanation": "W 1811 r. Rosja otworzyła porty dla towarów brytyjskich, w 1812 r. Napoleon ruszył na Rosję, w 1813 r. przegrał pod Lipskiem, w 1814 r. abdykował, w marcu 1815 r. wrócił z Elby, a w czerwcu przegrał pod Waterloo."
         }
       ],
-      "kidPrompts": {}
+      "kidPrompts": {},
+      "visuals": [
+        {
+          "file": "r06/01_napoleon_u_wladzy.jpg",
+          "title": "Napoleon u władzy",
+          "kind": "infografika"
+        },
+        {
+          "file": "r06/02_wojny_napoleonskie.jpg",
+          "title": "Wojny napoleońskie",
+          "kind": "infografika"
+        },
+        {
+          "file": "r06/03_polacy_i_napoleon.jpg",
+          "title": "Polacy i Napoleon",
+          "kind": "infografika"
+        }
+      ]
     }
   ],
   "images": [

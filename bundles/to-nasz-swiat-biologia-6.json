@@ -1,8 +1,8 @@
 {
   "id": "to-nasz-swiat-biologia-6",
   "title": "To nasz świat Biologia 6",
-  "version": 4,
-  "contentHash": "13fdec9caa013a9cb1189ea45386be77ec1fe056e662cacbb83c6e86460e94b9",
+  "version": 5,
+  "contentHash": "c3bfb01c078f8efadf55bca58e99c0bc64f0922cb763bf7e6537a1ce2462eb96",
   "bookConfig": {
     "id": "to-nasz-swiat-biologia-6",
     "title": "To nasz świat Biologia 6",
@@ -56,7 +56,7 @@
           "prompt": "Dorosłe koralowce prowadzą osiadły tryb życia.",
           "options": null,
           "answer": true,
-          "explanation": "Osiadły tryb życia oznacza, że dorosłe osobniki spędzają życie w jednym miejscu, przytwierdzone do podłoża; podaje się jako przykład koralowce."
+          "explanation": "Osiadły tryb życia oznacza, że dorosłe osobniki spędzają życie w jednym miejscu, przytwierdzone do podłoża; taki tryb życia prowadzą m.in. koralowce."
         },
         {
           "id": "R01_SWI_03",
@@ -141,7 +141,7 @@
             "saprobiont": "dżdżownica"
           },
           "image": "r01_rodzaje_cudzozywnosci.jpg",
-          "explanation": "Pokazuje się m.in. sępa jako padlinożercę, pszczołę miodną jako roślinożercę, srokę jako wszystkożercę, kleszcza jako pasożyta i dżdżownicę jako saprobionta."
+          "explanation": "Sęp uszaty jest padlinożercą, pszczoła miodna roślinożercą, sroka zwyczajna wszystkożercą, kleszcz pospolity pasożytem, a dżdżownica saprobiontem."
         },
         {
           "id": "R01_SWI_07",
@@ -433,7 +433,7 @@
             "Nadecznik stawowy"
           ],
           "image": "r01_gabka_budowa.jpg",
-          "explanation": "Podaje się nadecznika stawowego jako przykład gąbki słodkowodnej występującej w Polsce."
+          "explanation": "Nadecznik stawowy jest gąbką słodkowodną występującą w Polsce."
         },
         {
           "id": "R01_POD_10",
@@ -443,7 +443,7 @@
           "options": null,
           "answer": true,
           "image": "r01_podzial_krolestwa_zwierzat.jpg",
-          "explanation": "Te grupy są wymienione po stronie bezkręgowców."
+          "explanation": "Parzydełkowce, płazińce, nicienie, pierścienice, stawonogi i mięczaki należą do bezkręgowców."
         },
         {
           "id": "R01_POD_11",
@@ -479,7 +479,7 @@
             "kręgowe",
             "ssaki"
           ],
-          "explanation": "Schemat podziału prowadzi od całego królestwa zwierząt przez zwierzęta tkankowe i kręgowce do jednej z ich grup."
+          "explanation": "Kolejność od grupy najszerszej do najbardziej szczegółowej to: zwierzęta, tkankowe, kręgowe, ssaki."
         },
         {
           "id": "R01_NIM_01",
@@ -588,7 +588,7 @@
             "walcowaty": "wydłużone komórki przypominające walec"
           },
           "image": "r01_nablonki_rodzaje.jpg",
-          "explanation": "Wyróżniono nabłonki płaskie, sześcienne i walcowate według kształtu komórek."
+          "explanation": "Ze względu na kształt komórek nabłonki dzieli się na płaskie, sześcienne i walcowate."
         },
         {
           "id": "R01_NIM_07",
@@ -841,7 +841,7 @@
           "id": "R01_LNE_10",
           "section": "Tkanka łączna i nerwowa",
           "type": "scenario",
-          "prompt": "W opisie tkanki padają przykłady: małżowina uszna, krtań, przegroda nosowa i stawy. O jaką tkankę łączną chodzi?",
+          "prompt": "Małżowina uszna, krtań, przegroda nosowa i stawy to miejsca występowania której tkanki łącznej?",
           "options": [
             "chrzęstna",
             "kostna",
@@ -1120,7 +1120,7 @@
           "id": "R01_HARD_02",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Gdzie, według opisu rodzajów nabłonków, występuje nabłonek sześcienny?",
+          "prompt": "Gdzie występuje nabłonek sześcienny?",
           "options": [
             "W kanalikach nerkowych i oskrzelach",
             "Wyłącznie w mięśniu sercowym",
@@ -1150,7 +1150,7 @@
               "bialek kurczliwych"
             ]
           ],
-          "explanation": "Prążki opisano jako wynik regularnego ułożenia białek kurczliwych."
+          "explanation": "Prążki powstają w wyniku regularnego ułożenia białek kurczliwych."
         },
         {
           "id": "R01_HARD_04",
@@ -1227,7 +1227,7 @@
           ],
           "answer": 0,
           "image": "r01_tkanka_miesniowa_rodzaje.jpg",
-          "explanation": "Tak opisano tkankę mięśniową gładką."
+          "explanation": "Jest to tkanka mięśniowa gładka."
         },
         {
           "id": "R01_HARD_09",
@@ -1505,7 +1505,7 @@
           "id": "R02_PLA_08",
           "section": "Płazińce",
           "type": "single_choice",
-          "prompt": "Czym tasiemiec uzbrojony różni się od tasiemca nieuzbrojonego według schematu?",
+          "prompt": "Czym tasiemiec uzbrojony różni się od tasiemca nieuzbrojonego?",
           "image": "r02_tasiemiec_budowa.jpg",
           "options": [
             "Ma haczyki i przyssawki na główce",
@@ -1525,7 +1525,7 @@
           "prompt": "Gardziel wypławka białego służy do chwytania zdobyczy.",
           "options": null,
           "answer": true,
-          "explanation": "W schemacie wypławka gardziel jest wskazana jako narząd służący do chwytania zdobyczy."
+          "explanation": "Gardziel wypławka służy do chwytania zdobyczy."
         },
         {
           "id": "R02_PLA_10",
@@ -1697,7 +1697,7 @@
           "prompt": "Owsik ludzki występuje w jelicie grubym człowieka, głównie u dzieci.",
           "options": null,
           "answer": true,
-          "explanation": "Owsik ludzki opisano jako pasożyta jelita grubego, częstego szczególnie u dzieci."
+          "explanation": "Owsik ludzki jest pasożytem jelita grubego, a zakażenia są częste szczególnie u dzieci."
         },
         {
           "id": "R02_NIC_07",
@@ -1756,7 +1756,7 @@
           "prompt": "Wskaż, co nie pasuje do pozostałych: gleba, muł, gorące źródła, przestrzeń kosmiczna.",
           "options": null,
           "answer": "przestrzeń kosmiczna",
-          "explanation": "Gleba, muł i gorące źródła są wymienione jako środowiska nicieni, a przestrzeń kosmiczna nie."
+          "explanation": "Nicienie występują m.in. w glebie, mule i gorących źródłach, ale nie w przestrzeni kosmicznej."
         },
         {
           "id": "R02_NIC_11",
@@ -1955,7 +1955,7 @@
           "prompt": "Pijawka ma szczecinki na pierścieniach, tak jak dżdżownica.",
           "options": null,
           "answer": false,
-          "explanation": "Schemat pijawki wskazuje brak szczecinek na pierścieniach."
+          "explanation": "Pijawki nie mają szczecinek na pierścieniach."
         },
         {
           "id": "R02_PIE_09",
@@ -2222,7 +2222,7 @@
           "prompt": "Utrzymywanie toalety w czystości należy do sposobów zapobiegania zakażeniu owsikami.",
           "options": null,
           "answer": true,
-          "explanation": "Wymienia się czystość toalety jako jedną z zasad higieny pomagających uniknąć owsicy."
+          "explanation": "Utrzymywanie czystości toalety pomaga zapobiegać owsicy."
         },
         {
           "id": "R02_PRO_12",
@@ -2331,7 +2331,7 @@
             1,
             2
           ],
-          "explanation": "Jako wolno żyjące opisano m.in. wypławka, niektóre nicienie glebowe i dżdżownice; pijawki też należą do pierścienic, choć wiele z nich jest pasożytami zewnętrznymi."
+          "explanation": "Wypławek, niektóre nicienie glebowe i dżdżownice prowadzą wolno żyjący tryb życia; pijawki także należą do pierścienic, choć wiele z nich jest pasożytami zewnętrznymi."
         },
         {
           "id": "R02_POR_05",
@@ -2400,7 +2400,7 @@
           "id": "R02_POR_09",
           "section": "Porównanie bezkręgowców",
           "type": "sort",
-          "prompt": "Przyporządkuj tryb życia do grup, w których go opisano.",
+          "prompt": "Przyporządkuj tryby życia do odpowiednich grup zwierząt.",
           "options": null,
           "items": [
             "pasożyty wewnętrzne",
@@ -2513,7 +2513,7 @@
           "image": "r02_tasiemiec_budowa.jpg",
           "options": null,
           "answer": true,
-          "explanation": "Schemat tasiemca opisuje odrywanie się dojrzałych członów wypełnionych jajami i ich usuwanie z kałem."
+          "explanation": "Dojrzałe człony tasiemca, wypełnione jajami, odrywają się i są usuwane z kałem żywiciela."
         },
         {
           "id": "R02_HARD_04",
@@ -2528,7 +2528,7 @@
             "C. elegans",
             "c elegans"
           ],
-          "explanation": "Podaje się jako ciekawostkę gatunek Caenorhabditis elegans."
+          "explanation": "Caenorhabditis elegans jest niewielkim nicieniem żyjącym w glebie i pierwszym organizmem wielokomórkowym, u którego poznano wszystkie geny."
         },
         {
           "id": "R02_HARD_05",
@@ -2550,7 +2550,7 @@
           "id": "R02_HARD_06",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż etapy przygotowania hodowli nicieni zgodnie z opisem.",
+          "prompt": "Ułóż etapy przygotowania hodowli nicieni w prawidłowej kolejności.",
           "options": null,
           "items": [
             "dodaj drożdże, rozgniecionego banana i porcję startową nicieni",
@@ -2595,13 +2595,13 @@
           "image": "r02_pijawka_budowa.jpg",
           "options": null,
           "answer": true,
-          "explanation": "W znaczeniu pierścienic wymieniono, że pijawki mogą przenosić choroby bakteryjne, wirusowe i pasożytnicze."
+          "explanation": "Pijawki mogą przenosić choroby bakteryjne, wirusowe i pasożytnicze."
         },
         {
           "id": "R02_HARD_09",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Jak długie mogą być wapienne rurki rurek według ciekawostki o rurówkach?",
+          "prompt": "Jak długie mogą być wapienne rurki rurek?",
           "image": "r02_rurowka_w_rurce.jpg",
           "options": [
             "20–30 cm",
@@ -2612,13 +2612,13 @@
             "około 9 m"
           ],
           "answer": 0,
-          "explanation": "W ciekawostce podano, że wapienne rurki rurek mogą mieć 20–30 cm długości."
+          "explanation": "Wapienne rurki rurek mogą mieć 20–30 cm długości."
         },
         {
           "id": "R02_HARD_10",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Podczas porządkowania ogrodu uczeń chce wrzucić do kompostu kości, mięso i nabiał. Co powinien zrobić zgodnie z instrukcją?",
+          "prompt": "Podczas porządkowania ogrodu uczeń chce wrzucić do kompostu kości, mięso i nabiał. Co powinien zrobić?",
           "options": [
             "nie wrzucać tych produktów do kompostu",
             "wrzucić je jako odpadki zielone",
@@ -2626,7 +2626,7 @@
             "zakopać je jako porcję startową nicieni"
           ],
           "answer": 0,
-          "explanation": "Instrukcja kompostowania ostrzega, aby nie wrzucać do kompostu m.in. kości, mięsa ani nabiału."
+          "explanation": "Do kompostu nie należy wrzucać m.in. kości, mięsa ani nabiału."
         }
       ],
       "kidPrompts": {},
@@ -3349,7 +3349,7 @@
               "motyl zorzynka rzeżuchowiec"
             ]
           },
-          "explanation": "Pokazuje się aparat gryzący u szerszenia, kłująco-ssący u komara i ssący u motyla.",
+          "explanation": "Szerszeń ma aparat gryzący, komar kłująco-ssący, a motyl ssący.",
           "image": "r03_odnoza_aparaty_owadow.jpg"
         },
         {
@@ -3698,7 +3698,7 @@
               "owady"
             ]
           ],
-          "explanation": "Jako główne grupy stawonogów wymieniono skorupiaki, pajęczaki i owady."
+          "explanation": "Główne grupy stawonogów to skorupiaki, pajęczaki i owady."
         },
         {
           "id": "R03_POW_06",
@@ -3800,7 +3800,7 @@
           "id": "R03_HARD_02",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje zgodne z opisem pająka topika.",
+          "prompt": "Zaznacz prawdziwe informacje o pająku topiku.",
           "options": [
             "jest pajęczakiem",
             "może przebywać pod wodą",
@@ -3823,7 +3823,7 @@
           "prompt": "Najedzona samica kleszcza pospolitego może osiągnąć długość 10–12 mm.",
           "options": null,
           "answer": true,
-          "explanation": "Ilustracja podaje, że najedzona samica kleszcza ma około 10–12 mm."
+          "explanation": "Najedzona samica kleszcza ma około 10–12 mm długości."
         },
         {
           "id": "R03_HARD_04",
@@ -3847,7 +3847,7 @@
           "id": "R03_HARD_05",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz organizm z informacją podaną w ramkach o podobieństwie owadów.",
+          "prompt": "Połącz organizm z właściwą informacją o jego podobieństwie do innych zwierząt.",
           "options": null,
           "left": [
             "trzmielówka wielka",
@@ -3867,7 +3867,7 @@
             "paśnik niszczyciel": "chrząszcz podobny do szerszenia",
             "zaleszczotek książkowy": "pajęczak spotykany w starych książkach, ulach lub pod korą"
           },
-          "explanation": "Pokazuje się przykłady upodabniania się owadów do groźniejszych gatunków oraz zaleszczotka podobnego do skorpiona.",
+          "explanation": "Niektóre owady upodabniają się do groźniejszych gatunków, a zaleszczotek wyglądem przypomina skorpiona.",
           "image": "r03_pszczola_osa_szerszen_trzmiel.jpg"
         },
         {
@@ -4075,7 +4075,7 @@
           "options": null,
           "answer": true,
           "image": "r04_szkielet_kregowca.jpg",
-          "explanation": "To prawda: podaje się taki plan budowy ciała większości kręgowców."
+          "explanation": "To prawda: ciało większości kręgowców składa się z głowy, tułowia, ogona i kończyn."
         },
         {
           "id": "R04_KRG_04",
@@ -4110,7 +4110,7 @@
             "kręgowce",
             "kregowce"
           ],
-          "explanation": "Wymieniono ryby, płazy, gady, ptaki i ssaki jako grupy należące do kręgowców."
+          "explanation": "Ryby, płazy, gady, ptaki i ssaki należą do kręgowców."
         },
         {
           "id": "R04_KRG_06",
@@ -4430,7 +4430,7 @@
               "śledzie"
             ]
           },
-          "explanation": "Jako przykłady podano m.in. szczupaka jako drapieżnika, amura jako roślinożercę, karpia jako wszystkożercę i śledzie jako żywiące się planktonem."
+          "explanation": "Szczupak jest drapieżnikiem, amur roślinożercą, karp wszystkożercą, a śledzie żywią się planktonem."
         },
         {
           "id": "R04_RYB_11",
@@ -4527,7 +4527,7 @@
           "id": "R04_PLA_03",
           "section": "Płazy",
           "type": "multi_select",
-          "prompt": "Zaznacz przystosowania płazów do życia na lądzie wymienione przy żabie.",
+          "prompt": "Zaznacz przystosowania płazów do życia na lądzie.",
           "options": [
             "kończyny przystosowane do poruszania się",
             "śluz chroniący skórę przed wysychaniem",
@@ -4691,7 +4691,7 @@
           "options": null,
           "answer": true,
           "image": "r04_cykl_rozwojowy_zaby.jpg",
-          "explanation": "To prawda: tak opisano kijanki."
+          "explanation": "To prawda: kijanki żyją w wodzie, oddychają skrzelami, mają ogon i nie mają kończyn."
         },
         {
           "id": "R04_PLA_12",
@@ -4805,7 +4805,7 @@
             "ogon jaszczurki": "jest dłuższy od tułowia"
           },
           "image": "r04_budowa_jaszczurki.jpg",
-          "explanation": "Ilustracja jaszczurki pokazuje m.in. skórę z łuskami, ruchomą powiekę i kończyny z palcami zakończonymi pazurami."
+          "explanation": "Jaszczurka ma m.in. skórę z łuskami, ruchomą powiekę i kończyny z palcami zakończonymi pazurami."
         },
         {
           "id": "R04_GAD_04",
@@ -4930,7 +4930,7 @@
             "gawial gangesowy"
           ],
           "answer": 0,
-          "explanation": "Wskazano żmiję zygzakowatą jako jedynego jadowitego węża występującego w Polsce."
+          "explanation": "Żmija zygzakowata jest jedynym jadowitym wężem występującym w Polsce."
         },
         {
           "id": "R04_GAD_11",
@@ -5070,7 +5070,7 @@
             1,
             2
           ],
-          "explanation": "Jako zmiennocieplne wskazano ryby, płazy i gady."
+          "explanation": "Ryby, płazy i gady są zmiennocieplne."
         },
         {
           "id": "R04_MIE_05",
@@ -5145,7 +5145,7 @@
           "id": "R04_MIE_10",
           "section": "Powtórka mieszana",
           "type": "sequence",
-          "prompt": "Ułóż grupy w kolejności od najbardziej związanej z wodą do najbardziej związanej z lądem według materiału.",
+          "prompt": "Ułóż grupy w kolejności od najbardziej związanej z wodą do najbardziej związanej z lądem.",
           "options": null,
           "items": [
             "gady",
@@ -5163,7 +5163,7 @@
           "id": "R04_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Która informacja o łososiach i jesiotrach wynika z ramki „Wędrówki ryb”?",
+          "prompt": "Która informacja o łososiach i jesiotrach jest prawdziwa?",
           "options": [
             "Dorosłe żyją w morzu, a ikra rozwija się w słodkich wodach potoków górskich",
             "Dorosłe żyją wyłącznie w glebie, a ikra na pustyni",
@@ -5182,7 +5182,7 @@
           "prompt": "Narybek łososia po 2–3 latach płynie w dół rzek, do morza.",
           "options": null,
           "answer": true,
-          "explanation": "To prawda: ramka o wędrówkach ryb podaje, że narybek po 2–3 latach płynie do morza."
+          "explanation": "To prawda: narybek łososia po 2–3 latach płynie w dół rzek do morza."
         },
         {
           "id": "R04_HARD_03",
@@ -5194,7 +5194,7 @@
           "altAnswers": [
             "tran"
           ],
-          "explanation": "Tran to tłuszcz z rybiej wątroby, wymieniony jako cenny składnik pozyskiwany z ryb."
+          "explanation": "Tran to tłuszcz z rybiej wątroby i cenny składnik pozyskiwany z ryb."
         },
         {
           "id": "R04_HARD_04",
@@ -5216,7 +5216,7 @@
           "id": "R04_HARD_05",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz ryby lub zwierzęta rybie opisane na stronie „To naprawdę ryba!”.",
+          "prompt": "Zaznacz zwierzęta należące do ryb.",
           "options": [
             "pławikoniki",
             "kurek czerwony",
@@ -5231,7 +5231,7 @@
             2,
             3
           ],
-          "explanation": "Na stronie „To naprawdę ryba!” opisano m.in. pławikoniki, kurka czerwonego, rurecznice/fletnice oraz patelnicę niebieskoplamą."
+          "explanation": "Do ryb należą m.in. pławikoniki, kurek czerwony, rurecznice/fletnice oraz patelnica niebieskoplama."
         },
         {
           "id": "R04_HARD_06",
@@ -5280,7 +5280,7 @@
             "żółw błotny": "jedyny gatunek żółwia naturalnie występujący w Polsce",
             "zaskroniec zwyczajny": "ma żółte plamki za skroniami i dobrze pływa"
           },
-          "explanation": "Podaje się charakterystyczne informacje o wybranych gatunkach ryb, płazów i gadów."
+          "explanation": "Najeżka napełnia ciało wodą lub powietrzem, rzekotka drzewna ma przylgi, żółw błotny jest jedynym gatunkiem żółwia naturalnie występującym w Polsce, a zaskroniec zwyczajny ma żółte plamki za skroniami."
         },
         {
           "id": "R04_HARD_08",
@@ -5662,7 +5662,7 @@
             ]
           },
           "image": "r05_ptaki_srodowiska_polski.jpg",
-          "explanation": "Podano przykłady ptaków żyjących w polskich miastach, na wsi i w lesie."
+          "explanation": "Wróbel domowy i kawka zwyczajna żyją w miastach, bocian biały i szpak na wsi, a dzięcioł duży i kowalik zwyczajny w lesie."
         },
         {
           "id": "R05_PTR_06",
@@ -5728,7 +5728,7 @@
           "id": "R05_PTR_10",
           "section": "Rozmnażanie i znaczenie ptaków",
           "type": "match",
-          "prompt": "Połącz przykład z opisanym znaczeniem ptaków.",
+          "prompt": "Połącz przykład z właściwym znaczeniem ptaków.",
           "options": null,
           "left": [
             "sójka",
@@ -5907,7 +5907,7 @@
           "id": "R05_SSB_07",
           "section": "Ssaki – środowisko i budowa",
           "type": "multi_select",
-          "prompt": "Zaznacz ssaki, które podano jako przykłady zapadające w sen zimowy.",
+          "prompt": "Zaznacz ssaki zapadające w sen zimowy.",
           "options": [
             "niedźwiedzie",
             "borsuki",
@@ -5923,7 +5923,7 @@
             3,
             4
           ],
-          "explanation": "W tekście wymieniono między innymi niedźwiedzie, borsuki, nietoperze, jeże i świstaki."
+          "explanation": "W sen zimowy zapadają m.in. niedźwiedzie, borsuki, nietoperze, jeże i świstaki."
         },
         {
           "id": "R05_SSB_08",
@@ -6121,7 +6121,7 @@
             ]
           },
           "image": "r05_ssaki_srodowiska.jpg",
-          "explanation": "Pokazano przykłady ssaków latających, wodnych i nadrzewnych lub szybujących."
+          "explanation": "Ssaki mogą prowadzić m.in. latający, wodny oraz nadrzewny lub szybujący tryb życia."
         },
         {
           "id": "R05_SSR_07",
@@ -6277,7 +6277,7 @@
             "sierść": "pokrycie ciała większości ssaków",
             "rogowy dziób": "okrywa bezzębne szczęki ptaka"
           },
-          "explanation": "Porównuje się przystosowania ptaków i ssaków oraz pokazuje, czym się różnią."
+          "explanation": "Ptaki i ssaki różnią się przystosowaniami, m.in. piórami i workami powietrznymi u ptaków oraz sierścią i mlekiem u ssaków."
         },
         {
           "id": "R05_MIE_03",
@@ -6399,7 +6399,7 @@
           "id": "R05_MIE_10",
           "section": "Powtórka mieszana",
           "type": "match",
-          "prompt": "Połącz znaczenie z grupą zwierząt, której przykład podano.",
+          "prompt": "Połącz przykład z odpowiadającym mu znaczeniem.",
           "options": null,
           "left": [
             "zapylanie roślin przez kolibry",
@@ -6447,7 +6447,7 @@
           "id": "R05_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który ptak podano jako najmniejszego polskiego ptaka z około 160 mln neuronów w mózgu o masie 0,36 g?",
+          "prompt": "Który ptak jest najmniejszym polskim ptakiem i ma około 160 mln neuronów w mózgu o masie 0,36 g?",
           "options": [
             "mysikrólik",
             "kruk",
@@ -6457,13 +6457,13 @@
             "modraszka zwyczajna"
           ],
           "answer": 0,
-          "explanation": "W tekście „Mały mózg...” jako przykład najmniejszego polskiego ptaka podano mysikrólika."
+          "explanation": "Mysikrólik jest najmniejszym polskim ptakiem i ma około 160 mln neuronów w mózgu o masie 0,36 g."
         },
         {
           "id": "R05_HARD_02",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który ptak został wskazany jako rekordzista z ponad 2 mld neuronów w mózgu o masie 10,2 g?",
+          "prompt": "Który ptak jest rekordzistą z ponad 2 mld neuronów w mózgu o masie 10,2 g?",
           "options": [
             "kruk",
             "mysikrólik",
@@ -6473,7 +6473,7 @@
             "sęp"
           ],
           "answer": 0,
-          "explanation": "Wskazuje się kruka jako rekordzistę pod względem liczby neuronów w małym mózgu."
+          "explanation": "Kruk jest rekordzistą pod względem liczby neuronów w małym mózgu."
         },
         {
           "id": "R05_HARD_03",
@@ -6501,7 +6501,7 @@
           "id": "R05_HARD_05",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz ptaka lub grupę ptaków ze zdolnością opisaną w ciekawostkach.",
+          "prompt": "Połącz ptaka lub grupę ptaków z właściwą zdolnością.",
           "options": null,
           "left": [
             "rudziki",
@@ -6524,7 +6524,7 @@
             "kszyk": "wykrywanie zdobyczy czułym dziobem",
             "burzyki i oceanniki": "wracanie do gniazd z morskich wędrówek dzięki zapachowi"
           },
-          "explanation": "Ciekawostki pokazują, że ptaki wykorzystują różne zmysły i zdolności do orientacji oraz zdobywania pokarmu."
+          "explanation": "Ptaki wykorzystują różne zmysły i zdolności do orientacji oraz zdobywania pokarmu."
         },
         {
           "id": "R05_HARD_06",
@@ -6542,7 +6542,7 @@
               "389 kilometrów na godzinę"
             ]
           ],
-          "explanation": "W ciekawostce podano lot pikujący sokoła wędrownego jako przykład błyskawicznego podejmowania decyzji przy bardzo dużej prędkości."
+          "explanation": "W locie pikującym sokół wędrowny może osiągać prędkość do 389 km/h."
         },
         {
           "id": "R05_HARD_07",
@@ -6564,13 +6564,13 @@
             3,
             4
           ],
-          "explanation": "Ciekawostki opisują między innymi świetny wzrok, słuch, węch, dotyk dzioba, smak oraz pamięć przestrzenną."
+          "explanation": "Ptaki wykorzystują m.in. wzrok, słuch, węch, dotyk dzioba, smak oraz pamięć przestrzenną."
         },
         {
           "id": "R05_HARD_08",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Ptak rozpoznaje zapach uszkodzonych pędów sosen i dzięki temu znajduje owady żerujące w tych pędach. O którym ptaku mówi ciekawostka?",
+          "prompt": "Ptak rozpoznaje zapach uszkodzonych pędów sosen i dzięki temu znajduje owady żerujące w tych pędach. O którym ptaku mowa?",
           "options": [
             "modraszka zwyczajna",
             "kszyk",
@@ -6593,7 +6593,7 @@
           "id": "R05_HARD_10",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż zwierzęta od najmniejszego do największego według przykładów i opisów.",
+          "prompt": "Ułóż zwierzęta od najmniejszego do największego.",
           "options": null,
           "items": [
             "szarytka morska",
@@ -6607,7 +6607,7 @@
             "szarytka morska",
             "słoń afrykański"
           ],
-          "explanation": "Podaje się przykłady od bardzo małej ryjówki etruskiej, przez niewielkiego kanczyla i szarytkę, po najcięższego lądowego słonia afrykańskiego."
+          "explanation": "Kolejność od najmniejszego do największego to: ryjówka etruska, kanczyl jawajski, szarytka morska, słoń afrykański."
         }
       ],
       "kidPrompts": {

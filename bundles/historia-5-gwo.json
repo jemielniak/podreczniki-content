@@ -1,8 +1,8 @@
 {
   "id": "historia-5-gwo",
   "title": "Historia 5 GWO",
-  "version": 4,
-  "contentHash": "987dc1421564ef38ca027a4041a62183d07205e101410e8c72685dc8ba29d6d6",
+  "version": 5,
+  "contentHash": "baab75aa6311b6d4ae720a14b9abfc110f937ba92b4b42d06919936376ca3c43",
   "bookConfig": {
     "id": "historia-5-gwo",
     "title": "Historia 5 GWO",
@@ -56,7 +56,7 @@
           "prompt": "Roku 0 nie było.",
           "options": null,
           "answer": true,
-          "explanation": "Na osi czasu po 1 roku p.n.e. następuje 1 rok n.e., bez roku zerowego."
+          "explanation": "Po 1 roku p.n.e. następuje 1 rok n.e.; w tej rachubie nie występuje rok zerowy."
         },
         {
           "id": "R01_CZA_03",
@@ -155,7 +155,7 @@
             "średniowiecze",
             "nowożytność"
           ],
-          "explanation": "Podaje się kolejność: starożytność, średniowiecze, nowożytność."
+          "explanation": "Kolejność epok to: starożytność, średniowiecze, nowożytność."
         },
         {
           "id": "R01_CZA_09",
@@ -312,7 +312,7 @@
             "z cegieł suszonych na słońcu"
           ],
           "answer": 2,
-          "explanation": "Opisano namioty z kości mamuta okrytych zwierzęcymi skórami."
+          "explanation": "Namioty budowano z kości mamuta i okrywano zwierzęcymi skórami."
         },
         {
           "id": "R01_PAL_07",
@@ -381,7 +381,7 @@
           ],
           "answer": 1,
           "image": "r01_jaskinia_paleolit.jpg",
-          "explanation": "Opis pasuje do koczowniczego trybu życia ludzi paleolitu."
+          "explanation": "Koczowniczy tryb życia polegał na przemieszczaniu się w poszukiwaniu pożywienia i zwierzyny."
         },
         {
           "id": "R01_PAL_11",
@@ -407,7 +407,7 @@
             "łuk": "łatwiejsze polowanie na szybkie zwierzęta",
             "krzemień": "wyrób ostrych narzędzi i broni"
           },
-          "explanation": "Opisano praktyczne znaczenie jaskini, ognia, łuku i krzemienia."
+          "explanation": "Jaskinia dawała schronienie, ogień służył m.in. do ogrzewania i przygotowania pożywienia, łuk ułatwiał polowanie, a krzemień wykorzystywano do wyrobu narzędzi i broni."
         },
         {
           "id": "R01_PAL_12",
@@ -432,7 +432,7 @@
             "w Rzymie"
           ],
           "answer": 1,
-          "explanation": "Wskazuje się mieszkańców Bliskiego Wschodu jako pierwszych rolników."
+          "explanation": "Pierwsi rolnicy pojawili się na Bliskim Wschodzie."
         },
         {
           "id": "R01_NEO_02",
@@ -588,7 +588,7 @@
           ],
           "answer": 1,
           "image": "r01_wies_neolityczna.jpg",
-          "explanation": "Opis dotyczy młodszej epoki kamienia, czyli neolitu."
+          "explanation": "Trwałe domy, uprawa zboża, hodowla zwierząt i wyrób naczyń są cechami neolitu."
         },
         {
           "id": "R01_NEO_10",
@@ -609,7 +609,7 @@
             2,
             3
           ],
-          "explanation": "Wymieniono kozy, owce, bydło i świnie."
+          "explanation": "W neolicie udomowiono m.in. kozy, owce, bydło i świnie."
         },
         {
           "id": "R01_NEO_11",
@@ -1003,7 +1003,7 @@
             "niewolnicy"
           ],
           "image": "r01_piramida_spoleczna_egiptu.jpg",
-          "explanation": "Przedstawia się społeczeństwo jako piramidę: faraon, wezyr, kapłani, urzędnicy, rzemieślnicy, żołnierze, chłopi, niewolnicy."
+          "explanation": "Społeczeństwo egipskie miało hierarchiczną strukturę: faraon, wezyr, kapłani, urzędnicy, rzemieślnicy, żołnierze, chłopi i niewolnicy."
         },
         {
           "id": "R01_EGI_08",
@@ -1109,7 +1109,7 @@
           "id": "R01_HARD_02",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który rok według przykładów należy do VIII wieku p.n.e.?",
+          "prompt": "Który z podanych lat należy do VIII wieku p.n.e.?",
           "options": [
             "776 r. p.n.e.",
             "1370 r. n.e.",
@@ -1119,7 +1119,7 @@
             "1001 r. n.e."
           ],
           "answer": 0,
-          "explanation": "Pokazuje się przykład: 776 rok p.n.e. to VIII wiek p.n.e."
+          "explanation": "776 rok p.n.e. należy do VIII wieku p.n.e."
         },
         {
           "id": "R01_HARD_03",
@@ -1166,7 +1166,7 @@
           "id": "R01_HARD_05",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Co zakończyło młodszą epokę kamienia według fragmentu o Sumerach?",
+          "prompt": "Co zakończyło młodszą epokę kamienia w dziejach Sumerów?",
           "options": [
             "uzyskanie brązu",
             "wynalezienie łuku",
@@ -1217,7 +1217,7 @@
           "id": "R01_HARD_08",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Która budowla została opisana jako najwyższa kamienna budowla na Ziemi, o wysokości 138 metrów?",
+          "prompt": "Która z wymienionych budowli ma 138 metrów wysokości i jest najwyższą kamienną budowlą na Ziemi?",
           "options": [
             "piramida Cheopsa",
             "Wielki Mur Chiński",
@@ -1228,7 +1228,7 @@
           ],
           "answer": 0,
           "image": "r01_piramida_cheopsa.jpg",
-          "explanation": "Opis dotyczy piramidy Cheopsa, zbudowanej w XXVI wieku p.n.e."
+          "explanation": "Piramida Cheopsa, zbudowana w XXVI wieku p.n.e., ma 138 metrów wysokości."
         },
         {
           "id": "R01_HARD_09",
@@ -1521,7 +1521,7 @@
             "barbarzyńcy": "nazwa nie-Greków",
             "polis": "greckie miasto-państwo"
           },
-          "explanation": "Hellada, Hellenowie, barbarzyńcy i polis to podstawowe pojęcia z opisu starożytnej Grecji."
+          "explanation": "Hellada, Hellenowie, barbarzyńcy i polis to podstawowe pojęcia dotyczące starożytnej Grecji."
         },
         {
           "id": "R02_POL_10",
@@ -1735,7 +1735,7 @@
             1,
             2
           ],
-          "explanation": "Wskazuje się m.in. brak praw głosu kobiet, niewolników i cudzoziemców, demokrację bezpośrednią oraz losowanie wielu urzędów."
+          "explanation": "W demokracji ateńskiej kobiety, niewolnicy i cudzoziemcy nie mieli prawa głosu; była to demokracja bezpośrednia, a wiele urzędów obsadzano przez losowanie."
         },
         {
           "id": "R02_DEM_11",
@@ -1974,7 +1974,7 @@
           "prompt": "Herakles był przykładem herosa.",
           "options": null,
           "answer": true,
-          "explanation": "Podaje się Heraklesa jako herosa, syna Zeusa i ziemskiej kobiety."
+          "explanation": "Herakles był herosem, synem Zeusa i ziemskiej kobiety."
         },
         {
           "id": "R02_MIT_10",
@@ -2330,7 +2330,7 @@
           "id": "R02_MIE_02",
           "section": "Powtórka mieszana",
           "type": "sort",
-          "prompt": "Przyporządkuj pojęcia do lekcji, z którą najbardziej się łączą.",
+          "prompt": "Przyporządkuj pojęcia do tematu, z którym najbardziej się łączą.",
           "options": null,
           "items": [
             "ostracyzm",
@@ -2421,7 +2421,7 @@
           "id": "R02_MIE_07",
           "section": "Powtórka mieszana",
           "type": "single_choice",
-          "prompt": "Który zestaw zawiera wyłącznie postacie wymienione w części o osiągnięciach Greków?",
+          "prompt": "Który zestaw zawiera wyłącznie postacie związane z osiągnięciami Greków?",
           "options": [
             "Fidiasz, Sofokles, Hipokrates",
             "Zeus, Hera, Posejdon",
@@ -2431,7 +2431,7 @@
             "Temistokles, Hera, Odyseusz"
           ],
           "answer": 0,
-          "explanation": "Fidiasz, Sofokles i Hipokrates pojawiają się w części o architekturze, teatrze, literaturze, filozofii i nauce."
+          "explanation": "Fidiasz, Sofokles i Hipokrates byli związani odpowiednio ze sztuką, teatrem i medycyną starożytnej Grecji."
         },
         {
           "id": "R02_MIE_08",
@@ -2452,7 +2452,7 @@
           "id": "R02_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "W jakich latach Perykles był przywódcą Aten według osi czasu?",
+          "prompt": "W jakich latach Perykles był przywódcą Aten?",
           "options": [
             "ok. 461–429 p.n.e.",
             "594–508/507 p.n.e.",
@@ -2462,7 +2462,7 @@
             "ok. 495–429 n.e."
           ],
           "answer": 0,
-          "explanation": "Oś czasu podaje okres ok. 461–429 p.n.e."
+          "explanation": "Perykles był przywódcą Aten około 461–429 p.n.e."
         },
         {
           "id": "R02_HARD_02",
@@ -2525,7 +2525,7 @@
           "id": "R02_HARD_06",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz stwierdzenia zgodne z opisem Partenonu.",
+          "prompt": "Zaznacz prawdziwe stwierdzenia dotyczące Partenonu.",
           "options": [
             "Wzniesiono go z potężnych marmurowych bloków.",
             "Kolumny pochylono ku środkowi.",
@@ -3083,7 +3083,7 @@
               "cesarzem"
             ]
           ],
-          "explanation": "Opisuje się cesarstwo jako odmianę monarchii, z cesarzem zamiast króla."
+          "explanation": "Cesarstwo było odmianą monarchii, w której zamiast króla rządził cesarz."
         },
         {
           "id": "R03_UST_12",
@@ -3262,7 +3262,7 @@
           "prompt": "Rzymskie kobiety miały mniej swobody niż Atenki.",
           "options": null,
           "answer": false,
-          "explanation": "Podaje się odwrotnie: rzymskie kobiety miały więcej swobody niż Atenki, choć nie mogły obejmować urzędów."
+          "explanation": "Rzymskie kobiety miały więcej swobody niż Atenki, choć nie mogły obejmować urzędów."
         },
         {
           "id": "R03_SPO_11",
@@ -3536,7 +3536,7 @@
           "id": "R03_OSI_13",
           "section": "Osiągnięcia i rozrywki",
           "type": "multi_select",
-          "prompt": "Które języki podaje się jako romańskie, wywodzące się z łaciny?",
+          "prompt": "Które z podanych języków romańskich wywodzą się z łaciny?",
           "options": [
             "włoski",
             "francuski",
@@ -3831,7 +3831,7 @@
             "Leonardo da Vinci"
           ],
           "answer": 0,
-          "explanation": "W tekście źródłowym Józef Flawiusz pisał, że wielkość państwa była owocem męstwa i ćwiczeń Rzymian."
+          "explanation": "Józef Flawiusz wiązał wielkość państwa rzymskiego z męstwem i nieustannymi ćwiczeniami wojskowymi Rzymian."
         },
         {
           "id": "R03_HARD_02",
@@ -3851,7 +3851,7 @@
               "25 do 30"
             ]
           ],
-          "explanation": "Infografika o legionistach podaje, że w I–II w. n.e. armia rzymska składała się z 25–30 legionów."
+          "explanation": "W I–II w. n.e. armia rzymska składała się z około 25–30 legionów."
         },
         {
           "id": "R03_HARD_03",
@@ -3876,7 +3876,7 @@
             "Neron"
           ],
           "answer": 0,
-          "explanation": "W tekście źródłowym Ammianus Marcellinus pisał o ogromnym znaczeniu Circus Maximus dla widzów."
+          "explanation": "Ammianus Marcellinus pisał o ogromnym znaczeniu Circus Maximus dla rzymskich widzów."
         },
         {
           "id": "R03_HARD_05",
@@ -4179,7 +4179,7 @@
           "id": "R04_BIZ_07",
           "section": "Bizancjum",
           "type": "single_choice",
-          "prompt": "Która budowla jest przedstawiona jako najwspanialszy przykład architektury bizantyjskiej?",
+          "prompt": "Która budowla jest najwspanialszym przykładem architektury bizantyjskiej?",
           "options": [
             "Koloseum",
             "Hagia Sophia",
@@ -4190,7 +4190,7 @@
           ],
           "answer": 1,
           "image": "r04_hagia_sophia_przekroj.jpg",
-          "explanation": "Bazylika Hagia Sophia w Konstantynopolu została opisana jako najwspanialszy przykład architektury bizantyjskiej."
+          "explanation": "Hagia Sophia w Konstantynopolu jest jednym z najważniejszych przykładów architektury bizantyjskiej."
         },
         {
           "id": "R04_BIZ_08",
@@ -4270,7 +4270,7 @@
           ],
           "answer": 0,
           "image": "r04_mury_konstantynopola.jpg",
-          "explanation": "Opis pasuje do Konstantynopola, który był jedną z największych i najświetniejszych stolic średniowiecznego świata."
+          "explanation": "Konstantynopol był jedną z największych i najświetniejszych stolic średniowiecznego świata."
         },
         {
           "id": "R04_ARA_01",
@@ -4458,7 +4458,7 @@
               "judaizm i chrześcijaństwo jako wcześniejsze religie monoteistyczne"
             ]
           },
-          "explanation": "Pokazuje się zarówno elementy islamu, jak i wpływy chrześcijaństwa oraz judaizmu w nauczaniu Mahometa."
+          "explanation": "Islam ma własne podstawowe zasady i świętą księgę, a w jego tradycji widoczne są także związki z judaizmem i chrześcijaństwem."
         },
         {
           "id": "R04_ARA_11",
@@ -4492,7 +4492,7 @@
             "O ugodzie w Wormacji"
           ],
           "answer": 0,
-          "explanation": "Opisuje się wpływ cywilizacji arabskiej na Europę przez naukę, handel, tłumaczenia i zapożyczenia językowe."
+          "explanation": "Cywilizacja arabska wpływała na Europę przez naukę, handel, tłumaczenia i zapożyczenia językowe."
         },
         {
           "id": "R04_KAR_01",
@@ -4707,7 +4707,7 @@
             "reforma kluniacka"
           ],
           "answer": 0,
-          "explanation": "Tak opisane działania Karola Wielkiego tworzą odrodzenie karolińskie."
+          "explanation": "Działania Karola Wielkiego związane z rozwojem nauki, szkół i kopiowaniem ksiąg tworzyły odrodzenie karolińskie."
         },
         {
           "id": "R04_NOW_01",
@@ -5131,7 +5131,7 @@
             "podboje Arabów"
           ],
           "answer": 0,
-          "explanation": "Sytuacja opisuje spór o inwestyturę między cesarstwem a papiestwem."
+          "explanation": "Spór o mianowanie biskupów był sporem o inwestyturę między cesarstwem a papiestwem."
         },
         {
           "id": "R04_HARD_01",
@@ -5175,17 +5175,13 @@
             "powstanie późniejszej Francji i Niemiec",
             "początek ery muzułmańskiej",
             "odnowienie zachodniego cesarstwa rzymskiego przez Franków",
-            "kompromis w sprawie inwestytury",
-            "podział Kościoła na katolicki i prawosławny",
-            "utworzenie Państwa Kościelnego"
+            "kompromis w sprawie inwestytury"
           ],
           "categories": [
             "traktat w Verdun",
             "hidżra",
             "koronacja Karola Wielkiego",
-            "ugoda w Wormacji",
-            "wielka schizma wschodnia",
-            "darowizna Pepina"
+            "ugoda w Wormacji"
           ],
           "answer": {
             "traktat w Verdun": [
@@ -5199,15 +5195,9 @@
             ],
             "ugoda w Wormacji": [
               "kompromis w sprawie inwestytury"
-            ],
-            "wielka schizma wschodnia": [
-              "podział Kościoła na katolicki i prawosławny"
-            ],
-            "darowizna Pepina": [
-              "utworzenie Państwa Kościelnego"
             ]
           },
-          "explanation": "Każde z tych wydarzeń wywołało inne skutki polityczne lub religijne."
+          "explanation": "Traktat w Verdun przyczynił się do powstania Francji i Niemiec, hidżra rozpoczęła erę muzułmańską, koronacja Karola Wielkiego odnowiła cesarstwo na Zachodzie, a ugoda w Wormacji zakończyła spór o inwestyturę."
         },
         {
           "id": "R04_HARD_03",
@@ -5409,7 +5399,7 @@
             2,
             3
           ],
-          "explanation": "Wymieniono duchowieństwo, rycerstwo, mieszczaństwo i chłopstwo."
+          "explanation": "Cztery stany średniowiecznego społeczeństwa to duchowieństwo, rycerstwo, mieszczaństwo i chłopstwo."
         },
         {
           "id": "R05_FEU_03",
@@ -5631,7 +5621,7 @@
           "id": "R05_RYC_05",
           "section": "Na rycerskim zamku",
           "type": "scenario",
-          "prompt": "Na placu dwie drużyny konnych rycerzy ruszają na siebie, a ten, kto spada z konia, trafia do niewoli. Jaki rodzaj walki turniejowej opisano?",
+          "prompt": "Na placu dwie drużyny konnych rycerzy ruszają na siebie, a ten, kto spada z konia, trafia do niewoli. Jaki rodzaj walki turniejowej odbywa się w tej sytuacji?",
           "options": [
             "pozorowana bitwa",
             "hołd lenny",
@@ -6384,7 +6374,7 @@
           "id": "R05_MIE_07",
           "section": "Powtórka mieszana",
           "type": "scenario",
-          "prompt": "Uczeń widzi budowlę z grubymi murami, małymi oknami i mrocznym wnętrzem. Jaki styl opisuje?",
+          "prompt": "Uczeń widzi budowlę z grubymi murami, małymi oknami i mrocznym wnętrzem. Jaki to styl architektoniczny?",
           "options": [
             "romański",
             "gotycki",
@@ -6481,7 +6471,7 @@
           "id": "R05_HARD_03",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Król Anglii ma własne królestwo, ale posiada też księstwo we Francji i z tego powodu składa hołd królowi Francji. Jaką podwójną sytuację opisuje ten przykład?",
+          "prompt": "Król Anglii ma własne królestwo, ale posiada też księstwo we Francji i z tego powodu składa hołd królowi Francji. Jaką podwójną pozycję zajmuje?",
           "options": [
             "w jednym kraju był wasalem, a w drugim suzerenem",
             "wszędzie był poddanym chłopskim",
@@ -6526,7 +6516,7 @@
               "jeden rok"
             ]
           ],
-          "explanation": "W ramce podano zasadę: rok i jeden dzień w mieście dawały zbiegłemu chłopu wolność."
+          "explanation": "Rok i jeden dzień pobytu w mieście dawały zbiegłemu chłopu wolność."
         },
         {
           "id": "R05_HARD_06",
@@ -6589,7 +6579,7 @@
               "Jan z Beka"
             ]
           },
-          "explanation": "Osoby pojawiają się w częściach o rycerstwie, zakonach i kulturze."
+          "explanation": "Św. Benedykt i św. Franciszek z Asyżu są związani z zakonami, a Christine de Pisan i Jan z Beka z kulturą rycerską i tematyką kobiet."
         }
       ],
       "kidPrompts": {},
@@ -6716,7 +6706,7 @@
               "966 r."
             ]
           ],
-          "explanation": "Oś czasu wskazuje początek rządów Mieszka około 960 roku i chrzest Polski w 966 roku."
+          "explanation": "Mieszko I rozpoczął rządy około 960 roku, a chrzest przyjął w 966 roku."
         },
         {
           "id": "R06_POC_05",
@@ -7187,7 +7177,7 @@
             "kaplica książęca": "miejsce modlitwy władcy i dworu",
             "podgrodzie": "część z chatami wojów, chłopów i rzemieślników"
           },
-          "explanation": "Infografika grodu pokazuje wał, palatium, kaplicę i podgrodzie z drewnianymi chatami.",
+          "explanation": "Gród na Ostrowie Lednickim obejmował wał obronny, palatium, kaplicę książęcą i podgrodzie z drewnianymi chatami.",
           "image": "r06_grod_ostrow_lednicki.jpg"
         },
         {
@@ -7220,7 +7210,7 @@
               "łaźnie"
             ]
           },
-          "explanation": "Opisuje się zarówno jedzenie i napoje, jak i dbanie o czystość oraz ubrania mieszkańców."
+          "explanation": "Życie codzienne obejmowało pożywienie i napoje, a także ubiór oraz dbanie o higienę."
         },
         {
           "id": "R06_NAJ_10",
@@ -7787,7 +7777,7 @@
             "zależność od Niemiec za Kazimierza": "polityka Bolesława Śmiałego i koronacja",
             "ryzyko wojny między synami Krzywoustego": "ustawa sukcesyjna"
           },
-          "explanation": "Każde rozwiązanie odpowiada innemu kryzysowi lub celowi politycznemu opisanych Piastów."
+          "explanation": "Każde rozwiązanie odpowiada innemu kryzysowi lub celowi politycznemu kolejnych Piastów."
         },
         {
           "id": "R06_HARD_08",
@@ -9157,7 +9147,7 @@
             "Zasłynął głównie ze sprowadzenia Krzyżaków do Polski"
           ],
           "answer": 0,
-          "explanation": "Pokazuje się Kazimierza jako władcę, który jednocześnie prowadził politykę zagraniczną, reformy wewnętrzne i rozwój kultury."
+          "explanation": "Kazimierz Wielki prowadził politykę zagraniczną, reformował państwo i wspierał rozwój kultury."
         },
         {
           "id": "R07_HARD_12",
@@ -9471,7 +9461,7 @@
           "section": "Wielka wojna z zakonem krzyżackim",
           "type": "true_false",
           "prompt": "Zamek w Malborku był stolicą państwa zakonu krzyżackiego.",
-          "explanation": "Opisuje się zamek w Malborku jako stolicę zakonnego państwa i jedną z najpotężniejszych warowni w Europie.",
+          "explanation": "Zamek w Malborku był stolicą państwa zakonu krzyżackiego i jedną z najpotężniejszych warowni w Europie.",
           "options": null,
           "answer": true,
           "image": "r08_zamek_malbork.jpg"
@@ -9480,8 +9470,8 @@
           "id": "R08_WOJ_03",
           "section": "Wielka wojna z zakonem krzyżackim",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy zamku w Malborku wymienione w infografice.",
-          "explanation": "Infografika wskazuje m.in. Zamek Wysoki, Pałac wielkiego mistrza, Wielki refektarz i gdanisko.",
+          "prompt": "Zaznacz elementy zamku w Malborku.",
+          "explanation": "Do ważnych części zamku w Malborku należą m.in. Zamek Wysoki, Pałac wielkiego mistrza, Wielki refektarz i gdanisko.",
           "options": [
             "Zamek Wysoki",
             "Pałac wielkiego mistrza",
@@ -9987,7 +9977,7 @@
           "id": "R08_SZL_07",
           "section": "Od rycerstwa do szlachty",
           "type": "sequence",
-          "prompt": "Ułóż kolejne kroki działania sejmu walnego według infografiki.",
+          "prompt": "Ułóż kolejne kroki działania sejmu walnego w poprawnej kolejności.",
           "explanation": "Najpierw król zawiadamiał szlachtę i zwoływał sejmiki, potem wybierano posłów i dawano im instrukcje, na sejmie dyskutowano projekt, a nowe prawo wymagało zgody trzech stanów.",
           "options": null,
           "items": [
@@ -10083,7 +10073,7 @@
           "section": "Polska i Litwa w XV wieku",
           "type": "single_choice",
           "prompt": "Jaka wartość była najważniejszym wkładem Polski do kultury europejskiej od drugiej połowy XIV w.?",
-          "explanation": "Wskazuje się tolerancję religijną jako najważniejszą wartość wnoszoną przez Polaków do kultury europejskiej.",
+          "explanation": "Tolerancja religijna była ważnym wkładem Polski do kultury europejskiej.",
           "options": [
             "tolerancja religijna",
             "budowa piramid",
@@ -10220,7 +10210,7 @@
           "section": "Polska i Litwa w XV wieku",
           "type": "fill_in",
           "prompt": "Wit Stwosz pracował nad ołtarzem w Kościele Mariackim w latach __________-__________.",
-          "explanation": "Infografika podaje, że Wit Stwosz pracował nad swoim arcydziełem 12 lat, od 1477 do 1489 r.",
+          "explanation": "Wit Stwosz pracował nad ołtarzem w Kościele Mariackim przez 12 lat, od 1477 do 1489 r.",
           "options": null,
           "answer": [
             "1477",

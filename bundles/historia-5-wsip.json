@@ -1,8 +1,8 @@
 {
   "id": "historia-5-wsip",
   "title": "Historia 5 WSiP",
-  "version": 4,
-  "contentHash": "f4c7da87ef4f36c7097b00ae589a2be44430cb62007e96e3012a6593cdf191a3",
+  "version": 5,
+  "contentHash": "5510f38dca1e295754f6b7589729c857c5fac719f26557d89af63ba345cb6dfd",
   "bookConfig": {
     "id": "historia-5-wsip",
     "title": "Historia 5 WSiP",
@@ -191,7 +191,7 @@
             3
           ],
           "image": "r01_zyzny_polksiezyc_uprawy.jpg",
-          "explanation": "Wymieniono m.in. pszenicę, jęczmień, proso, soczewicę, groch, len i drzewa owocowe."
+          "explanation": "W neolicie na obszarze Żyznego Półksiężyca uprawiano m.in. pszenicę, jęczmień, proso, soczewicę, groch i len, a także drzewa owocowe."
         },
         {
           "id": "R01_NDC_10",
@@ -1156,7 +1156,7 @@
           "id": "R01_HARD_03",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy wspólne starożytnych cywilizacji Mezopotamii, Egiptu, Indii i Chin wskazane w ćwiczeniu powtórzeniowym.",
+          "prompt": "Zaznacz cechy wspólne starożytnych cywilizacji Mezopotamii, Egiptu, Indii i Chin.",
           "options": [
             "Posługiwanie się pismem",
             "Zakładanie miast",
@@ -1227,7 +1227,7 @@
           "prompt": "Biblia jest dla badaczy ważnym źródłem do dziejów Izraela, ale naukowcy zestawiają opowieści biblijne z innymi źródłami, zwłaszcza archeologicznymi.",
           "options": null,
           "answer": true,
-          "explanation": "Podkreśla się religijny charakter Biblii i potrzebę porównywania jej przekazów z innymi źródłami."
+          "explanation": "Biblia ma charakter religijny, dlatego jej przekazy o dziejach Izraela porównuje się z innymi źródłami, zwłaszcza archeologicznymi."
         },
         {
           "id": "R01_HARD_08",
@@ -1269,7 +1269,7 @@
               "Jedwabny Szlak"
             ]
           },
-          "explanation": "Każde pojęcie pochodzi i jest charakterystyczne dla wskazanej cywilizacji lub tradycji."
+          "explanation": "Każde pojęcie jest charakterystyczne dla właściwej cywilizacji lub tradycji."
         },
         {
           "id": "R01_HARD_09",
@@ -1298,7 +1298,7 @@
             "Ludzie znali tylko liczby, ale nie znali żadnych znaków"
           ],
           "answer": 0,
-          "explanation": "Kilka razy podkreślono, że dawne systemy pisma zawierały tysiące znaków, dlatego umiejętność pisania była trudna i rzadka."
+          "explanation": "Dawne systemy pisma zawierały tysiące znaków, dlatego umiejętność pisania była trudna i rzadka."
         }
       ],
       "kidPrompts": {},
@@ -1917,7 +1917,7 @@
           "id": "R02_IGR_03",
           "section": "Teatr i igrzyska",
           "type": "multi_select",
-          "prompt": "Zaznacz dyscypliny wymienione w opisie starożytnych igrzysk greckich.",
+          "prompt": "Zaznacz dyscypliny rozgrywane podczas starożytnych igrzysk greckich.",
           "options": [
             "biegi",
             "rzut dyskiem",
@@ -2130,7 +2130,7 @@
             3,
             4
           ],
-          "explanation": "Wymieniono rozwój matematyki, fizyki, astronomii, wiedzy przyrodniczej i medycyny."
+          "explanation": "W starożytnej Grecji rozwijały się matematyka, fizyka, astronomia, wiedza przyrodnicza i medycyna."
         },
         {
           "id": "R02_KUL_04",
@@ -2316,7 +2316,7 @@
             2
           ],
           "image": "r02_hoplici_falanga.jpg",
-          "explanation": "Maraton, Termopile i Salamina należą do opisu wojen grecko-perskich; wyprawa Aleksandra była późniejsza."
+          "explanation": "Maraton, Termopile i Salamina były związane z wojnami grecko-perskimi; wyprawa Aleksandra była późniejsza."
         },
         {
           "id": "R02_WOJ_04",
@@ -2468,7 +2468,7 @@
             "rok 334 przed Aleksandrem"
           ],
           "answer": 0,
-          "explanation": "Podaje się przykład, że 429 rok p.n.e. określano jako 4 rok 87 olimpiady."
+          "explanation": "429 rok p.n.e. określano jako 4 rok 87 olimpiady."
         },
         {
           "id": "R02_HARD_02",
@@ -3022,7 +3022,7 @@
           "prompt": "Wskaż, co nie pasuje do pozostałych: Grecja, Egipt, Palestyna, Lacjum.",
           "options": null,
           "answer": "Lacjum",
-          "explanation": "Grecja, Egipt i Palestyna zostały wymienione jako ziemie zdobywane przez Rzym poza Italią, a Lacjum było krainą w środkowej Italii z Rzymem."
+          "explanation": "Grecja, Egipt i Palestyna były ziemiami zdobywanymi przez Rzym poza Italią, natomiast Lacjum było krainą w środkowej Italii, w której leżał Rzym."
         },
         {
           "id": "R03_IMP_10",
@@ -3044,7 +3044,7 @@
           "id": "R03_WOJ_01",
           "section": "Armia i wojny Rzymu",
           "type": "single_choice",
-          "prompt": "Ilu żołnierzy liczył rzymski legion w okresie opisanym w infografice?",
+          "prompt": "Około ilu żołnierzy liczył rzymski legion przed późniejszym zwiększeniem jego liczebności?",
           "options": [
             "około 300",
             "około 1000",
@@ -3054,7 +3054,7 @@
             "około 250 000"
           ],
           "answer": 2,
-          "explanation": "Infografika podaje, że legion liczył około 4500 żołnierzy, a w późniejszym okresie 6000."
+          "explanation": "Rzymski legion liczył około 4500 żołnierzy, a w późniejszym okresie około 6000."
         },
         {
           "id": "R03_WOJ_02",
@@ -3129,7 +3129,7 @@
             "Wał Hadriana": "umocnienie chroniące rzymską Brytanię",
             "legion": "wielka jednostka armii rzymskiej"
           },
-          "explanation": "Galowie, Germanowie, Wał Hadriana i legion pojawiają się w opisie rzymskiej wojskowości i granic."
+          "explanation": "Galowie i Germanowie byli ludami związanymi z rzymskimi granicami, Wał Hadriana chronił Brytanię, a legion był dużą jednostką armii rzymskiej."
         },
         {
           "id": "R03_WOJ_06",
@@ -3439,7 +3439,7 @@
               "Nazaret"
             ]
           ],
-          "explanation": "Wskazuje się Jezusa z Nazaretu jako założyciela chrześcijaństwa."
+          "explanation": "Założycielem chrześcijaństwa był Jezus z Nazaretu."
         },
         {
           "id": "R03_CHR_04",
@@ -3607,7 +3607,7 @@
           "id": "R03_HARD_02",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Której zalety położenia Rzymu nie wymienił Cyceron w przytoczonym fragmencie?",
+          "prompt": "Której zalety położenia Rzymu Cyceron nie podkreślał?",
           "options": [
             "spławna rzeka o spokojnym nurcie",
             "położenie niedaleko wybrzeża",
@@ -3664,7 +3664,7 @@
             "Juliusz Cezar": "O wojnie galijskiej i O wojnie domowej",
             "św. Paweł": "Listy w Nowym Testamencie"
           },
-          "explanation": "Wymienia się Wergiliusza jako autora Eneidy, Cycerona jako wzór mów, Juliusza Cezara jako autora dzieł o wojnach oraz św. Pawła jako autora listów w Nowym Testamencie."
+          "explanation": "Wergiliusz był autorem Eneidy, Cyceron stanowił wzór sztuki oratorskiej, Juliusz Cezar pisał o prowadzonych wojnach, a św. Paweł był autorem listów w Nowym Testamencie."
         },
         {
           "id": "R03_HARD_05",
@@ -4708,7 +4708,7 @@
           "id": "R04_SLO_03",
           "section": "Słowiańszczyzna",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje zgodne z opisem życia dawnych Słowian.",
+          "prompt": "Zaznacz prawdziwe informacje o życiu dawnych Słowian.",
           "options": [
             "Zakładali skromne osady nad rzekami",
             "Posługiwali się prostymi narzędziami",
@@ -4765,7 +4765,7 @@
             "Ruś Kijowska": "Rurykowicze"
           },
           "image": "r04_mapa_slowianie.jpg",
-          "explanation": "Wskazano najważniejsze dynastie państw Europy Środkowej i Wschodniej."
+          "explanation": "Czechami rządzili Przemyślidzi, Polską Piastowie, Węgrami Arpadowie, a Rusią Kijowską Rurykowicze."
         },
         {
           "id": "R04_SLO_06",
@@ -4914,7 +4914,7 @@
             3,
             4
           ],
-          "explanation": "Podsumowanie wskazuje m.in. pochodzenie nazw państw, trwałość cyrylicy oraz znaczenie cyfr arabskich."
+          "explanation": "Do trwałego dziedzictwa wczesnego średniowiecza należą m.in. nazwy części państw, cyrylica oraz upowszechnienie cyfr arabskich."
         },
         {
           "id": "R04_HARD_02",
@@ -5131,7 +5131,7 @@
               "Wielkie Morawy"
             ]
           },
-          "explanation": "Ćwiczenie łączy najważniejsze pojęcia z czterema kręgami kulturowymi."
+          "explanation": "Pojęcia odnoszą się do czterech kręgów kulturowych: Bizancjum, islamu, Franków i Słowian."
         },
         {
           "id": "R04_HARD_12",
@@ -5225,7 +5225,7 @@
           "prompt": "Wasal miał obowiązek dochować wierności seniorowi, walczyć pod jego dowództwem i służyć mu radą.",
           "options": null,
           "answer": true,
-          "explanation": "Wymienia się właśnie wierność, służbę wojskową i służenie radą jako podstawowe obowiązki wasala."
+          "explanation": "Podstawowe obowiązki wasala obejmowały wierność seniorowi, służbę wojskową i służenie mu radą."
         },
         {
           "id": "R05_RYC_03",
@@ -5475,7 +5475,7 @@
             "cała rodzina": "udział w pracach gospodarskich"
           },
           "image": "r05_gospodarstwo_chlopskie.jpg",
-          "explanation": "Prace gospodarskie angażowały całą rodzinę, ale wskazuje się różne typowe zadania mężczyzn, kobiet i starszych dzieci."
+          "explanation": "Prace gospodarskie angażowały całą rodzinę; mężczyźni, kobiety i starsze dzieci wykonywali różne typowe zadania."
         },
         {
           "id": "R05_WIE_06",
@@ -5909,7 +5909,7 @@
           "id": "R05_KOS_09",
           "section": "Kościół, zakony i kultura",
           "type": "scenario",
-          "prompt": "Widzisz wysoką świątynię o cieńszych murach, ogromnych oknach wypełnionych witrażami i portalach zamkniętych łukiem ostrym. Jaki styl opisano?",
+          "prompt": "Widzisz wysoką świątynię o cieńszych murach, ogromnych oknach wypełnionych witrażami i portalach zamkniętych łukiem ostrym. Jaki to styl?",
           "options": [
             "gotycki",
             "romański",
@@ -5920,7 +5920,7 @@
           ],
           "answer": 0,
           "image": "r05_style_romanski_gotycki.jpg",
-          "explanation": "Opis wskazuje na styl gotycki, który umożliwił wznoszenie wyższych budowli z dużymi oknami."
+          "explanation": "Są to cechy stylu gotyckiego, który umożliwiał wznoszenie wyższych budowli z dużymi oknami."
         },
         {
           "id": "R05_KOS_10",
@@ -6204,13 +6204,13 @@
           ],
           "right": [
             "jeden z trzech najważniejszych zakonów rycerskich w Ziemi Świętej",
-            "zakon przedstawiany także jako opiekujący się pielgrzymami",
+            "zakon opiekujący się pielgrzymami",
             "jeden z zakonów, które po klęsce państw krzyżowców działały dalej w Europie",
             "łączyły życie według reguły z obowiązkiem walki"
           ],
           "answer": {
             "templariusze": "jeden z trzech najważniejszych zakonów rycerskich w Ziemi Świętej",
-            "joannici": "zakon przedstawiany także jako opiekujący się pielgrzymami",
+            "joannici": "zakon opiekujący się pielgrzymami",
             "Krzyżacy": "jeden z zakonów, które po klęsce państw krzyżowców działały dalej w Europie",
             "zakony rycerskie": "łączyły życie według reguły z obowiązkiem walki"
           },
@@ -6330,7 +6330,7 @@
           "prompt": "Wskaż, co nie pasuje do pozostałych: Padwa, Bolonia, Paryż, Monte Cassino.",
           "options": null,
           "answer": "Monte Cassino",
-          "explanation": "Padwa, Bolonia i Paryż są wymienione jako ośrodki najstarszych uniwersytetów, a Monte Cassino wiąże się z początkiem benedyktynów."
+          "explanation": "Padwa, Bolonia i Paryż były ośrodkami najstarszych uniwersytetów, natomiast Monte Cassino wiąże się z początkiem benedyktynów."
         },
         {
           "id": "R05_HARD_04",
@@ -6550,7 +6550,7 @@
           "prompt": "Głównym zajęciem plemion słowiańskich zamieszkujących ziemie polskie było rolnictwo.",
           "options": null,
           "answer": true,
-          "explanation": "Wskazuje się rolnictwo jako główne zajęcie ówczesnych plemion słowiańskich."
+          "explanation": "Rolnictwo było głównym zajęciem ówczesnych plemion słowiańskich."
         },
         {
           "id": "R06_NAR_04",
@@ -6624,7 +6624,7 @@
             "Siemomysł",
             "Mieszko I"
           ],
-          "explanation": "Podaje się kolejność: Piast, Siemowit, Leszek, Siemomysł, Mieszko I."
+          "explanation": "Kolejność to: Piast, Siemowit, Leszek, Siemomysł, Mieszko I."
         },
         {
           "id": "R06_NAR_08",
@@ -7165,7 +7165,7 @@
           "id": "R06_KRZ_02",
           "section": "Panowanie Bolesława Krzywoustego",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje zgodne z opisem Władysława Hermana.",
+          "prompt": "Zaznacz prawdziwe informacje o Władysławie Hermanie.",
           "options": [
             "Nie koronował się na króla",
             "Zwykle ulegał wpływom możnych",
@@ -7625,7 +7625,7 @@
             "Wincenty Kadłubek": "opis gestu Ottona wobec Bolesława",
             "Drzwi Gnieźnieńskie": "sceny z życia św. Wojciecha"
           },
-          "explanation": "Przywołuje się kilku kronikarzy i źródła, aby opisać początki państwa Piastów oraz późniejszą pamięć o tych wydarzeniach."
+          "explanation": "Kronikarze i inne źródła przekazują informacje o początkach państwa Piastów oraz o późniejszej pamięci o tych wydarzeniach."
         },
         {
           "id": "R06_HARD_04",
@@ -8540,7 +8540,7 @@
           "prompt": "Unia personalna oznacza połączenie państw pod władzą jednego monarchy przy zachowaniu ich odrębności.",
           "options": null,
           "answer": true,
-          "explanation": "Tak definiuje się unię personalną, na przykład związek Polski i Węgier pod rządami Ludwika."
+          "explanation": "Unia personalna łączy państwa osobą wspólnego monarchy przy zachowaniu ich odrębności; taki związek tworzyły Polska i Węgry pod rządami Ludwika."
         },
         {
           "id": "R07_UNI_03",

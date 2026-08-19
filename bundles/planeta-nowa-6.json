@@ -1,8 +1,8 @@
 {
   "id": "planeta-nowa-6",
   "title": "Planeta Nowa 6",
-  "version": 2,
-  "contentHash": "839d81f3cb009bad1e44713e3798c465a0bf3e73cbc6c0deee24c9a81caa0acd",
+  "version": 3,
+  "contentHash": "267ee5176c4b268994d0f3fd62e11acd2c926a2a067b86dea98da619358dcfae",
   "bookConfig": {
     "id": "planeta-nowa-6",
     "title": "Planeta Nowa 6",
@@ -133,7 +133,7 @@
               "wschód - zachód"
             ]
           ],
-          "explanation": "Wskazano dwa podstawowe kierunki: południki biegną północ-południe, a równoleżniki wschód-zachód."
+          "explanation": "Południki biegną w kierunku północ-południe, a równoleżniki w kierunku wschód-zachód."
         },
         {
           "id": "R01_SIA_07",
@@ -438,7 +438,7 @@
           "id": "R01_ODC_01",
           "section": "Odczytywanie współrzędnych",
           "type": "single_choice",
-          "prompt": "Jakie współrzędne geograficzne Krakowa podano?",
+          "prompt": "Jakie są współrzędne geograficzne Krakowa?",
           "options": [
             "50°N, 20°E",
             "20°N, 50°E",
@@ -449,7 +449,7 @@
           ],
           "answer": 0,
           "image": "r01_odczyt_krakow.jpg",
-          "explanation": "W przykładzie z Krakowem podano współrzędne 50°N, 20°E."
+          "explanation": "Współrzędne geograficzne Krakowa to 50°N, 20°E."
         },
         {
           "id": "R01_ODC_02",
@@ -493,7 +493,7 @@
           "id": "R01_ODC_04",
           "section": "Odczytywanie współrzędnych",
           "type": "true_false",
-          "prompt": "W przykładzie odczytywania punktu A wartości równoleżników są opisane na obrzeżu mapy, a wartości południków wzdłuż równika.",
+          "prompt": "Na mapie świata wartości równoleżników są opisane na obrzeżu mapy, a wartości południków wzdłuż równika.",
           "options": null,
           "answer": true,
           "explanation": "Na mapie świata wartości równoleżników odczytuje się z obrzeża mapy, a wartości południków wzdłuż równika."
@@ -513,7 +513,7 @@
           ],
           "answer": 0,
           "image": "r01_mapa_europy_hamburg.jpg",
-          "explanation": "W przykładzie podano, że Hamburg leży na równoleżniku 53°N i południku 10°E."
+          "explanation": "Hamburg leży na równoleżniku 53°N i południku 10°E."
         },
         {
           "id": "R01_ODC_06",
@@ -544,7 +544,7 @@
           "id": "R01_ODC_07",
           "section": "Odczytywanie współrzędnych",
           "type": "scenario",
-          "prompt": "Jeżewo leży mniej więcej w połowie odległości między równoleżnikami 53° i 54°. Jaką szerokość geograficzną podano w przykładzie?",
+          "prompt": "Jeżewo leży mniej więcej w połowie odległości między równoleżnikami 53° i 54°. Jaka jest jego przybliżona szerokość geograficzna?",
           "options": [
             "53°30'N",
             "54°30'N",
@@ -560,7 +560,7 @@
           "id": "R01_ODC_08",
           "section": "Odczytywanie współrzędnych",
           "type": "scenario",
-          "prompt": "Jeżewo leży mniej więcej w połowie odległości między południkami 18° i 19°. Jaką długość geograficzną podano w przykładzie?",
+          "prompt": "Jeżewo leży mniej więcej w połowie odległości między południkami 18° i 19°. Jaka jest jego przybliżona długość geograficzna?",
           "options": [
             "18°30'E",
             "18°30'W",
@@ -576,7 +576,7 @@
           "id": "R01_ODC_09",
           "section": "Odczytywanie współrzędnych",
           "type": "single_choice",
-          "prompt": "Jakie miasto wskazano jako położone na współrzędnych 46°N, 1°W?",
+          "prompt": "Jakie miasto leży na współrzędnych 46°N, 1°W?",
           "options": [
             "Rochefort",
             "Hamburg",
@@ -586,7 +586,7 @@
             "Petersburg"
           ],
           "answer": 0,
-          "explanation": "W przykładzie z mapą drogową miastem o współrzędnych 46°N, 1°W jest Rochefort."
+          "explanation": "Miastem położonym na współrzędnych 46°N, 1°W jest Rochefort."
         },
         {
           "id": "R01_ODC_10",
@@ -660,7 +660,7 @@
           "id": "R01_GPS_01",
           "section": "GPS i mapy cyfrowe",
           "type": "single_choice",
-          "prompt": "Jaki system nawigacji satelitarnej wskazano jako najpopularniejszy?",
+          "prompt": "Który system nawigacji satelitarnej jest najpopularniejszy?",
           "options": [
             "GPS",
             "równik",
@@ -748,7 +748,7 @@
             "global positioning system",
             "GPS"
           ],
-          "explanation": "W części dla dociekliwych podano rozwinięcie skrótu GPS: Global Positioning System."
+          "explanation": "Skrót GPS rozwija się jako Global Positioning System."
         },
         {
           "id": "R01_GPS_07",
@@ -758,7 +758,7 @@
           "options": null,
           "answer": true,
           "image": "r01_odbiornik_gps.jpg",
-          "explanation": "W ciekawostce wskazano, że odbiorniki GPS pozwalają śledzić trasy wędrówek zagrożonych gatunków, np. żółwi morskich."
+          "explanation": "Odbiorniki GPS pozwalają śledzić trasy wędrówek zagrożonych gatunków, np. żółwi morskich."
         },
         {
           "id": "R01_GPS_08",
@@ -817,7 +817,7 @@
           "prompt": "Wskaż element, który nie jest urządzeniem z odbiornikiem GPS: tablet, smartfon, smartwatch, globus.",
           "options": null,
           "answer": "globus",
-          "explanation": "Wymieniono tablet, smartfon, smartwatch i osobny odbiornik GPS. Globus nie został podany jako urządzenie z GPS."
+          "explanation": "Odbiornik GPS może znajdować się w tablecie, smartfonie, smartwatchu lub jako osobne urządzenie. Globus nie jest urządzeniem z GPS."
         },
         {
           "id": "R01_ROZ_01",
@@ -883,7 +883,7 @@
           "id": "R01_ROZ_04",
           "section": "Rozciągłość obszarów",
           "type": "scenario",
-          "prompt": "Europa bez wysp ma skrajny punkt północny 71°08'N i południowy 35°58'N. Jaką rozciągłość południkową podano?",
+          "prompt": "Europa bez wysp ma skrajny punkt północny 71°08'N i południowy 35°58'N. Jaka jest jej rozciągłość południkowa?",
           "options": [
             "35°10'",
             "77°44'",
@@ -900,7 +900,7 @@
           "id": "R01_ROZ_05",
           "section": "Rozciągłość obszarów",
           "type": "scenario",
-          "prompt": "Przylądek Roca ma 9°30'W, a ujście Bajdaraty 68°14'E. Jaką rozciągłość równoleżnikową Europy podano?",
+          "prompt": "Przylądek Roca ma 9°30'W, a ujście Bajdaraty 68°14'E. Jaka jest rozciągłość równoleżnikowa Europy?",
           "options": [
             "77°44'",
             "35°10'",
@@ -1055,13 +1055,13 @@
             0,
             1
           ],
-          "explanation": "Współrzędne podaje się w stopniach, minutach i sekundach kątowych: 1° dzieli się na 60 minut, a 1 minuta na 60 sekund."
+          "explanation": "Jeden stopień dzieli się na 60 minut kątowych, a jedna minuta na 60 sekund kątowych."
         },
         {
           "id": "R01_HARD_02",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Przez które miejsce przebiega południk 0° wymieniony w ciekawostce?",
+          "prompt": "Przez które miejsce przebiega południk 0°?",
           "options": [
             "Królewskie Obserwatorium Astronomiczne w Greenwich w Londynie",
             "Kraków",
@@ -1072,13 +1072,13 @@
           ],
           "answer": 0,
           "image": "r01_poludnik_zero_i_180.jpg",
-          "explanation": "W ciekawostce podano, że południk 0° przebiega przez Królewskie Obserwatorium Astronomiczne w Greenwich w Londynie."
+          "explanation": "Południk 0° przebiega przez Królewskie Obserwatorium Astronomiczne w Greenwich w Londynie."
         },
         {
           "id": "R01_HARD_03",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "Współrzędne Sydney podano jako 33°52'S, 151°12'E. Jakie są wartości dwóch kątów opisujących to położenie?",
+          "prompt": "Współrzędne Sydney to 33°52'S, 151°12'E. Jakie są wartości dwóch kątów opisujących to położenie?",
           "options": [
             "33°52' i 151°12'",
             "33°52' i 151°12\"",
@@ -1118,7 +1118,7 @@
           "id": "R01_HARD_05",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Dlaczego przy rozciągłości równoleżnikowej Europy w przykładzie dodano 9°30'W i 68°14'E?",
+          "prompt": "Dlaczego przy obliczaniu rozciągłości równoleżnikowej Europy dodaje się 9°30'W i 68°14'E?",
           "options": [
             "bo skrajne punkty leżą na półkuli zachodniej i wschodniej",
             "bo oba punkty leżą na półkuli północnej",
@@ -1135,14 +1135,14 @@
           "id": "R01_HARD_06",
           "section": "Super trudne",
           "type": "riddle",
-          "prompt": "Miasto odszukane w przykładzie na podstawie współrzędnych 46°N, 1°W to...",
+          "prompt": "Miasto położone na współrzędnych 46°N, 1°W to...",
           "options": null,
           "answer": "Rochefort",
           "altAnswers": [
             "Rochefort",
             "rochefort"
           ],
-          "explanation": "W przykładzie z mapą drogową punkt przecięcia równoleżnika 46°N i południka 1°W wskazywał Rochefort."
+          "explanation": "Na współrzędnych 46°N, 1°W leży Rochefort."
         },
         {
           "id": "R01_HARD_07",
@@ -1206,7 +1206,7 @@
           "id": "R01_HARD_09",
           "section": "Super trudne",
           "type": "scenario",
-          "prompt": "W przykładzie skrajne punkty Europy na północy i południu mają szerokości 71°08'N oraz 35°58'N. Jaką operację należy wykonać?",
+          "prompt": "Skrajne punkty Europy na północy i południu mają szerokości 71°08'N oraz 35°58'N. Jaką operację należy wykonać?",
           "options": [
             "odjąć 35°58' od 71°08'",
             "dodać 71°08' i 35°58'",
@@ -1255,13 +1255,13 @@
             "wyznacz południk 1°W między 0° i 2°W",
             "odczytaj nazwę miasta w miejscu przecięcia"
           ],
-          "explanation": "W przykładzie najpierw analizuje się siatkę, następnie znajduje równoleżnik i południk, a na ich przecięciu odczytuje nazwę miasta."
+          "explanation": "Najpierw należy przeanalizować siatkę, następnie znaleźć równoleżnik i południk, a na ich przecięciu odczytać nazwę miasta."
         },
         {
           "id": "R01_HARD_13",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz jednostki miar kątowych, w których podaje się współrzędne geograficzne.",
+          "prompt": "Zaznacz jednostki miar kątowych używane do zapisu współrzędnych geograficznych.",
           "options": [
             "stopnie",
             "minuty",
@@ -1297,7 +1297,7 @@
               "odjac"
             ]
           ],
-          "explanation": "Podaje się odwrotne zasady: na różnych półkulach wartości się dodaje, a na tej samej półkuli odejmuje."
+          "explanation": "Na różnych półkulach wartości się dodaje, a na tej samej półkuli odejmuje."
         }
       ],
       "kidPrompts": {
@@ -1305,8 +1305,8 @@
         "R01_SIA_03": "Co oddziela półkulę północną od południowej?",
         "R01_SDL_01": "Z jakich dwóch części składają się współrzędne?",
         "R01_SDL_07": "Co znaczą litery N, S, E i W we współrzędnych?",
-        "R01_ODC_01": "Jakie współrzędne ma Kraków w przykładzie?",
-        "R01_ODC_05": "Jakie współrzędne ma Hamburg w przykładzie?",
+        "R01_ODC_01": "Jakie współrzędne ma Kraków?",
+        "R01_ODC_05": "Jakie współrzędne ma Hamburg?",
         "R01_GPS_01": "Jaki system pomaga wyznaczać współrzędne?",
         "R01_GPS_05": "Co zrobić w aplikacji, gdy znasz współrzędne miejsca?",
         "R01_ROZ_01": "Co porównujemy przy rozciągłości południkowej?",
@@ -1629,7 +1629,7 @@
             "Albert Einstein"
           ],
           "answer": 0,
-          "explanation": "Wskazano Mikołaja Kopernika jako uczonego, który przyczynił się do zmiany przekonań o Układzie Słonecznym."
+          "explanation": "Mikołaj Kopernik przyczynił się do zmiany przekonań o Układzie Słonecznym."
         },
         {
           "id": "R02_OBR_01",
@@ -2418,7 +2418,7 @@
           "id": "R02_STO_15",
           "section": "Strefy oświetlenia Ziemi",
           "type": "single_choice",
-          "prompt": "Który zestaw krajobrazów przypisano w tabeli do strefy podbiegunowej?",
+          "prompt": "Który zestaw krajobrazów jest charakterystyczny dla strefy podbiegunowej?",
           "options": [
             "tundra i pustynie lodowe",
             "sawanny i pustynie gorące",
@@ -2428,7 +2428,7 @@
             "tajga i sawanny"
           ],
           "answer": 0,
-          "explanation": "W tabeli strefie podbiegunowej przypisano klimat okołobiegunowy oraz krajobrazy tundry i pustyń lodowych."
+          "explanation": "Dla strefy podbiegunowej charakterystyczne są klimat okołobiegunowy oraz krajobrazy tundry i pustyń lodowych."
         },
         {
           "id": "R02_HARD_01",
@@ -2498,7 +2498,7 @@
             2,
             3
           ],
-          "explanation": "Jowisz, Saturn, Uran i Neptun są planetami olbrzymami; podaje się ich cechy, między innymi pierścienie Saturna i dalekie położenie Neptuna."
+          "explanation": "Jowisz, Saturn, Uran i Neptun są planetami olbrzymami; Saturn ma pierścienie, a Neptun leży najdalej od Słońca."
         },
         {
           "id": "R02_HARD_05",
@@ -2543,7 +2543,7 @@
             "cofają zegary o 24 godziny bez zmiany daty"
           ],
           "answer": 0,
-          "explanation": "W przykładzie podróży z Los Angeles do Tokio po przekroczeniu linii zmiany daty pasażerowie tracą jeden dzień i zmieniają datę na dzień następny."
+          "explanation": "Po przekroczeniu linii zmiany daty w podróży z Los Angeles do Tokio pasażerowie tracą jeden dzień i zmieniają datę na dzień następny."
         },
         {
           "id": "R02_HARD_07",
@@ -2552,7 +2552,7 @@
           "prompt": "Wskaż, co nie pasuje do dat początku astronomicznych pór roku: około 20 marca, około 21 czerwca, około 22 września, około 15 listopada.",
           "options": null,
           "answer": "około 15 listopada",
-          "explanation": "Podaje się daty około 20 marca, 21 czerwca, 22 września i 21 grudnia, a nie 15 listopada."
+          "explanation": "Charakterystyczne daty to około 20 marca, 21 czerwca, 22 września i 21 grudnia, a nie 15 listopada."
         },
         {
           "id": "R02_HARD_08",
@@ -2628,7 +2628,7 @@
           "id": "R02_HARD_11",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który meteoryt opisano jako największy znany meteoryt, który dotarł na Ziemię w jednym kawałku?",
+          "prompt": "Który meteoryt jest największym znanym meteorytem, który dotarł na Ziemię w jednym kawałku?",
           "options": [
             "Hoba",
             "Morasko",
@@ -2638,16 +2638,16 @@
             "ELT"
           ],
           "answer": 0,
-          "explanation": "W materiale dodatkowym opisano meteoryt Hoba z Namibii, ważący 60 t, jako największy znany meteoryt zachowany w jednym kawałku."
+          "explanation": "Meteoryt Hoba z Namibii waży 60 t i jest największym znanym meteorytem zachowanym w jednym kawałku."
         },
         {
           "id": "R02_HARD_12",
           "section": "Super trudne",
           "type": "true_false",
-          "prompt": "W materiale podano, że w Polsce białe noce można obserwować od początku czerwca do połowy lipca, najlepiej na północy kraju.",
+          "prompt": "W Polsce białe noce można obserwować od początku czerwca do połowy lipca, najlepiej na północy kraju.",
           "options": null,
           "answer": true,
-          "explanation": "Opis białych nocy wskazuje, że w Polsce występują one od początku czerwca do połowy lipca i najlepiej widać je na północy kraju."
+          "explanation": "W Polsce białe noce występują od początku czerwca do połowy lipca i najlepiej widać je na północy kraju."
         }
       ],
       "kidPrompts": {},
@@ -2783,7 +2783,7 @@
           "options": null,
           "answer": "Sardynia",
           "image": "r03_fiordy_i_wyspy.jpg",
-          "explanation": "Jako największe europejskie wyspy podano Wielką Brytanię, Islandię i Irlandię. Sardynia nie należy do tej trójki."
+          "explanation": "Największe europejskie wyspy to Wielka Brytania, Islandia i Irlandia. Sardynia nie należy do tej trójki."
         },
         {
           "id": "R03_POL_07",
@@ -2857,7 +2857,7 @@
             ]
           },
           "image": "r03_alpy_i_nizina.jpg",
-          "explanation": "Wymienia się niziny, góry i wyżyny Europy oraz podaje ich przykłady."
+          "explanation": "Nizina Francuska i Nizina Środkowoeuropejska to niziny, Karpaty i Pireneje to góry, a Wyżyna Bawarska i Wyżyna Środkoworosyjska to wyżyny."
         },
         {
           "id": "R03_POL_10",
@@ -3000,7 +3000,7 @@
             6
           ],
           "image": "r03_gejzer_i_wulkan.jpg",
-          "explanation": "Wymieniono m.in. czynne wulkany Islandii: Heklę, Laki, Eyjafjallajökull, Barðarbungę i Sundhnukur."
+          "explanation": "Do czynnych wulkanów Islandii należą m.in. Hekla, Laki, Eyjafjallajökull, Barðarbunga i Sundhnukur."
         },
         {
           "id": "R03_ISL_07",
@@ -3017,7 +3017,7 @@
           ],
           "answer": 0,
           "image": "r03_gejzer_i_wulkan.jpg",
-          "explanation": "Podano przykład gejzeru Strokkur, który co kilka minut wyrzuca wodę na wysokość około 30 m."
+          "explanation": "Strokkur to gejzer, który co kilka minut wyrzuca wodę na wysokość około 30 m."
         },
         {
           "id": "R03_ISL_08",
@@ -3054,7 +3054,7 @@
             "Vatnajökull": "lodowiec przykrywający kilka wulkanów"
           },
           "image": "r03_gejzer_i_wulkan.jpg",
-          "explanation": "Podaje się przykłady islandzkich wulkanów, gejzerów i lodowców oraz opisuje ich cechy."
+          "explanation": "Do charakterystycznych elementów Islandii należą wulkany, gejzery i lodowce."
         },
         {
           "id": "R03_ISL_10",
@@ -3350,7 +3350,7 @@
           "prompt": "Kazachstan, Turcja i Rosja są uwzględnione w liczbie państw Europy, choć większość ich terytorium leży w Azji.",
           "options": null,
           "answer": true,
-          "explanation": "Wskazuje się trzy takie kraje: Kazachstan, Turcję i Rosję. Ich części terytorium znajdują się w Europie."
+          "explanation": "Trzy państwa leżą częściowo w Europie: Kazachstan, Turcja i Rosja."
         },
         {
           "id": "R03_PAN_03",
@@ -3467,7 +3467,7 @@
             "wystąpienie Wielkiej Brytanii z UE": "2020"
           },
           "image": "r03_parlament_europejski.jpg",
-          "explanation": "Podaje się daty powstania Europejskiej Wspólnoty Węgla i Stali, Unii Europejskiej, wprowadzenia euro do obiegu i wystąpienia Wielkiej Brytanii z UE."
+          "explanation": "Europejska Wspólnota Węgla i Stali powstała w 1951 r., Unia Europejska w 1993 r., euro wprowadzono do obiegu w 2002 r., a Wielka Brytania wystąpiła z UE w 2020 r."
         },
         {
           "id": "R03_PAN_09",
@@ -3576,7 +3576,7 @@
           "prompt": "Średnia gęstość zaludnienia Europy wynosi 34 os./km2, jeśli liczy się Rosję razem z jej azjatycką częścią.",
           "options": null,
           "answer": true,
-          "explanation": "Podano średnią gęstość zaludnienia Europy 34 os./km2, licząc z całą Rosją, także z jej azjatycką częścią."
+          "explanation": "Średnia gęstość zaludnienia Europy wynosi 34 os./km2 przy uwzględnieniu całej Rosji, także jej azjatyckiej części."
         },
         {
           "id": "R03_LUD_04",
@@ -3710,7 +3710,7 @@
             4
           ],
           "image": "r03_migracje_i_wielokulturowosc.jpg",
-          "explanation": "Wskazuje się m.in. chęć poprawy poziomu życia i pracy, ucieczkę przed wojną i prześladowaniami, dołączenie do rodziny oraz poznawanie innych kultur i języka."
+          "explanation": "Do przyczyn migracji należą m.in. chęć poprawy poziomu życia i pracy, ucieczka przed wojną i prześladowaniami, dołączenie do rodziny oraz poznawanie innych kultur i języka."
         },
         {
           "id": "R03_LUD_11",
@@ -3744,7 +3744,7 @@
           ],
           "answer": 0,
           "image": "r03_metropolie_zachodniej_europy.jpg",
-          "explanation": "W podsumowaniu wskazano, że największymi miastami Europy są Moskwa, Paryż i Londyn."
+          "explanation": "Największymi miastami Europy są Moskwa, Paryż i Londyn."
         },
         {
           "id": "R03_HARD_01",
@@ -3871,7 +3871,7 @@
             3
           ],
           "image": "r03_makia_i_tajga.jpg",
-          "explanation": "Opisuje się związki klimatu z roślinnością: podzwrotnikowy z makią, okołobiegunowy z tundrą i lodowcami, umiarkowany chłodny z tajgą oraz umiarkowany ciepły kontynentalny ze stepami."
+          "explanation": "Klimat podzwrotnikowy wiąże się z makią, okołobiegunowy z tundrą i lodowcami, umiarkowany chłodny z tajgą, a umiarkowany ciepły kontynentalny ze stepami."
         },
         {
           "id": "R03_HARD_08",
@@ -3911,7 +3911,7 @@
             "wystąpienie Wielkiej Brytanii z UE"
           ],
           "image": "r03_parlament_europejski.jpg",
-          "explanation": "Podano kolejno: 1951 - Europejska Wspólnota Węgla i Stali, 1993 - powstanie Unii Europejskiej, 2002 - euro w obiegu, 2008 - niepodległość Kosowa, 2020 - wystąpienie Wielkiej Brytanii z UE."
+          "explanation": "Kolejność wydarzeń jest następująca: 1951 - Europejska Wspólnota Węgla i Stali, 1993 - powstanie Unii Europejskiej, 2002 - euro w obiegu, 2008 - niepodległość Kosowa, 2020 - wystąpienie Wielkiej Brytanii z UE."
         },
         {
           "id": "R03_HARD_10",
@@ -3981,7 +3981,7 @@
             "City": "dzielnica biznesowa nad Tamizą"
           },
           "image": "r03_metropolie_zachodniej_europy.jpg",
-          "explanation": "Przedstawia się atrakcje i miejsca kojarzone z Paryżem oraz Londynem, m.in. Tower Bridge, Wersal, Luwr i dzielnicę City."
+          "explanation": "Do atrakcji i miejsc kojarzonych z Paryżem oraz Londynem należą m.in. Tower Bridge, Wersal, Luwr i dzielnica City."
         }
       ],
       "kidPrompts": {},
@@ -4093,7 +4093,7 @@
             "produkcja metali i wyrobów z metali": "stal, narzędzia, kontenery",
             "produkcja komputerów i urządzeń elektronicznych": "odkurzacze, telewizory, kamery"
           },
-          "explanation": "Podaje się przykłady produktów dla najważniejszych działów przetwórstwa przemysłowego."
+          "explanation": "Najważniejsze działy przetwórstwa przemysłowego wytwarzają m.in. tkaniny, lekarstwa, stal i urządzenia elektroniczne."
         },
         {
           "id": "R04_GOS_05",
@@ -4115,7 +4115,7 @@
               "rolnictwo"
             ]
           ],
-          "explanation": "Wskazano dwa ważne czynniki rozwoju przemysłu we Francji: złoża surowców mineralnych oraz rolnictwo."
+          "explanation": "Dwa ważne czynniki rozwoju przemysłu we Francji to złoża surowców mineralnych oraz rolnictwo."
         },
         {
           "id": "R04_GOS_06",
@@ -4243,7 +4243,7 @@
             2,
             3
           ],
-          "explanation": "Do usług zaliczono między innymi edukację, ochronę zdrowia, handel i transport."
+          "explanation": "Do usług należą między innymi edukacja, ochrona zdrowia, handel i transport."
         },
         {
           "id": "R04_USL_03",
@@ -4334,7 +4334,7 @@
             "usługi turystyczne": "muzea, hotele i restauracje"
           },
           "image": "r04_pociag_tgv.jpg",
-          "explanation": "Wymienia się we Francji między innymi usługi transportowe, badawczo-rozwojowe, finansowe i turystyczne."
+          "explanation": "We Francji rozwinięte są między innymi usługi transportowe, badawczo-rozwojowe, finansowe i turystyczne."
         },
         {
           "id": "R04_USL_08",
@@ -4627,7 +4627,7 @@
           "options": null,
           "answer": true,
           "image": "r04_wiatraki_nad_morzem.jpg",
-          "explanation": "Wskazuje się wybrzeża i rozległe doliny jako obszary sprzyjające budowie elektrowni wiatrowych."
+          "explanation": "Wybrzeża i rozległe doliny sprzyjają budowie elektrowni wiatrowych."
         },
         {
           "id": "R04_ZMI_05",
@@ -4656,7 +4656,7 @@
             "Dania": "spory udział elektrowni wiatrowych",
             "Grecja": "duże wykorzystanie energii słonecznej"
           },
-          "explanation": "Podaje się przykłady państw, w których duże znaczenie mają różne rodzaje elektrowni zależne od warunków środowiska."
+          "explanation": "W poszczególnych państwach duże znaczenie mają różne rodzaje elektrowni, zależnie od warunków środowiska."
         },
         {
           "id": "R04_ZMI_06",
@@ -4844,7 +4844,7 @@
             "Rzym": "starożytna stolica z Koloseum"
           },
           "image": "r04_lazurowe_wybrzeze.jpg",
-          "explanation": "Przedstawia się przykłady miejsc atrakcyjnych turystycznie w Europie Południowej, między innymi Wenecję, Lazurowe Wybrzeże, Jeziora Plitwickie i Rzym."
+          "explanation": "Do atrakcyjnych turystycznie miejsc Europy Południowej należą między innymi Wenecja, Lazurowe Wybrzeże, Jeziora Plitwickie i Rzym."
         },
         {
           "id": "R04_TUR_05",
@@ -4974,7 +4974,7 @@
               "44 461 dol. amer."
             ]
           ],
-          "explanation": "W tabeli kraju podano powierzchnię 551 700 km² i PKB na osobę 44 461 dol. amer. w 2023 roku."
+          "explanation": "Francja metropolitalna ma powierzchnię 551 700 km², a PKB na osobę wynosiło 44 461 dol. amer. w 2023 roku."
         },
         {
           "id": "R04_HARD_03",
@@ -4994,7 +4994,7 @@
             1,
             2
           ],
-          "explanation": "Jako obszary Francji poza Europą wymieniono Gujanę Francuską, Gwadelupę i Martynikę. Korsyka należy do Francji metropolitalnej."
+          "explanation": "Do obszarów Francji położonych poza Europą należą Gujana Francuska, Gwadelupa i Martynika. Korsyka należy do Francji metropolitalnej."
         },
         {
           "id": "R04_HARD_04",
@@ -5036,7 +5036,7 @@
             "Michelin": "opony",
             "L'Oreal": "kosmetyki"
           },
-          "explanation": "Wymienia się Renault wśród producentów samochodów, Airbus w lotnictwie, Michelin w produkcji opon, a L'Oreal w kosmetyce."
+          "explanation": "Renault produkuje samochody, Airbus samoloty, Michelin opony, a L'Oreal kosmetyki."
         },
         {
           "id": "R04_HARD_06",
@@ -5071,7 +5071,7 @@
           "id": "R04_HARD_08",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Jaki obszar wskazano jako główne miejsce wydobycia ropy naftowej i gazu ziemnego w Europie?",
+          "prompt": "Jaki jest główny obszar wydobycia ropy naftowej i gazu ziemnego w Europie?",
           "options": [
             "Morze Północne",
             "Morze Śródziemne",
@@ -5082,7 +5082,7 @@
           ],
           "answer": 0,
           "image": "r04_platforma_wiertnicza.jpg",
-          "explanation": "Jako główny europejski obszar wydobycia ropy naftowej i gazu ziemnego wskazano Morze Północne."
+          "explanation": "Głównym europejskim obszarem wydobycia ropy naftowej i gazu ziemnego jest Morze Północne."
         },
         {
           "id": "R04_HARD_09",
@@ -5168,7 +5168,7 @@
           ],
           "answer": 0,
           "image": "r04_pola_lawendy.jpg",
-          "explanation": "W tekście o Prowansji podano, że dwie najstarsze wytwórnie perfum działają w miasteczku Grasse."
+          "explanation": "Dwie najstarsze wytwórnie perfum działają w miasteczku Grasse w Prowansji."
         },
         {
           "id": "R04_HARD_13",
@@ -5190,7 +5190,7 @@
             3
           ],
           "image": "r04_carcassonne_twierdza.jpg",
-          "explanation": "Carcassonne opisano jako położone na wzgórzu miasto z zachowanymi średniowiecznymi obiektami obronnymi, zamkiem z XII wieku i dwoma pierścieniami murów o długości 3 km."
+          "explanation": "Carcassonne leży na wzgórzu i zachowało średniowieczne obiekty obronne, zamek z XII wieku oraz dwa pierścienie murów o długości 3 km."
         },
         {
           "id": "R04_HARD_14",
@@ -5343,7 +5343,7 @@
             2,
             3
           ],
-          "explanation": "Wymieniono producentów samochodów, sprzętu elektronicznego, sprzętu optycznego oraz lekarstw."
+          "explanation": "Współczesny przemysł Niemiec słynie z samochodów, sprzętu elektronicznego, sprzętu optycznego i lekarstw."
         },
         {
           "id": "R05_NIEM_05",
@@ -5369,7 +5369,7 @@
             "Zeiss": "sprzęt optyczny",
             "Bayer": "lekarstwa"
           },
-          "explanation": "Podaje się przykłady znanych niemieckich producentów: Volkswagen, Siemens, Zeiss i Bayer."
+          "explanation": "Do znanych niemieckich producentów należą Volkswagen, Siemens, Zeiss i Bayer."
         },
         {
           "id": "R05_NIEM_06",
@@ -5465,7 +5465,7 @@
           "options": null,
           "answer": "nowe szyby wydobywcze",
           "image": "r05_zollverein_rekultywacja.jpg",
-          "explanation": "Opisano muzea, tereny rekreacyjne i centra kulturalno-rozrywkowe, a nie ponowne rozwijanie wydobycia w zamkniętych kopalniach."
+          "explanation": "Tereny po zamkniętych kopalniach i hutach są wykorzystywane jako muzea, tereny rekreacyjne i centra kulturalno-rozrywkowe, a nie do ponownego rozwijania wydobycia."
         },
         {
           "id": "R05_CZS_01",
@@ -5490,7 +5490,7 @@
           "prompt": "Czechy i Słowacja nie mają dostępu do morza.",
           "options": null,
           "answer": true,
-          "explanation": "W opisach obu państw podkreślono, że nie mają dostępu do morza."
+          "explanation": "Czechy i Słowacja nie mają dostępu do morza."
         },
         {
           "id": "R05_CZS_03",
@@ -5628,7 +5628,7 @@
               "wody termalne"
             ]
           },
-          "explanation": "Wymienia się te atrakcje jako przykłady walorów turystycznych południowych sąsiadów Polski."
+          "explanation": "Te atrakcje są przykładami walorów turystycznych południowych sąsiadów Polski."
         },
         {
           "id": "R05_CZS_10",
@@ -5817,7 +5817,7 @@
             "Puszcza Zielona"
           ],
           "answer": 0,
-          "explanation": "Opisuje się Puszczę Białowieską jako ważny element dziedzictwa przyrodniczego na pograniczu polsko-białoruskim."
+          "explanation": "Puszcza Białowieska jest ważnym elementem dziedzictwa przyrodniczego na pograniczu polsko-białoruskim."
         },
         {
           "id": "R05_UKR_01",
@@ -5953,7 +5953,7 @@
           "options": null,
           "answer": "nadmierny ruch turystyczny",
           "image": "r05_ukraina_wojna_skutki.jpg",
-          "explanation": "Wskazuje się wojnę, bombardowania i emigrację jako problemy Ukrainy, a nie nadmierny ruch turystyczny."
+          "explanation": "Do problemów Ukrainy należą wojna, bombardowania i emigracja, a nie nadmierny ruch turystyczny."
         },
         {
           "id": "R05_UKR_09",
@@ -6013,7 +6013,7 @@
           "id": "R05_ROS_01",
           "section": "Rosja i przyroda",
           "type": "single_choice",
-          "prompt": "Które państwo opisano jako największe pod względem powierzchni na świecie?",
+          "prompt": "Które państwo jest największe pod względem powierzchni na świecie?",
           "options": [
             "Rosję",
             "Ukrainę",
@@ -6072,7 +6072,7 @@
             2,
             3
           ],
-          "explanation": "Wymieniono Nizinę Wschodnioeuropejską, Ural, Nizinę Zachodniosyberyjską i Wyżynę Środkowosyberyjską jako ważne elementy rzeźby Rosji."
+          "explanation": "Do ważnych elementów rzeźby Rosji należą Nizina Wschodnioeuropejska, Ural, Nizina Zachodniosyberyjska i Wyżyna Środkowosyberyjska."
         },
         {
           "id": "R05_ROS_05",
@@ -6099,7 +6099,7 @@
             "Kluczewska Sopka": "czynny wulkan na Kamczatce"
           },
           "image": "r05_bajkal_jezioro.jpg",
-          "explanation": "Wskazuje się Wołgę, Bajkał, Elbrus i Kluczewską Sopkę jako charakterystyczne obiekty przyrodnicze Rosji."
+          "explanation": "Wołga, Bajkał, Elbrus i Kluczewska Sopka to charakterystyczne obiekty przyrodnicze Rosji."
         },
         {
           "id": "R05_ROS_06",
@@ -6156,7 +6156,7 @@
           "prompt": "Co nie pasuje do surowców mineralnych Rosji: węgiel kamienny, gaz ziemny, ropa naftowa, wody termalne.",
           "options": null,
           "answer": "wody termalne",
-          "explanation": "Wymienia się węgiel kamienny, gaz ziemny i ropę naftową jako rosyjskie surowce, a wody termalne omawia przy Słowacji i Litwie."
+          "explanation": "Węgiel kamienny, gaz ziemny i ropa naftowa to ważne rosyjskie surowce; wody termalne nie pasują do tej grupy."
         },
         {
           "id": "R05_ROS_09",
@@ -6206,7 +6206,7 @@
           "prompt": "Relacje Polski z Rosją i Białorusią są obecnie opisane jako nieprzyjazne lub złe.",
           "options": null,
           "answer": true,
-          "explanation": "Wskazuje się dobre relacje z pozostałymi sąsiadami, ale złe stosunki z Rosją i Białorusią."
+          "explanation": "Polska ma dobre relacje z większością sąsiadów, ale złe stosunki z Rosją i Białorusią."
         },
         {
           "id": "R05_REL_03",
@@ -6272,7 +6272,7 @@
             "NATO": "organizacja wojskowa",
             "Grupa Wyszehradzka": "współpraca Polski Czech Słowacji i Węgier"
           },
-          "explanation": "Opisuje się główne formy współpracy Polski z sąsiadami w organizacjach międzynarodowych."
+          "explanation": "Polska współpracuje z sąsiadami w ramach różnych organizacji międzynarodowych."
         },
         {
           "id": "R05_REL_06",
@@ -6400,7 +6400,7 @@
               "samochod dla ludu"
             ]
           ],
-          "explanation": "W ciekawostce wyjaśniono, że samochody Volkswagena miały być niedrogie i dostępne dla przeciętnego człowieka."
+          "explanation": "Samochody Volkswagena miały być niedrogie i dostępne dla przeciętnego człowieka."
         },
         {
           "id": "R05_HARD_03",
@@ -6427,7 +6427,7 @@
             "Lindau": "miasto nad Jeziorem Bodeńskim"
           },
           "image": "r05_niemcy_atrakcje.jpg",
-          "explanation": "Przedstawia się te obiekty jako przykłady atrakcji Niemiec i podaje charakterystyczne informacje o każdym z nich."
+          "explanation": "Te obiekty są przykładami atrakcji Niemiec i mają charakterystyczne cechy."
         },
         {
           "id": "R05_HARD_04",
@@ -6452,7 +6452,7 @@
             "2 km"
           ],
           "answer": 0,
-          "explanation": "W podpisie podano, że Dobszyńska Jaskinia Lodowa ma długość 1,5 km i jest udostępniona do zwiedzania."
+          "explanation": "Dobszyńska Jaskinia Lodowa ma długość 1,5 km i jest udostępniona do zwiedzania."
         },
         {
           "id": "R05_HARD_06",
@@ -6487,7 +6487,7 @@
             2,
             3
           ],
-          "explanation": "Wymienia się autorytarny charakter państwa, współpracę z Rosją, poparcie inwazji i utrudnianie sytuacji Polaków na Białorusi jako przyczyny złych relacji."
+          "explanation": "Przyczynami złych relacji są autorytarny charakter państwa, współpraca z Rosją, poparcie inwazji i utrudnianie sytuacji Polaków na Białorusi."
         },
         {
           "id": "R05_HARD_08",
@@ -6503,7 +6503,7 @@
             "Unia Europejska"
           ],
           "answer": 0,
-          "explanation": "W tabeli podano, że NATO jest organizacją wojskową, a Polska szczególnie blisko współpracuje w niej między innymi z Litwą."
+          "explanation": "NATO jest organizacją wojskową, a Polska szczególnie blisko współpracuje w niej między innymi z Litwą."
         },
         {
           "id": "R05_HARD_09",

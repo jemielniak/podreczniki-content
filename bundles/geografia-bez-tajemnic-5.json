@@ -1,8 +1,8 @@
 {
   "id": "geografia-bez-tajemnic-5",
   "title": "Geografia bez tajemnic. Klasa 5",
-  "version": 4,
-  "contentHash": "0c4db9ea539d445a82e0ddabace5c1beb336af174ed31406eea8a832e8cbd1e7",
+  "version": 5,
+  "contentHash": "10fced2f071095664e116ef5d8806d6b7f542aa651223138ec35e919562c457b",
   "bookConfig": {
     "id": "geografia-bez-tajemnic-5",
     "title": "Geografia bez tajemnic. Klasa 5",
@@ -233,7 +233,7 @@
             "Na legendę",
             "Na skalę",
             "Na kierunek północy",
-            "Na kolor okładki podręcznika",
+            "Na kolor papieru, na którym wydrukowano mapę",
             "Na numer strony w stopce"
           ],
           "answer": [
@@ -384,7 +384,7 @@
             2
           ],
           "image": "r01_podzialka_liniowa.jpg",
-          "explanation": "Podaje się linijkę, cyrkiel i nitkę jako przydatne sposoby odmierzania odległości na mapie."
+          "explanation": "Linijka, cyrkiel i nitka mogą służyć do odmierzania odległości na mapie."
         },
         {
           "id": "R01_SKA_09",
@@ -906,7 +906,7 @@
           "prompt": "Na Ziemi jest pięć oceanów i siedem kontynentów.",
           "options": null,
           "answer": true,
-          "explanation": "Podaje się pięć oceanów i siedem kontynentów."
+          "explanation": "Na Ziemi wyróżnia się pięć oceanów i siedem kontynentów."
         },
         {
           "id": "R01_KON_04",
@@ -1024,7 +1024,7 @@
           "id": "R01_KON_10",
           "section": "Kontynenty i oceany",
           "type": "sequence",
-          "prompt": "Ułóż kontynenty od największego do najmniejszego zgodnie z listą.",
+          "prompt": "Ułóż kontynenty od największego do najmniejszego.",
           "options": null,
           "items": [
             "Europa",
@@ -1091,7 +1091,7 @@
             "Ferdynand Magellan": "Jego statki jako pierwsze opłynęły Ziemię",
             "James Cook": "Ustalił wielkość kontynentu Australii"
           },
-          "explanation": "Opisano najważniejszych podróżników i trasy ich wypraw."
+          "explanation": "Podróżnicy odbywali wyprawy różnymi trasami i docierali do nowych dla Europejczyków obszarów."
         },
         {
           "id": "R01_HARD_01",
@@ -1238,7 +1238,7 @@
           "id": "R01_HARD_09",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż wyprawy od najwcześniejszej do najpóźniejszej zgodnie z datami na mapie wypraw.",
+          "prompt": "Ułóż wyprawy od najwcześniejszej do najpóźniejszej.",
           "options": null,
           "items": [
             "James Cook (1768-1771)",
@@ -1771,7 +1771,7 @@
           "id": "R02_POJ_02",
           "section": "Krajobraz pojezierny",
           "type": "single_choice",
-          "prompt": "Które jezioro wskazano jako największe w Polsce?",
+          "prompt": "Które jezioro jest największe w Polsce?",
           "options": [
             "Śniardwy",
             "Łebsko",
@@ -1805,7 +1805,7 @@
           "id": "R02_POJ_05",
           "section": "Krajobraz pojezierny",
           "type": "multi_select",
-          "prompt": "Zaznacz przykłady ptaków wodnych wymienione przy opisie Pojezierza Mazurskiego.",
+          "prompt": "Zaznacz ptaki wodne występujące na Pojezierzu Mazurskim.",
           "options": [
             "czapla",
             "gęś",
@@ -1904,7 +1904,7 @@
             "Kanał Elbląski": "zabytek techniki z pochylniami",
             "Wilczy Szaniec": "sieć bunkrów z czasów II wojny światowej"
           },
-          "explanation": "Wymienia się zarówno elementy przyrodnicze Mazur, jak i atrakcje historyczne oraz techniczne."
+          "explanation": "Mazury łączą cenne elementy przyrodnicze z atrakcjami historycznymi i technicznymi."
         },
         {
           "id": "R02_POJ_11",
@@ -1998,7 +1998,7 @@
           "prompt": "Na Nizinie Mazowieckiej charakterystyczne są rozległe równiny, kotliny i szerokie doliny rzeczne.",
           "options": null,
           "answer": true,
-          "explanation": "Opisuje się Nizinę Mazowiecką jako obszar mało urozmaicony, z równinami, kotlinami i szerokimi dolinami rzek."
+          "explanation": "Nizina Mazowiecka jest obszarem mało urozmaiconym, z równinami, kotlinami i szerokimi dolinami rzek."
         },
         {
           "id": "R02_NIZ_04",
@@ -2028,7 +2028,7 @@
             2,
             3
           ],
-          "explanation": "Wśród dużych rzek tego obszaru wymienia się Wisłę, Narew, Pilicę, Bzurę, Wkrę i Bug."
+          "explanation": "Do dużych rzek tego obszaru należą Wisła, Narew, Pilica, Bzura, Wkra i Bug."
         },
         {
           "id": "R02_NIZ_06",
@@ -2224,7 +2224,7 @@
           "id": "R02_MIA_05",
           "section": "Krajobraz wielkomiejski",
           "type": "multi_select",
-          "prompt": "Zaznacz funkcje dużego miasta wymienione przy opisie Warszawy.",
+          "prompt": "Zaznacz funkcje pełnione przez Warszawę jako duże miasto.",
           "options": [
             "administracyjna",
             "handlowa",
@@ -2325,7 +2325,7 @@
             "Muzeum Powstania Warszawskiego": "upamiętnia walkę mieszkańców stolicy",
             "Stadion Narodowy": "zbudowany na Euro 2012"
           },
-          "explanation": "Przedstawia się wybrane miejsca Warszawy i wyjaśnia, z czym są związane."
+          "explanation": "Te miejsca Warszawy pełnią różne funkcje i wiążą się z ważnymi wydarzeniami, kulturą lub rekreacją."
         },
         {
           "id": "R02_MIA_11",
@@ -2377,7 +2377,7 @@
             "osiedla mieszkaniowe i dzielnice przemysłowe",
             "przedmieścia"
           ],
-          "explanation": "Opisuje się Stare Miasto jako najstarszą część, śródmieście jako część centralną, dalej osiedla i dzielnice, a na skraju przedmieścia."
+          "explanation": "Stare Miasto jest najstarszą częścią miasta, śródmieście częścią centralną, dalej znajdują się osiedla i dzielnice, a na skraju przedmieścia."
         },
         {
           "id": "R02_HARD_01",
@@ -2399,7 +2399,7 @@
           "id": "R02_HARD_02",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Który z wymienionych obiektów jest ujęciem wody opisanym w Warszawie?",
+          "prompt": "Który z poniższych obiektów jest ujęciem wody w Warszawie?",
           "options": [
             "Gruba Kaśka",
             "Wydma Łącka",
@@ -2427,7 +2427,7 @@
           "prompt": "Łebsko, największe jezioro Wybrzeża Słowińskiego, powstało wskutek podniesienia się poziomu morza i zalania łąk.",
           "options": null,
           "answer": true,
-          "explanation": "Odróżnia się Łebsko od części jezior przybrzeżnych odciętych przez mierzeje i wskazuje jego powstanie przez zalanie łąk."
+          "explanation": "Jezioro Łebsko powstało w wyniku zalania łąk, w odróżnieniu od części jezior przybrzeżnych odciętych od morza przez mierzeje."
         },
         {
           "id": "R02_HARD_05",
@@ -2448,7 +2448,7 @@
             2
           ],
           "image": "r02_wydmy_ruchome.jpg",
-          "explanation": "Wśród roślin pionierskich wymieniono piaskownicę zwyczajną, wydmuchrzycę piaskową i mikołajka nadmorskiego."
+          "explanation": "Do roślin pionierskich na wydmach należą piaskownica zwyczajna, wydmuchrzyca piaskowa i mikołajek nadmorski."
         },
         {
           "id": "R02_HARD_06",
@@ -2496,7 +2496,7 @@
           "prompt": "Wskaż, co nie pasuje do pozostałych: Ryn, Giżycko, Kętrzyn, Kołobrzeg.",
           "options": null,
           "answer": "Kołobrzeg",
-          "explanation": "Ryn, Giżycko i Kętrzyn są wymienione przy zamkach krzyżackich na Mazurach, a Kołobrzeg to miejscowość nadmorska."
+          "explanation": "Ryn, Giżycko i Kętrzyn są związane z zamkami krzyżackimi na Mazurach, a Kołobrzeg jest miejscowością nadmorską."
         },
         {
           "id": "R02_HARD_09",
@@ -2569,7 +2569,7 @@
               "hałas w wielkich miastach"
             ]
           },
-          "explanation": "Podsumowanie działu podaje przykłady zmian korzystnych, takich jak parki narodowe, oraz niekorzystnych, takich jak zanieczyszczenia i zmniejszanie powierzchni lasów."
+          "explanation": "Do korzystnych zmian należą m.in. działania ochronne, takie jak tworzenie parków narodowych, a do niekorzystnych zanieczyszczenia i zmniejszanie powierzchni lasów."
         },
         {
           "id": "R02_HARD_12",
@@ -2920,7 +2920,7 @@
               "dno"
             ]
           ],
-          "explanation": "Opisuje się wąwóz jako wydłużoną, wklęsłą formę terenu o stromych zboczach i płaskim dnie."
+          "explanation": "Wąwóz to wydłużona, wklęsła forma terenu o stromych zboczach i płaskim dnie."
         },
         {
           "id": "R03_LUB_05",
@@ -3030,7 +3030,7 @@
           "prompt": "Wskaż, co nie pasuje do pozostałych: Lublin, Zamość, Kazimierz Dolny, Katowice, Nałęczów",
           "options": null,
           "answer": "Katowice",
-          "explanation": "Katowice leżą na Wyżynie Śląskiej, a pozostałe miejsca są wskazane jako warte odwiedzenia na Wyżynie Lubelskiej."
+          "explanation": "Katowice leżą na Wyżynie Śląskiej, natomiast Lublin, Zamość, Kazimierz Dolny i Nałęczów znajdują się na Wyżynie Lubelskiej."
         },
         {
           "id": "R03_LUB_10",
@@ -3249,7 +3249,7 @@
           "id": "R03_JUR_11",
           "section": "Wyżyna Krakowsko-Częstochowska",
           "type": "multi_select",
-          "prompt": "Zaznacz miejsca, które wskazuje się jako możliwe do zobaczenia w Ojcowskim Parku Narodowym.",
+          "prompt": "Zaznacz miejsca, które można zobaczyć w Ojcowskim Parku Narodowym.",
           "options": [
             "Brama Krakowska",
             "Dolina Prądnika",
@@ -3604,14 +3604,14 @@
           "items": [
             "zaproponowanie rozwiązań",
             "określenie położenia szkoły",
-            "lekcja terenowa i obserwacje",
+            "obserwacje terenowe",
             "wyznaczenie obszaru oraz trasy obserwacji",
             "zebranie i porównanie ocen grup"
           ],
           "answer": [
             "określenie położenia szkoły",
             "wyznaczenie obszaru oraz trasy obserwacji",
-            "lekcja terenowa i obserwacje",
+            "obserwacje terenowe",
             "zebranie i porównanie ocen grup",
             "zaproponowanie rozwiązań"
           ],
@@ -3874,7 +3874,7 @@
           "prompt": "W Polsce wyżyny są zwykle położone na wysokości 300-500 m n.p.m., a góry powyżej 500 m n.p.m.",
           "options": null,
           "answer": true,
-          "explanation": "Podaje się taki podział wysokościowy wyżyn i gór."
+          "explanation": "Wyżyny leżą zwykle na wysokości 300–500 m n.p.m., a góry powyżej 500 m n.p.m."
         },
         {
           "id": "R03_MIE_09",
@@ -3953,7 +3953,7 @@
           "prompt": "Granica między Tatrami Zachodnimi i Tatrami Wysokimi przebiega przez Przełęcz Liliowe niedaleko Kasprowego Wierchu.",
           "options": null,
           "answer": true,
-          "explanation": "Wskazuje się Przełęcz Liliowe jako granicę między tymi częściami Tatr."
+          "explanation": "Przełęcz Liliowe stanowi granicę między Tatrami Zachodnimi a Tatrami Wysokimi."
         },
         {
           "id": "R03_HARD_04",
@@ -4221,7 +4221,7 @@
           "id": "R04_STR_07",
           "section": "Strefowość i piętrowość klimatyczno-roślinna",
           "type": "multi_select",
-          "prompt": "Zaznacz zdania zgodne z podsumowaniem lekcji o strefowości i piętrowości.",
+          "prompt": "Zaznacz poprawne zdania o strefowości i piętrowości klimatyczno-roślinnej.",
           "options": [
             "Temperatura powietrza zależy od ilości energii słonecznej docierającej do powierzchni Ziemi.",
             "Warunki klimatyczne decydują o tym, jakie rośliny i zwierzęta można spotkać w danej strefie.",
@@ -4236,7 +4236,7 @@
             2,
             3
           ],
-          "explanation": "W podsumowaniu wskazano zależność temperatury od energii słonecznej, równoleżnikowy układ stref oraz podobieństwo pięter w górach do stref klimatycznych."
+          "explanation": "Temperatura zależy od ilości energii słonecznej, strefy mają układ równoleżnikowy, a piętra w górach przypominają układ stref klimatycznych."
         },
         {
           "id": "R04_STR_08",
@@ -4315,7 +4315,7 @@
           "prompt": "Na obszarach o najzimniejszych klimatach na Ziemi nie występują rośliny, a grunt jest stale zamarznięty.",
           "options": null,
           "answer": true,
-          "explanation": "Takie obszary opisuje się jako pustynie lodowe."
+          "explanation": "Obszary o skrajnie niskiej temperaturze, bez roślinności i z trwale zamarzniętym gruntem to pustynie lodowe."
         },
         {
           "id": "R04_STR_12",
@@ -4357,7 +4357,7 @@
             "Amazonia, tundra, tajga"
           ],
           "answer": 0,
-          "explanation": "Wskazuje się Amazonię, Kotlinę Konga i Archipelag Malajski."
+          "explanation": "Główne obszary wilgotnych lasów równikowych to Amazonia, Kotlina Konga i Archipelag Malajski."
         },
         {
           "id": "R04_ROW_02",
@@ -4425,7 +4425,7 @@
           "id": "R04_ROW_06",
           "section": "Wilgotne lasy równikowe",
           "type": "match",
-          "prompt": "Połącz zwierzę z obszarem, dla którego jest typowe w lekcji o lasach równikowych.",
+          "prompt": "Połącz zwierzę z obszarem, dla którego jest charakterystyczne.",
           "options": null,
           "left": [
             "kapucynka",
@@ -4577,7 +4577,7 @@
           "prompt": "W klimacie umiarkowanym występują termiczne pory roku.",
           "options": null,
           "answer": true,
-          "explanation": "Termiczne pory roku są jedną z cech klimatu umiarkowanego omawianych w lekcji."
+          "explanation": "Termiczne pory roku są charakterystyczną cechą klimatu umiarkowanego."
         },
         {
           "id": "R04_LAS_03",
@@ -4603,7 +4603,7 @@
           "id": "R04_LAS_04",
           "section": "Lasy strefy umiarkowanej",
           "type": "multi_select",
-          "prompt": "Zaznacz zwierzęta wymienione jako żyjące w lasach strefy umiarkowanej.",
+          "prompt": "Zaznacz zwierzęta żyjące w lasach strefy umiarkowanej.",
           "options": [
             "jeleń",
             "wilk",
@@ -4624,7 +4624,7 @@
           "id": "R04_LAS_05",
           "section": "Lasy strefy umiarkowanej",
           "type": "match",
-          "prompt": "Połącz termiczną porę roku w Polsce z zakresem temperatury podanym w lekcji.",
+          "prompt": "Połącz termiczną porę roku w Polsce z odpowiednim zakresem temperatury.",
           "options": null,
           "left": [
             "lato",
@@ -4645,7 +4645,7 @@
             "przedwiośnie i przedzimie": "od 0 do 5°C"
           },
           "image": "r04_las_umiarkowany_pory_roku.jpg",
-          "explanation": "Diagram w lekcji opisuje pory roku w Polsce według temperatury powietrza."
+          "explanation": "Termiczne pory roku w Polsce rozróżnia się na podstawie zakresów temperatury powietrza."
         },
         {
           "id": "R04_LAS_06",
@@ -4741,7 +4741,7 @@
               "puszczyk"
             ]
           },
-          "explanation": "Lekcja wymienia zarówno rośliny, jak i liczne zwierzęta charakterystyczne dla lasów umiarkowanych."
+          "explanation": "Lasy strefy umiarkowanej są siedliskiem wielu charakterystycznych roślin i zwierząt."
         },
         {
           "id": "R04_LAS_11",
@@ -4850,7 +4850,7 @@
           "id": "R04_SAW_05",
           "section": "Sawanna i step",
           "type": "multi_select",
-          "prompt": "Zaznacz zwierzęta żyjące na sawannie wymienione w lekcji.",
+          "prompt": "Zaznacz zwierzęta żyjące na sawannie.",
           "options": [
             "antylopa",
             "zebra",
@@ -4901,7 +4901,7 @@
           "prompt": "Wskaż, co nie pasuje do pozostałych: zebra, żyrafa, słoń, drop.",
           "options": null,
           "answer": "drop",
-          "explanation": "Zebra, żyrafa i słoń są typowe dla sawanny, a drop jest wymieniony jako zwierzę stepu."
+          "explanation": "Zebra, żyrafa i słoń są typowe dla sawanny, a drop jest charakterystycznym zwierzęciem stepu."
         },
         {
           "id": "R04_SAW_08",
@@ -5072,7 +5072,7 @@
           "id": "R04_MIE_03",
           "section": "Powtórka mieszana",
           "type": "sequence",
-          "prompt": "Ułóż etapy zmiany krajobrazu od równika ku północnej części Kamerunu opisane w podróży przez Afrykę.",
+          "prompt": "Ułóż etapy zmiany krajobrazu od równika ku północnej części Kamerunu.",
           "options": null,
           "items": [
             "sucha sawanna z pożółkłymi trawami",
@@ -5087,7 +5087,7 @@
             "sucha sawanna z pożółkłymi trawami"
           ],
           "image": "r04_sawanna_pora_sucha_deszczowa.jpg",
-          "explanation": "W podróży z Gabonu do północnego Kamerunu bujny las przechodzi stopniowo w krajobraz sawanny."
+          "explanation": "Na trasie z Gabonu do północnego Kamerunu bujny las przechodzi stopniowo w krajobraz sawanny."
         },
         {
           "id": "R04_MIE_04",
@@ -5124,7 +5124,7 @@
             3,
             4
           ],
-          "explanation": "Opisuje się wpływ energii słonecznej, temperatury, opadów, wysokości nad poziomem morza oraz położenia względem wybrzeży."
+          "explanation": "Na klimat wpływają m.in. energia słoneczna, temperatura, opady, wysokość nad poziomem morza oraz położenie względem wybrzeży."
         },
         {
           "id": "R04_MIE_06",
@@ -5142,7 +5142,7 @@
           "prompt": "Niedostatek wody jest dużym problemem zarówno na stepie, jak i na sawannie.",
           "options": null,
           "answer": true,
-          "explanation": "Podsumowanie lekcji o sawannie i stepie wskazuje niedostatek wody jako wspólne wyzwanie."
+          "explanation": "Niedostatek wody jest wspólnym wyzwaniem dla sawanny i stepu."
         },
         {
           "id": "R04_MIE_08",
@@ -5189,7 +5189,7 @@
           "id": "R04_MIE_10",
           "section": "Powtórka mieszana",
           "type": "match",
-          "prompt": "Połącz zwierzę z krajobrazem, w którym zostało omówione.",
+          "prompt": "Połącz zwierzę z krajobrazem, dla którego jest charakterystyczne.",
           "options": null,
           "left": [
             "goryl",
@@ -5209,7 +5209,7 @@
             "lew": "sawanna",
             "nieświszczuk": "step"
           },
-          "explanation": "Zwierzęta pomagają odróżnić omawiane krajobrazy: las równikowy, las umiarkowany, sawannę i step."
+          "explanation": "Charakterystyczne zwierzęta pomagają odróżnić las równikowy, las umiarkowany, sawannę i step."
         },
         {
           "id": "R04_MIE_11",
@@ -5229,7 +5229,7 @@
           "id": "R04_MIE_12",
           "section": "Powtórka mieszana",
           "type": "sort",
-          "prompt": "Przyporządkuj działania człowieka do krajobrazu, w którym zostały opisane.",
+          "prompt": "Przyporządkuj działania człowieka do krajobrazu, dla którego są charakterystyczne.",
           "options": null,
           "items": [
             "budowanie domów z drewna, gliny i liści",
@@ -5264,7 +5264,7 @@
           "id": "R04_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Które dwa miejsca wymienia się jako należące do najbardziej suchych na Ziemi?",
+          "prompt": "Które dwa miejsca należą do najbardziej suchych na Ziemi?",
           "options": [
             "Pustynia Atacama i Antarktyda",
             "Amazonia i Kotlina Konga",
@@ -5274,7 +5274,7 @@
             "Ukraina i Mongolia"
           ],
           "answer": 0,
-          "explanation": "W ciekawostce wskazano pustynię Atacama w Ameryce Południowej oraz Antarktydę."
+          "explanation": "Do najbardziej suchych miejsc na Ziemi należą pustynia Atacama w Ameryce Południowej oraz Antarktyda."
         },
         {
           "id": "R04_HARD_02",
@@ -5283,7 +5283,7 @@
           "prompt": "W centralnych częściach Antarktydy opady są bardzo skąpe i występują niemal wyłącznie w postaci śniegu.",
           "options": null,
           "answer": true,
-          "explanation": "Tak opisano centralne części Antarktydy w ciekawostce o najbardziej suchych miejscach na Ziemi."
+          "explanation": "W centralnych częściach Antarktydy opady są bardzo skąpe i występują niemal wyłącznie jako śnieg."
         },
         {
           "id": "R04_HARD_03",
@@ -5316,7 +5316,7 @@
           "id": "R04_HARD_04",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz rośliny wymienione w tabeli jako typowe dla mieszanego lasu strefy umiarkowanej.",
+          "prompt": "Zaznacz rośliny typowe dla mieszanego lasu strefy umiarkowanej.",
           "options": [
             "dąb",
             "buk",
@@ -5331,7 +5331,7 @@
             2,
             3
           ],
-          "explanation": "W porównaniu lasów wymieniono m.in. dąb, buk, lipę, grab, klon, sosnę, świerk, modrzew i paprocie."
+          "explanation": "W mieszanym lesie strefy umiarkowanej występują m.in. dąb, buk, lipa, grab, klon, sosna, świerk, modrzew i paprocie."
         },
         {
           "id": "R04_HARD_05",
@@ -5357,7 +5357,7 @@
             "teren bardziej wzniesiony": "większe opady",
             "klimat równikowy": "brak pór roku innych niż lato"
           },
-          "explanation": "Lekcja o klimacie umiarkowanym porównuje wybrzeża, wnętrza lądów i obszary wzniesione."
+          "explanation": "Wybrzeża, wnętrza lądów i obszary wzniesione różnią się przebiegiem temperatury i wielkością opadów."
         },
         {
           "id": "R04_HARD_06",
@@ -5428,7 +5428,7 @@
           "prompt": "Gleby wilgotnego lasu równikowego są szczególnie bogate w składniki pokarmowe, ponieważ obfite deszcze ich nie wypłukują.",
           "options": null,
           "answer": false,
-          "explanation": "W tabeli porównawczej wskazano odwrotnie: obfite deszcze wypłukują z gleby cenne składniki."
+          "explanation": "Obfite deszcze wypłukują z gleby wilgotnego lasu równikowego cenne składniki pokarmowe."
         },
         {
           "id": "R04_HARD_11",
@@ -5470,7 +5470,7 @@
               "nomadzi"
             ]
           },
-          "explanation": "To zadanie łączy pojęcia ze słowniczka z porównaniami."
+          "explanation": "Każde pojęcie jest charakterystyczne dla jednego z porównywanych krajobrazów."
         },
         {
           "id": "R04_HARD_12",
@@ -5499,7 +5499,7 @@
             "Serengeti": "wschodnia Afryka",
             "Ułan Bator": "Mongolia"
           },
-          "explanation": "Podaje się przykłady miejsc występowania lasów równikowych, sawann i stepów."
+          "explanation": "Wilgotne lasy równikowe, sawanny i stepy występują w różnych częściach świata, zależnie od warunków klimatycznych."
         }
       ],
       "kidPrompts": {},
@@ -5581,7 +5581,7 @@
           "prompt": "Zwrotnik Raka przecina Saharę, największą pustynię gorącą świata.",
           "options": null,
           "answer": true,
-          "explanation": "Wskazuje się Saharę jako największą pustynię gorącą i podaje, że przecina ją zwrotnik Raka."
+          "explanation": "Sahara jest największą pustynią gorącą świata i przecina ją zwrotnik Raka."
         },
         {
           "id": "R05_PUS_03",
@@ -6008,7 +6008,7 @@
           "prompt": "W klimacie śródziemnomorskim nie występuje termiczna zima, ponieważ w chłodnej porze roku średnia miesięczna temperatura powietrza jest wyższa niż 0°C.",
           "options": null,
           "answer": true,
-          "explanation": "Opisuje się łagodną, deszczową zimę i brak termicznej zimy w tym klimacie."
+          "explanation": "Klimat śródziemnomorski ma łagodną, deszczową zimę i nie występuje w nim termiczna zima."
         },
         {
           "id": "R05_SRO_03",
@@ -6242,7 +6242,7 @@
               "50 milionów"
             ]
           ],
-          "explanation": "Podaje się wysokość Mount Everestu 8849 m n.p.m. oraz informację, że Himalaje zaczęły powstawać około 50 milionów lat temu."
+          "explanation": "Mount Everest ma wysokość 8849 m n.p.m., a Himalaje zaczęły powstawać około 50 milionów lat temu."
         },
         {
           "id": "R05_HIM_03",
@@ -6251,13 +6251,13 @@
           "prompt": "Himalaje są jednymi z najmłodszych gór świata, a proces ich wypiętrzania nadal trwa.",
           "options": null,
           "answer": true,
-          "explanation": "Opisuje się Himalaje jako młode góry, które nadal rosną."
+          "explanation": "Himalaje są młodymi górami, a proces ich wypiętrzania nadal trwa."
         },
         {
           "id": "R05_HIM_04",
           "section": "Himalaje i ich mieszkańcy",
           "type": "multi_select",
-          "prompt": "Zaznacz informacje zgodne z opisem położenia i cech Himalajów.",
+          "prompt": "Zaznacz poprawne informacje o położeniu i cechach Himalajów.",
           "options": [
             "leżą w Azji",
             "mają około 2500 km długości",
@@ -6460,7 +6460,7 @@
             "wieloletnia zmarzlina": "warstwa gruntu stale utrzymująca ujemną temperaturę",
             "lodowiec górski": "przemieszczająca się masa lodu w górach"
           },
-          "explanation": "Pojęcia te pochodzą ze słowniczka i podsumowania działu V."
+          "explanation": "Oaza, makia, wieloletnia zmarzlina i lodowiec górski mają odrębne definicje związane z różnymi krajobrazami."
         },
         {
           "id": "R05_POW_02",
@@ -6502,7 +6502,7 @@
               "Szerpowie"
             ]
           },
-          "explanation": "Każdy zestaw łączy roślinę, zwierzę lub grupę ludzi z krajobrazem opisanym w dziale."
+          "explanation": "Każdy zestaw łączy roślinę, zwierzę lub grupę ludzi z właściwym krajobrazem."
         },
         {
           "id": "R05_POW_03",
@@ -6636,7 +6636,7 @@
           "id": "R05_POW_11",
           "section": "Powtórka mieszana",
           "type": "multi_select",
-          "prompt": "Zaznacz zwierzęta, których chów lub hodowla są opisane jako ważne dla mieszkańców omawianych krajobrazów.",
+          "prompt": "Zaznacz zwierzęta, których chów lub hodowla są ważne dla mieszkańców tych krajobrazów.",
           "options": [
             "renifery",
             "jaki",
@@ -6651,7 +6651,7 @@
             2,
             3
           ],
-          "explanation": "Wspomina się chów reniferów, hodowlę jaków oraz owiec i kóz w Himalajach, a także stada koczowników na pustyniach."
+          "explanation": "Ważne znaczenie mają chów reniferów, hodowla jaków oraz owiec i kóz w Himalajach, a także stada wielbłądów u koczowników pustynnych."
         },
         {
           "id": "R05_POW_12",
@@ -6719,13 +6719,13 @@
               "Azji środkowej"
             ]
           ],
-          "explanation": "Podaje się długość łańcucha himalajskiego oraz jego rolę jako bariery między Azją Południową a Środkową."
+          "explanation": "Himalaje mają około 2500 km długości i tworzą barierę między Azją Południową a Azją Środkową."
         },
         {
           "id": "R05_HARD_04",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz poprawne pary obszar - położenie opisane w dziale.",
+          "prompt": "Zaznacz poprawne pary: obszar – położenie.",
           "options": [
             "Sahara - przecina ją zwrotnik Raka",
             "Wielka Pustynia Piaszczysta - przecina ją zwrotnik Koziorożca",
@@ -6740,7 +6740,7 @@
             2,
             3
           ],
-          "explanation": "Dział porównuje położenie pustyń gorących przy zwrotnikach i pustyń lodowych w obszarach okołobiegunowych."
+          "explanation": "Pustynie gorące leżą zwykle w pobliżu zwrotników, a pustynie lodowe w obszarach okołobiegunowych."
         },
         {
           "id": "R05_HARD_05",
@@ -6831,7 +6831,7 @@
           "id": "R05_HARD_10",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj warunek klimatyczny do właściwego krajobrazu.",
+          "prompt": "Przyporządkuj warunek klimatyczny do właściwego krajobrazu lub grupy krajobrazów.",
           "options": null,
           "items": [
             "gorące i suche lato, łagodna deszczowa zima",
@@ -6842,29 +6842,26 @@
           ],
           "categories": [
             "klimat śródziemnomorski",
-            "pustynia lodowa",
+            "pustynie",
             "tajga",
-            "Himalaje",
-            "pustynia gorąca"
+            "Himalaje"
           ],
           "answer": {
             "klimat śródziemnomorski": [
               "gorące i suche lato, łagodna deszczowa zima"
             ],
-            "pustynia lodowa": [
-              "bardzo niska temperatura przez cały rok"
+            "pustynie": [
+              "bardzo niska temperatura przez cały rok",
+              "brak wody i bardzo wysoka temperatura"
             ],
             "tajga": [
               "mroźna zima i krótkie niezbyt ciepłe lato"
             ],
             "Himalaje": [
               "rozrzedzone powietrze i spadek temperatury z wysokością"
-            ],
-            "pustynia gorąca": [
-              "brak wody i bardzo wysoka temperatura"
             ]
           },
-          "explanation": "Każdy krajobraz ma własny zestaw barier klimatycznych, od suszy po mróz i warunki wysokogórskie."
+          "explanation": "Pustynie mogą być gorące lub lodowe, a klimat śródziemnomorski, tajga i Himalaje mają odmienne warunki klimatyczne."
         },
         {
           "id": "R05_HARD_11",
@@ -6891,7 +6888,7 @@
           "id": "R05_HARD_12",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz miejsce lub region z opisanym w dziale sposobem dostosowania ludzi do warunków środowiska.",
+          "prompt": "Połącz miejsce lub region ze sposobem dostosowania ludzi do warunków środowiska.",
           "options": null,
           "left": [
             "Dubaj",

@@ -1,8 +1,8 @@
 {
   "id": "to-nasz-swiat-geografia-5",
   "title": "To nasz świat. Geografia 5",
-  "version": 3,
-  "contentHash": "d055f7243d89597fe7326c87b5c41739e1eb32c60341e95b47b416b8fe2b5238",
+  "version": 4,
+  "contentHash": "4fc859bde1eb81eca4f527458378a359815ea5c0dd984a0fa036c72ba6037e77",
   "bookConfig": {
     "id": "to-nasz-swiat-geografia-5",
     "title": "To nasz świat. Geografia 5",
@@ -400,7 +400,7 @@
             3,
             4
           ],
-          "explanation": "Wymieniono równik, zwrotniki Raka i Koziorożca oraz oba koła podbiegunowe."
+          "explanation": "Równik, zwrotniki Raka i Koziorożca oraz oba koła podbiegunowe są równoleżnikami."
         },
         {
           "id": "R01_KON_01",
@@ -417,7 +417,7 @@
           ],
           "answer": 0,
           "image": "r01_mapa_kontynentow.jpg",
-          "explanation": "Wymienia się siedem kontynentów: Azję, Afrykę, Amerykę Północną, Amerykę Południową, Antarktydę, Europę i Australię."
+          "explanation": "Na Ziemi wyróżnia się siedem kontynentów: Azję, Afrykę, Amerykę Północną, Amerykę Południową, Antarktydę, Europę i Australię."
         },
         {
           "id": "R01_KON_02",
@@ -552,7 +552,7 @@
           ],
           "answer": 0,
           "image": "r01_antarktyda_biegun.jpg",
-          "explanation": "Antarktyda leży na południu Ziemi, a na mapie działu znajduje się przy biegunie południowym i Oceanie Południowym."
+          "explanation": "Antarktyda leży wokół bieguna południowego i jest otoczona wodami Oceanu Południowego."
         },
         {
           "id": "R01_KON_09",
@@ -567,7 +567,7 @@
           "id": "R01_KON_10",
           "section": "Kontynenty i oceany",
           "type": "multi_select",
-          "prompt": "Zaznacz kontynenty, które według mapy działu leżą w całości na półkuli południowej.",
+          "prompt": "Zaznacz kontynenty leżące w całości na półkuli południowej.",
           "options": [
             "Australia",
             "Antarktyda",
@@ -580,7 +580,7 @@
             0,
             1
           ],
-          "explanation": "Na mapie kontynentami leżącymi w całości na półkuli południowej są Australia i Antarktyda."
+          "explanation": "Australia i Antarktyda leżą w całości na półkuli południowej."
         },
         {
           "id": "R01_ODK_01",
@@ -628,7 +628,7 @@
               "bogactw"
             ]
           ],
-          "explanation": "Wymienia się głód wiedzy oraz chęć zdobycia bogactwa i nowych ziem jako motywy wypraw."
+          "explanation": "Do motywów wypraw należały głód wiedzy oraz chęć zdobycia bogactwa i nowych ziem."
         },
         {
           "id": "R01_ODK_04",
@@ -641,7 +641,7 @@
             "drakkary",
             "drakkar"
           ],
-          "explanation": "Podpisano łodzie wikingów jako drakkary."
+          "explanation": "Łodzie wikingów nazywały się drakkarami."
         },
         {
           "id": "R01_ODK_05",
@@ -698,7 +698,7 @@
           "id": "R01_ODK_08",
           "section": "Odkrycia geograficzne",
           "type": "multi_select",
-          "prompt": "Zaznacz dzisiejsze państwa, które podano jako obszar Skandynawii.",
+          "prompt": "Zaznacz państwa zaliczane do Skandynawii.",
           "options": [
             "Norwegia",
             "Szwecja",
@@ -712,7 +712,7 @@
             1,
             2
           ],
-          "explanation": "Skandynawię wyjaśniono jako tereny dzisiejszej Norwegii, Szwecji i Danii."
+          "explanation": "Do Skandynawii zalicza się Norwegię, Szwecję i Danię."
         },
         {
           "id": "R01_ODK_09",
@@ -878,7 +878,7 @@
           "id": "R01_WYP_08",
           "section": "Wielkie wyprawy i odkrywcy",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do trzech słynnych wypraw geograficznych XV i XVI wieku opisanych w lekcji: Krzysztof Kolumb, Vasco da Gama, Ferdynand Magellan, Roald Amundsen.",
+          "prompt": "Co nie pasuje do trzech słynnych wypraw geograficznych XV i XVI wieku: Krzysztof Kolumb, Vasco da Gama, Ferdynand Magellan, Roald Amundsen.",
           "options": null,
           "answer": "Roald Amundsen",
           "explanation": "Kolumb, da Gama i Magellan są związani z wielkimi wyprawami XV i XVI wieku. Roald Amundsen dotyczy późniejszego zdobycia bieguna południowego."
@@ -999,7 +999,7 @@
             "1605": "dopłynięcie Janszoona do Australii",
             "1820": "pierwsze zaobserwowanie Antarktydy"
           },
-          "explanation": "Podaje się te daty przy kolejnych wyprawach i odkryciach: Kolumb 1492, da Gama 1497, Magellan 1519, Janszoon 1605, Antarktyda 1820."
+          "explanation": "Krzysztof Kolumb wyruszył w 1492 roku, Vasco da Gama w 1497, Ferdynand Magellan w 1519, Willem Janszoon w 1605, a Antarktydę odkryto w 1820 roku."
         },
         {
           "id": "R01_HARD_04",
@@ -1038,7 +1038,7 @@
           ],
           "answer": 0,
           "image": "r01_australia_i_strzelecki.jpg",
-          "explanation": "Wymienia się Pawła Edmunda Strzeleckiego jako polskiego badacza Australii, który nazwał jej najwyższy szczyt Górą Kościuszki."
+          "explanation": "Paweł Edmund Strzelecki był polskim badaczem Australii i nazwał jej najwyższy szczyt Górą Kościuszki."
         },
         {
           "id": "R01_HARD_06",
@@ -1073,7 +1073,7 @@
           "id": "R01_HARD_08",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj kontynenty według położenia względem równika na mapie działu.",
+          "prompt": "Przyporządkuj kontynenty według ich położenia względem równika.",
           "options": null,
           "items": [
             "Afryka",
@@ -1095,7 +1095,7 @@
               "Antarktyda"
             ]
           },
-          "explanation": "Na mapie równik przecina Afrykę i Amerykę Południową. Australia oraz Antarktyda leżą w całości na półkuli południowej."
+          "explanation": "Równik przecina Afrykę i Amerykę Południową. Australia oraz Antarktyda leżą w całości na półkuli południowej."
         },
         {
           "id": "R01_HARD_09",
@@ -1308,7 +1308,7 @@
           "prompt": "Wskaż, co nie pasuje do elementów mapy: legenda, skala, tytuł, numer strony.",
           "options": null,
           "answer": "numer strony",
-          "explanation": "Legenda, skala i tytuł to elementy mapy. Numer strony należy do atlasu lub książki, w której mapę wydrukowano."
+          "explanation": "Legenda, skala i tytuł to elementy mapy. Numer strony nie jest elementem mapy."
         },
         {
           "id": "R02_MAP_07",
@@ -1890,7 +1890,7 @@
           "prompt": "Góry to także tereny o wysokościach względnych większych niż 300 m.",
           "options": null,
           "answer": true,
-          "explanation": "Oprócz wysokości bezwzględnych powyżej 500 m n.p.m. góry opisano jako tereny o wysokościach względnych większych niż 300 m."
+          "explanation": "Góry mogą mieć wysokości bezwzględne powyżej 500 m n.p.m. lub wysokości względne większe niż 300 m."
         },
         {
           "id": "R02_KRA_05",
@@ -1903,7 +1903,7 @@
             "roślinność i zwierzęta",
             "wytwory człowieka",
             "pogoda",
-            "numer strony podręcznika"
+            "numer autobusu"
           ],
           "answer": [
             0,
@@ -2165,7 +2165,7 @@
             "Biebrzanski Park Narodowy",
             "Biebrzanski"
           ],
-          "explanation": "Wskazano rozlewiska Biebrzy w Biebrzańskim Parku Narodowym i opisano go jako największy park narodowy w Polsce."
+          "explanation": "Biebrzański Park Narodowy, obejmujący między innymi rozlewiska Biebrzy, jest największym parkiem narodowym w Polsce."
         },
         {
           "id": "R02_OCH_07",
@@ -2373,7 +2373,7 @@
             "powyżej 500 m n.p.m.": "góry według wysokości bezwzględnej",
             "powyżej 300 m wysokości względnej": "góry według wysokości względnej"
           },
-          "explanation": "Podaje się progi wysokości dla nizin, wyżyn i gór oraz przypomina, że góry można rozpoznawać także po wysokości względnej powyżej 300 m."
+          "explanation": "Niziny, wyżyny i góry rozróżnia się między innymi według wysokości bezwzględnej; góry można rozpoznawać także po wysokości względnej powyżej 300 m."
         },
         {
           "id": "R02_HARD_07",
@@ -2391,7 +2391,7 @@
           "prompt": "Na mapach głębokość zbiorników wodnych oznacza się tak, że im jaśniejszy odcień niebieskiego, tym większa głębokość.",
           "options": null,
           "answer": false,
-          "explanation": "Podano odwrotną zasadę: im ciemniejszy odcień niebieskiego, tym większa głębokość zbiornika wodnego."
+          "explanation": "Obowiązuje odwrotna zasada: im ciemniejszy odcień niebieskiego, tym większa głębokość zbiornika wodnego."
         },
         {
           "id": "R02_HARD_09",
@@ -2664,13 +2664,13 @@
             "klif": "wysoki stromy brzeg",
             "mierzeja": "wąski pas lądu odcinający zatokę"
           },
-          "explanation": "Plaże, wydmy, klify i mierzeje są opisane jako formy związane z działaniem morza i wiatru na pobrzeżach."
+          "explanation": "Plaże, wydmy, klify i mierzeje to formy związane z działaniem morza i wiatru na pobrzeżach."
         },
         {
           "id": "R03_NAD_09",
           "section": "Krajobraz nadmorski",
           "type": "sort",
-          "prompt": "Przyporządkuj elementy do czynnika, z którym są w tekście najmocniej związane.",
+          "prompt": "Przyporządkuj elementy do czynnika, z którym są najmocniej związane.",
           "options": null,
           "items": [
             "plaża",
@@ -2755,7 +2755,7 @@
           "prompt": "Pojezierza to tereny o największej liczbie jezior w Polsce.",
           "options": null,
           "answer": true,
-          "explanation": "Pojezierza opisano jako obszary o największej liczbie jezior w Polsce."
+          "explanation": "Pojezierza to obszary o największej liczbie jezior w Polsce."
         },
         {
           "id": "R03_POJ_03",
@@ -2855,7 +2855,7 @@
             "Olsztyn": "największe miasto regionu",
             "Puszcza Piska": "gęsty i rozległy las"
           },
-          "explanation": "Tekst nazywa Pojezierze Mazurskie Krainą Tysiąca Jezior, wskazuje Śniardwy jako największe jezioro, Olsztyn jako największe miasto i Puszczę Piską jako rozległy las."
+          "explanation": "Pojezierze Mazurskie nazywa się Krainą Tysiąca Jezior; Śniardwy są największym jeziorem w Polsce, Olsztyn największym miastem regionu, a Puszcza Piska jest rozległym lasem."
         },
         {
           "id": "R03_POJ_08",
@@ -2924,7 +2924,7 @@
           "options": null,
           "answer": "foka",
           "image": "r03_puszcza_piska.jpg",
-          "explanation": "Foki wymieniono przy krajobrazie nadmorskim, natomiast kormorany, łosie i bobry należą do charakterystycznych zwierząt Pojezierza Mazurskiego."
+          "explanation": "Foka jest charakterystyczna dla krajobrazu nadmorskiego, natomiast kormorany, łosie i bobry występują na Pojezierzu Mazurskim."
         },
         {
           "id": "R03_NIZ_01",
@@ -3064,7 +3064,7 @@
           "id": "R03_NIZ_09",
           "section": "Krajobraz nizinny",
           "type": "scenario",
-          "prompt": "W regionie jest dużo gospodarstw rolnych, warzyw, owoców i mleka. Powstają zakłady, które wytwarzają sery, jogurty, dżemy i soki. Jaki rodzaj działalności opisano?",
+          "prompt": "W regionie jest dużo gospodarstw rolnych, warzyw, owoców i mleka. Powstają zakłady, które wytwarzają sery, jogurty, dżemy i soki. Jaki to rodzaj działalności?",
           "options": [
             "przetwórstwo spożywcze",
             "wspinaczkę skalną",
@@ -3169,7 +3169,7 @@
             2,
             3
           ],
-          "explanation": "Wymienia się Wyżynę Krakowsko-Częstochowską, Śląską, Lubelską i Kielecką."
+          "explanation": "Do polskich wyżyn należą między innymi Wyżyna Krakowsko-Częstochowska, Wyżyna Śląska, Wyżyna Lubelska i Wyżyna Kielecka."
         },
         {
           "id": "R03_WYZ_03",
@@ -3596,7 +3596,7 @@
             "Kampinoski Park Narodowy": "jego symbolem jest łoś",
             "Tatrzański Park Narodowy": "powstał ze względu na unikatową przyrodę Tatr"
           },
-          "explanation": "Opisano kilka form ochrony przyrody powiązanych z różnymi pasami krajobrazowymi."
+          "explanation": "Te formy ochrony przyrody są powiązane z różnymi pasami krajobrazowymi Polski."
         },
         {
           "id": "R03_HARD_03",
@@ -3739,7 +3739,7 @@
           "id": "R03_HARD_11",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż pasy krajobrazowe zgodnie z trasą podręcznikowej wędrówki przez Polskę z północy na południe.",
+          "prompt": "Ułóż pasy krajobrazowe Polski od północy do południa.",
           "options": null,
           "items": [
             "pas nizin",
@@ -3882,7 +3882,7 @@
           "section": "Krajobraz wielkomiejski",
           "type": "true_false",
           "prompt": "Wielkie miasto jest przykładem krajobrazu antropogenicznego.",
-          "explanation": "Wielkie miasto opisano jako teren o krajobrazie antropogenicznym, czyli silnie przekształconym przez człowieka.",
+          "explanation": "Wielkie miasto jest krajobrazem antropogenicznym, czyli silnie przekształconym przez człowieka.",
           "options": null,
           "answer": true
         },
@@ -3913,7 +3913,7 @@
           "section": "Krajobraz wielkomiejski",
           "type": "multi_select",
           "prompt": "Zaznacz typy dzielnic.",
-          "explanation": "Podano dzielnice mieszkaniowe, przemysłowe i handlowe jako przykłady części dużego miasta.",
+          "explanation": "Dzielnice mieszkaniowe, przemysłowe i handlowe są przykładami części dużego miasta.",
           "options": [
             "mieszkaniowe",
             "przemysłowe",
@@ -3960,7 +3960,7 @@
           "section": "Krajobraz wielkomiejski",
           "type": "match",
           "prompt": "Połącz pojęcie z wyjaśnieniem.",
-          "explanation": "Stolica państwa, dzielnica i osiedle to pojęcia wyjaśnione przy opisie wielkiego miasta.",
+          "explanation": "Stolica państwa to miasto z siedzibą władz państwowych, dzielnica jest częścią dużego miasta, a osiedle to obszar o ujednoliconej zabudowie mieszkaniowej.",
           "options": null,
           "left": [
             "stolica państwa",
@@ -4076,7 +4076,7 @@
           "section": "Warszawa",
           "type": "single_choice",
           "prompt": "Które miasto jest największym miastem Polski i jej stolicą?",
-          "explanation": "Wskazuje się Warszawę jako największe miasto Polski i zarazem stolicę państwa.",
+          "explanation": "Warszawa jest największym miastem Polski i stolicą państwa.",
           "options": [
             "Warszawa",
             "Kraków",
@@ -4106,7 +4106,7 @@
           "section": "Warszawa",
           "type": "multi_select",
           "prompt": "Zaznacz duże miasta Polski poza Warszawą.",
-          "explanation": "Jako inne duże miasta wymienia się Kraków, Wrocław, Łódź, Poznań i Gdańsk.",
+          "explanation": "Do dużych miast Polski poza Warszawą należą Kraków, Wrocław, Łódź, Poznań i Gdańsk.",
           "options": [
             "Kraków",
             "Wrocław",
@@ -4229,7 +4229,7 @@
           "section": "Warszawa",
           "type": "match",
           "prompt": "Połącz atrakcję Warszawy z opisem.",
-          "explanation": "Wymienia się najważniejsze atrakcje turystyczne Warszawy i krótko opisuje, co można z nimi kojarzyć.",
+          "explanation": "Stare Miasto, Pałac Kultury i Nauki, pałac w Wilanowie oraz Stadion Narodowy należą do ważnych atrakcji Warszawy.",
           "options": null,
           "left": [
             "Stare Miasto",
@@ -4270,8 +4270,8 @@
           "id": "R04_SLA_01",
           "section": "Wyżyna Śląska",
           "type": "single_choice",
-          "prompt": "Który region opisano jako jeden z najbardziej przekształconych przez człowieka w Polsce?",
-          "explanation": "Wskazuje się Wyżynę Śląską jako region silnie przekształcony przez człowieka.",
+          "prompt": "Który region należy do najbardziej przekształconych przez człowieka w Polsce?",
+          "explanation": "Wyżyna Śląska jest regionem silnie przekształconym przez człowieka.",
           "options": [
             "Wyżyna Śląska",
             "Wyżyna Lubelska",
@@ -4415,7 +4415,7 @@
           "section": "Wyżyna Śląska",
           "type": "true_false",
           "prompt": "Węgiel kamienny jest wykorzystywany wyłącznie do ogrzewania domów.",
-          "explanation": "To fałsz, ponieważ wymienia się także energię elektryczną, tworzywa sztuczne, barwniki, leki i kosmetyki.",
+          "explanation": "To fałsz. Węgiel kamienny wykorzystuje się także do wytwarzania energii elektrycznej oraz produkcji tworzyw sztucznych, barwników, leków i kosmetyków.",
           "options": null,
           "answer": false
         },
@@ -4557,7 +4557,7 @@
           "id": "R04_KON_06",
           "section": "Konurbacja i Śląsk",
           "type": "multi_select",
-          "prompt": "Zaznacz źródła szkodliwych substancji wymienione w części o zanieczyszczeniu środowiska.",
+          "prompt": "Zaznacz źródła szkodliwych substancji zanieczyszczających środowisko.",
           "explanation": "Szkodliwe substancje emitują między innymi zakłady przemysłowe, przestarzałe systemy ogrzewania budynków oraz transport.",
           "options": [
             "zakłady przemysłowe",
@@ -4592,7 +4592,7 @@
           "section": "Konurbacja i Śląsk",
           "type": "sort",
           "prompt": "Przyporządkuj przykłady do właściwych grup.",
-          "explanation": "Pokazuje się zarówno problemy środowiskowe, zmiany dawnych obiektów przemysłowych, jak i elementy kultury śląskiej.",
+          "explanation": "Przykłady obejmują problemy środowiskowe, nowe funkcje dawnych obiektów przemysłowych oraz elementy kultury śląskiej.",
           "options": null,
           "items": [
             "smog",
@@ -4675,7 +4675,7 @@
           "section": "Wyżyna Lubelska",
           "type": "true_false",
           "prompt": "Teren Wyżyny Lubelskiej jest lekko pagórkowaty, a wysokości bezwzględne nieznacznie przekraczają 300 m n.p.m.",
-          "explanation": "Tak opisano ukształtowanie terenu Wyżyny Lubelskiej.",
+          "explanation": "Wyżyna Lubelska ma lekko pagórkowate ukształtowanie terenu, a wysokości bezwzględne nieznacznie przekraczają 300 m n.p.m.",
           "options": null,
           "answer": true
         },
@@ -4684,7 +4684,7 @@
           "section": "Wyżyna Lubelska",
           "type": "fill_in",
           "prompt": "Jedną z najważniejszych rzek przepływających przez Wyżynę Lubelską jest __________.",
-          "explanation": "Wskazano Wieprz jako jedną z najważniejszych rzek regionu.",
+          "explanation": "Wieprz jest jedną z najważniejszych rzek regionu.",
           "options": null,
           "answer": [
             "Wieprz"
@@ -4919,7 +4919,7 @@
           "section": "Super trudne",
           "type": "match",
           "prompt": "Połącz trudniejsze pojęcia z wyjaśnieniami.",
-          "explanation": "Pojęcia te pojawiają się w częściach o Wyżynie Śląskiej i jej kulturze.",
+          "explanation": "Pojęcia obejmują zjawiska środowiskowe oraz elementy związane z Wyżyną Śląską i jej kulturą.",
           "options": null,
           "left": [
             "globalne ocieplenie",
@@ -4948,7 +4948,7 @@
           "section": "Super trudne",
           "type": "single_choice",
           "prompt": "Który obiekt nazywa się najwyższym budynkiem w Polsce i całej Unii Europejskiej?",
-          "explanation": "Tak opisano Varso Tower w śródmieściu Warszawy.",
+          "explanation": "Varso Tower w śródmieściu Warszawy jest najwyższym budynkiem w Polsce i Unii Europejskiej.",
           "options": [
             "Varso Tower",
             "Pałac Prezydencki",
@@ -4964,8 +4964,8 @@
           "id": "R04_HARD_07",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz atrakcje turystyczne Warszawy wymienione razem w części o atrakcjach stolicy.",
-          "explanation": "Wymienia się Stare Miasto, Pałac Kultury i Nauki, pałac w Wilanowie oraz Stadion Narodowy.",
+          "prompt": "Zaznacz atrakcje turystyczne Warszawy.",
+          "explanation": "Do atrakcji turystycznych Warszawy należą Stare Miasto, Pałac Kultury i Nauki, pałac w Wilanowie oraz Stadion Narodowy.",
           "options": [
             "Stare Miasto",
             "Pałac Kultury i Nauki",
@@ -5019,7 +5019,7 @@
           "section": "Super trudne",
           "type": "true_false",
           "prompt": "Lista światowego dziedzictwa UNESCO obejmuje obiekty dziedzictwa kulturowego i naturalnego o wyjątkowej wartości dla ludzkości.",
-          "explanation": "Tak wyjaśniono listę UNESCO w części o Zamościu.",
+          "explanation": "Lista światowego dziedzictwa UNESCO obejmuje obiekty dziedzictwa kulturowego i naturalnego o wyjątkowej wartości dla ludzkości.",
           "options": null,
           "answer": true
         },
@@ -5078,7 +5078,7 @@
           "section": "Super trudne",
           "type": "riddle",
           "prompt": "Dawna kopalnia w Zabrzu, w której część trasy turyści pokonują łodziami, to...",
-          "explanation": "Podaje się przykład dawnej kopalni Królowa Luiza w Zabrzu.",
+          "explanation": "Królowa Luiza w Zabrzu to dawna kopalnia udostępniona turystom; część trasy pokonuje się tam łodziami.",
           "options": null,
           "answer": "Królowa Luiza",
           "altAnswers": [
@@ -5321,7 +5321,7 @@
             "step"
           ],
           "image": "r05_klimatogram.jpg",
-          "explanation": "W materiałach działu podróż przez krajobrazy prowadzi od wilgotnych lasów równikowych przez sawanny i pustynie gorące ku krajobrazom podzwrotnikowym oraz stepom."
+          "explanation": "W układzie strefowym od równika ku wyższym szerokościom geograficznym występują kolejno wilgotne lasy równikowe, sawanny, pustynie gorące, krajobrazy podzwrotnikowe i stepy."
         },
         {
           "id": "R05_LAS_01",
@@ -5428,7 +5428,7 @@
             "orangutan": "południowo-wschodnia Azja",
             "tygrys": "Azja"
           },
-          "explanation": "Wskazuje się przykładowe zwierzęta lasów równikowych z różnych części świata."
+          "explanation": "Zwierzęta wilgotnych lasów równikowych żyją w różnych częściach świata, między innymi w Ameryce Południowej, Afryce i Azji."
         },
         {
           "id": "R05_LAS_07",
@@ -5488,7 +5488,7 @@
               "łowiectwo"
             ]
           },
-          "explanation": "Osobno opisano roślinność, zwierzęta i zajęcia mieszkańców wilgotnych lasów równikowych."
+          "explanation": "Liany i wanilia należą do roślinności i upraw, tapiry i tukany do zwierząt, a rybołówstwo i łowiectwo do zajęć mieszkańców."
         },
         {
           "id": "R05_LAS_10",
@@ -5502,7 +5502,7 @@
             "wycinka lasów",
             "wycinanie lasów"
           ],
-          "explanation": "Taki proces nazwano wylesianiem i opisano jego negatywne skutki przyrodnicze."
+          "explanation": "Wylesianie to wycinanie lasów w celu uzyskania miejsca pod uprawy, zabudowę lub pozyskanie drewna; ma ono negatywne skutki przyrodnicze."
         },
         {
           "id": "R05_SAW_01",
@@ -5583,7 +5583,7 @@
           ],
           "answer": 0,
           "image": "r05_sawanna_baobab_akacja.jpg",
-          "explanation": "W opisie sawanny wymieniono baobaby i akacje jako pojedyncze drzewa rosnące na tych terenach."
+          "explanation": "Baobaby i akacje są charakterystycznymi pojedynczymi drzewami sawanny."
         },
         {
           "id": "R05_SAW_06",
@@ -5638,7 +5638,7 @@
             "górnictwo odkrywkowe"
           ],
           "answer": 0,
-          "explanation": "Taki sposób hodowli opisano jako pasterstwo koczownicze."
+          "explanation": "Przenoszenie się pasterzy wraz ze zwierzętami w poszukiwaniu pożywienia to pasterstwo koczownicze."
         },
         {
           "id": "R05_SAW_09",
@@ -5767,7 +5767,7 @@
           "id": "R05_PUS_06",
           "section": "Pustynia gorąca",
           "type": "match",
-          "prompt": "Połącz pojęcie z opisem z lekcji o pustyni gorącej.",
+          "prompt": "Połącz pojęcie z właściwym opisem.",
           "options": null,
           "left": [
             "oaza",
@@ -5784,7 +5784,7 @@
             "karawana": "grupa ludzi podróżujących na wielbłądach",
             "dromader": "wielbłąd jednogarbny"
           },
-          "explanation": "Wyjaśniono oazy, karawany i przykładowe zwierzę pustyni."
+          "explanation": "Oaza to miejsce z płytko położoną wodą podziemną, karawana to grupa ludzi podróżujących na wielbłądach, a dromader jest wielbłądem jednogarbnym."
         },
         {
           "id": "R05_PUS_07",
@@ -5961,7 +5961,7 @@
             "muflon": "ssak lądowy",
             "jeżowiec": "zwierzę morskie"
           },
-          "explanation": "Wymienia się typowe rośliny uprawne i zwierzęta spotykane w tej strefie."
+          "explanation": "Winorośl i drzewo oliwne są typowymi roślinami uprawnymi, a muflon i jeżowiec należą do zwierząt spotykanych w strefie śródziemnomorskiej."
         },
         {
           "id": "R05_SRD_07",
@@ -6022,7 +6022,7 @@
               "połów ryb"
             ]
           },
-          "explanation": "Osobno opisano rośliny, zwierzęta i zajęcia ludzi w regionie śródziemnomorskim."
+          "explanation": "Cyprys i oleander to rośliny, delfin i muflon to zwierzęta, a turystyka i połów ryb należą do działalności gospodarczej regionu śródziemnomorskiego."
         },
         {
           "id": "R05_SRD_10",
@@ -6084,7 +6084,7 @@
           "prompt": "Na większości stepów panuje klimat umiarkowany ciepły kontynentalny.",
           "options": null,
           "answer": true,
-          "explanation": "Taki klimat wskazano jako typowy dla większości stepów."
+          "explanation": "Klimat umiarkowany ciepły kontynentalny jest typowy dla większości stepów."
         },
         {
           "id": "R05_STE_04",
@@ -6148,7 +6148,7 @@
             "suhaki": "Azja",
             "pieski preriowe": "prerie Ameryki Północnej"
           },
-          "explanation": "Wymienia się różne zwierzęta stepów Ameryki Północnej, Ameryki Południowej i Azji."
+          "explanation": "Bizony i pieski preriowe występują w Ameryce Północnej, nandu w Ameryce Południowej, a suhaki w Azji."
         },
         {
           "id": "R05_STE_07",
@@ -6209,7 +6209,7 @@
               "wielbłądy dwugarbne"
             ]
           },
-          "explanation": "Pokazuje się przykładowe zwierzęta stepowe z Ameryki Północnej, Ameryki Południowej i Azji."
+          "explanation": "Bizony i pieski preriowe występują w Ameryce Północnej, nandu i nibylisy pampasowe w Ameryce Południowej, a suhaki i wielbłądy dwugarbne w Azji."
         },
         {
           "id": "R05_STE_10",
@@ -6281,7 +6281,7 @@
           "id": "R05_HARD_04",
           "section": "Super trudne",
           "type": "match",
-          "prompt": "Połącz typ klimatu z krajobrazem opisanym w dziale.",
+          "prompt": "Połącz typ klimatu z właściwym krajobrazem.",
           "options": null,
           "left": [
             "równikowy wybitnie wilgotny",
@@ -6304,13 +6304,13 @@
             "podzwrotnikowy morski": "krajobraz śródziemnomorski",
             "umiarkowany ciepły kontynentalny": "step"
           },
-          "explanation": "Każdy krajobraz w dziale ma wskazany typ klimatu lub charakterystyczny przebieg pogody w roku."
+          "explanation": "Wilgotny las równikowy wiąże się z klimatem równikowym wybitnie wilgotnym, sawanna z podrównikowym, pustynia gorąca ze zwrotnikowym suchym, krajobraz śródziemnomorski z podzwrotnikowym morskim, a step z umiarkowanym ciepłym kontynentalnym."
         },
         {
           "id": "R05_HARD_05",
           "section": "Super trudne",
           "type": "sort",
-          "prompt": "Przyporządkuj elementy do właściwych krajobrazów.",
+          "prompt": "Przyporządkuj elementy do właściwych typów krajobrazu.",
           "options": null,
           "items": [
             "liany",
@@ -6326,40 +6326,37 @@
           ],
           "categories": [
             "las równikowy",
-            "sawanna",
+            "krajobrazy trawiaste (sawanna i step)",
             "pustynia gorąca",
-            "śródziemnomorski",
-            "step"
+            "krajobraz śródziemnomorski"
           ],
           "answer": {
             "las równikowy": [
               "liany",
               "tukany"
             ],
-            "sawanna": [
+            "krajobrazy trawiaste (sawanna i step)": [
               "baobaby",
-              "gnu"
+              "gnu",
+              "czarnoziemy",
+              "suhaki"
             ],
             "pustynia gorąca": [
               "kaktusy",
               "fenki"
             ],
-            "śródziemnomorski": [
+            "krajobraz śródziemnomorski": [
               "makia",
               "jeżowce"
-            ],
-            "step": [
-              "czarnoziemy",
-              "suhaki"
             ]
           },
-          "explanation": "Elementy pochodzą z opisów roślinności i zwierząt poszczególnych krajobrazów działu."
+          "explanation": "Liany i tukany są związane z lasem równikowym; baobaby, gnu, czarnoziemy i suhaki z krajobrazami trawiastymi; kaktusy i fenki z pustynią gorącą; makia i jeżowce z krajobrazem śródziemnomorskim."
         },
         {
           "id": "R05_HARD_06",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż typowy dzień w wilgotnym lesie równikowym zgodnie z opisem.",
+          "prompt": "Ułóż etapy typowego obiegu wody w ciągu dnia w wilgotnym lesie równikowym.",
           "options": null,
           "items": [
             "pada deszcz",
@@ -6416,7 +6413,7 @@
           "prompt": "Co nie pasuje do pozostałych klimatów: równikowy wybitnie wilgotny, podrównikowy, zwrotnikowy suchy, preria.",
           "options": null,
           "answer": "preria",
-          "explanation": "Preria to nazwa stepów w Ameryce Północnej, a pozostałe elementy są typami klimatów opisanymi w dziale."
+          "explanation": "Preria to nazwa stepów w Ameryce Północnej, a pozostałe elementy są typami klimatów."
         },
         {
           "id": "R05_HARD_10",
@@ -6508,7 +6505,7 @@
           "id": "R06_WYS_01",
           "section": "Występowanie i typy lasów",
           "type": "single_choice",
-          "prompt": "Jakie trzy typy lasów występują w strefie umiarkowanej według lekcji?",
+          "prompt": "Jakie trzy typy lasów występują w strefie umiarkowanej?",
           "options": [
             "liściaste, iglaste i mieszane",
             "równikowe, sawannowe i pustynne",
@@ -6524,11 +6521,11 @@
           "id": "R06_WYS_02",
           "section": "Występowanie i typy lasów",
           "type": "true_false",
-          "prompt": "Ta lekcja skupia się na lasach liściastych i mieszanych strefy umiarkowanej.",
+          "prompt": "Lasy liściaste i mieszane są typami lasów występujących w strefie umiarkowanej.",
           "options": null,
           "answer": true,
           "image": "r06_las_mieszany_panorama.jpg",
-          "explanation": "W strefie umiarkowanej występują lasy liściaste, iglaste i mieszane, ale ta lekcja omawia przede wszystkim liściaste i mieszane."
+          "explanation": "W strefie umiarkowanej występują lasy liściaste, iglaste i mieszane."
         },
         {
           "id": "R06_WYS_03",
@@ -6590,10 +6587,10 @@
           "id": "R06_WYS_06",
           "section": "Występowanie i typy lasów",
           "type": "odd_one_out",
-          "prompt": "Co nie pasuje do lasów wymienionych w strefie umiarkowanej: liściaste, iglaste, mieszane, palmowe.",
+          "prompt": "Co nie pasuje do typów lasów strefy umiarkowanej: liściaste, iglaste, mieszane, palmowe.",
           "options": null,
           "answer": "palmowe",
-          "explanation": "Wymieniono lasy liściaste, iglaste i mieszane, a lasy palmowe nie są podane jako typ lasów strefy umiarkowanej."
+          "explanation": "W strefie umiarkowanej występują lasy liściaste, iglaste i mieszane; lasy palmowe nie należą do tej grupy."
         },
         {
           "id": "R06_WYS_07",
@@ -6619,13 +6616,13 @@
             "wschodnia Azja": "częściowe występowanie",
             "półkula południowa": "niewiele lasów przez dominację oceanu"
           },
-          "explanation": "Wskazuje się znaczne obszary w Europie i Ameryce Północnej, częściowe występowanie we wschodniej Azji oraz niewiele takich lasów na półkuli południowej."
+          "explanation": "Lasy liściaste i mieszane zajmują znaczne obszary Europy i Ameryki Północnej, częściowo występują we wschodniej Azji, a na półkuli południowej jest ich niewiele."
         },
         {
           "id": "R06_WYS_08",
           "section": "Występowanie i typy lasów",
           "type": "sort",
-          "prompt": "Rozdziel typy lasów według tego, czy są głównym tematem tej lekcji.",
+          "prompt": "Przyporządkuj typy lasów do opisu ich składu.",
           "options": null,
           "items": [
             "lasy liściaste",
@@ -6633,19 +6630,22 @@
             "lasy iglaste"
           ],
           "categories": [
-            "główny temat lekcji",
-            "występują w strefie umiarkowanej poza głównym tematem"
+            "drzewa liściaste",
+            "drzewa liściaste i iglaste",
+            "drzewa iglaste"
           ],
           "answer": {
-            "główny temat lekcji": [
-              "lasy liściaste",
+            "drzewa liściaste": [
+              "lasy liściaste"
+            ],
+            "drzewa liściaste i iglaste": [
               "lasy mieszane"
             ],
-            "występują w strefie umiarkowanej poza głównym tematem": [
+            "drzewa iglaste": [
               "lasy iglaste"
             ]
           },
-          "explanation": "Lekcja skupia się na lasach liściastych i mieszanych, choć w strefie umiarkowanej występują również lasy iglaste."
+          "explanation": "Lasy liściaste tworzą drzewa liściaste, lasy iglaste drzewa iglaste, a w lasach mieszanych występują oba te typy drzew."
         },
         {
           "id": "R06_WYS_09",
@@ -6701,7 +6701,7 @@
           "prompt": "W lasach strefy umiarkowanej występują cztery pory roku.",
           "options": null,
           "answer": true,
-          "explanation": "Wymieniono wiosnę, lato, jesień i zimę jako cztery pory roku tej strefy."
+          "explanation": "Wiosna, lato, jesień i zima to cztery pory roku występujące w strefie umiarkowanej."
         },
         {
           "id": "R06_KLI_03",
@@ -6837,7 +6837,7 @@
             "wschodnia Azja"
           ],
           "answer": 0,
-          "explanation": "Tak opisano zachód Europy, gdzie występuje klimat umiarkowany ciepły morski."
+          "explanation": "Na zachodzie Europy występuje klimat umiarkowany ciepły morski, z większymi i bardziej równomiernymi opadami oraz łagodniejszymi zimami."
         },
         {
           "id": "R06_KLI_10",
@@ -6863,7 +6863,7 @@
           ],
           "answer": 0,
           "image": "r06_dab_i_buk.jpg",
-          "explanation": "Jako drzewa liściaste podano dęby, buki, klony i lipy."
+          "explanation": "Dęby, buki, klony i lipy są drzewami liściastymi."
         },
         {
           "id": "R06_ROS_02",
@@ -6885,7 +6885,7 @@
             3
           ],
           "image": "r06_dab_i_buk.jpg",
-          "explanation": "Wymieniono wśród drzew liściastych dęby, buki, klony i lipy."
+          "explanation": "Dąb, buk, klon i lipa są drzewami liściastymi, a sosna i świerk są drzewami iglastymi."
         },
         {
           "id": "R06_ROS_03",
@@ -6956,7 +6956,7 @@
             "maślaki"
           ],
           "image": "r06_grzyby_lesne.jpg",
-          "explanation": "Jako jadalne grzyby podano między innymi borowiki i maślaki."
+          "explanation": "Borowiki i maślaki należą do jadalnych grzybów leśnych."
         },
         {
           "id": "R06_ROS_07",
@@ -7120,13 +7120,13 @@
               "ssaków"
             ]
           ],
-          "explanation": "Tekst mówi o wielu różnych ptakach oraz mniej licznych ssakach."
+          "explanation": "Lasy strefy umiarkowanej zamieszkuje wiele różnych ptaków oraz mniej liczne ssaki."
         },
         {
           "id": "R06_ZWI_05",
           "section": "Zwierzęta lasów",
           "type": "riddle",
-          "prompt": "Jaki dzięcioł jest podpisany na ilustracji zwierząt?",
+          "prompt": "Jaki gatunek dzięcioła przedstawia ilustracja?",
           "options": null,
           "answer": "dzięcioł duży",
           "altAnswers": [
@@ -7135,7 +7135,7 @@
             "dzięcioł"
           ],
           "image": "r06_ptaki_lasow_umiarkowanych.jpg",
-          "explanation": "Na ilustracji obok innych ptaków podpisano dzięcioła dużego."
+          "explanation": "Dzięcioł duży jest jednym z ptaków lasów strefy umiarkowanej."
         },
         {
           "id": "R06_ZWI_06",
@@ -7151,7 +7151,7 @@
           "id": "R06_ZWI_07",
           "section": "Zwierzęta lasów",
           "type": "match",
-          "prompt": "Połącz zwierzę z opisem z ilustracji lub tekstu.",
+          "prompt": "Połącz zwierzę z właściwym opisem.",
           "options": null,
           "left": [
             "uszatka zwyczajna",
@@ -7171,7 +7171,7 @@
             "jeż zachodni": "ssak kolczasty",
             "dzik euroazjatycki": "ssak leśny"
           },
-          "explanation": "Ilustracja przedstawia między innymi uszatkę zwyczajną jako sowę, sikorę bogatkę jako ptaka oraz ssaki takie jak jeż i dzik."
+          "explanation": "Uszatka zwyczajna jest sową, sikora bogatka ptakiem, jeż zachodni ssakiem kolczastym, a dzik euroazjatycki ssakiem leśnym."
         },
         {
           "id": "R06_ZWI_08",
@@ -7394,7 +7394,7 @@
           "options": null,
           "answer": false,
           "image": "r06_sciete_pnie_las.jpg",
-          "explanation": "To fałsz: wskazuje się negatywny wpływ na środowisko i pogorszenie komfortu życia ludzi."
+          "explanation": "To fałsz. Wylesianie i silna ingerencja człowieka mogą negatywnie wpływać na środowisko oraz pogarszać komfort życia ludzi."
         },
         {
           "id": "R06_HARD_01",

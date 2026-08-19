@@ -1,8 +1,8 @@
 {
   "id": "biologia-bez-tajemnic-5-klasa",
   "title": "Biologia bez tajemnic 5 klasa",
-  "version": 7,
-  "contentHash": "1423720c8501c5124f65939c062069544b559f544b9cecc812ae8ffad8d563b3",
+  "version": 8,
+  "contentHash": "97c6be074ec3f6bd8894fa1a04618e0f7569f615e403be1b935114aa4d8b8560",
   "bookConfig": {
     "id": "biologia-bez-tajemnic-5-klasa",
     "title": "Biologia bez tajemnic 5 klasa",
@@ -97,7 +97,7 @@
             3,
             4
           ],
-          "explanation": "Jako nauki przyrodnicze wskazano biologię, chemię, fizykę, geografię i astronomię."
+          "explanation": "Do nauk przyrodniczych należą biologia, chemia, fizyka, geografia i astronomia."
         },
         {
           "id": "R01_BIO_05",
@@ -149,7 +149,7 @@
           ],
           "answer": 0,
           "image": "r01_nauki_przyrodnicze.jpg",
-          "explanation": "Nauka stale się rozwija, dlatego nowsze ustalenia mogą różnić się od starszych. Najlepiej korzystać z kilku źródeł i porównywać przedstawione fakty oraz argumenty."
+          "explanation": "Nauka stale się rozwija, dlatego nowsze ustalenia mogą różnić się od starszych. Najlepiej korzystać z kilku źródeł i porównywać fakty oraz argumenty."
         },
         {
           "id": "R01_BIO_08",
@@ -408,7 +408,7 @@
           "id": "R01_DZI_10",
           "section": "Działy biologii i przyrządy",
           "type": "multi_select",
-          "prompt": "Zaznacz przyrządy znane z lekcji przyrody, które wskazano.",
+          "prompt": "Zaznacz przyrządy służące do podstawowych obserwacji i pomiarów biologicznych.",
           "options": [
             "Taśma miernicza",
             "Lornetka",
@@ -424,7 +424,7 @@
             3
           ],
           "image": "r01_przyrzady_badawcze.jpg",
-          "explanation": "Pokazano taśmę mierniczą, lornetkę, lupę i mikroskop jako podstawowe przyrządy badawcze."
+          "explanation": "Taśma miernicza, lornetka, lupa i mikroskop służą do podstawowych obserwacji i pomiarów biologicznych."
         },
         {
           "id": "R01_DZI_11",
@@ -993,7 +993,7 @@
             ]
           ],
           "image": "r01_mikroskop_budowa.jpg",
-          "explanation": "Podano powiększenie do 1000 razy oraz możliwość obserwacji szczegółów o wielkości około 0,0002 mm."
+          "explanation": "Nowoczesny mikroskop optyczny może powiększać obraz do 1000 razy i umożliwia obserwację szczegółów o wielkości około 0,0002 mm."
         },
         {
           "id": "R01_MIK_06",
@@ -1125,7 +1125,7 @@
           "id": "R01_HARD_01",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Kto po raz pierwszy użył terminu biologia w 1802 roku według informacji?",
+          "prompt": "Kto po raz pierwszy użył terminu biologia w 1802 roku?",
           "options": [
             "Jean Baptiste Lamarck",
             "Antoni van Leeuwenhoek",
@@ -1653,7 +1653,7 @@
             "substancji mineralnej"
           ],
           "answer": 0,
-          "explanation": "Według opisu ewolucyjnego kolonie komórek, w których grupy komórek zaczęły się specjalizować, dały początek pierwszym organizmom wielokomórkowym."
+          "explanation": "Kolonie komórek, w których grupy komórek zaczęły się specjalizować, mogły dać początek pierwszym organizmom wielokomórkowym."
         },
         {
           "id": "R02_CHEM_01",
@@ -2016,7 +2016,7 @@
           "prompt": "Wskaż element, który nie jest charakterystyczny dla komórki roślinnej: chloroplast, wakuola, ściana komórkowa, wodniczka.",
           "options": null,
           "answer": "wodniczka",
-          "explanation": "Komórka roślinna ma chloroplasty, ścianę komórkową i zwykle jedną dużą wakuolę. Wodniczki opisano przy komórce zwierzęcej.",
+          "explanation": "Komórka roślinna ma chloroplasty, ścianę komórkową i zwykle jedną dużą wakuolę. Wodniczki mogą występować w komórkach zwierzęcych.",
           "image": "r02_komorka_roslinna.jpg"
         },
         {
@@ -2327,7 +2327,7 @@
           "prompt": "Niektóre rośliny iglaste mogą prowadzić fotosyntezę w temperaturze poniżej 0 stopni Celsjusza.",
           "options": null,
           "answer": true,
-          "explanation": "Poszczególne gatunki są przystosowane do różnych temperatur; podano, że rośliny iglaste mogą fotosyntetyzować poniżej 0 stopni Celsjusza."
+          "explanation": "Poszczególne gatunki są przystosowane do różnych temperatur; rośliny iglaste mogą fotosyntetyzować poniżej 0 stopni Celsjusza."
         },
         {
           "id": "R02_ODD_01",
@@ -2435,7 +2435,7 @@
           "prompt": "Wskaż substancję, która jest potrzebna do oddychania tlenowego, a nie powstaje w jego wyniku: energia, dwutlenek węgla, woda, tlen.",
           "options": null,
           "answer": "tlen",
-          "explanation": "Tlen jest substratem oddychania tlenowego. Energia, dwutlenek węgla i woda są przedstawione jako wyniki tego procesu."
+          "explanation": "Tlen jest substratem oddychania tlenowego. Energia, dwutlenek węgla i woda powstają w wyniku tego procesu."
         },
         {
           "id": "R02_ODD_07",
@@ -2577,7 +2577,7 @@
           "id": "R02_HARD_02",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż etapy powstawania organizmów wielokomórkowych zgodnie z opisem ewolucyjnym.",
+          "prompt": "Ułóż etapy powstawania organizmów wielokomórkowych w kolejności ewolucyjnej.",
           "options": null,
           "items": [
             "specjalizacja grup komórek",
@@ -2641,7 +2641,7 @@
               "wodniczka"
             ]
           },
-          "explanation": "Bakterie mają DNA poza jądrem i mogą mieć otoczkę śluzową, rośliny mają chloroplasty oraz dużą wakuolę, a przy komórce zwierzęcej opisano wodniczki.",
+          "explanation": "Bakterie mają DNA poza jądrem i mogą mieć otoczkę śluzową, rośliny mają chloroplasty oraz dużą wakuolę, a komórki zwierzęce mogą zawierać wodniczki.",
           "image": "r02_porownanie_komorek.jpg"
         },
         {
@@ -3119,7 +3119,7 @@
           "options": null,
           "answer": false,
           "image": "r03_budowa_wirusa.jpg",
-          "explanation": "Wirus nie ma budowy komórkowej. Przedstawiono go jako otoczkę białkową z DNA lub RNA."
+          "explanation": "Wirus nie ma budowy komórkowej. Składa się z otoczki białkowej oraz materiału genetycznego w postaci DNA lub RNA."
         },
         {
           "id": "R03_WIR_05",
@@ -3239,7 +3239,7 @@
           "id": "R03_BAK_01",
           "section": "Bakterie",
           "type": "single_choice",
-          "prompt": "Jaki zakres wielkości bakterii podano?",
+          "prompt": "Jaki jest typowy zakres wielkości bakterii?",
           "options": [
             "0,5-10 mikrometrów",
             "80-120 nanometrów",
@@ -3947,7 +3947,7 @@
             3
           ],
           "image": "r03_grzyby_jadalne_trujace.jpg",
-          "explanation": "Koźlarz czerwony, podgrzybek brunatny, pieprznik jadalny i borowik szlachetny zostały przedstawione jako jadalne."
+          "explanation": "Koźlarz czerwony, podgrzybek brunatny, pieprznik jadalny i borowik szlachetny są grzybami jadalnymi."
         },
         {
           "id": "R03_ZNA_10",
@@ -4075,7 +4075,7 @@
               "0.000001"
             ]
           ],
-          "explanation": "Podano: 1 mikrometr = 0,001 mm, a 1 nanometr = 0,000001 mm."
+          "explanation": "1 mikrometr = 0,001 mm, a 1 nanometr = 0,000001 mm."
         },
         {
           "id": "R03_HARD_06",
@@ -4110,7 +4110,7 @@
           "id": "R03_HARD_07",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz drogi rozprzestrzeniania się wirusów, przy których jako przykład podano AIDS.",
+          "prompt": "Zaznacz drogi, którymi może dojść do zakażenia wirusem HIV.",
           "options": [
             "ciąża i poród",
             "droga moczowo-płciowa",
@@ -4125,7 +4125,7 @@
             2
           ],
           "image": "r03_drogi_zakazenia_wirusami.jpg",
-          "explanation": "AIDS podano jako przykład zakażenia z matki na dziecko, drogą moczowo-płciową oraz przez kontakt z krwią."
+          "explanation": "Do zakażenia wirusem HIV może dojść z matki na dziecko, drogą moczowo-płciową oraz przez kontakt z krwią."
         },
         {
           "id": "R03_HARD_08",
@@ -6541,7 +6541,7 @@
           "id": "R05_OKR_06",
           "section": "Rośliny okrytonasienne",
           "type": "odd_one_out",
-          "prompt": "Wskaż roślinę, która nie jest drzewem liściastym opisanym w części o okrytonasiennych: wierzba biała, buk zwyczajny, dąb szypułkowy, klon zwyczajny, lipa drobnolistna, świerk pospolity.",
+          "prompt": "Wskaż roślinę, która nie jest drzewem liściastym: wierzba biała, buk zwyczajny, dąb szypułkowy, klon zwyczajny, lipa drobnolistna, świerk pospolity.",
           "options": null,
           "answer": "świerk pospolity",
           "explanation": "Wierzba, buk, dąb, klon i lipa są drzewami okrytonasiennymi. Świerk jest nagonasienny."
@@ -6678,7 +6678,7 @@
           "id": "R05_HARD_01",
           "section": "Super trudne",
           "type": "multi_select",
-          "prompt": "Zaznacz cechy, które według podsumowania odróżniają typowe okrytonasienne od typowych nagonasiennych.",
+          "prompt": "Zaznacz cechy odróżniające typowe rośliny okrytonasienne od typowych roślin nagonasiennych.",
           "options": [
             "Nasiona okryte owocnią",
             "Obecność owoców",
@@ -6725,7 +6725,7 @@
           "id": "R05_HARD_03",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż grupy według podanych cech: od roślin bez właściwych organów i nasion do roślin mających nasiona zamknięte w owocach.",
+          "prompt": "Ułóż grupy od roślin bez właściwych organów i nasion do roślin mających nasiona zamknięte w owocach.",
           "options": null,
           "items": [
             "rośliny okrytonasienne",
@@ -6845,7 +6845,7 @@
           "prompt": "Listek i łodyżka mchu nie mają tkanek przewodzących.",
           "options": null,
           "answer": true,
-          "explanation": "Zgodnie ze słowniczkiem pojęć listek i łodyżka mchu są odpowiednikami liścia i łodygi, ale nie zawierają tkanek przewodzących."
+          "explanation": "Listek i łodyżka mchu są odpowiednikami liścia i łodygi, ale nie zawierają tkanek przewodzących."
         },
         {
           "id": "R05_HARD_10",
@@ -6894,7 +6894,7 @@
             3,
             4
           ],
-          "explanation": "Sosna ma nasiona ze skrzydełkiem; wierzba i topola owoce z puchem; klon i brzoza owoce ze skrzydełkami. Jarząb ma czerwone owoce, ale nie opisano ich jako wiatrosiewnych.",
+          "explanation": "Sosna ma nasiona ze skrzydełkiem; wierzba i topola owoce z puchem; klon i brzoza owoce ze skrzydełkami. Owoce jarzębu nie mają cech typowych dla rozsiewania przez wiatr.",
           "image": "r05_liscie_i_owoce_drzew.jpg"
         },
         {

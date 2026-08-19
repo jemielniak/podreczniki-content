@@ -1,8 +1,8 @@
 {
   "id": "biologia-to-nasz-swiat-5-klasa",
   "title": "Biologia to nasz świat 5 klasa",
-  "version": 5,
-  "contentHash": "caa976f97ff2f0cbe94ab15afc4134905427b420e15eb9dd36bd0499e120a2e5",
+  "version": 6,
+  "contentHash": "19b60037ec37695e244d50d3c89507d1ac2a2d56dbbddb65ec363f94bac1fbb1",
   "bookConfig": {
     "id": "biologia-to-nasz-swiat-5-klasa",
     "title": "Biologia to nasz świat 5 klasa",
@@ -250,7 +250,7 @@
             2,
             3
           ],
-          "explanation": "Do podstawowych związków chemicznych organizmów należą między innymi białka, cukry, tłuszcze i kwasy nukleinowe. Wymieniono także sole mineralne i wodę."
+          "explanation": "Do podstawowych związków chemicznych organizmów należą między innymi białka, cukry, tłuszcze i kwasy nukleinowe. W organizmach występują także sole mineralne i woda."
         },
         {
           "id": "R01_CHEM_03",
@@ -351,7 +351,7 @@
           "id": "R01_CHEM_08",
           "section": "Skład chemiczny organizmów",
           "type": "scenario",
-          "prompt": "W opisie związku chemicznego podano, że hemoglobina przenosi tlen we krwi. Do której grupy związków należy hemoglobina?",
+          "prompt": "Hemoglobina przenosi tlen we krwi. Do której grupy związków należy hemoglobina?",
           "options": [
             "białka",
             "cukry",
@@ -362,7 +362,7 @@
           ],
           "answer": 0,
           "image": "r01_funkcje_zwiazkow.jpg",
-          "explanation": "Hemoglobina jest białkiem zawartym we krwi. Podano ją jako przykład białka transportującego tlen."
+          "explanation": "Hemoglobina jest białkiem zawartym we krwi i pełni funkcję transportową, przenosząc tlen."
         },
         {
           "id": "R01_CHEM_09",
@@ -615,7 +615,7 @@
             1
           ],
           "image": "r01_model_komorki_zwierzecej.jpg",
-          "explanation": "Błona komórkowa i cytozol występują w komórkach zwierzęcych, roślinnych i bakteryjnych. Pozostałe wymienione elementy nie występują we wszystkich tych typach komórek."
+          "explanation": "Błona komórkowa i cytozol występują w komórkach zwierzęcych, roślinnych i bakteryjnych. Chloroplast, wakuola, jądro komórkowe i mitochondrium nie występują we wszystkich tych typach komórek."
         },
         {
           "id": "R01_KOM_03",
@@ -691,7 +691,7 @@
             ]
           },
           "image": "r01_model_komorki_bakteryjnej.jpg",
-          "explanation": "Chloroplasty i duża wakuola są pokazane w komórce roślinnej, substancja jądrowa w komórce bakteryjnej, jądro i mitochondria w komórkach zwierzęcych i roślinnych, a cytozol występuje we wszystkich typach komórek."
+          "explanation": "Chloroplasty i duża wakuola są charakterystyczne dla komórki roślinnej, substancja jądrowa dla komórki bakteryjnej, jądro i mitochondria występują w komórkach zwierzęcych i roślinnych, a cytozol we wszystkich typach komórek."
         },
         {
           "id": "R01_KOM_06",
@@ -944,7 +944,7 @@
           "id": "R01_FOT_10",
           "section": "Fotosynteza",
           "type": "sequence",
-          "prompt": "Ułóż uproszczony przebieg fotosyntezy zgodnie z opisem.",
+          "prompt": "Ułóż uproszczony przebieg fotosyntezy w prawidłowej kolejności.",
           "options": null,
           "items": [
             "powstają glukoza i tlen",
@@ -1051,11 +1051,11 @@
           "id": "R01_ODD_06",
           "section": "Oddychanie komórkowe",
           "type": "odd_one_out",
-          "prompt": "Wskaż, co nie pasuje do schematu oddychania tlenowego: glukoza, tlen, dwutlenek węgla, azot.",
+          "prompt": "Wskaż substancję, która nie jest substratem ani produktem oddychania tlenowego: glukoza, tlen, dwutlenek węgla, azot.",
           "options": null,
           "answer": "azot",
           "image": "r01_oddychanie_schemat.jpg",
-          "explanation": "Glukoza, tlen i dwutlenek węgla występują w schemacie oddychania tlenowego. Azot stanowi większość powietrza, ale organizmy go nie zużywają - w oddychaniu komórkowym nie bierze udziału."
+          "explanation": "Glukoza i tlen są substratami oddychania tlenowego, a dwutlenek węgla jest jego produktem. Azot nie jest substratem ani produktem tego procesu."
         },
         {
           "id": "R01_ODD_07",
@@ -1167,7 +1167,7 @@
             "sole mineralne": "regulują przebieg procesów życiowych"
           },
           "image": "r01_sklad_chemiczny.jpg",
-          "explanation": "Podano przykłady funkcji związków chemicznych: białka kurczliwe odpowiadają za skurcz mięśni, celuloza buduje ściany komórkowe roślin, DNA zawiera informację, a sole mineralne regulują procesy życiowe."
+          "explanation": "Białka kurczliwe odpowiadają za skurcz mięśni, celuloza buduje ściany komórkowe roślin, DNA zawiera informację o budowie i funkcjonowaniu komórki, a sole mineralne regulują procesy życiowe."
         },
         {
           "id": "R01_HARD_02",
@@ -1195,7 +1195,7 @@
           "id": "R01_HARD_03",
           "section": "Super trudne",
           "type": "sequence",
-          "prompt": "Ułóż etapy obserwacji mikroskopowej zgodnie z instrukcją.",
+          "prompt": "Ułóż etapy obserwacji mikroskopowej w prawidłowej kolejności.",
           "options": null,
           "items": [
             "wyreguluj ostrość śrubą mikrometryczną",
@@ -1212,7 +1212,7 @@
             "wyreguluj ostrość śrubą mikrometryczną"
           ],
           "image": "r01_preparat_mikroskopowy.jpg",
-          "explanation": "Instrukcja nakazuje zacząć od położenia preparatu, ustawienia najmniejszego powiększenia i oświetlenia, a potem stopniowo ustawiać ostrość śrubami."
+          "explanation": "Obserwację zaczyna się od położenia preparatu, ustawienia najmniejszego powiększenia i oświetlenia, a następnie stopniowo ustawia się ostrość śrubami."
         },
         {
           "id": "R01_HARD_04",
@@ -1471,7 +1471,7 @@
           "prompt": "Świat organizmów podzielono na trzy domeny i sześć królestw.",
           "options": null,
           "answer": true,
-          "explanation": "Podano trzy domeny: archeowce, bakterie i eukarionty, a w nich łącznie sześć królestw.",
+          "explanation": "Trzy domeny to archeowce, bakterie i eukarionty; obejmują one łącznie sześć królestw.",
           "image": "r02_domeny_krolestwa.jpg"
         },
         {
@@ -1639,7 +1639,7 @@
           "id": "R02_KLU_04",
           "section": "Klucze do oznaczania",
           "type": "match",
-          "prompt": "Połącz drzewo iglaste z cechą podaną w przykładzie klucza.",
+          "prompt": "Połącz drzewo iglaste z charakterystyczną cechą jego igieł.",
           "options": null,
           "left": [
             "jodła pospolita",
@@ -1659,7 +1659,7 @@
             "sosna zwyczajna": "igły wyrastają po dwie",
             "modrzew europejski": "igły zebrane w pęczki"
           },
-          "explanation": "W przykładzie klucza rozpoznawano gatunki po ułożeniu i kształcie igieł.",
+          "explanation": "Gatunki drzew iglastych można rozpoznawać między innymi po ułożeniu i kształcie igieł.",
           "image": "r02_klucz_iglaste.jpg"
         },
         {
@@ -1956,7 +1956,7 @@
           "id": "R02_BAK_03",
           "section": "Bakterie",
           "type": "multi_select",
-          "prompt": "Zaznacz elementy pokazane w modelu komórki bakteryjnej.",
+          "prompt": "Zaznacz elementy, które mogą występować w budowie komórki bakteryjnej.",
           "options": [
             "cytozol",
             "błona komórkowa",
@@ -1972,7 +1972,7 @@
             3,
             4
           ],
-          "explanation": "Model komórki bakteryjnej obejmuje cytozol, błonę, ścianę, otoczkę śluzową i substancję jądrową; bakterie nie mają chloroplastów w tym schemacie.",
+          "explanation": "Komórka bakteryjna zawiera cytozol, błonę komórkową, ścianę komórkową i substancję jądrową, a u części bakterii występuje także otoczka śluzowa. Bakterie nie mają chloroplastów.",
           "image": "r02_komorka_bakteryjna.jpg"
         },
         {
@@ -2023,7 +2023,7 @@
             "krętek": "długa spiralnie skręcona komórka",
             "dwoinka": "dwie połączone komórki"
           },
-          "explanation": "Pokazano różne kształty bakterii: ziarenkowce, pałeczki, krętki oraz komórki połączone w pary."
+          "explanation": "Bakterie mogą mieć różne kształty, między innymi kuliste, pałeczkowate i spiralne, a ich komórki mogą także występować parami."
         },
         {
           "id": "R02_BAK_06",
@@ -2048,7 +2048,7 @@
             "Przez rozmowę telefoniczną"
           ],
           "answer": 0,
-          "explanation": "Salmonelloza w opisanej sytuacji wiąże się ze spożyciem pokarmu zawierającego bakterie.",
+          "explanation": "W tej sytuacji salmonelloza wiąże się ze spożyciem pokarmu zawierającego bakterie.",
           "image": "r02_drogi_bakterii.jpg"
         },
         {
@@ -2273,7 +2273,7 @@
             "ustawić ostrość obrazu",
             "wykonać rysunek zaobserwowanego protista"
           ],
-          "explanation": "Instrukcja doświadczenia prowadzi od pobrania kropli z hodowli, przez przygotowanie preparatu, do obserwacji i rysunku."
+          "explanation": "Prawidłowa kolejność obejmuje pobranie kropli z hodowli, przygotowanie preparatu, obserwację mikroskopową i wykonanie rysunku."
         },
         {
           "id": "R02_GRZ_01",
@@ -2528,7 +2528,7 @@
           "prompt": "Archeobakterie są jednokomórkowe, nie mają jądra komórkowego i mogą żyć w ekstremalnych warunkach.",
           "options": null,
           "answer": true,
-          "explanation": "W tabeli królestw podano, że archeobakterie nie mają jądra komórkowego, mają ścianę komórkową i żyją m.in. w gorących źródłach."
+          "explanation": "Archeobakterie nie mają jądra komórkowego, mają ścianę komórkową i mogą żyć między innymi w gorących źródłach."
         },
         {
           "id": "R02_HARD_05",
@@ -2558,7 +2558,7 @@
             "morszczyn pecherzykowaty",
             "morszczyn"
           ],
-          "explanation": "Morszczyn pęcherzykowaty jest opisany jako wielokomórkowy protist osiągający do 100 cm długości i żyjący w wodach słonych."
+          "explanation": "Morszczyn pęcherzykowaty jest wielokomórkowym protistem, który może osiągać do 100 cm długości i żyje w wodach słonych."
         },
         {
           "id": "R02_HARD_07",
@@ -2607,7 +2607,7 @@
             "Przykładanie rany do ziemi"
           ],
           "answer": 0,
-          "explanation": "Bakterie mogą dostać się do krwi m.in. przez ukąszenie kleszcza, dlatego wskazana jest odzież ochronna i środki odstraszające.",
+          "explanation": "Bakterie mogą dostać się do krwi m.in. przez ukąszenie kleszcza, dlatego należy stosować odzież ochronną i środki odstraszające.",
           "image": "r02_drogi_bakterii.jpg"
         },
         {
@@ -2910,7 +2910,7 @@
           "id": "R03_CRO_09",
           "section": "Cechy roślin",
           "type": "scenario",
-          "prompt": "Na schemacie podziału roślin widzisz grupę bez tkanki przewodzącej. Do której kategorii należy taka grupa?",
+          "prompt": "Do której kategorii zalicza się rośliny bez tkanki przewodzącej?",
           "image": "r03_podzial_roslin.jpg",
           "options": [
             "rośliny nienaczyniowe",
@@ -2920,7 +2920,7 @@
             "rośliny nagonasienne"
           ],
           "answer": 0,
-          "explanation": "Rośliny bez tkanki przewodzącej to rośliny nienaczyniowe. Jako przykład pokazano mchy."
+          "explanation": "Rośliny bez tkanki przewodzącej to rośliny nienaczyniowe. Do tej grupy należą mchy."
         },
         {
           "id": "R03_CRO_10",
@@ -3515,7 +3515,7 @@
             "nagonasienne"
           ],
           "answer": 0,
-          "explanation": "Skupiska zarodni na spodniej stronie liści są cechą opisaną przy paprociowych."
+          "explanation": "Skupiska zarodni na spodniej stronie liści są charakterystyczne dla paprociowych."
         },
         {
           "id": "R03_PWS_07",
@@ -3563,7 +3563,7 @@
             "kłącze",
             "klacze"
           ],
-          "explanation": "W budowie paproci pokazano kłącze, czyli podziemną łodygę."
+          "explanation": "Kłącze paproci jest podziemną łodygą, z której wyrastają korzenie i liście."
         },
         {
           "id": "R03_PWS_11",
@@ -3623,7 +3623,7 @@
             "skrzyp polny": "skrzypowe",
             "salwinia pływająca": "paprociowe wodne"
           },
-          "explanation": "Podaje się liczne przykłady: paprotka jest paprocią, widłak goździsty należy do widłakowych, skrzyp polny do skrzypowych, a salwinia to paproć wodna."
+          "explanation": "Paprotka zwyczajna należy do paprociowych lądowych, widłak goździsty do widłakowych, skrzyp polny do skrzypowych, a salwinia pływająca do paprociowych wodnych."
         },
         {
           "id": "R03_PWS_13",
@@ -3777,7 +3777,7 @@
             "runo leśne": "paprociowe, widłakowe i skrzypowe tworzą warstwę lasu",
             "większe rozmiary niż u mchów": "tkanka przewodząca rozprowadza substancje"
           },
-          "explanation": "Zależności między cechami roślin a ich znaczeniem pomagają zrozumieć materiał z kilku lekcji naraz."
+          "explanation": "Zależności między cechami roślin a ich znaczeniem pozwalają powiązać budowę, funkcjonowanie i rolę roślin w środowisku."
         },
         {
           "id": "R03_HARD_07",
@@ -4003,7 +4003,7 @@
           "prompt": "Sosna zwyczajna ma sztywne, kłujące igły.",
           "options": null,
           "answer": true,
-          "explanation": "Opis sosny wskazuje, że jej igły są sztywne i kłujące."
+          "explanation": "Igły sosny zwyczajnej są sztywne i kłujące."
         },
         {
           "id": "R04_NAG_08",
@@ -4243,7 +4243,7 @@
           "id": "R04_POL_10",
           "section": "Nagonasienne w Polsce",
           "type": "single_choice",
-          "prompt": "Który gatunek nagonasienny wymieniono jako drzewo górskie?",
+          "prompt": "Który gatunek nagonasienny jest drzewem górskim?",
           "options": [
             "sosna limba",
             "cis pospolity",
@@ -4253,7 +4253,7 @@
             "jodła pospolita"
           ],
           "answer": 0,
-          "explanation": "Wśród przedstawionych nagonasiennych drzewem górskim jest sosna limba."
+          "explanation": "Sosna limba jest nagonasiennym drzewem górskim."
         },
         {
           "id": "R04_OKR_01",
@@ -4351,7 +4351,7 @@
             "krzewinki": "niskie rośliny krzewiaste",
             "rośliny zielne": "rośliny o miękkich zielonych pędach"
           },
-          "explanation": "Wskazano cztery formy okrytonasiennych: drzewa, krzewy, krzewinki i rośliny zielne."
+          "explanation": "Do form roślin okrytonasiennych należą drzewa, krzewy, krzewinki i rośliny zielne."
         },
         {
           "id": "R04_OKR_06",
@@ -4746,13 +4746,13 @@
             2,
             3
           ],
-          "explanation": "Wśród drzew liściastych wymieniono dąb szypułkowy, brzozę brodawkowatą, lipę drobnolistną i jesion wyniosły."
+          "explanation": "Do drzew liściastych należą dąb szypułkowy, brzoza brodawkowata, lipa drobnolistna i jesion wyniosły."
         },
         {
           "id": "R04_LIS_02",
           "section": "Drzewa liściaste i znaczenie roślin",
           "type": "single_choice",
-          "prompt": "Które z wymienionych drzew jest drzewem liściastym i okrytonasiennym?",
+          "prompt": "Które drzewo jest liściaste i okrytonasienne?",
           "options": [
             "dąb szypułkowy",
             "jodła pospolita",
@@ -4964,7 +4964,7 @@
           "id": "R04_HARD_03",
           "section": "Super trudne",
           "type": "single_choice",
-          "prompt": "Jak opisano dolną część kory sosny zwyczajnej?",
+          "prompt": "Jaki kolor ma dolna część kory sosny zwyczajnej?",
           "options": [
             "brunatnoszara",
             "czerwonawożółta",
@@ -4974,7 +4974,7 @@
             "fioletowa"
           ],
           "answer": 0,
-          "explanation": "W tekście o sośnie wskazano, że dolna część kory jest brunatnoszara."
+          "explanation": "Dolna część kory sosny zwyczajnej jest brunatnoszara."
         },
         {
           "id": "R04_HARD_04",
