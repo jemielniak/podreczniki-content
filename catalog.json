@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "levels": [
     {
       "id": "sp5",
@@ -402,6 +402,36 @@
       "bundleHash": "b8654dc1ca8888eebe0776f846fd7b6ef7b03f4aa8bf71996fc076f127383f22",
       "entitlementId": "companion_historia_7_gwo",
       "offeringId": "companion_historia_7_gwo",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "biologia-puls-zycia-klasa-7",
+      "levelId": "sp7",
+      "subjectId": "biologia",
+      "title": "Biologia Puls życia 7",
+      "publisher": "Nowa Era",
+      "cover": "img/biologia-puls-zycia-klasa-7/cover.png",
+      "chapterCount": 10,
+      "bundleUrl": "bundles/biologia-puls-zycia-klasa-7.json",
+      "bundleVersion": 1,
+      "bundleHash": "4d1cd91e4f7d45e162636b13fc9cc42608340119a4f8faf9b128c5563c595510",
+      "entitlementId": "companion_biologia_puls_zycia_klasa_7",
+      "offeringId": "companion_biologia_puls_zycia_klasa_7",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "planeta-nowa-7",
+      "levelId": "sp7",
+      "subjectId": "geografia",
+      "title": "Planeta Nowa 7",
+      "publisher": "Nowa Era",
+      "cover": "img/planeta-nowa-7/cover.png",
+      "chapterCount": 5,
+      "bundleUrl": "bundles/planeta-nowa-7.json",
+      "bundleVersion": 1,
+      "bundleHash": "9831c99e7b4db9045e83fa601ef5a55b8ee8c4a38298cc65e33c4caa4265803e",
+      "entitlementId": "companion_planeta_nowa_7",
+      "offeringId": "companion_planeta_nowa_7",
       "freeFirstChapter": true
     }
   ]
