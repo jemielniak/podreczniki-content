@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "levels": [
     {
       "id": "sp5",
@@ -432,6 +432,21 @@
       "bundleHash": "9831c99e7b4db9045e83fa601ef5a55b8ee8c4a38298cc65e33c4caa4265803e",
       "entitlementId": "companion_planeta_nowa_7",
       "offeringId": "companion_planeta_nowa_7",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "biologia-puls-zycia-klasa-8",
+      "levelId": "sp8",
+      "subjectId": "biologia",
+      "title": "Biologia Puls życia 8",
+      "publisher": "Nowa Era",
+      "cover": "img/biologia-puls-zycia-klasa-8/cover.png",
+      "chapterCount": 4,
+      "bundleUrl": "bundles/biologia-puls-zycia-klasa-8.json",
+      "bundleVersion": 1,
+      "bundleHash": "a84597aeab250c584034fc6e6b60b93e1fd0c9ec98b461136cff1af048a056a4",
+      "entitlementId": "companion_biologia_puls_zycia_klasa_8",
+      "offeringId": "companion_biologia_puls_zycia_klasa_8",
       "freeFirstChapter": true
     }
   ]
