@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "levels": [
     {
       "id": "sp5",
@@ -552,6 +552,36 @@
       "bundleHash": "7f7dbcc8ca305cfc65aa8a5e2b27cea22bbe3c53aaf9244caa4e57958b3cc5bd",
       "entitlementId": "companion_historia_8_wczoraj_i_dzis",
       "offeringId": "companion_historia_8_wczoraj_i_dzis",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "to-nasz-swiat-geografia-7",
+      "levelId": "sp7",
+      "subjectId": "geografia",
+      "title": "To nasz świat. Geografia 7",
+      "publisher": "GWO",
+      "cover": "img/to-nasz-swiat-geografia-7/cover.png",
+      "chapterCount": 8,
+      "bundleUrl": "bundles/to-nasz-swiat-geografia-7.json",
+      "bundleVersion": 1,
+      "bundleHash": "935b140bb8045e34d08f01e32244fca99e8c8eaa842cb4aa5b427e127649af27",
+      "entitlementId": "companion_to_nasz_swiat_geografia_7",
+      "offeringId": "companion_to_nasz_swiat_geografia_7",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "geografia-bez-tajemnic-8",
+      "levelId": "sp8",
+      "subjectId": "geografia",
+      "title": "Geografia bez tajemnic. Klasa 8",
+      "publisher": "WSiP",
+      "cover": "img/geografia-bez-tajemnic-8/cover.png",
+      "chapterCount": 7,
+      "bundleUrl": "bundles/geografia-bez-tajemnic-8.json",
+      "bundleVersion": 1,
+      "bundleHash": "02052642ad5dd467369c4084a3a2c59e548cde264ea883913fed4f8f77def55a",
+      "entitlementId": "companion_geografia_bez_tajemnic_8",
+      "offeringId": "companion_geografia_bez_tajemnic_8",
       "freeFirstChapter": true
     }
   ]
