@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "levels": [
     {
       "id": "sp5",
@@ -582,6 +582,21 @@
       "bundleHash": "02052642ad5dd467369c4084a3a2c59e548cde264ea883913fed4f8f77def55a",
       "entitlementId": "companion_geografia_bez_tajemnic_8",
       "offeringId": "companion_geografia_bez_tajemnic_8",
+      "freeFirstChapter": true
+    },
+    {
+      "id": "historia-8-wsip",
+      "levelId": "sp8",
+      "subjectId": "historia",
+      "title": "Historia 8 WSiP",
+      "publisher": "",
+      "cover": "img/historia-8-wsip/cover.png",
+      "chapterCount": 6,
+      "bundleUrl": "bundles/historia-8-wsip.json",
+      "bundleVersion": 1,
+      "bundleHash": "c73880c17717e3d75f299112636acb1859098829f186a6130d1349feeaa685bd",
+      "entitlementId": "companion_historia_8_wsip",
+      "offeringId": "companion_historia_8_wsip",
       "freeFirstChapter": true
     }
   ]
