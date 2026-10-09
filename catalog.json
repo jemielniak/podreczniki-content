@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "levels": [
     {
       "id": "sp5",
@@ -598,6 +598,36 @@
       "entitlementId": "companion_historia_8_wsip",
       "offeringId": "companion_historia_8_wsip",
       "freeFirstChapter": true
+    },
+    {
+      "id": "repetytorium-historia-4-6-greg",
+      "levelId": "sp8",
+      "subjectId": "repetytorium",
+      "title": "Historia 4-6 Nowe Repetytorium na 100%",
+      "publisher": "GREG",
+      "cover": "img/repetytorium-historia-4-6-greg/cover.png",
+      "chapterCount": 5,
+      "bundleUrl": "bundles/repetytorium-historia-4-6-greg.json",
+      "bundleVersion": 1,
+      "bundleHash": "310e89e0becf333e27a5fefc393c671c2a729836b6631ceb0e0d8369bc638d0d",
+      "entitlementId": "companion_repetytorium_historia_4_6_greg",
+      "offeringId": "companion_repetytorium_historia_4_6_greg",
+      "freeFirstChapter": false
+    },
+    {
+      "id": "repetytorium-historia-7-8-greg",
+      "levelId": "sp8",
+      "subjectId": "repetytorium",
+      "title": "Historia 7-8 Nowe Repetytorium na 100%",
+      "publisher": "GREG",
+      "cover": "img/repetytorium-historia-7-8-greg/cover.png",
+      "chapterCount": 6,
+      "bundleUrl": "bundles/repetytorium-historia-7-8-greg.json",
+      "bundleVersion": 1,
+      "bundleHash": "290fd3c38e66d3b1eb6821a128edb036c97e9fb7963e43e3c668400f38805916",
+      "entitlementId": "companion_repetytorium_historia_7_8_greg",
+      "offeringId": "companion_repetytorium_historia_7_8_greg",
+      "freeFirstChapter": false
     }
   ]
 }
