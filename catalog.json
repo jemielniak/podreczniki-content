@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "levels": [
     {
       "id": "sp5",
@@ -627,6 +627,36 @@
       "bundleHash": "290fd3c38e66d3b1eb6821a128edb036c97e9fb7963e43e3c668400f38805916",
       "entitlementId": "companion_repetytorium_historia_7_8_greg",
       "offeringId": "companion_repetytorium_historia_7_8_greg",
+      "freeFirstChapter": false
+    },
+    {
+      "id": "repetytorium-biologia-greg",
+      "levelId": "sp8",
+      "subjectId": "repetytorium",
+      "title": "Biologia Nowe Repetytorium na 100%",
+      "publisher": "GREG",
+      "cover": "img/repetytorium-biologia-greg/cover.png",
+      "chapterCount": 7,
+      "bundleUrl": "bundles/repetytorium-biologia-greg.json",
+      "bundleVersion": 1,
+      "bundleHash": "62885a59fd9c33f9491452c6ea8855091c0368d519c5494a6d01ea1edc90ce1f",
+      "entitlementId": "companion_repetytorium_biologia_greg",
+      "offeringId": "companion_repetytorium_biologia_greg",
+      "freeFirstChapter": false
+    },
+    {
+      "id": "repetytorium-geografia-greg",
+      "levelId": "sp8",
+      "subjectId": "repetytorium",
+      "title": "Geografia Nowe Repetytorium na 100%",
+      "publisher": "GREG",
+      "cover": "img/repetytorium-geografia-greg/cover.png",
+      "chapterCount": 7,
+      "bundleUrl": "bundles/repetytorium-geografia-greg.json",
+      "bundleVersion": 1,
+      "bundleHash": "c6449ba2da695a5d5965ec8d092999dd94dc6cf782f04812724f50aae7071ee4",
+      "entitlementId": "companion_repetytorium_geografia_greg",
+      "offeringId": "companion_repetytorium_geografia_greg",
       "freeFirstChapter": false
     }
   ]
